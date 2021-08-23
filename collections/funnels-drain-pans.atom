@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/funnels-drain-pans.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T05:28:50-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812431339564</id>
+    <published>2019-05-11T05:28:50-04:00</published>
+    <updated>2019-05-11T05:28:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-3005-ye"/>
+    <title>Enpac 3005-YE  - Poly-Pail Funnel</title>
+    <s:type>Funnels</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/funnels-enpac-3005-ye-poly-pail-funnel-12747018797100.jpg?v=1579148840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Funnels<br>
+        <strong>Price: </strong>
+            110.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Mounts to 3.5-, 5-, and 6-gallon tight-head pails</li><li class="extra-info">Also fits open-top pails with 12 Inch diameter</li><li class="extra-info">Product Number: 3005-YE Diameter Exterior: Top: 9.25 Inch / 23 cm, Bottom: 11 Inch / 28 cm Diameter Interior: 8.5 Inch / 22 cm, 2.75 Inch / 7 cm Height Exterior: SW Ht: 2.75 Inch / 7 cm Height Interior: SW Ht: 2.375 Inch / 6 cm Weight: 2 lbs</li><li class="extra-info">/ 1 kg Regulations: EPA, SPCC and NPDES</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Funnels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM FUN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812431339564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">110.26</s:price>
+      <s:sku>FM FUN 3005-YE</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812431175724</id>
+    <published>2019-05-11T05:28:47-04:00</published>
+    <updated>2019-05-11T05:28:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-3051-ye"/>
+    <title>Enpac 3051-YE  - Poly-Pail Funnel Cover</title>
+    <s:type>Funnels</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/funnels-enpac-3051-ye-poly-pail-funnel-cover-12747018698796.jpg?v=1579148994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Funnels<br>
+        <strong>Price: </strong>
+            110.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">For use with Product No</li><li class="extra-info">3005-YE Product Number: 3051-YE Diameter Exterior: 9.38 Inch / 24 cm Diameter Interior: 8 Inch / 20.33 cm Height Exterior: 2.38 Inch / 6 cm Height Interior: 1.25 Inch / 3.18 cm Weight: 2 lbs</li><li class="extra-info">/ .91 kg</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Funnels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM FUN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812431175724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">110.26</s:price>
+      <s:sku>FM FUN 3051-YE</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

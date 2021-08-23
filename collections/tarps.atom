@@ -1,0 +1,1045 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/tarps.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T05:38:06-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448411692</id>
+    <published>2019-05-11T05:38:06-04:00</published>
+    <updated>2019-05-11T05:38:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-0608-blue-10x10"/>
+    <title>Tuff Grade TARP-0608-BLUE-10X10  - Blue Tarp 6&apos;X8&apos; 10X10 Mesh</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-0608-blue-10x10-blue-tarp-6-x8-10x10-mesh-12747067228204.jpg?v=1575063483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            4.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 6′ X 8′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448411692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.59</s:price>
+      <s:sku>OE TRP TARP-0608-BLUE-10X10</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448378924</id>
+    <published>2019-05-11T05:38:04-04:00</published>
+    <updated>2019-05-11T05:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-0810-clear"/>
+    <title>Tuff Grade TARP-0810-CLEAR  - Clear / White Tarp 8&apos; X 10&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-0810-clear-clear-white-tarp-8-x-10-12747067097132.jpg?v=1575063441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            5.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 8′ X 10′ Colour White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448378924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.18</s:price>
+      <s:sku>OE TRP TARP-0810-CLEAR</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448346156</id>
+    <published>2019-05-11T05:38:04-04:00</published>
+    <updated>2019-05-11T05:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1012-blue-10x10"/>
+    <title>Tuff Grade TARP-1012-BLUE-10X10  - Blue Tarp 10X12&apos; 10X10 Mesh</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1012-blue-10x10-blue-tarp-10x12-10x10-mesh-13395053379628.jpg?v=1627046236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            11.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 10′ X 12′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448346156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.42</s:price>
+      <s:sku>OE TRP TARP-1012-BLUE-10X10</s:sku>
+      <s:grams>1446</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448313388</id>
+    <published>2019-05-11T05:38:04-04:00</published>
+    <updated>2019-05-11T05:38:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1012-clear"/>
+    <title>Tuff Grade TARP-1012-CLEAR  - Clear / White Tarp 10&apos; X 12&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1012-clear-clear-white-tarp-10-x-12-12747066867756.jpg?v=1575063319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            7.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 10′ X 12′ Colour White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448313388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.77</s:price>
+      <s:sku>OE TRP TARP-1012-CLEAR</s:sku>
+      <s:grams>952</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448280620</id>
+    <published>2019-05-11T05:38:03-04:00</published>
+    <updated>2019-05-11T05:38:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-0810-blue-10x10"/>
+    <title>Tuff Grade TARP-0810-BLUE-10X10  - Blue Tarp 8&apos;X10&apos; 10X10 Mesh</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-0810-blue-10x10-blue-tarp-8-x10-10x10-mesh-12747067162668.jpg?v=1575063421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            7.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 8′ X 10′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448280620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.59</s:price>
+      <s:sku>OE TRP TARP-0810-BLUE-10X10</s:sku>
+      <s:grams>966</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448247852</id>
+    <published>2019-05-11T05:38:00-04:00</published>
+    <updated>2019-05-11T05:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1015-blue-10x10"/>
+    <title>Tuff Grade TARP-1015-BLUE-10X10  - Blue Tarp 10X15&apos; 10X10 Mesh</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1015-blue-10x10-blue-tarp-10x15-10x10-mesh-13395050397740.jpg?v=1629195579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            14.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 10′ X 15′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448247852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.27</s:price>
+      <s:sku>OE TRP TARP-1015-BLUE-10X10</s:sku>
+      <s:grams>1805</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448215084</id>
+    <published>2019-05-11T05:38:00-04:00</published>
+    <updated>2019-05-11T05:38:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1015-blue"/>
+    <title>Tuff Grade TARP-1015-BLUE  - Blue Tarp 10&apos; X 15&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1015-blue-blue-tarp-10-x-15-12747066834988.jpg?v=1575063304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 10′ X 15′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448215084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku>OE TRP TARP-1015-BLUE</s:sku>
+      <s:grams>1179</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448182316</id>
+    <published>2019-05-11T05:37:57-04:00</published>
+    <updated>2019-05-11T05:37:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1520-clear"/>
+    <title>Tuff Grade TARP-1520-CLEAR  - Clear / White Tarp 15&apos; X 20&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1520-clear-clear-white-tarp-15-x-20-13395044958252.jpg?v=1629195570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            19.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 15′ X 20′ Colour White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448182316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.40</s:price>
+      <s:sku>OE TRP TARP-1520-CLEAR</s:sku>
+      <s:grams>2186</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448149548</id>
+    <published>2019-05-11T05:37:57-04:00</published>
+    <updated>2019-05-11T05:37:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1520-blue"/>
+    <title>Tuff Grade TARP-1520-BLUE  - Blue Tarp 15&apos; X 20&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1520-blue-blue-tarp-15-x-20-12747066736684.jpg?v=1575063183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            18.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 15′ X 20′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448149548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.05</s:price>
+      <s:sku>OE TRP TARP-1520-BLUE</s:sku>
+      <s:grams>2186</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448116780</id>
+    <published>2019-05-11T05:37:57-04:00</published>
+    <updated>2019-05-11T05:37:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1520-blue-10x10"/>
+    <title>Tuff Grade TARP-1520-BLUE-10X10  - Blue Tarp 15X20&apos; 10X10 Mesh</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1520-blue-10x10-blue-tarp-15x20-10x10-mesh-12747066703916.jpg?v=1575063121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            26.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 15′ X 20′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448116780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.26</s:price>
+      <s:sku>OE TRP TARP-1520-BLUE-10X10</s:sku>
+      <s:grams>3211</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448084012</id>
+    <published>2019-05-11T05:37:53-04:00</published>
+    <updated>2019-05-11T05:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-2030-blue"/>
+    <title>Tuff Grade TARP-2030-BLUE  - Blue Tarp 20&apos; X 30&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-2030-blue-blue-tarp-20-x-30-12747066409004.jpg?v=1575062959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            36.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 20′ X 30′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448084012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.07</s:price>
+      <s:sku>OE TRP TARP-2030-BLUE</s:sku>
+      <s:grams>4490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448051244</id>
+    <published>2019-05-11T05:37:53-04:00</published>
+    <updated>2019-05-11T05:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1824-blue-10x10"/>
+    <title>Tuff Grade TARP-1824-BLUE-10X10  - Blue Tarp 18X24&apos; 10X10 Mesh</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1824-blue-10x10-blue-tarp-18x24-10x10-mesh-12747066540076.jpg?v=1575063002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            39.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 18′ X 24′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448051244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.41</s:price>
+      <s:sku>OE TRP TARP-1824-BLUE-10X10</s:sku>
+      <s:grams>4699</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812448018476</id>
+    <published>2019-05-11T05:37:53-04:00</published>
+    <updated>2019-05-11T05:37:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1824-clear"/>
+    <title>Tuff Grade TARP-1824-CLEAR  - Clear / White Tarp 18&apos; X 24&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1824-clear-clear-white-tarp-18-x-24-12747066474540.jpg?v=1575062943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            24.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 18′ X 24′ Colour White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812448018476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.57</s:price>
+      <s:sku>OE TRP TARP-1824-CLEAR</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447952940</id>
+    <published>2019-05-11T05:37:49-04:00</published>
+    <updated>2019-05-11T05:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-3040-blue"/>
+    <title>Tuff Grade TARP-3040-BLUE  - Blue Tarp 30&apos; X 40&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-3040-blue-blue-tarp-30-x-40-12747066277932.jpg?v=1574979032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            69.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 30′ X 40′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447952940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.41</s:price>
+      <s:sku>OE TRP TARP-3040-BLUE</s:sku>
+      <s:grams>9180</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447920172</id>
+    <published>2019-05-11T05:37:49-04:00</published>
+    <updated>2019-05-11T05:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-2030-blue-10x10"/>
+    <title>Tuff Grade TARP-2030-BLUE-10X10  - Blue Tarp 20X30&apos; 10X10 Mesh</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-2030-blue-10x10-blue-tarp-20x30-10x10-mesh-12747066441772.jpg?v=1575062882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            52.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 20′ X 30′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447920172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.56</s:price>
+      <s:sku>OE TRP TARP-2030-BLUE-10X10</s:sku>
+      <s:grams>6654</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447887404</id>
+    <published>2019-05-11T05:37:49-04:00</published>
+    <updated>2019-05-11T05:37:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-4050-blue"/>
+    <title>Tuff Grade TARP-4050-BLUE  - Blue Tarp 40&apos; X 50&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-4050-blue-blue-tarp-40-x-50-12747066310700.jpg?v=1574979015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            115.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 40′ X 50′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447887404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">115.69</s:price>
+      <s:sku>OE TRP TARP-4050-BLUE</s:sku>
+      <s:grams>15467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124796694572</id>
+    <published>2018-08-04T21:13:28-04:00</published>
+    <updated>2018-08-04T21:13:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1824-blue"/>
+    <title>Tuff Grade TARP-1824-BLUE  - Blue Tarp 18&apos; X 24&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1824-blue-blue-tarp-18-x-24-12747066507308.jpg?v=1575063078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            24.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 18′ X 24′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124796694572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.98</s:price>
+      <s:sku>OE TRP TARP-1824-BLUE</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124766515244</id>
+    <published>2018-08-04T21:01:05-04:00</published>
+    <updated>2018-08-04T21:01:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-0608-blue"/>
+    <title>Tuff Grade TARP-0608-BLUE  - Blue Tarp 6&apos; X 8&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-0608-blue-blue-tarp-6-x-8-12747067195436.jpg?v=1575063558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            2.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 6′ X 8′ Colour Blue Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124766515244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.83</s:price>
+      <s:sku>OE TRP TARP-0608-BLUE</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124687118380</id>
+    <published>2018-08-04T20:29:10-04:00</published>
+    <updated>2018-08-04T20:29:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-2030-clear"/>
+    <title>Tuff Grade TARP-2030-CLEAR  - Clear / White Tarp 20&apos; X 30&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-2030-clear-clear-white-tarp-20-x-30-12747066343468.jpg?v=1575062826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            38.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 20′ X 30′ Colour White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124687118380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.79</s:price>
+      <s:sku>OE TRP TARP-2030-CLEAR</s:sku>
+      <s:grams>4490</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124687085612</id>
+    <published>2018-08-04T20:29:09-04:00</published>
+    <updated>2018-08-04T20:29:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tarp-1015-clear"/>
+    <title>Tuff Grade TARP-1015-CLEAR  - Clear / White Tarp 10&apos; X 15&apos;</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-tuff-grade-tarp-1015-clear-clear-white-tarp-10-x-15-13395048693804.jpg?v=1629194491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            9.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dimensions 10′ X 15′ Colour White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE TRP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124687085612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.69</s:price>
+      <s:sku>OE TRP TARP-1015-CLEAR</s:sku>
+      <s:grams>1179</s:grams>
+    </s:variant>
+  </entry>
+</feed>

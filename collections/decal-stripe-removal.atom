@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/decal-stripe-removal.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:04:58-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982996012</id>
+    <published>2019-10-16T00:04:58-04:00</published>
+    <updated>2019-10-16T00:04:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-10103na"/>
+    <title>3M 10103NA  - 10103 Safest Stripper 1Gal. 10103Na 7000126143</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-10103na-10103-safest-stripper-1gal-10103na-7000126143-13120443121708.jpg?v=1580192375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">10103 3M Safest Stripper 1Gal.</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP DEC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982996012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.98</s:price>
+      <s:sku>SP DEC 10103NA</s:sku>
+      <s:grams>4250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812342800428</id>
+    <published>2019-05-11T03:50:25-04:00</published>
+    <updated>2019-05-11T03:50:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-92255"/>
+    <title>Dynabrade 92255  - 4 Inch Diameterx 1-1/4 Wide Red-Tred Eraser Wheel</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheels-dynabrade-92255-4-inch-diameterx-1-1-4-wide-red-tred-eraser-wheel-12782531280940.png?v=1579074352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Wheels<br>
+        <strong>Price: </strong>
+            52.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">x 1-1/4 Inch (32 mm) Wide RED-TRED Eraser Wheel</li><li class="extra-info"> Wheel Only, Use on DynaZip For Decal Removal</li><li class="extra-info"> Eraser Wheel has serrations for improved cooling effect air flow.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP DEC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812342800428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.61</s:price>
+      <s:sku>SP DEC 92255</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812342702124</id>
+    <published>2019-05-11T03:50:21-04:00</published>
+    <updated>2019-05-11T03:50:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-92257"/>
+    <title>Dynabrade 92257  - 4 Inch Diameterx 1-1/4 Wide Red-Tred Eraser Wheel</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheels-dynabrade-92257-4-inch-diameterx-1-1-4-wide-red-tred-eraser-wheel-12746806493228.jpg?v=1579074716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Wheels<br>
+        <strong>Price: </strong>
+            92.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">x 1-1/4 Inch (32 mm) Wide RED-TRED Eraser Wheel</li><li class="extra-info"> Includes Hub, Use on DynaZip For Decal Removal</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP DEC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812342702124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">92.64</s:price>
+      <s:sku>SP DEC 92257</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145143689260</id>
+    <published>2018-08-13T23:11:33-04:00</published>
+    <updated>2018-08-13T23:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sb07501"/>
+    <title>3M Scotch-Brite SB07501  - Scotch-Brite Molding Adhesive &amp; Stripe Removal Disc 07501 4 in x 3/8 in 7000028458</title>
+    <s:type>Decal Removal</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/decal-removal-3m-scotch-brite-sb07501-scotch-brite-molding-adhesive-stripe-removal-disc-07501-4-in-x-3-8-in-7000028458-12747075354668.jpg?v=1580028309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Decal Removal<br>
+        <strong>Price: </strong>
+            23.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch-Brite Molding Adhesive and Stripe Removal Disc, 07501, 4 in x 3/8 in, 5 per case</h4> <li class="extra-info">The Scotch-Brite™ Moulding Adhesive and Stripe Removal Disc is a solid, moulded rubber wheel that effectively removes unwanted details and graphics - such as vinyl stripes, numbers, and letters - from a variety of surfaces without the need to do heat prep or use chemical solutions.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xl8_958txov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Brite</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Decal Removal</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Made with a strong and durable polymer that can withstand repeated friction for effective removal of unwanted decals, pin striping, graphics, tapes, films</li><li class="extra-info"> May be used on non-heat sensitive substrates such as many types of gel coats, acrylic and urethane paints</li><li class="extra-info"> Attaches to portable hand tools or slow speed grinders (MOS &lt;4000 RPM)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Scotch-Brite</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP DEC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145143689260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.92</s:price>
+      <s:sku>SP DEC SB07501</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124440834092</id>
+    <published>2018-08-04T18:53:56-04:00</published>
+    <updated>2018-08-04T18:53:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sb07499"/>
+    <title>3M SB07499  - Decal &amp; Stripe Off Wheel 4 x 5/8 07499 7000028550</title>
+    <s:type>Wheels</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheels-3m-sb07499-decal-stripe-off-wheel-4-x-5-8-07499-7000028550-31553118470293.jpg?v=1628363065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wheels<br>
+        <strong>Price: </strong>
+            34.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Stripe Off Wheel, 07499, beige, 4 in (10.2 cm) x 5/8 in (1.6 cm)</h4> <li class="extra-info">The Scotch-Brite™ Stripe Off Wheel enables high-speed removal of vinyl decals, tape, graphics, and double-sided moulding striping and trim</li><li class="extra-info">Operating at a max RPM of 4,000, this wheel runs faster than other Scotch-Brite™ Removal Discs and applies pressure for you so you don't have to do any hand-scraping.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lz9xlYtvmYt1Mv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Beige</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">15.74 mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Helps remove unwanted decals and stripes without damaging the substrate</li><li class="extra-info"> Also works well for removal of vinyl, tape, and graphics</li><li class="extra-info"> 4 inch (10.16 cm)diameter and 5/8 inch (1.59 cm) thickness make this wheel great for small, hard-to-remove detailing</li><li class="extra-info"> Wheel has a max 4,000 RPM</li><li class="extra-info"> Wheel is durable and has a long service life</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Beige</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP DEC</s:tag>
+    <s:tag>Thickness_15.74 mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124440834092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.01</s:price>
+      <s:sku>SP DEC 07499 4X5/8</s:sku>
+      <s:grams>192</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122295021612</id>
+    <published>2018-08-03T19:17:10-04:00</published>
+    <updated>2018-08-03T19:17:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8978"/>
+    <title>3M 8978  - Side Molding &amp; Emblem Removal Tool 0 7000120438</title>
+    <s:type>Decal Removal</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/decal-removal-3m-8978-side-molding-emblem-removal-tool-0-7000120438-31598772846741.jpg?v=1628230070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Decal Removal<br>
+        <strong>Price: </strong>
+            28.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Side Molding and Emblem Removal Tool, 08978</h4> <li class="extra-info">3M™ Side Molding and Emblem Removal Tool, 08978, is designed to be used with an air chisel to remove bonded moldings but can be used by hand to remove emblems and scripts.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Bonding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Decal Removal</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP DEC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122295021612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.11</s:price>
+      <s:sku>SP DEC 8978</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+</feed>

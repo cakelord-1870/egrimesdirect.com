@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/air-conditioning-cooling-humidity-control.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:48:36-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812174864428</id>
+    <published>2019-05-11T01:48:36-04:00</published>
+    <updated>2019-05-11T01:48:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kw-116"/>
+    <title>King Canada KW-116  - Filter Replacement Inner Kac-410</title>
+    <s:type>Replacement Filters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-filters-accessories-king-canada-kw-116-filter-replacement-inner-kac-410-12746652024876.jpg?v=1579636381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Replacement Filters &amp; Accessories<br>
+        <strong>Price: </strong>
+            59.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement inner filter for KAC-410</h4> <li class="extra-info">Disposable 2 pockets inner filter 1 Micron Fits model KAC-410</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Filters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ACH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812174864428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.87</s:price>
+      <s:sku>AC ACH KW-116</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812174798892</id>
+    <published>2019-05-11T01:48:36-04:00</published>
+    <updated>2019-05-11T01:48:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kw-141"/>
+    <title>King Canada KW-141  - Filter Replacement Outer Kac-1050</title>
+    <s:type>Replacement Filters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-filters-accessories-king-canada-kw-141-filter-replacement-outer-kac-1050-12746651926572.jpg?v=1579636651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Replacement Filters &amp; Accessories<br>
+        <strong>Price: </strong>
+            59.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement outer filter for KAC-1050</h4> <li class="extra-info">Disposable outer filter 5 Micron Fits model KAC-1050</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Filters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ACH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812174798892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.87</s:price>
+      <s:sku>AC ACH KW-141</s:sku>
+      <s:grams>42184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812174733356</id>
+    <published>2019-05-11T01:48:36-04:00</published>
+    <updated>2019-05-11T01:48:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kw-115"/>
+    <title>King Canada KW-115  - Filter Replacement Outer Kac-410</title>
+    <s:type>Replacement Filters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-filters-accessories-king-canada-kw-115-filter-replacement-outer-kac-410-13391078686764.png?v=1575007343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Replacement Filters &amp; Accessories<br>
+        <strong>Price: </strong>
+            41.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Disposable electrostatic outer filter 5 Micron Fits model KAC-410</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Filters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ACH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812174733356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.34</s:price>
+      <s:sku>AC ACH KW-115</s:sku>
+      <s:grams>10432</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812174503980</id>
+    <published>2019-05-11T01:48:32-04:00</published>
+    <updated>2019-05-11T01:48:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kw-142"/>
+    <title>King Canada KW-142  - Filter Replacement Inner Kac-1050</title>
+    <s:type>Replacement Filters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-filters-accessories-king-canada-kw-142-filter-replacement-inner-kac-1050-12746651861036.jpg?v=1579636737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Replacement Filters &amp; Accessories<br>
+        <strong>Price: </strong>
+            82.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement inner filter for KAC-1050</h4> <li class="extra-info">Disposable pocket inner filter 1 Micron Fits model KAC-1050</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Filters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ACH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812174503980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.67</s:price>
+      <s:sku>AC ACH KW-142</s:sku>
+      <s:grams>42184</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812167262252</id>
+    <published>2019-05-11T01:45:34-04:00</published>
+    <updated>2019-05-11T01:45:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kac-410"/>
+    <title>King Canada KAC-410  - Air Cleaner 3 Speed Remote 410Cfm</title>
+    <s:type>Air Cleaners &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/air-cleaners-accessories-king-canada-kac-410-air-cleaner-3-speed-remote-410cfm-12746644521004.jpg?v=1579590606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Air Cleaners &amp; Accessories<br>
+        <strong>Price: </strong>
+            315.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Portable air cleaner with remote control (3 speed)</h4> <li class="extra-info">Quietly improves the air quality of your workshop at 3 speed requirements 2 stage filtration, one disposable electrostatic 5 Micron outer filter and 1 Micron inner filter Designed to either be set on a workbench or hung from the ceiling, hanging from chains Timer setting automatically shuts the air cleaner off after 1, 2 or 4 hours Comes with remote control, four air cleaner hooks, ceiling hooks and chains for ceiling mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Air Cleaners &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV ACH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812167262252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">315.01</s:price>
+      <s:sku>HV ACH KAC-410</s:sku>
+      <s:grams>15442</s:grams>
+    </s:variant>
+  </entry>
+</feed>

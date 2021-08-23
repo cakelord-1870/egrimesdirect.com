@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/adhesion-promoters.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:26:02-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255058133036</id>
+    <published>2019-12-04T10:26:02-05:00</published>
+    <updated>2019-12-04T10:26:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ec-1945-qt"/>
+    <title>3M EC-1945-QT  - 3M Scotch-Weld Structural Adhesive Primer EC-1945 B/A Quart Kit EC-1945-QT 7000021286</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ec-1945-qt-3m-scotch-weld-structural-adhesive-primer-ec-1945-b-a-quart-kit-ec-1945-qt-7000021286-13120552140844.jpg?v=1580294492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            314.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Weld(TM) Structural Adhesive Primer EC-1945 B/A Quart Kit</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lzGGl8m9lxmelv7bi17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ADH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255058133036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">314.86</s:price>
+      <s:sku>AD ADH EC-1945-QT</s:sku>
+      <s:grams>2494</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254906843180</id>
+    <published>2019-10-15T21:48:27-04:00</published>
+    <updated>2019-10-15T21:48:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-06396-2-5cc"/>
+    <title>3M 06396-2.5CC  - Automotive Adhesion Promoter- Sponge Applicator Packet 7100009578</title>
+    <s:type>Adhesion Promoters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesion-promoters-3m-06396-2-5cc-automotive-adhesion-promoter-sponge-applicator-packet-7100009578-13120286851116.jpg?v=1580186578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesion Promoters<br>
+        <strong>Price: </strong>
+            42.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Automotive Adhesion Promoter, 06396, sponge applicator packet, 2.5 cc, 25 per box</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=tttttvV5A9vZm0vaOZ7_oyHEmXWG5EW9iXvamyAeWtttttt--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesion Promoters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ADH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254906843180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.88</s:price>
+      <s:sku>AD ADH 06396-2.5CC</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253741613100</id>
+    <published>2019-10-15T12:48:17-04:00</published>
+    <updated>2019-10-15T12:48:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ap111-5gal"/>
+    <title>3M AP111-5GAL  - Adhesion Promoter 111 5 Gallon 7000049700</title>
+    <s:type>Adhesion Promoters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesion-promoters-3m-ap111-5gal-adhesion-promoter-111-5-gallon-7000049700-13119586435116.jpg?v=1580269140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesion Promoters<br>
+        <strong>Price: </strong>
+            682.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesion Promoter, 111, 5 gallon</h4> <li class="extra-info">3M™ Adhesion Promoter 111 is a fast-acting, isopropyl alcohol based solution designed to promote better and faster adhesion of 3M™ VHB™ Tapes</li><li class="extra-info">This product works particularly well for adhering 3M™ VHB™ Tapes to high surface energy substrates like galvanized steel, bare metals, and painted surfaces.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNe4Y_GP8tS5v7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesion Promoters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">5 Gallon, 18.9 L</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Adhesion Promoter 111 is an isopropyl alcohol based solution used to promote better and faster adhesion of 3M™ VHB™ Tapes to various surfaces including bare metals, galvanized steel, and painted surfaces</li><li class="extra-info">Since surfaces and paint formulations vary con</li><h2>Product Information</h2><li class="extra-info">Increases bond strength on surfaces that are traditionally difficult to adhere, such as paint and metal</li><li class="extra-info"> Isopropyl alcohol based solvent system dries very quickly while producing a non-offensive odour</li><li class="extra-info"> Increased build rate at both normal and cooler temperatures</li><li class="extra-info"> Acts as a bonding primer in certain applications to clean and promote adhesion in a single step, saving time and effort</li><h2>Suggested Application</h2><li class="extra-info">Helps promote faster adhesion of 3M™ VHB™ Tapes to various surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ADH</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Volume_5 Gallon18.9 L</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253741613100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">682.16</s:price>
+      <s:sku>AD ADH AP111-5GAL</s:sku>
+      <s:grams>17236</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124522590252</id>
+    <published>2018-08-04T19:19:44-04:00</published>
+    <updated>2018-08-04T19:19:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ap111-1gal"/>
+    <title>3M AP111-1GAL  - Adhesion Promoter 111 Clear 1 Gallon 7000001324</title>
+    <s:type>Adhesion Promoters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesion-promoters-3m-ap111-1gal-adhesion-promoter-111-clear-1-gallon-7000001324-31524247568533.jpg?v=1627274408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesion Promoters<br>
+        <strong>Price: </strong>
+            140.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesion Promoter, 111, clear, 1 gallon</h4> <li class="extra-info">3M™ Adhesion Promoter 111 is a fast-acting, isopropyl alcohol based solution designed to promote better and faster adhesion of 3M™ VHB™ Tapes</li><li class="extra-info">This product works particularly well for adhering 3M™ VHB™ Tapes to high surface energy substrates like galvanized steel, bare metals, and painted surfaces.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0u14Y_GP8tS5vViI17zHvu07Y9ztSSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesion Promoters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">1 Gallon, 3.8 L</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Adhesion Promoter 111 is an isopropyl alcohol based solution used to promote better and faster adhesion of 3M™ VHB™ Tapes to various surfaces including bare metals, galvanized steel, and painted surfaces</li><li class="extra-info">Since surfaces and paint formulations vary con</li><h2>Product Information</h2><li class="extra-info">Increases bond strength on surfaces that are traditionally difficult to adhere, such as paint and metal</li><li class="extra-info"> Isopropyl alcohol based solvent system dries very quickly while producing a non-offensive odour</li><li class="extra-info"> Increased build rate at both normal and cooler temperatures</li><li class="extra-info"> Acts as a bonding primer in certain applications to clean and promote adhesion in a single step, saving time and effort</li><h2>Suggested Application</h2><li class="extra-info">Helps promote faster adhesion of 3M™ VHB™ Tapes to various surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ADH</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Volume_1 Gallon3.8 L</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124522590252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">140.13</s:price>
+      <s:sku>AD ADH AP111-1GAL</s:sku>
+      <s:grams>3347</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124475961388</id>
+    <published>2018-08-04T19:03:44-04:00</published>
+    <updated>2018-08-04T19:03:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ap111-250ml"/>
+    <title>3M AP111-250ML  - Adhesion Promoter 111 Clear 250 ml Bottle 7000001323</title>
+    <s:type>Adhesion Promoters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesion-promoters-3m-ap111-250ml-adhesion-promoter-111-clear-250-ml-bottle-7000001323-12794675757100.jpg?v=1580269172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesion Promoters<br>
+        <strong>Price: </strong>
+            16.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesion Promoter, 111, AP111-250ML, clear, 250 mL bottle</h4> <li class="extra-info">3M™ Adhesion Promoter 111 is a fast-acting, isopropyl alcohol based solution designed to promote better and faster adhesion of 3M™ VHB™ Tapes</li><li class="extra-info">This product works particularly well for adhering 3M™ VHB™ Tapes to high surface energy substrates like galvanized steel, bare metals, and painted surfaces.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9Nj4Y_GP8tS5vV8J17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesion Promoters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">8.5 fl. Oz, 250 ml</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Adhesion Promoter 111 is an isopropyl alcohol based solution used to promote better and faster adhesion of 3M™ VHB™ Tapes to various surfaces including bare metals, galvanized steel, and painted surfaces</li><li class="extra-info">Since surfaces and paint formulations vary con</li><h2>Product Information</h2><li class="extra-info">Increases bond strength on surfaces that are traditionally difficult to adhere, such as paint and metal</li><li class="extra-info"> Isopropyl alcohol based solvent system dries very quickly while producing a non-offensive odour</li><li class="extra-info"> Increased build rate at both normal and cooler temperatures</li><li class="extra-info"> Acts as a bonding primer in certain applications to clean and promote adhesion in a single step, saving time and effort</li><h2>Suggested Application</h2><li class="extra-info">Helps promote faster adhesion of 3M™ VHB™ Tapes to various surfaces</li><li class="extra-info">Can be used for priming, adhesion promoting</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ADH</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Volume_8.5 fl. Oz250 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124475961388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.82</s:price>
+      <s:sku>AD ADH AP111-250ML</s:sku>
+      <s:grams>282</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121883488300</id>
+    <published>2018-08-03T16:09:35-04:00</published>
+    <updated>2018-08-03T16:09:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-86a-primer-pint"/>
+    <title>3M 86A-PRIMER-PINT  - Adhesion Promoter 86A Transparent Liquid (1 Pint) 7000002051</title>
+    <s:type>Adhesion Promoters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesion-promoters-3m-86a-primer-pint-adhesion-promoter-86a-transparent-liquid-1-pint-7000002051-31565495894165.jpg?v=1628365585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesion Promoters<br>
+        <strong>Price: </strong>
+            81.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesion Promoter, 86A, transparent liquid, 1 pint</h4> <li class="extra-info">3M™ Adhesion Promoter 86A is a liquid primer designed to be used with 3M™ Polyurethane Protective Tapes and other acrylic adhesives to enhance initial adhesion in demanding situations.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xl8mGo82Zov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesion Promoters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">1 Pint, 2.85 L</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Adhesion Promoter 86A is designed to promote faster adhesion of 3M™ Polyurethane Protective Tapes with acrylic adhesives to certain types of surfaces, such as polyurethane paint, epoxy primers, or epoxy composites</li><li class="extra-info">It is not intended for use where the</li><h2>Product Information</h2><li class="extra-info">Promotes fast ultimate adhesion</li><li class="extra-info"> Ideal for surfaces such as polyurethane paint, epoxy primers and epoxy composites</li><li class="extra-info"> Companion product for use with paint replacement film technologies</li><h2>Suggested Application</h2><li class="extra-info">Polyurethane paint, epoxy primers, or epoxy composites</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ADH</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Volume_1 Pint2.85 L</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121883488300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.06</s:price>
+      <s:sku>AD ADH 86A-PRIMER-PINT</s:sku>
+      <s:grams>493</s:grams>
+    </s:variant>
+  </entry>
+</feed>

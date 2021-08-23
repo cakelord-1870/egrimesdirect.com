@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/fasteners-hardware.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:24-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037227052</id>
+    <published>2019-12-04T10:30:24-05:00</published>
+    <updated>2019-12-04T10:30:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj6105-blk"/>
+    <title>3M SJ6105-BLK  - 3M Bumpon Protective Products SJ6105 Black, 1000 per case SJ6105-BLK 7000126513</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj6105-blk-3m-bumpon-protective-products-sj6105-black-1000-per-case-sj6105-blk-7000126513-13120529104940.jpg?v=1578774675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ6105 Black, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037227052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku>FA BMP SJ6105-BLK</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037685804</id>
+    <published>2019-12-04T10:30:16-05:00</published>
+    <updated>2019-12-04T10:30:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj6144-blk"/>
+    <title>3M SJ6144-BLK  - 3M Bumpon Protective Product SJ6144 Black, 2600 per case SJ6144-BLK 7000126210</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj6144-blk-3m-bumpon-protective-product-sj6144-black-2600-per-case-sj6144-blk-7000126210-13120529629228.jpg?v=1578774593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Product SJ6144 Black, 2600 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037685804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.18</s:price>
+      <s:sku>FA BMP SJ6144-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038079020</id>
+    <published>2019-12-04T10:30:09-05:00</published>
+    <updated>2019-12-04T10:30:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5508-blk"/>
+    <title>3M SJ5508-BLK  - A black self-adhesive rubber bumper used as feet, stops and spacers. The flat top shape provides increased load bearing capacity and better wear resistance. 3000 Per Case 7000126008</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5508-blk-a-black-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-flat-top-shape-provides-increased-load-bearing-capacity-and-better-wear-resistance-3000-per-case-7.jpg?v=1578774435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5508 Black, 3000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038079020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.09</s:price>
+      <s:sku>FA BMP SJ5508-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255050661932</id>
+    <published>2019-12-04T10:27:32-05:00</published>
+    <updated>2019-12-04T10:27:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3m7000051816"/>
+    <title>3M 3M7000051816  - Sj5001 Black Bumpons 3000 Case 7000051816</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3m7000051816-sj5001-black-bumpons-3000-case-7000051816-13120546078764.jpg?v=1580170446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            409.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SJ5001 BLACK BUMPONS 3000 CASE</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255050661932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.37</s:price>
+      <s:sku>FA BMP 3M7000051816</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255057936428</id>
+    <published>2019-12-04T10:26:05-05:00</published>
+    <updated>2019-12-04T10:26:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5705-blk"/>
+    <title>3M SJ5705-BLK  - A black self-adhesive rubber bumper used as feet, stops and spacers. The flat top shape provides increased load bearing capacity and better wear resistance. , 1000 Per Case 7000029585</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5705-blk-a-black-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-flat-top-shape-provides-increased-load-bearing-capacity-and-better-wear-resistance-1000-per-case-7.jpg?v=1578774501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5705SBCC Black, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255057936428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.76</s:price>
+      <s:sku>FA BMP SJ5705-BLK</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059050540</id>
+    <published>2019-12-04T10:25:49-05:00</published>
+    <updated>2019-12-04T10:25:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5306-clr"/>
+    <title>3M SJ5306-CLR  - A clear self-adhesive rubber bumper used as feet, stops and spacers. The hemispherical shape provides excellent sound damping and energy absorption. 3000 Per Case 7000001917</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5306-clr-a-clear-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-hemispherical-shape-provides-excellent-sound-damping-and-energy-absorption-3000-per-case-700000191.jpg?v=1578774315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5306 Clear, 3000 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9g9M82UMY_UPvVWn17zHvu9l8Ub7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059050540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.10</s:price>
+      <s:sku>FA BMP SJ5306-CLR</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059017772</id>
+    <published>2019-12-04T10:25:49-05:00</published>
+    <updated>2019-12-04T10:25:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5076-blk"/>
+    <title>3M SJ5076-BLK  - A black self-adhesive rubber bumper used as feet, stops and spacers. The cylindrical flat top provides excellent load bearing and anti-skid performance.3000 Per Case 7000001953</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5076-blk-a-black-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-cylindrical-flat-top-provides-excellent-load-bearing-and-anti-skid-performance-3000-per-case-70000.jpg?v=1578774229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5076 Black, 3000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059017772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.07</s:price>
+      <s:sku>FA BMP SJ5076-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059116076</id>
+    <published>2019-12-04T10:25:48-05:00</published>
+    <updated>2019-12-04T10:25:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5008-blk"/>
+    <title>3M SJ5008-BLK  - 3M Bumpon Protective Products SJ5008 Black, 3000 per case SJ5008-BLK 7000001902</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5008-blk-3m-bumpon-protective-products-sj5008-black-3000-per-case-sj5008-blk-7000001902-13120553025580.jpg?v=1578774198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5008 Black, 3000 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0uvM8t1P82ZlvVzM17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059116076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.08</s:price>
+      <s:sku>FA BMP SJ5008-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059181612</id>
+    <published>2019-12-04T10:25:47-05:00</published>
+    <updated>2019-12-04T10:25:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5007-blk"/>
+    <title>3M SJ5007-BLK  - 3M Bumpon Protective Products SJ5007 Black, 3000 per case SJ5007-BLK 7000001895</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5007-blk-3m-bumpon-protective-products-sj5007-black-3000-per-case-sj5007-blk-7000001895-13120553123884.jpg?v=1578774110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5007 Black, 3000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059181612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.08</s:price>
+      <s:sku>FA BMP SJ5007-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059148844</id>
+    <published>2019-12-04T10:25:47-05:00</published>
+    <updated>2019-12-04T10:25:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5744-blk"/>
+    <title>3M SJ5744-BLK  - 3M Bumpon Protective Products SJ5744 Black, 2600 per case SJ5744-BLK 7000001900</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5744-blk-3m-bumpon-protective-products-sj5744-black-2600-per-case-sj5744-blk-7000001900-13120553091116.jpg?v=1578774561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5744 Black, 2600 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0uvl8m1lx_ZPvVzMDVFNvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059148844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku>FA BMP SJ5744-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059279916</id>
+    <published>2019-12-04T10:25:46-05:00</published>
+    <updated>2019-12-04T10:25:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5017-blk"/>
+    <title>3M SJ5017-BLK  - 3M Bumpon Protective Products SJ5017 Black, 1000 per case SJ5017-BLK 7000001886</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5017-blk-3m-bumpon-protective-products-sj5017-black-1000-per-case-sj5017-blk-7000001886-13120553287724.jpg?v=1578774260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5017 Black, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059279916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.28</s:price>
+      <s:sku>FA BMP SJ5017-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484900396</id>
+    <published>2019-12-03T12:07:27-05:00</published>
+    <updated>2019-12-03T12:07:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2340"/>
+    <title>King Canada PN-2340  - Headless Pin Nails 23 Gauge (1-9/16 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2340-headless-pin-nails-23-gauge-1-9-16-inch-box-of-4000-13358241873964.jpg?v=1579626697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            17.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-9/16 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484900396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.05</s:price>
+      <s:sku>FA NPS PN-2340</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484867628</id>
+    <published>2019-12-03T12:07:27-05:00</published>
+    <updated>2019-12-03T12:07:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2345"/>
+    <title>King Canada PN-2345  - Headless Pin Nails 23 Gauge (1-3/4 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2345-headless-pin-nails-23-gauge-1-3-4-inch-box-of-4000-13358241841196.jpg?v=1579626577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-3/4 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484867628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>FA NPS PN-2345</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484834860</id>
+    <published>2019-12-03T12:07:27-05:00</published>
+    <updated>2019-12-03T12:07:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2350"/>
+    <title>King Canada PN-2350  - Headless Pin Nails 23 Gauge (2 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2350-headless-pin-nails-23-gauge-2-inch-box-of-4000-13358241808428.jpg?v=1579626784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            19.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484834860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.94</s:price>
+      <s:sku>FA NPS PN-2350</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484965932</id>
+    <published>2019-12-03T12:07:26-05:00</published>
+    <updated>2019-12-03T12:07:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2330"/>
+    <title>King Canada PN-2330  - Headless Pin Nails 23 Gauge (1-3/16 Inch) Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2330-headless-pin-nails-23-gauge-1-3-16-inch-box-of-4000-13358241939500.jpg?v=1579626546"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            13.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-3/16 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484965932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.26</s:price>
+      <s:sku>FA NPS PN-2330</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484933164</id>
+    <published>2019-12-03T12:07:26-05:00</published>
+    <updated>2019-12-03T12:07:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2335"/>
+    <title>King Canada PN-2335  - Headless Pin Nails 23 Gauge (1-3/8 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2335-headless-pin-nails-23-gauge-1-3-8-inch-box-of-4000-13358241906732.jpg?v=1579626663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            16.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-3/8 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484933164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.11</s:price>
+      <s:sku>FA NPS PN-2335</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485064236</id>
+    <published>2019-12-03T12:07:25-05:00</published>
+    <updated>2019-12-03T12:07:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2318"/>
+    <title>King Canada PN-2318  - Headless Pin Nails 23 Gauge (11/16 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2318-headless-pin-nails-23-gauge-11-16-inch-box-of-4000-13358242037804.jpg?v=1579626425"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            9.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">11/16 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485064236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.46</s:price>
+      <s:sku>FA NPS PN-2318</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485031468</id>
+    <published>2019-12-03T12:07:25-05:00</published>
+    <updated>2019-12-03T12:07:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2321"/>
+    <title>King Canada PN-2321  - Headless Pin Nails 23 Gauge (7/8 Inch) Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2321-headless-pin-nails-23-gauge-7-8-inch-box-of-4000-13358242005036.jpg?v=1579626456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            11.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7/8 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485031468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.36</s:price>
+      <s:sku>FA NPS PN-2321</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484998700</id>
+    <published>2019-12-03T12:07:25-05:00</published>
+    <updated>2019-12-03T12:07:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2325"/>
+    <title>King Canada PN-2325  - Headless Pin Nails 23 Gauge (1 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2325-headless-pin-nails-23-gauge-1-inch-box-of-4000-13358241972268.jpg?v=1579626489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            12.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484998700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.32</s:price>
+      <s:sku>FA NPS PN-2325</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485129772</id>
+    <published>2019-12-03T12:07:24-05:00</published>
+    <updated>2019-12-03T12:07:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2312"/>
+    <title>King Canada PN-2312  - Headless Pin Nails 23 Gauge (1/2 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2312-headless-pin-nails-23-gauge-1-2-inch-box-of-4000-13358242103340.jpg?v=1579626303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            8.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485129772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.52</s:price>
+      <s:sku>FA NPS PN-2312</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485097004</id>
+    <published>2019-12-03T12:07:24-05:00</published>
+    <updated>2019-12-03T12:07:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2315"/>
+    <title>King Canada PN-2315  - Headless Pin Nails 23 Gauge (5/8 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2315-headless-pin-nails-23-gauge-5-8-inch-box-of-4000-13358242070572.jpg?v=1579626337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            9.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5/8 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485097004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.46</s:price>
+      <s:sku>FA NPS PN-2315</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485326380</id>
+    <published>2019-12-03T12:07:23-05:00</published>
+    <updated>2019-12-03T12:07:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-bn-1850"/>
+    <title>King Canada BN-1850  - Brad Finishing Nails 18 Guge (2 Inch) - Box of 5000</title>
+    <s:type>Brads</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brads-king-canada-bn-1850-brad-finishing-nails-18-guge-2-inch-box-of-5000-13358242529324.jpg?v=1579586132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Brads<br>
+        <strong>Price: </strong>
+            21.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">18 gauge x 2 Inch brad nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Spain</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>Length_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485326380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.34</s:price>
+      <s:sku>FA NPS BN-1850</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485228076</id>
+    <published>2019-12-03T12:07:23-05:00</published>
+    <updated>2019-12-03T12:07:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-fn-1632"/>
+    <title>King Canada FN-1632  - Brad Finishing Nails 16 Gauge (1-1/4 Inch) - Box of 2500</title>
+    <s:type>Brads</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brads-king-canada-fn-1632-brad-finishing-nails-16-gauge-1-1-4-inch-box-of-2500-13364077527084.jpg?v=1579586529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Brads<br>
+        <strong>Price: </strong>
+            12.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">16 gauge x 1-1/4 Inch finishing nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485228076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.33</s:price>
+      <s:sku>FA NPS FN-1632</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485162540</id>
+    <published>2019-12-03T12:07:23-05:00</published>
+    <updated>2019-12-03T12:07:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-fn-1663"/>
+    <title>King Canada FN-1663  - Brad Finishing Nails 16 Gauge (2-1/2 Inch) - Box of 2500</title>
+    <s:type>Brads</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brads-king-canada-fn-1663-brad-finishing-nails-16-gauge-2-1-2-inch-box-of-2500-13358242136108.jpg?v=1579586580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Brads<br>
+        <strong>Price: </strong>
+            22.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">16 gauge x 2-1/2 Inch finishing nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Spain</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485162540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.75</s:price>
+      <s:sku>FA NPS FN-1663</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333485948972</id>
+    <published>2019-12-03T12:07:22-05:00</published>
+    <updated>2019-12-03T12:07:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-bn-1840"/>
+    <title>King Canada BN-1840  - Brad Finishing Nails 18 Gauge (1-9/16 Inch) - Box of 5000</title>
+    <s:type>Brads</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brads-king-canada-bn-1840-brad-finishing-nails-18-gauge-1-9-16-inch-box-of-5000-13358242758700.jpg?v=1579586046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Brads<br>
+        <strong>Price: </strong>
+            19.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">18 gauge x 1-9/16 Inch brad nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Spain</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333485948972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.43</s:price>
+      <s:sku>FA NPS BN-1840</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+</feed>

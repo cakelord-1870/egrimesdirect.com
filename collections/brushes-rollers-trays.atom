@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/brushes-rollers-trays.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T05:37:48-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447854636</id>
+    <published>2019-05-11T05:37:48-04:00</published>
+    <updated>2019-05-11T05:37:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgb-06-150"/>
+    <title>Tuff Grade TGB-06-150  - Paint Brush Flat 35mm</title>
+    <s:type>Paint Brushes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/paint-brushes-tuff-grade-tgb-06-150-paint-brush-flat-35mm-12747066245164.jpg?v=1574977800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Paint Brushes<br>
+        <strong>Price: </strong>
+            3.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 1.5″ Length 2″ Handle Wood Bristles Polyester Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Paint Brushes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447854636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.26</s:price>
+      <s:sku>SP PBR TGB-06-150</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447821868</id>
+    <published>2019-05-11T05:37:46-04:00</published>
+    <updated>2019-05-11T05:37:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgb-06-200"/>
+    <title>Tuff Grade TGB-06-200  - Paint Brush Flat 50mm</title>
+    <s:type>Paint Brushes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/paint-brushes-tuff-grade-tgb-06-200-paint-brush-flat-50mm-13390911897644.jpg?v=1629194669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Paint Brushes<br>
+        <strong>Price: </strong>
+            3.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 2″ Length 2-3/16″ Handle Wood Bristles Polyester Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Paint Brushes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447821868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.64</s:price>
+      <s:sku>SP PBR TGB-06-200</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447789100</id>
+    <published>2019-05-11T05:37:43-04:00</published>
+    <updated>2019-05-11T05:37:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgb-1-1-2w"/>
+    <title>Tuff Grade TGB-1-1/2W  - 1.5 Inch Paint Brush Wooden Handle White Bristles</title>
+    <s:type>Paint Brushes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/paint-brushes-tuff-grade-tgb-1-1-2w-1-5-inch-paint-brush-wooden-handle-white-bristles-12747066048556.jpg?v=1574977683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Paint Brushes<br>
+        <strong>Price: </strong>
+            0.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 1.5″ Length 1-1/2″ Handle Wood Bristles China,White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Paint Brushes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447789100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.61</s:price>
+      <s:sku>SP PBR TGB-1-1/2W</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447756332</id>
+    <published>2019-05-11T05:37:43-04:00</published>
+    <updated>2019-05-11T05:37:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgb-1w"/>
+    <title>Tuff Grade TGB-1W  - 1 Inch Paint Brush Wooden Handle White Bristles</title>
+    <s:type>Polishes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/polishes-tuff-grade-tgb-1w-1-inch-paint-brush-wooden-handle-white-bristles-12747066015788.jpg?v=1574977713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Polishes<br>
+        <strong>Price: </strong>
+            0.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 1″ Length 1-1/2″ Handle Wood Bristles China,White Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Polishes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447756332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.48</s:price>
+      <s:sku>SP PBR TGB-1W</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447723564</id>
+    <published>2019-05-11T05:37:42-04:00</published>
+    <updated>2019-05-11T05:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgb-2"/>
+    <title>Tuff Grade TGB-2  - 2 Inch Red Paint Brush</title>
+    <s:type>Paint Brushes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/paint-brushes-tuff-grade-tgb-2-2-inch-red-paint-brush-12747066081324.jpg?v=1574977698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Paint Brushes<br>
+        <strong>Price: </strong>
+            1.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 2″ Length 2″ Handle Plastic Bristles China,Gray Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Paint Brushes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447723564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.51</s:price>
+      <s:sku>SP PBR TGB-2</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447690796</id>
+    <published>2019-05-11T05:37:42-04:00</published>
+    <updated>2019-05-11T05:37:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgb-3"/>
+    <title>Tuff Grade TGB-3  - 3 Inch Red Paint Brush</title>
+    <s:type>Paint Brushes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/paint-brushes-tuff-grade-tgb-3-3-inch-red-paint-brush-12747065983020.jpg?v=1574977560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Paint Brushes<br>
+        <strong>Price: </strong>
+            2.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 3″ Length 2-1/4″ Handle Plastic Bristles China,Gray Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Paint Brushes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447690796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.37</s:price>
+      <s:sku>SP PBR TGB-3</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769029042220</id>
+    <published>2019-04-09T15:12:04-04:00</published>
+    <updated>2019-04-09T15:12:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00511"/>
+    <title>Sait 00511  - Wood Handled Paint Brush 1/2 Inch</title>
+    <s:type>Compounds</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/compounds-sait-00511-wood-handled-paint-brush-1-2-inch-12747349950508.jpg?v=1575318295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Compounds<br>
+        <strong>Price: </strong>
+            0.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use for solvents and chemicals</li><li class="extra-info"> Quality horsehair bristles/Wood handle</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Painting</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Compounds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Use for solvents and chemicals</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles/Wood handle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_1/2 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>Thickness_1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769029042220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.85</s:price>
+      <s:sku>SP PBR 00511</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769027928108</id>
+    <published>2019-04-09T15:10:24-04:00</published>
+    <updated>2019-04-09T15:10:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00512"/>
+    <title>Sait 00512  - Wood Handled Paint Brush 1 Inch</title>
+    <s:type>Compounds</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/compounds-sait-00512-wood-handled-paint-brush-1-inch-12747344379948.jpg?v=1575318329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Compounds<br>
+        <strong>Price: </strong>
+            0.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use for solvents and chemicals</li><li class="extra-info"> Quality horsehair bristles/Wood handle</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Painting</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Compounds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Use for solvents and chemicals</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles/Wood handle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_1 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>Thickness_1 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769027928108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>SP PBR 00512</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769025667116</id>
+    <published>2019-04-09T15:08:38-04:00</published>
+    <updated>2019-04-09T15:08:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00513"/>
+    <title>Sait 00513  - Wood Handled Paint Brush 1-1/2 Inch</title>
+    <s:type>Compounds</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/compounds-sait-00513-wood-handled-paint-brush-1-1-2-inch-12747338317868.jpg?v=1575318176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Compounds<br>
+        <strong>Price: </strong>
+            1.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use for solvents and chemicals</li><li class="extra-info"> Quality horsehair bristles/Wood handle</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Painting</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Compounds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1 1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Use for solvents and chemicals</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles/Wood handle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_1 1/2 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>Thickness_1-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769025667116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.18</s:price>
+      <s:sku>SP PBR 00513</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769021964332</id>
+    <published>2019-04-09T15:06:07-04:00</published>
+    <updated>2019-04-09T15:06:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00514"/>
+    <title>Sait 00514  - Wood Handled Paint Brush 2 Inch</title>
+    <s:type>Compounds</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/compounds-sait-00514-wood-handled-paint-brush-2-inch-12747325898796.jpg?v=1575318192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Compounds<br>
+        <strong>Price: </strong>
+            1.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use for solvents and chemicals</li><li class="extra-info"> Quality horsehair bristles/Wood handle</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Painting</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Compounds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Use for solvents and chemicals</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles/Wood handle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_2 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>Thickness_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769021964332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.43</s:price>
+      <s:sku>SP PBR 00514</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769014001708</id>
+    <published>2019-04-09T14:59:31-04:00</published>
+    <updated>2019-04-09T14:59:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00515"/>
+    <title>Sait 00515  - Wood Handled Paint Brush 3 Inch</title>
+    <s:type>Compounds</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/compounds-sait-00515-wood-handled-paint-brush-3-inch-12747304304684.jpg?v=1575318208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Compounds<br>
+        <strong>Price: </strong>
+            2.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use for solvents and chemicals</li><li class="extra-info"> Quality horsehair bristles/Wood handle</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Painting</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Compounds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Use for solvents and chemicals</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles/Wood handle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_3 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>Thickness_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769014001708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.73</s:price>
+      <s:sku>SP PBR 00515</s:sku>
+      <s:grams>46</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769006071852</id>
+    <published>2019-04-09T14:49:33-04:00</published>
+    <updated>2019-04-09T14:49:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00516"/>
+    <title>Sait 00516  - Wood Handled Paint Brush 4 Inch</title>
+    <s:type>Compounds</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/compounds-sait-00516-wood-handled-paint-brush-4-inch-12747265114156.jpg?v=1575318077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Compounds<br>
+        <strong>Price: </strong>
+            5.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use for solvents and chemicals</li><li class="extra-info"> Quality horsehair bristles/Wood handle</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Painting</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Compounds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Use for solvents and chemicals</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles/Wood handle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_4 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769006071852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.64</s:price>
+      <s:sku>SP PBR 00516</s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124685479980</id>
+    <published>2018-08-04T20:28:26-04:00</published>
+    <updated>2018-08-04T20:28:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgb-1"/>
+    <title>Tuff Grade TGB-1  - 1 Inch Red Paint Brush</title>
+    <s:type>Paint Brushes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/paint-brushes-tuff-grade-tgb-1-1-inch-red-paint-brush-13390912225324.jpg?v=1629194319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Paint Brushes<br>
+        <strong>Price: </strong>
+            0.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 1″ Length 1-3/4″ Handle Plastic Bristles China,Gray Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Paint Brushes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PBR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124685479980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.79</s:price>
+      <s:sku>SP PBR TGB-1</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+</feed>

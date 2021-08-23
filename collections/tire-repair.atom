@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/tire-repair.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:50-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255034966060</id>
+    <published>2019-12-04T10:30:50-05:00</published>
+    <updated>2019-12-04T10:30:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-61480"/>
+    <title>3M 61480  - 3M Wheel Weight Cutting Stand PN61480, 1 per case 61480 7000131924</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-61480-3m-wheel-weight-cutting-stand-pn61480-1-per-case-61480-7000131924-13120527138860.jpg?v=1580217096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            225.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Wheel Weight Cutting Stand PN61480, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255034966060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.07</s:price>
+      <s:sku>FM REP 61480</s:sku>
+      <s:grams>12473</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255034998828</id>
+    <published>2019-12-04T10:30:49-05:00</published>
+    <updated>2019-12-04T10:30:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-61479"/>
+    <title>3M 61479  - 3M Wheel Weight Universal Cutting Tool PN61479, 1 per case 61479 7000131923</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-61479-3m-wheel-weight-universal-cutting-tool-pn61479-1-per-case-61479-7000131923-13120527204396.jpg?v=1580217065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            88.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Wheel Weight Universal Cutting Tool PN61479, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255034998828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">88.42</s:price>
+      <s:sku>FM REP 61479</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035162668</id>
+    <published>2019-12-04T10:30:46-05:00</published>
+    <updated>2019-12-04T10:30:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-61592"/>
+    <title>3M 61592  - 3M Replacement Kit PN61592, Replacement Anvil and Blades for Universal Cutting Tool PN61479, 5 kits per box 61592 7000131555</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-61592-3m-replacement-kit-pn61592-replacement-anvil-and-blades-for-universal-cutting-tool-pn61479-5-kits-per-box-61592-7000131555-13120527302700.jpg?v=1580167409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Replacement Kit PN61592, Replacement Anvil and Blades for 3M(TM) Universal Cutting Tool PN61479, 5 kits per box</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035162668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.34</s:price>
+      <s:sku>FM REP 61592</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035424812</id>
+    <published>2019-12-04T10:30:43-05:00</published>
+    <updated>2019-12-04T10:30:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-99429"/>
+    <title>3M 99429  - 3M Dual Cutter Bracket PN99429, 1 kit per case 99429 7000130401</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-99429-3m-dual-cutter-bracket-pn99429-1-kit-per-case-99429-7000130401-13120527663148.jpg?v=1580136122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Dual Cutter Bracket PN99429, 1 kit per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035424812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.70</s:price>
+      <s:sku>FM REP 99429</s:sku>
+      <s:grams>825</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035392044</id>
+    <published>2019-12-04T10:30:43-05:00</published>
+    <updated>2019-12-04T10:30:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-99473"/>
+    <title>3M 99473  - 3M Wheel Weight TN4029E, 29 mm x 6.1 mm 99473 7000130405</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-99473-3m-wheel-weight-tn4029e-29-mm-x-6-1-mm-99473-7000130405-13120527597612.jpg?v=1580136056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            596.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Wheel Weight TN4029E, 29 mm x 6.1 mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035392044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">596.07</s:price>
+      <s:sku>FM REP 99473</s:sku>
+      <s:grams>10160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035490348</id>
+    <published>2019-12-04T10:30:42-05:00</published>
+    <updated>2019-12-04T10:30:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-99101"/>
+    <title>3M 99101  - 3M Wheel Weight Starter Kit PN99101, 1 per case 99101 7000130391</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-99101-3m-wheel-weight-starter-kit-pn99101-1-per-case-99101-7000130391-13120527695916.jpg?v=1580136182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            408.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Wheel Weight Starter Kit PN99101, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035490348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">408.53</s:price>
+      <s:sku>FM REP 99101</s:sku>
+      <s:grams>16828</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035457580</id>
+    <published>2019-12-04T10:30:42-05:00</published>
+    <updated>2019-12-04T10:30:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-99428"/>
+    <title>3M 99428  - 3M Dual Box Holder Kit PN99428, 1 kit per case 99428 7000130400</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-99428-3m-dual-box-holder-kit-pn99428-1-kit-per-case-99428-7000130400-13120527630380.jpg?v=1580136091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            48.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Dual Box Holder Kit PN99428, 1 kit per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035457580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.53</s:price>
+      <s:sku>FM REP 99428</s:sku>
+      <s:grams>1383</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035523116</id>
+    <published>2019-12-04T10:30:41-05:00</published>
+    <updated>2019-12-04T10:30:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-99100"/>
+    <title>3M 99100  - 3M Wheel Weight Starter Kit PN99100, 1 per case 99100 7000130390</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-99100-3m-wheel-weight-starter-kit-pn99100-1-per-case-99100-7000130390-13120527728684.jpg?v=1580136213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            408.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Wheel Weight Starter Kit PN99100, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035523116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">408.58</s:price>
+      <s:sku>FM REP 99100</s:sku>
+      <s:grams>16828</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255049285676</id>
+    <published>2019-12-04T10:27:52-05:00</published>
+    <updated>2019-12-04T10:27:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-99427"/>
+    <title>3M 99427  - 3M Mechanical Replacement Weight PN99427, 1 box per case 99427 7000056147</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-99427-3m-mechanical-replacement-weight-pn99427-1-box-per-case-99427-7000056147-13120544604204.jpg?v=1580136335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            156.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Mechanical Replacement Weight PN99427, 1 box per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255049285676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">156.77</s:price>
+      <s:sku>FM REP 99427</s:sku>
+      <s:grams>5166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255026118700</id>
+    <published>2019-10-16T00:32:53-04:00</published>
+    <updated>2019-10-16T00:32:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100022530"/>
+    <title>3M 7100022530  - Ruler 61565 Tn0 Rr-4715 7100022530</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-7100022530-ruler-61565-tn0-rr-4715-7100022530-13120517931052.jpg?v=1580227739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">RULER 61565 TN0 RR-4715 25/CASE 3M</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255026118700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.32</s:price>
+      <s:sku>FM REP 7100022530</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255019925548</id>
+    <published>2019-10-16T00:28:46-04:00</published>
+    <updated>2019-10-16T00:28:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100067821"/>
+    <title>3M 7100067821  - Tn4020 Wws 20mm x 14M Pn55409 A 7100067821</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-7100067821-tn4020-wws-20mm-x-14m-pn55409-a-7100067821-13120512393260.jpg?v=1580227984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            535.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">TN4020 WWS 20MM X 14M PN55409 A</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255019925548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">535.87</s:price>
+      <s:sku>FM REP 7100067821</s:sku>
+      <s:grams>10160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813169897516</id>
+    <published>2019-05-11T12:04:06-04:00</published>
+    <updated>2019-05-11T12:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1151"/>
+    <title>JET H1151  - Tire Tread Depth Gauge H1151</title>
+    <s:type>Repair Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/repair-tools-jet-h1151-tire-tread-depth-gauge-h1151-12748790693932.jpg?v=1579487490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Repair Tools<br>
+        <strong>Price: </strong>
+            14.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tire Tread Depth Gauge</h4> <li class="extra-info">Accurately determines amount of tread left on tire</li><li class="extra-info"> Maximum tread depth measured 1" (25mm)</li><li class="extra-info"> 3 sides calibrated in 1/32" increments</li><li class="extra-info"> 3 sides calibrated in 1mm increments</li><li class="extra-info"> Chrome plated brass body</li><li class="extra-info"> Handy pocket clip</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Repair Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813169897516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.43</s:price>
+      <s:sku>FM REP H1151</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157576748</id>
+    <published>2019-05-11T11:59:20-04:00</published>
+    <updated>2019-05-11T11:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1147"/>
+    <title>JET H1147  - 5 Inch Valve Core Tool H1147</title>
+    <s:type>Core Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/core-tools-jet-h1147-5-inch-valve-core-tool-h1147-12748751405100.jpg?v=1579487403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Core Tools<br>
+        <strong>Price: </strong>
+            24.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Valve Core Tool</h4> <li class="extra-info">Removes and installs standard size valve cores</li><li class="extra-info"> Aluminum handle provides sturdy grip</li><li class="extra-info"> Overall length 5"</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Core Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-1/8 Inch - 12 NF</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_1-1/8 Inch - 12 NF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157576748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.10</s:price>
+      <s:sku>FM REP H1147</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813153382444</id>
+    <published>2019-05-11T11:57:47-04:00</published>
+    <updated>2019-05-11T11:57:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3162"/>
+    <title>JET H3162  - Dual Chuck Tire Pressure Gauge Small H3162</title>
+    <s:type>Pressure Gauges</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pressure-gauges-jet-h3162-dual-chuck-tire-pressure-gauge-small-h3162-12748740329516.jpg?v=1579513563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Pressure Gauges<br>
+        <strong>Price: </strong>
+            17.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Dual Head Tire Gauge</h4> <li class="extra-info">Dual offset head</li><li class="extra-info"> 2 sides calibrated in PSI, 2 sides calibrated in kPa</li><li class="extra-info"> 10 – 120 PSI / 100 – 800 kPa range</li><li class="extra-info"> With pocket clip</li><li class="extra-info"> Overall length 6-3/4"</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pressure Gauges</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813153382444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.65</s:price>
+      <s:sku>FM REP H3162</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813136179244</id>
+    <published>2019-05-11T11:51:31-04:00</published>
+    <updated>2019-05-11T11:51:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3264"/>
+    <title>JET H3264  - Dial Type Tire Pressure Gauge H3264</title>
+    <s:type>Pressure Gauges</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pressure-gauges-jet-h3264-dial-type-tire-pressure-gauge-h3264-12748698353708.jpg?v=1579536751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Pressure Gauges<br>
+        <strong>Price: </strong>
+            24.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Dial Type Tire Pressure Gauge</h4> <li class="extra-info">Needle holds readings until released by pressing relief button</li><li class="extra-info"> Chrome plated zinc body with acrylic lens</li><li class="extra-info"> 10 – 100 psi in 2 lb increments</li><li class="extra-info"> 100 – 700 kPa in 10 kPa increments</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pressure Gauges</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">31/64 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cleans dirt and corrosion from battery posts and terminals</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_31/64 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813136179244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.10</s:price>
+      <s:sku>FM REP H3264</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813131198508</id>
+    <published>2019-05-11T11:49:38-04:00</published>
+    <updated>2019-05-11T11:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3276"/>
+    <title>JET H3276  - 360° Swivel Head Digital Tire Pressure Gauge Angled Head Chuck H3276</title>
+    <s:type>Pressure Gauges</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pressure-gauges-jet-h3276-360-swivel-head-digital-tire-pressure-gauge-angled-head-chuck-h3276-12748686164012.jpg?v=1579536844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Pressure Gauges<br>
+        <strong>Price: </strong>
+            77.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Digital Tire Pressure Gauge</h4> <li class="extra-info">Large easy to read LCD display with built in backlight</li><li class="extra-info"> Audible buzzer indicates measurement has been made when screen is not visible</li><li class="extra-info"> 360° swivel head makes reaching any valve easier</li><li class="extra-info"> Measures up to 150 psi</li><li class="extra-info"> Measures psi, Bar, Kg/cm², and kPa</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pressure Gauges</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813131198508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.25</s:price>
+      <s:sku>FM REP H3276</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813120221228</id>
+    <published>2019-05-11T11:45:32-04:00</published>
+    <updated>2019-05-11T11:45:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3153"/>
+    <title>JET H3153  - Fwd Axle Nut Socket 36 Mm H3153</title>
+    <s:type>Front Wheel Drive Axle Nut Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/front-wheel-drive-axle-nut-tools-jet-h3153-fwd-axle-nut-socket-36-mm-h3153-12748657131564.jpg?v=1579513530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Front Wheel Drive Axle Nut Tools<br>
+        <strong>Price: </strong>
+            45.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FWD Axle Nut Socket - 36mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Front Wheel Drive Axle Nut Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-5/8 Inch</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Services GM  InchE Inch style cars</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_1-5/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813120221228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.02</s:price>
+      <s:sku>FM REP H3153</s:sku>
+      <s:grams>173</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813113929772</id>
+    <published>2019-05-11T11:43:14-04:00</published>
+    <updated>2019-05-11T11:43:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1503"/>
+    <title>JET H1503  - Dual Chuck Tire Pressure Gauge Large H1503</title>
+    <s:type>Pressure Gauges</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pressure-gauges-jet-h1503-dual-chuck-tire-pressure-gauge-large-h1503-12748637929516.jpg?v=1579508645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Pressure Gauges<br>
+        <strong>Price: </strong>
+            56.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Dual Head Tire Gauge</h4> <li class="extra-info">Dual offset head</li><li class="extra-info"> Extra heavy duty for rugged use</li><li class="extra-info"> Permanently etched steel indicator bar</li><li class="extra-info"> 10 – 200 PSI / 1 – 14 kg/cm² range</li><li class="extra-info"> Overall length 13"</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pressure Gauges</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">35mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Permanently etched steel indicator bar</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_35mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813113929772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.32</s:price>
+      <s:sku>FM REP H1503</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813109735468</id>
+    <published>2019-05-11T11:41:32-04:00</published>
+    <updated>2019-05-11T11:41:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3327"/>
+    <title>JET H3327  - 7/8 Inch With Cut-Away Oxygen / Vacuum Sensor Socket H3327</title>
+    <s:type>Oil Oxygen Vacuum Sensor Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/oil-oxygen-vacuum-sensor-sockets-jet-h3327-7-8-inch-with-cut-away-oxygen-vacuum-sensor-socket-h3327-12748627410988.jpg?v=1579537167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Oil Oxygen Vacuum Sensor Sockets<br>
+        <strong>Price: </strong>
+            27.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7/8 Inch Oxygen/Vacuum Sensor Socket</h4> <li class="extra-info">Removes and installs oxygen sensors and vacuum switches</li><li class="extra-info"> Cut away slot provides clearance for sensor wires and vacuum ports</li><li class="extra-info"> 2-1/2" depth fits over long sensors</li><li class="extra-info"> 3/8" square drive or use 1" wrench</li><li class="extra-info"> Not for impact use</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Oil Oxygen Vacuum Sensor Sockets</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-1/8 Inch - 12 NF</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Removes and installs oxygen sensors and vacuum switches</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_1-1/8 Inch - 12 NF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813109735468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.32</s:price>
+      <s:sku>FM REP H3327</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813103771692</id>
+    <published>2019-05-11T11:39:20-04:00</published>
+    <updated>2019-05-11T11:39:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3241"/>
+    <title>JET H3241  - Heavy Equipment Band/Strap Filter Wrench H3241</title>
+    <s:type>Filter Wrenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filter-wrenches-jet-h3241-heavy-equipment-band-strap-filter-wrench-h3241-12748607488044.jpg?v=1579536685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Filter Wrenches<br>
+        <strong>Price: </strong>
+            77.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Heavy Duty Strap Filter Wrench</h4> <li class="extra-info">Fits filters up to 9" (228mm) diameter</li><li class="extra-info"> Designed for high torque requirements of truck and heavy equipment filters</li><li class="extra-info"> Use with 3/8" or 1/2" drive ratchet or breaker bar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filter Wrenches</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">18mm</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_18mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813103771692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.25</s:price>
+      <s:sku>FM REP H3241</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813102886956</id>
+    <published>2019-05-11T11:38:58-04:00</published>
+    <updated>2019-05-11T11:38:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3434"/>
+    <title>JET H3434  - Swivel Filter Wrench Caterpillar H3434</title>
+    <s:type>Filter Wrenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filter-wrenches-jet-h3434-swivel-filter-wrench-caterpillar-h3434-12748605161516.jpg?v=1579518933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Filter Wrenches<br>
+        <strong>Price: </strong>
+            35.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Swivel Filter Wrench - Caterpillar</h4> <li class="extra-info">Fits 4" – 4-3/4" (100 – 120mm) filters</li><li class="extra-info"> Designed for use on Cummins and Detroit Diesel engines</li><li class="extra-info"> Studs on inside of band minimize slipping for safe operation</li><li class="extra-info"> Handle swivels 180° for improved access to tight spots</li><li class="extra-info"> Self-locking bolt adjusts swivel handle tension</li><li class="extra-info"> Cushion grip provides user comfort</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filter Wrenches</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Range : 5-1/4 – 5-3/4 Inch (134 – 146mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813102886956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.35</s:price>
+      <s:sku>FM REP H3434</s:sku>
+      <s:grams>314</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813094924332</id>
+    <published>2019-05-11T11:35:54-04:00</published>
+    <updated>2019-05-11T11:35:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3433"/>
+    <title>JET H3433  - Swivel Filter Wrench Cummins H3433</title>
+    <s:type>Filter Wrenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filter-wrenches-jet-h3433-swivel-filter-wrench-cummins-h3433-12748583174188.jpg?v=1579518808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Filter Wrenches<br>
+        <strong>Price: </strong>
+            33.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Swivel Handle Truck Filter Wrench</h4> <li class="extra-info">Fits 4" – 4-3/4" (100 – 120mm) filters</li><li class="extra-info"> Designed for use on Cummins and Detroit Diesel engines</li><li class="extra-info"> Studs on inside of band minimize slipping for safe operation</li><li class="extra-info"> Handle swivels 180° for improved access to tight spots</li><li class="extra-info"> Self-locking bolt adjusts swivel handle tension</li><li class="extra-info"> Cushion grip provides user comfort</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filter Wrenches</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Range : 4-5/16 – 4-3/4 Inch (110 – 120mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813094924332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.77</s:price>
+      <s:sku>FM REP H3433</s:sku>
+      <s:grams>410</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813087322156</id>
+    <published>2019-05-11T11:32:56-04:00</published>
+    <updated>2019-05-11T11:32:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3149"/>
+    <title>JET H3149  - Fwd Axle Nut Socket 29 mm H3149</title>
+    <s:type>Front Wheel Drive Axle Nut Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/front-wheel-drive-axle-nut-tools-jet-h3149-fwd-axle-nut-socket-29-mm-h3149-12748560171052.jpg?v=1579513321"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Front Wheel Drive Axle Nut Tools<br>
+        <strong>Price: </strong>
+            33.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FWD Axle Nut Socket - 29mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Front Wheel Drive Axle Nut Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/4 Inch</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Services late model GM, Ford™ and Asian imports including the Escort and Fiesta</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813087322156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.77</s:price>
+      <s:sku>FM REP H3149</s:sku>
+      <s:grams>560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813086273580</id>
+    <published>2019-05-11T11:32:34-04:00</published>
+    <updated>2019-05-11T11:32:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3150"/>
+    <title>JET H3150  - Fwd Axle Nut Socket 30 mm H3150</title>
+    <s:type>Front Wheel Drive Axle Nut Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/front-wheel-drive-axle-nut-tools-jet-h3150-fwd-axle-nut-socket-30-mm-h3150-12748557615148.jpg?v=1579513412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Front Wheel Drive Axle Nut Tools<br>
+        <strong>Price: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FWD Axle Nut Socket - 30mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Front Wheel Drive Axle Nut Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">27mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Services GM  InchA Inch,  InchJ Inch,  InchN Inch and  InchX Inch body cars and some Asian imports</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_27mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813086273580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.99</s:price>
+      <s:sku>FM REP H3150</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813085093932</id>
+    <published>2019-05-11T11:32:00-04:00</published>
+    <updated>2019-05-11T11:32:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3151"/>
+    <title>JET H3151  - Fwd Axle Nut Socket 32 mm H3151</title>
+    <s:type>Front Wheel Drive Axle Nut Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/front-wheel-drive-axle-nut-tools-jet-h3151-fwd-axle-nut-socket-32-mm-h3151-12748554141740.jpg?v=1579513446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Front Wheel Drive Axle Nut Tools<br>
+        <strong>Price: </strong>
+            40.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FWD Axle Nut Socket - 32mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Front Wheel Drive Axle Nut Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">21mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Services late model Honda and Chrysler cars</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM REP</s:tag>
+    <s:tag>Size_21mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813085093932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.21</s:price>
+      <s:sku>FM REP H3151</s:sku>
+      <s:grams>640</s:grams>
+    </s:variant>
+  </entry>
+</feed>

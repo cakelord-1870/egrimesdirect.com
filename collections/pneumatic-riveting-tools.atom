@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-riveting-tools.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T11:22:13-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813059960876</id>
+    <published>2019-05-11T11:22:13-04:00</published>
+    <updated>2019-05-11T11:22:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-ar316sd"/>
+    <title>JET AR316SD  - 3/16 Inch Air Riveter Super Heavy Duty 409007</title>
+    <s:type>Riveters</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/riveters-jet-ar316sd-3-16-inch-air-riveter-super-heavy-duty-409007-12748483690540.jpg?v=1579495920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Riveters<br>
+        <strong>Price: </strong>
+            893.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/16 Inch Air Riveter – Super Heavy Duty</h4> <li class="extra-info">New production quality air riveter delivers a powerful pulling load of 2,600 lbs</li><li class="extra-info"> Can be used on aluminum, steel and stainless steel rivets up to 3/16"</li><li class="extra-info"> Specific components manufactured with high cost, super precise CNC deep hole drilling processes for extreme accuracy and tolerance</li><li class="extra-info"> Longer 20mm stroke sets rivets in one hit, increasing efficiency</li><li class="extra-info"> Integrated vacuum/exhaust system with a convenient adjustable switch allows operator to adjust mandrel retention and collection</li><li class="extra-info"> Designed with integrated spring and air return system for fast, reliable cycles</li><li class="extra-info"> Japanese NOK rubber gasket for longest tool life</li><li class="extra-info"> Specially designed "quick opening" collection bottle eliminates the need to remove bottle when emptying</li><li class="extra-info"> Includes 4 sizes of nose pieces for a wide range of uses</li><li class="extra-info"> Designed for production and heavy duty power riveting applications</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Consumption </td>
+<td class="egrimes">5.5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Riveters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Sound Level </td>
+<td class="egrimes">75</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vibration Level </td>
+<td class="egrimes">2.5</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">New production quality air riveter delivers a powerful pulling load of 2,600 lbs</li><li class="extra-info"> Can be used on aluminum, steel and stainless steel rivets up to 3/16"</li><h2>Product Information</h2><li class="extra-info">Stroke : 0.78 Inch (20mm)</li><li class="extra-info"> Pull Force : 2,600 lb</li><li class="extra-info"> Average Air Consumption : 5.5 cfm</li><li class="extra-info"> Min</li><li class="extra-info">Hose Size : 3/8 Inch</li><li class="extra-info"> Air Inlet (NPT) : 1/4 Inch</li><li class="extra-info"> Nosepiece : 3/32 Inch (2.4mm), 1/8 Inch (3.2mm), 5/32 Inch (4.0mm), 3/16 Inch (4.8mm)</li><li class="extra-info"> Vibration: 2.5 m/s²</li><li class="extra-info"> Vibration: 75 dBA</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Consumption_5.5</s:tag>
+    <s:tag>Air Thread_1/4 Inch</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT RIV</s:tag>
+    <s:tag>Hose Diameter_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813059960876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">893.02</s:price>
+      <s:sku>AT RIV 409007</s:sku>
+      <s:grams>1780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813059928108</id>
+    <published>2019-05-11T11:22:12-04:00</published>
+    <updated>2019-05-11T11:22:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-ar14hda"/>
+    <title>JET AR14HDA  - 1/4 Inch Air Riveter Heavy Duty 409009</title>
+    <s:type>Riveters</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/riveters-jet-ar14hda-1-4-inch-air-riveter-heavy-duty-409009-12748483625004.jpg?v=1579495831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Riveters<br>
+        <strong>Price: </strong>
+            488.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/4 Inch Air Riveter – Heavy Duty</h4> <li class="extra-info">Powerful pulling load of 2,248 lbs</li><li class="extra-info"> Can be used on all rivet material types, including steel and aluminum, up to 1/4"</li><li class="extra-info"> Longer 20mm stroke sets rivets in one hit, increasing efficiency</li><li class="extra-info"> Compact and lightweight – only 2.42 lbs</li><li class="extra-info"> Tough composite outer shell for maximum toughness, protection and longevity</li><li class="extra-info"> Includes 4 sizes of nose pieces for a wide range of uses</li><li class="extra-info"> High quality collection bottle with screw on attachment for ease of operation</li><li class="extra-info"> Designed for professional automotive and light to medium duty industrial applications</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Consumption </td>
+<td class="egrimes">4.5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Riveters</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Powerful, lightweight for multiple applications</li><li class="extra-info"> For all rivet material types, including steel and aluminum, up to 1/4"</li><h2>Product Information</h2><li class="extra-info">Stroke : 13/16 Inch</li><li class="extra-info"> Pull Force : 2,248 lb</li><li class="extra-info"> Average Air Consumption : 4.5 cfm</li><li class="extra-info"> Min</li><li class="extra-info">Hose Size : 3/8 Inch</li><li class="extra-info"> Air Inlet (NPT) : 1/4 Inch</li><li class="extra-info"> Nosepiece : 1/8 Inch (3.2mm), 5/32 Inch (4.0mm), 3/16 Inch (4.8mm), 1/4 Inch (6.4mm)</li><li class="extra-info"> Working Air Pressure : 72 – 100 PSI</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Consumption_4.5</s:tag>
+    <s:tag>Air Thread_1/4 Inch</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT RIV</s:tag>
+    <s:tag>Hose Diameter_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813059928108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">488.52</s:price>
+      <s:sku>AT RIV 409009</s:sku>
+      <s:grams>1780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813059829804</id>
+    <published>2019-05-11T11:22:12-04:00</published>
+    <updated>2019-05-11T11:22:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-ar14sd"/>
+    <title>JET AR14SD  - 1/4 Inch Air Riveter Super Heavy Duty 409008</title>
+    <s:type>Riveters</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/riveters-jet-ar14sd-1-4-inch-air-riveter-super-heavy-duty-409008-12748483657772.jpg?v=1579496004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Riveters<br>
+        <strong>Price: </strong>
+            1203.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/4 Inch Air Riveter – Super Heavy Duty</h4> <li class="extra-info">New production quality air riveter delivers a powerful pulling load of 3,520 lbs</li><li class="extra-info"> Can be used on aluminum, steel and stainless steel rivets up to 1/4"</li><li class="extra-info"> Can also be used on 3/16" and 1/4" monobolts</li><li class="extra-info"> Specific components manufactured with high cost, super precise CNC deep hole drilling processes for extreme accuracy and tolerance</li><li class="extra-info"> Longer 26mm stroke sets rivets in one hit, increasing efficiency</li><li class="extra-info"> Integrated vacuum/exhaust system with a convenient adjustable switch allows operator to adjust mandrel retention and collection</li><li class="extra-info"> Designed with integrated spring and air return system for fast, reliable cycles</li><li class="extra-info"> Japanese NOK rubber gasket for longest tool life</li><li class="extra-info"> Specially designed "quick opening" collection bottle eliminates the need to remove bottle when emptying</li><li class="extra-info"> Includes 3 sizes of nose pieces for a wide range of uses</li><li class="extra-info"> Designed for production and heavy duty power riveting applications</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Consumption </td>
+<td class="egrimes">10.1</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Riveters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Sound Level </td>
+<td class="egrimes">75</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vibration Level </td>
+<td class="egrimes">2.5</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">New production quality air riveter delivers a powerful pulling load of 3,520 lbs</li><li class="extra-info"> Can be used on aluminum, steel and stainless steel rivets up to 1/4"</li><h2>Product Information</h2><li class="extra-info">Stroke : 1.02 Inch (26mm)</li><li class="extra-info"> Pull Force : 3,520 lb</li><li class="extra-info"> Average Air Consumption : 10.1 cfm</li><li class="extra-info"> Min</li><li class="extra-info">Hose Size : 3/8 Inch</li><li class="extra-info"> Air Inlet (NPT) : 1/4 Inch</li><li class="extra-info"> Nosepiece : 5/32 Inch ( 4.0mm), 3/16 Inch ( 4.8mm), 1/4 Inch ( 6.4mm)</li><li class="extra-info"> Vibration: 2.5 m/s²</li><li class="extra-info"> Vibration: 75 dBA</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Consumption_10.1</s:tag>
+    <s:tag>Air Thread_1/4 Inch</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT RIV</s:tag>
+    <s:tag>Hose Diameter_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813059829804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1203.98</s:price>
+      <s:sku>AT RIV 409008</s:sku>
+      <s:grams>1780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813059764268</id>
+    <published>2019-05-11T11:22:12-04:00</published>
+    <updated>2019-05-11T11:22:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-ar316hda"/>
+    <title>JET AR316HDA  - 3/16 Inch Air Riveter Heavy Duty 409005</title>
+    <s:type>Riveters</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/riveters-jet-ar316hda-3-16-inch-air-riveter-heavy-duty-409005-12748484182060.jpg?v=1579496037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Riveters<br>
+        <strong>Price: </strong>
+            277.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/16 Inch Air Riveter – Heavy Duty</h4> <li class="extra-info">Powerful pulling load of 1,940 lbs</li><li class="extra-info"> Can be used on all rivet material types, including steel and aluminum, up to 3/16"</li><li class="extra-info"> 9/16" stroke sets rivets in one hit, increasing efficiency</li><li class="extra-info"> Very compact and lightweight – only 3.2 lbs</li><li class="extra-info"> Includes 4 sizes of nose pieces for a wide range of uses</li><li class="extra-info"> High quality, see-through collection bottle</li><li class="extra-info"> Air relief valve prevents overloading for greater tool service life</li><li class="extra-info"> Designed for professional automotive and light to medium duty industrial applications</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Consumption </td>
+<td class="egrimes">4</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Riveters</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Powerful, lightweight for multiple applications.</li><li class="extra-info"> For all rivet material types, including steel and aluminum, up to 3/16"</li><h2>Product Information</h2><li class="extra-info">Stroke : 9/16 Inch</li><li class="extra-info"> Pull Force : 1,940 lb</li><li class="extra-info"> Average Air Consumption : 4 cfm</li><li class="extra-info"> Min</li><li class="extra-info">Hose Size : 3/8 Inch</li><li class="extra-info"> Air Inlet (NPT) : 1/4 Inch</li><li class="extra-info"> Nosepiece : 3/32 Inch (2.4mm), 1/8 Inch (3.2mm), 5/32 Inch (4.0mm), 3/16 Inch (4.8mm)</li><li class="extra-info"> Working Air Pressure : 85 – 100 PSI</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Consumption_4</s:tag>
+    <s:tag>Air Thread_1/4 Inch</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT RIV</s:tag>
+    <s:tag>Hose Diameter_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813059764268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">277.55</s:price>
+      <s:sku>AT RIV 409005</s:sku>
+      <s:grams>1780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122373894188</id>
+    <published>2018-08-03T20:12:51-04:00</published>
+    <updated>2018-08-03T20:12:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-695-1x36"/>
+    <title>3M 695-1X36  - Riveters Tape 695 Yellow With White Adhesive 1 in x 36 Yards Bulk 7000048595</title>
+    <s:type>Riveters Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/riveters-tapes-3m-695-1x36-riveters-tape-695-yellow-with-white-adhesive-1-in-x-36-yards-bulk-7000048595-13961863921708.jpg?v=1627991032"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Riveters Tapes<br>
+        <strong>Price: </strong>
+            25.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Riveters Tape 695 Yellow with White Adhesive, 1 in x 36 yd, 36 per case Bulk</h4> <li class="extra-info">3M™ Riveters Tape 695 has a polyethylene film backing and an acrylic adhesive coating along both edges of the tape</li><li class="extra-info">The transparent, yellow, tack-free centre window improves visibility during the riveting process.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0uvMx2Zl8t9nvVzM17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Riveters Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Zone-coated adhesive sticks to substrate without adhering to the rivet</li><li class="extra-info"> Polyethylene backing maintains a tight hold on the rivet during the assembly process</li><li class="extra-info"> Uncoated, transparent yellow centre provides clear visibility to the rivet below</li><li class="extra-info"> Aggressive adhesive bonds well to many surfaces, yet removes cleanly</li><li class="extra-info"> Decreases product rework and improves efficiency</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC RIV</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122373894188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.20</s:price>
+      <s:sku>AC RIV 695-1X36</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,3369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/promotions.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-14T22:49:41-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372062470188</id>
+    <published>2019-12-14T22:49:41-05:00</published>
+    <updated>2019-12-14T22:49:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-4s-aluminum-oxide-material-5-inch-x-non-vacuum-4s-5-inch-non-vacuum"/>
+    <title>Self Adhesive Paper (PSA) Discs 4S Aluminum Oxide Material 5 Inch x Non-Vacuum -  Saitech Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-paper-psa-discs-4s-aluminum-oxide-material-5-inch-x-non-vacuum-saitech-sait-13465238503468.jpg?v=1579689605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            0.54 - 0.63
+            <a href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-4s-aluminum-oxide-material-5-inch-x-non-vacuum-4s-5-inch-non-vacuum">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Excels on painted and primed surfaces</li><li class="extra-info"> Our best performing, longest lasting paper disc</li><li class="extra-info"> Long lasting performance and fast removal rates for fine finishing of auto body, wood, metal, and marine applications</li><li class="extra-info"> Premium Aluminum oxide grain - For dry use only</li><li class="extra-info"> Premium Stearate coating and open coat structure lubricates and prevents loading</li><li class="extra-info"> Available in weights: InchC Inch medium-weight, low flexibility</li><li class="extra-info"> Premium - Paper Discs Hook &amp; Loop</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Saitech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Paper</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">5xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">4S</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">EXCELS ON PAINTED AND PRIMED SURFACES Our best performing, longest lasting paper disc Long lasting performance and fast removal rates for fine finishing of auto body, wood, metal, and marine applications Premium Aluminum Oxide grain - For dry use only Pre</li><h2>Product Information</h2><li class="extra-info">Premium - Paper Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Paper</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_5 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_1500</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Line_Saitech</s:tag>
+    <s:tag>Material_4S</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>150</title>
+      <s:price currency="CAD">0.54</s:price>
+      <s:sku>CA PSA 37508</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>80</title>
+      <s:price currency="CAD">0.56</s:price>
+      <s:sku>CA PSA 37505</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>180</title>
+      <s:price currency="CAD">0.54</s:price>
+      <s:sku>CA PSA 37509</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>100</title>
+      <s:price currency="CAD">0.54</s:price>
+      <s:sku>CA PSA 37506</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>120</title>
+      <s:price currency="CAD">0.54</s:price>
+      <s:sku>CA PSA 37507</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>220</title>
+      <s:price currency="CAD">0.54</s:price>
+      <s:sku>CA PSA 37510</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>320</title>
+      <s:price currency="CAD">0.54</s:price>
+      <s:sku>CA PSA 37511</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372062470188</id>
+      <title>1500</title>
+      <s:price currency="CAD">0.63</s:price>
+      <s:sku>CA PSA 37561</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372037074988</id>
+    <published>2019-12-14T22:10:26-05:00</published>
+    <updated>2019-12-14T22:10:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-9-inch-x-non-vacuum-z-x-9-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs Z-X Zirconia Alumina Material 9 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-9-inch-x-non-vacuum-sait-13465125158956.jpg?v=1579678977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            5.47 - 6.53
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-9-inch-x-non-vacuum-z-x-9-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Premium Zirconium Grain</li><li class="extra-info"> Specially formulated X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> Premium - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">9 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">9xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Z-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Premium Zirconium Grain Specially formulated X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Stainless</li><h2>Product Information</h2><li class="extra-info">Premium - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Stainless</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_9 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_Z-X</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037074988</id>
+      <title>40</title>
+      <s:price currency="CAD">6.53</s:price>
+      <s:sku>CA PSA 37138</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037074988</id>
+      <title>80</title>
+      <s:price currency="CAD">5.47</s:price>
+      <s:sku>CA PSA 37141</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037074988</id>
+      <title>50</title>
+      <s:price currency="CAD">6.18</s:price>
+      <s:sku>CA PSA 37139</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037074988</id>
+      <title>60</title>
+      <s:price currency="CAD">5.83</s:price>
+      <s:sku>CA PSA 37140</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372037009452</id>
+    <published>2019-12-14T22:10:21-05:00</published>
+    <updated>2019-12-14T22:10:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-8-inch-x-non-vacuum-z-x-8-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs Z-X Zirconia Alumina Material 8 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-8-inch-x-non-vacuum-sait-13465125093420.jpg?v=1579679010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            4.34 - 5.19
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-8-inch-x-non-vacuum-z-x-8-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Premium Zirconium Grain</li><li class="extra-info"> Specially formulated X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> Premium - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">8xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Z-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Premium Zirconium Grain Specially formulated X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Stainless</li><h2>Product Information</h2><li class="extra-info">Premium - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Stainless</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_Z-X</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037009452</id>
+      <title>40</title>
+      <s:price currency="CAD">5.19</s:price>
+      <s:sku>CA PSA 37124</s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037009452</id>
+      <title>60</title>
+      <s:price currency="CAD">4.63</s:price>
+      <s:sku>CA PSA 37126</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037009452</id>
+      <title>50</title>
+      <s:price currency="CAD">4.86</s:price>
+      <s:sku>CA PSA 37125</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372037009452</id>
+      <title>80</title>
+      <s:price currency="CAD">4.34</s:price>
+      <s:sku>CA PSA 37127</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036976684</id>
+    <published>2019-12-14T22:10:15-05:00</published>
+    <updated>2019-12-14T22:10:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-6-inch-x-non-vacuum-z-x-6-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs Z-X Zirconia Alumina Material 6 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-6-inch-x-non-vacuum-sait-13465124929580.jpg?v=1579678895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            2.77 - 3.27
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-6-inch-x-non-vacuum-z-x-6-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Premium Zirconium Grain</li><li class="extra-info"> Specially formulated X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> Premium - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">6xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Z-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Premium Zirconium Grain Specially formulated X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Stainless</li><h2>Product Information</h2><li class="extra-info">Premium - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Stainless</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_Z-X</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036976684</id>
+      <title>40</title>
+      <s:price currency="CAD">3.27</s:price>
+      <s:sku>CA PSA 37096</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036976684</id>
+      <title>60</title>
+      <s:price currency="CAD">2.94</s:price>
+      <s:sku>CA PSA 37098</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036976684</id>
+      <title>50</title>
+      <s:price currency="CAD">3.12</s:price>
+      <s:sku>CA PSA 37097</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036976684</id>
+      <title>80</title>
+      <s:price currency="CAD">2.77</s:price>
+      <s:sku>CA PSA 37099</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036943916</id>
+    <published>2019-12-14T22:10:10-05:00</published>
+    <updated>2019-12-14T22:10:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-5-inch-x-non-vacuum-z-x-5-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs Z-X Zirconia Alumina Material 5 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-5-inch-x-non-vacuum-sait-13465124732972.jpg?v=1579678862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            1.97 - 2.28
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-5-inch-x-non-vacuum-z-x-5-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Premium Zirconium Grain</li><li class="extra-info"> Specially formulated X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> Premium - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">5xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Z-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Premium Zirconium Grain Specially formulated X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Stainless</li><h2>Product Information</h2><li class="extra-info">Premium - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Stainless</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_5 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_Z-X</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036943916</id>
+      <title>50</title>
+      <s:price currency="CAD">2.18</s:price>
+      <s:sku>CA PSA 37083</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036943916</id>
+      <title>40</title>
+      <s:price currency="CAD">2.28</s:price>
+      <s:sku>CA PSA 37082</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036943916</id>
+      <title>60</title>
+      <s:price currency="CAD">2.07</s:price>
+      <s:sku>CA PSA 37084</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036943916</id>
+      <title>80</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 37085</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036911148</id>
+    <published>2019-12-14T22:10:04-05:00</published>
+    <updated>2019-12-14T22:10:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-20-inch-x-non-vacuum-z-x-20-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs Z-X Zirconia Alumina Material 20 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-20-inch-x-non-vacuum-sait-13465124339756.jpg?v=1579678776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            26.97 - 32.07
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-20-inch-x-non-vacuum-z-x-20-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Premium Zirconium Grain</li><li class="extra-info"> Specially formulated X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> Premium - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">20xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Z-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Premium Zirconium Grain Specially formulated X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Stainless</li><h2>Product Information</h2><li class="extra-info">Premium - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Stainless</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_20 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_Z-X</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036911148</id>
+      <title>40</title>
+      <s:price currency="CAD">32.07</s:price>
+      <s:sku>CA PSA 37236</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036911148</id>
+      <title>80</title>
+      <s:price currency="CAD">26.97</s:price>
+      <s:sku>CA PSA 37239</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036911148</id>
+      <title>50</title>
+      <s:price currency="CAD">30.22</s:price>
+      <s:sku>CA PSA 37237</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036911148</id>
+      <title>60</title>
+      <s:price currency="CAD">28.61</s:price>
+      <s:sku>CA PSA 37238</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036780076</id>
+    <published>2019-12-14T22:09:59-05:00</published>
+    <updated>2019-12-14T22:09:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-12-inch-x-non-vacuum-z-x-12-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs Z-X Zirconia Alumina Material 12 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-12-inch-x-non-vacuum-sait-13465124077612.jpg?v=1579678811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            9.77 - 11.65
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-z-x-zirconia-alumina-material-12-inch-x-non-vacuum-z-x-12-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Premium Zirconium Grain</li><li class="extra-info"> Specially formulated X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> Premium - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">12 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">12xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Z-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Premium Zirconium Grain Specially formulated X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Stainless</li><h2>Product Information</h2><li class="extra-info">Premium - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Stainless</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_12 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_Z-X</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036780076</id>
+      <title>50</title>
+      <s:price currency="CAD">10.95</s:price>
+      <s:sku>CA PSA 37167</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036780076</id>
+      <title>40</title>
+      <s:price currency="CAD">11.65</s:price>
+      <s:sku>CA PSA 37166</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036780076</id>
+      <title>80</title>
+      <s:price currency="CAD">9.77</s:price>
+      <s:sku>CA PSA 2Z-X 80 12XNH</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036780076</id>
+      <title>60</title>
+      <s:price currency="CAD">10.39</s:price>
+      <s:sku>CA PSA 37168</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036649004</id>
+    <published>2019-12-14T22:09:54-05:00</published>
+    <updated>2019-12-14T22:09:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-8-inch-x-non-vacuum-zf-8-inch-non-vacuum"/>
+    <title>Self Adhesive Paper (PSA) Discs ZF Zirconia Alumina Material 8 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-8-inch-x-non-vacuum-sait-13465123815468.jpg?v=1579678654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            1.81 - 2.47
+            <a href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-8-inch-x-non-vacuum-zf-8-inch-non-vacuum">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Best choice for aggressive sanding, preparation, and stock removal</li><li class="extra-info"> Zirconium grain for aggressive material removal and long life Heavy, F-weight paper prevents torn edges which produce deep, uneven random scratches</li><li class="extra-info"> Premium - Paper Discs Hook &amp; Loop</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Paper</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">8xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">ZF</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Best choice for aggressive sanding, preparation, and stock removal Zirconium grain for aggressive material removal and long life Heavy, F-weight paper prevents torn edges which produce deep, uneven random scratches For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">Premium - Paper Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Paper</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_ZF</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036649004</id>
+      <title>40</title>
+      <s:price currency="CAD">2.47</s:price>
+      <s:sku>CA PSA 34140</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036649004</id>
+      <title>80</title>
+      <s:price currency="CAD">1.81</s:price>
+      <s:sku>CA PSA 34143</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036517932</id>
+    <published>2019-12-14T22:09:49-05:00</published>
+    <updated>2019-12-14T22:09:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-6-inch-x-non-vacuum-zf-6-inch-non-vacuum"/>
+    <title>Self Adhesive Paper (PSA) Discs ZF Zirconia Alumina Material 6 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-6-inch-x-non-vacuum-sait-13465123782700.jpg?v=1579678743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            0.99 - 1.36
+            <a href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-6-inch-x-non-vacuum-zf-6-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Best choice for aggressive sanding, preparation, and stock removal</li><li class="extra-info"> Zirconium grain for aggressive material removal and long life Heavy, F-weight paper prevents torn edges which produce deep, uneven random scratches</li><li class="extra-info"> Premium - Paper Discs Hook &amp; Loop</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Paper</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">6xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">ZF</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Best choice for aggressive sanding, preparation, and stock removal Zirconium grain for aggressive material removal and long life Heavy, F-weight paper prevents torn edges which produce deep, uneven random scratches For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">Premium - Paper Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Paper</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_ZF</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036517932</id>
+      <title>40</title>
+      <s:price currency="CAD">1.36</s:price>
+      <s:sku>CA PSA 34130</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036517932</id>
+      <title>80</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>CA PSA 34133</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036517932</id>
+      <title>60</title>
+      <s:price currency="CAD">1.27</s:price>
+      <s:sku>CA PSA 34132</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036517932</id>
+      <title>120</title>
+      <s:price currency="CAD">1.18</s:price>
+      <s:sku>CA PSA 34135</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036386860</id>
+    <published>2019-12-14T22:09:43-05:00</published>
+    <updated>2019-12-14T22:09:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-5-inch-x-non-vacuum-zf-5-inch-non-vacuum"/>
+    <title>Self Adhesive Paper (PSA) Discs ZF Zirconia Alumina Material 5 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-5-inch-x-non-vacuum-sait-13465123749932.jpg?v=1579678620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            0.92 - 1.15
+            <a href="https://egrimesdirect.com/products/self-adhesive-paper-psa-discs-zf-zirconia-alumina-material-5-inch-x-non-vacuum-zf-5-inch-non-vacuum">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Best choice for aggressive sanding, preparation, and stock removal</li><li class="extra-info"> Zirconium grain for aggressive material removal and long life Heavy, F-weight paper prevents torn edges which produce deep, uneven random scratches</li><li class="extra-info"> Premium - Paper Discs Hook &amp; Loop</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Paper</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">5xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">ZF</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Zirconia Alumina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Best choice for aggressive sanding, preparation, and stock removal Zirconium grain for aggressive material removal and long life Heavy, F-weight paper prevents torn edges which produce deep, uneven random scratches For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">Premium - Paper Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Paper</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_5 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_ZF</s:tag>
+    <s:tag>Mineral_Zirconia Alumina</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036386860</id>
+      <title>40</title>
+      <s:price currency="CAD">1.15</s:price>
+      <s:sku>CA PSA 34110</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036386860</id>
+      <title>60</title>
+      <s:price currency="CAD">1.03</s:price>
+      <s:sku>CA PSA 34112</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036386860</id>
+      <title>120</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 34115</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036386860</id>
+      <title>80</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 34113</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036255788</id>
+    <published>2019-12-14T22:09:25-05:00</published>
+    <updated>2019-12-14T22:09:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-9-inch-x-non-vacuum-ta-x-9-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 9 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-9-inch-x-non-vacuum-sait-13465123455020.jpg?v=1579678326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            4.11 - 6.09
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-9-inch-x-non-vacuum-ta-x-9-inch-non-vacuum">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">9 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">9xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_9 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>24</title>
+      <s:price currency="CAD">6.09</s:price>
+      <s:sku>CA PSA 35136</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>36</title>
+      <s:price currency="CAD">5.29</s:price>
+      <s:sku>CA PSA 35137</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>40</title>
+      <s:price currency="CAD">4.93</s:price>
+      <s:sku>CA PSA 35138</s:sku>
+      <s:grams>61</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>50</title>
+      <s:price currency="CAD">4.74</s:price>
+      <s:sku>CA PSA 35139</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>60</title>
+      <s:price currency="CAD">4.47</s:price>
+      <s:sku>CA PSA 35140 60 9XNH</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>80</title>
+      <s:price currency="CAD">4.27</s:price>
+      <s:sku>CA PSA 35141</s:sku>
+      <s:grams>47</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>100</title>
+      <s:price currency="CAD">4.11</s:price>
+      <s:sku>CA PSA 35142</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>120</title>
+      <s:price currency="CAD">4.11</s:price>
+      <s:sku>CA PSA 35143</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>150</title>
+      <s:price currency="CAD">4.11</s:price>
+      <s:sku>CA PSA 35144</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>180</title>
+      <s:price currency="CAD">4.11</s:price>
+      <s:sku>CA PSA 35145</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>220</title>
+      <s:price currency="CAD">4.11</s:price>
+      <s:sku>CA PSA 35146</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>240</title>
+      <s:price currency="CAD">4.11</s:price>
+      <s:sku>CA PSA 35147</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036255788</id>
+      <title>320</title>
+      <s:price currency="CAD">4.11</s:price>
+      <s:sku>CA PSA 35149</s:sku>
+      <s:grams>32</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036190252</id>
+    <published>2019-12-14T22:09:16-05:00</published>
+    <updated>2019-12-14T22:09:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-8-inch-x-non-vacuum-ta-x-8-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 8 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-8-inch-x-non-vacuum-sait-13465123192876.jpg?v=1579678380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            3.22 - 4.82
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-8-inch-x-non-vacuum-ta-x-8-inch-non-vacuum">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">8xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>24</title>
+      <s:price currency="CAD">4.82</s:price>
+      <s:sku>CA PSA 35122</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>36</title>
+      <s:price currency="CAD">4.18</s:price>
+      <s:sku>CA PSA 35123</s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>40</title>
+      <s:price currency="CAD">3.97</s:price>
+      <s:sku>CA PSA 35124</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>50</title>
+      <s:price currency="CAD">3.73</s:price>
+      <s:sku>CA PSA 35125</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>60</title>
+      <s:price currency="CAD">3.57</s:price>
+      <s:sku>CA PSA 35126</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>80</title>
+      <s:price currency="CAD">3.41</s:price>
+      <s:sku>CA PSA 35127</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>100</title>
+      <s:price currency="CAD">3.22</s:price>
+      <s:sku>CA PSA 35128</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>120</title>
+      <s:price currency="CAD">3.22</s:price>
+      <s:sku>CA PSA 35129</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>150</title>
+      <s:price currency="CAD">3.22</s:price>
+      <s:sku>CA PSA 35130</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>180</title>
+      <s:price currency="CAD">3.22</s:price>
+      <s:sku>CA PSA 35131</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>220</title>
+      <s:price currency="CAD">3.22</s:price>
+      <s:sku>CA PSA 35132</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>240</title>
+      <s:price currency="CAD">3.22</s:price>
+      <s:sku>CA PSA 35133</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036190252</id>
+      <title>320</title>
+      <s:price currency="CAD">3.22</s:price>
+      <s:sku>CA PSA 35135</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036124716</id>
+    <published>2019-12-14T22:09:09-05:00</published>
+    <updated>2019-12-14T22:09:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-7-inch-x-non-vacuum-ta-x-7-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 7 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-7-inch-x-non-vacuum-sait-13465123094572.jpg?v=1579678258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            2.86 - 4.18
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-7-inch-x-non-vacuum-ta-x-7-inch-non-vacuum">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>24</title>
+      <s:price currency="CAD">4.18</s:price>
+      <s:sku>CA PSA 35108</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>36</title>
+      <s:price currency="CAD">3.64</s:price>
+      <s:sku>CA PSA 35109</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>40</title>
+      <s:price currency="CAD">3.41</s:price>
+      <s:sku>CA PSA 35110</s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>50</title>
+      <s:price currency="CAD">3.27</s:price>
+      <s:sku>CA PSA 35111</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>80</title>
+      <s:price currency="CAD">2.98</s:price>
+      <s:sku>CA PSA 35113</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>100</title>
+      <s:price currency="CAD">2.86</s:price>
+      <s:sku>CA PSA 35114</s:sku>
+      <s:grams>24</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>150</title>
+      <s:price currency="CAD">2.86</s:price>
+      <s:sku>CA PSA 35116</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>180</title>
+      <s:price currency="CAD">2.86</s:price>
+      <s:sku>CA PSA 35117</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>220</title>
+      <s:price currency="CAD">2.86</s:price>
+      <s:sku>CA PSA 35118</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>320</title>
+      <s:price currency="CAD">2.86</s:price>
+      <s:sku>CA PSA 35121</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036124716</id>
+      <title>240</title>
+      <s:price currency="CAD">2.86</s:price>
+      <s:sku>CA PSA 35119</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036091948</id>
+    <published>2019-12-14T22:09:01-05:00</published>
+    <updated>2019-12-14T22:09:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-6-inch-x-non-vacuum-ta-x-6-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 6 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-6-inch-x-non-vacuum-sait-13465123061804.jpg?v=1579678170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            1.97 - 2.80
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-6-inch-x-non-vacuum-ta-x-6-inch-non-vacuum">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">6xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>24</title>
+      <s:price currency="CAD">2.80</s:price>
+      <s:sku>CA PSA 35094</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>36</title>
+      <s:price currency="CAD">2.47</s:price>
+      <s:sku>CA PSA 35095</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>40</title>
+      <s:price currency="CAD">2.30</s:price>
+      <s:sku>CA PSA 35096</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>50</title>
+      <s:price currency="CAD">2.21</s:price>
+      <s:sku>CA PSA 35097</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>60</title>
+      <s:price currency="CAD">2.14</s:price>
+      <s:sku>CA PSA 35098</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>80</title>
+      <s:price currency="CAD">2.02</s:price>
+      <s:sku>CA PSA 35099</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>100</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 35100</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>120</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 35101</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>150</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 35102</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>180</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 35103</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>220</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 35104</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>240</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 35105</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036091948</id>
+      <title>320</title>
+      <s:price currency="CAD">1.97</s:price>
+      <s:sku>CA PSA 35107</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372036059180</id>
+    <published>2019-12-14T22:08:54-05:00</published>
+    <updated>2019-12-14T22:08:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-5-inch-x-non-vacuum-ta-x-5-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 5 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-5-inch-x-non-vacuum-sait-13465123029036.jpg?v=1579678293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            1.41 - 2.02
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-5-inch-x-non-vacuum-ta-x-5-inch-non-vacuum">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">5xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_5 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>24</title>
+      <s:price currency="CAD">2.02</s:price>
+      <s:sku>CA PSA 35080</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>36</title>
+      <s:price currency="CAD">1.74</s:price>
+      <s:sku>CA PSA 35081</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>40</title>
+      <s:price currency="CAD">1.71</s:price>
+      <s:sku>CA PSA 35082</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>50</title>
+      <s:price currency="CAD">1.55</s:price>
+      <s:sku>CA PSA 35083</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>60</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku>CA PSA 35084 60 5XNH</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>80</title>
+      <s:price currency="CAD">1.48</s:price>
+      <s:sku>CA PSA 35085 80 5XNH</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>100</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35086 100 5XNH</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>120</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35087</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>150</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35088 150 5XNH</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>180</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35089</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>220</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35090</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>240</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35091</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372036059180</id>
+      <title>320</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35093</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035960876</id>
+    <published>2019-12-14T22:08:46-05:00</published>
+    <updated>2019-12-14T22:08:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-4-inch-x-non-vacuum-ta-x-4-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 4 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-4-inch-x-non-vacuum-sait-13465122668588.jpg?v=1579678054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            0.92 - 1.41
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-4-inch-x-non-vacuum-ta-x-4-inch-non-vacuum">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">4xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>24</title>
+      <s:price currency="CAD">1.41</s:price>
+      <s:sku>CA PSA 35060</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>36</title>
+      <s:price currency="CAD">1.24</s:price>
+      <s:sku>CA PSA 35061</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>40</title>
+      <s:price currency="CAD">1.10</s:price>
+      <s:sku>CA PSA 35062</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>50</title>
+      <s:price currency="CAD">1.10</s:price>
+      <s:sku>CA PSA 35063</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>60</title>
+      <s:price currency="CAD">0.99</s:price>
+      <s:sku>CA PSA 35064 60 4XNH</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>80</title>
+      <s:price currency="CAD">0.96</s:price>
+      <s:sku>CA PSA 35065 80 4XNH</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>100</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 35066</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>150</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 35068</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>180</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 35069</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>220</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 35070</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>240</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 35071</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035960876</id>
+      <title>320</title>
+      <s:price currency="CAD">0.92</s:price>
+      <s:sku>CA PSA 35073</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035928108</id>
+    <published>2019-12-14T22:08:39-05:00</published>
+    <updated>2019-12-14T22:08:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-3-inch-x-non-vacuum-ta-x-3-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 3 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-3-inch-x-non-vacuum-sait-13912332501036.jpg?v=1627466304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            0.57 - 0.82
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-3-inch-x-non-vacuum-ta-x-3-inch-non-vacuum">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">3xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_3 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>24</title>
+      <s:price currency="CAD">0.82</s:price>
+      <s:sku>CA PSA 35040</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>36</title>
+      <s:price currency="CAD">0.70</s:price>
+      <s:sku>CA PSA 35041</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>40</title>
+      <s:price currency="CAD">0.68</s:price>
+      <s:sku>CA PSA 35042</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>50</title>
+      <s:price currency="CAD">0.64</s:price>
+      <s:sku>CA PSA 35043</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>60</title>
+      <s:price currency="CAD">0.63</s:price>
+      <s:sku>CA PSA 35044</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>80</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA PSA 35045</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>100</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA PSA 35046</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>120</title>
+      <s:price currency="CAD">0.59</s:price>
+      <s:sku>CA PSA 35047</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>150</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA PSA 35048</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>180</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA PSA 35049</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>220</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA PSA 35050</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>240</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA PSA 35051</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035928108</id>
+      <title>320</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA PSA 35053</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035895340</id>
+    <published>2019-12-14T22:08:33-05:00</published>
+    <updated>2019-12-14T22:08:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-20-inch-x-non-vacuum-ta-x-20-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 20 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-20-inch-x-non-vacuum-sait-13465122471980.jpg?v=1579678137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            19.92 - 25.65
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-20-inch-x-non-vacuum-ta-x-20-inch-non-vacuum">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">20xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_20 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035895340</id>
+      <title>36</title>
+      <s:price currency="CAD">25.65</s:price>
+      <s:sku>CA PSA TAX 36 20XNH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035895340</id>
+      <title>40</title>
+      <s:price currency="CAD">24.72</s:price>
+      <s:sku>CA PSA TAX 40 20XNH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035895340</id>
+      <title>50</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>CA PSA 35237</s:sku>
+      <s:grams>292</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035895340</id>
+      <title>60</title>
+      <s:price currency="CAD">21.73</s:price>
+      <s:sku>CA PSA TAX 60 20XNH</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035895340</id>
+      <title>80</title>
+      <s:price currency="CAD">20.79</s:price>
+      <s:sku>CA PSA 35239</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035895340</id>
+      <title>100</title>
+      <s:price currency="CAD">19.92</s:price>
+      <s:sku>CA PSA 35240</s:sku>
+      <s:grams>201</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035895340</id>
+      <title>120</title>
+      <s:price currency="CAD">19.92</s:price>
+      <s:sku>CA PSA 35241</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035829804</id>
+    <published>2019-12-14T22:08:25-05:00</published>
+    <updated>2019-12-14T22:08:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-2-inch-x-non-vacuum-ta-x-2-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 2 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-2-inch-x-non-vacuum-sait-13465122373676.jpg?v=1579678020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            0.33 - 0.45
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-2-inch-x-non-vacuum-ta-x-2-inch-non-vacuum">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">2xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_2 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>36</title>
+      <s:price currency="CAD">0.45</s:price>
+      <s:sku>CA PSA 35021</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>40</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku>CA PSA 35022</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>50</title>
+      <s:price currency="CAD">0.40</s:price>
+      <s:sku>CA PSA 35023</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>60</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35024</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>80</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35025</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>100</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35026</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>120</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35027</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>150</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35028</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>180</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35029</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>240</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35031</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035829804</id>
+      <title>320</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>CA PSA 35033</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035797036</id>
+    <published>2019-12-14T22:08:20-05:00</published>
+    <updated>2019-12-14T22:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-18-inch-x-non-vacuum-ta-x-18-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 18 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-18-inch-x-non-vacuum-sait-13465122144300.jpg?v=1579677848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            16.91 - 20.81
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-18-inch-x-non-vacuum-ta-x-18-inch-non-vacuum">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">18 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">18xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_18 Inch</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035797036</id>
+      <title>36</title>
+      <s:price currency="CAD">20.81</s:price>
+      <s:sku>CA PSA 35221</s:sku>
+      <s:grams>288</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035797036</id>
+      <title>40</title>
+      <s:price currency="CAD">19.60</s:price>
+      <s:sku>CA PSA 35222</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035797036</id>
+      <title>50</title>
+      <s:price currency="CAD">18.63</s:price>
+      <s:sku>CA PSA 35223</s:sku>
+      <s:grams>231</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035797036</id>
+      <title>60</title>
+      <s:price currency="CAD">17.64</s:price>
+      <s:sku>CA PSA 35224</s:sku>
+      <s:grams>206</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035797036</id>
+      <title>80</title>
+      <s:price currency="CAD">16.91</s:price>
+      <s:sku>CA PSA 35225</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035731500</id>
+    <published>2019-12-14T22:08:14-05:00</published>
+    <updated>2019-12-14T22:08:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-16-inch-x-non-vacuum-ta-x-16-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 16 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-16-inch-x-non-vacuum-sait-13465122111532.jpg?v=1579677937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            12.87 - 16.89
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-16-inch-x-non-vacuum-ta-x-16-inch-non-vacuum">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">16xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_16 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035731500</id>
+      <title>36</title>
+      <s:price currency="CAD">16.89</s:price>
+      <s:sku>CA PSA TAX 36 16XNH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035731500</id>
+      <title>40</title>
+      <s:price currency="CAD">15.55</s:price>
+      <s:sku>CA PSA 35208</s:sku>
+      <s:grams>201</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035731500</id>
+      <title>50</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku>CA PSA TAX 50 16XNH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035731500</id>
+      <title>60</title>
+      <s:price currency="CAD">13.96</s:price>
+      <s:sku>CA PSA TAX 60 16XNH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035731500</id>
+      <title>80</title>
+      <s:price currency="CAD">13.39</s:price>
+      <s:sku>CA PSA 35211 80 16XNH</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035731500</id>
+      <title>120</title>
+      <s:price currency="CAD">12.87</s:price>
+      <s:sku>CA PSA 35213</s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035698732</id>
+    <published>2019-12-14T22:08:09-05:00</published>
+    <updated>2019-12-14T22:08:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-15-inch-x-non-vacuum-ta-x-15-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 15 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-15-inch-x-non-vacuum-sait-13465122078764.jpg?v=1579677905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            11.79 - 14.56
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-15-inch-x-non-vacuum-ta-x-15-inch-non-vacuum">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">15 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">15xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_15 Inch</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035698732</id>
+      <title>36</title>
+      <s:price currency="CAD">14.56</s:price>
+      <s:sku>CA PSA 35193</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035698732</id>
+      <title>40</title>
+      <s:price currency="CAD">13.68</s:price>
+      <s:sku>CA PSA 35194</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035698732</id>
+      <title>50</title>
+      <s:price currency="CAD">13.01</s:price>
+      <s:sku>CA PSA 35195</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035698732</id>
+      <title>60</title>
+      <s:price currency="CAD">12.31</s:price>
+      <s:sku>CA PSA 35196</s:sku>
+      <s:grams>147</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035698732</id>
+      <title>80</title>
+      <s:price currency="CAD">11.79</s:price>
+      <s:sku>CA PSA 35197</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035665964</id>
+    <published>2019-12-14T22:08:03-05:00</published>
+    <updated>2019-12-14T22:08:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-14-inch-x-non-vacuum-ta-x-14-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 14 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-14-inch-x-non-vacuum-sait-13465121980460.jpg?v=1579677782"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            10.34 - 12.69
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-14-inch-x-non-vacuum-ta-x-14-inch-non-vacuum">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">14 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">14xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_14 Inch</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035665964</id>
+      <title>36</title>
+      <s:price currency="CAD">12.69</s:price>
+      <s:sku>CA PSA TAX 36 14XNH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035665964</id>
+      <title>40</title>
+      <s:price currency="CAD">12.03</s:price>
+      <s:sku>CA PSA 35180</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035665964</id>
+      <title>50</title>
+      <s:price currency="CAD">11.33</s:price>
+      <s:sku>CA PSA 35181</s:sku>
+      <s:grams>142</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035665964</id>
+      <title>60</title>
+      <s:price currency="CAD">10.76</s:price>
+      <s:sku>CA PSA 35182</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035665964</id>
+      <title>80</title>
+      <s:price currency="CAD">10.34</s:price>
+      <s:sku>CA PSA 35183</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035502124</id>
+    <published>2019-12-14T22:07:55-05:00</published>
+    <updated>2019-12-14T22:07:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-12-inch-x-non-vacuum-ta-x-12-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 12 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-12-inch-x-non-vacuum-sait-13465121914924.jpg?v=1579677701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            7.35 - 10.81
+            <a href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-12-inch-x-non-vacuum-ta-x-12-inch-non-vacuum">(13 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">12 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">12xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_12 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>24</title>
+      <s:price currency="CAD">10.81</s:price>
+      <s:sku>CA PSA 35164</s:sku>
+      <s:grams>125</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>36</title>
+      <s:price currency="CAD">9.40</s:price>
+      <s:sku>CA PSA 35165 36 12XNH</s:sku>
+      <s:grams>121</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>40</title>
+      <s:price currency="CAD">8.91</s:price>
+      <s:sku>CA PSA 35166</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>50</title>
+      <s:price currency="CAD">8.43</s:price>
+      <s:sku>CA PSA 35167</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>60</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>CA PSA 35168</s:sku>
+      <s:grams>87</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>80</title>
+      <s:price currency="CAD">7.68</s:price>
+      <s:sku>CA PSA 35169 80 12XNH</s:sku>
+      <s:grams>74</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>100</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>CA PSA 35170</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>120</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>CA PSA 35171 120 12XNH</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>150</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>CA PSA 35172</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>180</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>CA PSA 35173</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>220</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>CA PSA 35174</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>240</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>CA PSA 35175</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035502124</id>
+      <title>320</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>CA PSA 35177</s:sku>
+      <s:grams>54</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4372035371052</id>
+    <published>2019-12-14T22:07:50-05:00</published>
+    <updated>2019-12-14T22:07:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-1-1-2-inch-x-non-vacuum-ta-x-1-1-2-inch-non-vacuum"/>
+    <title>Self Adhesive Cloth (PSA) Discs TA-X Aluminum Oxide Material 1-1/2 Inch x Non-Vacuum -  Sait</title>
+    <s:type>PSA Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/psa-discs-self-adhesive-cloth-psa-discs-ta-x-aluminum-oxide-material-1-1-2-inch-x-non-vacuum-sait-13465121783852.jpg?v=1579677815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>PSA Discs<br>
+        <strong>Price: </strong>
+            0.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Aluminum oxide grain</li><li class="extra-info"> Strong X-weight Egyptian cotton cloth backing</li><li class="extra-info"> Closed coat structure</li><li class="extra-info"> General Purpose - Cloth Discs Individual PSA</li>[/shortdesc] <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Cloth</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">1-1/2xNH</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TA-X</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">PSA Discs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Vacuum Type </td>
+<td class="egrimes">Non-Vacuum</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Aluminum Oxide Grain Strong X-weight Egyptian cotton cloth backing Closed coat structure For use on: Metal, Wood</li><h2>Product Information</h2><li class="extra-info">General Purpose - Cloth Discs Individual PSA</li><h2>Suggested Application</h2><li class="extra-info">For use on: Metal, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Cloth</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA PSA</s:tag>
+    <s:tag>Diameter_1-1/2 Inch</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Material_TA-X</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Vacuum Type_Non-Vacuum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035371052</id>
+      <title>80</title>
+      <s:price currency="CAD">0.21</s:price>
+      <s:sku>CA PSA 35005 80 1-1/2XNH</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035371052</id>
+      <title>50</title>
+      <s:price currency="CAD">0.21</s:price>
+      <s:sku>CA PSA 35003</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4372035371052</id>
+      <title>60</title>
+      <s:price currency="CAD">0.21</s:price>
+      <s:sku>CA PSA 35004</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

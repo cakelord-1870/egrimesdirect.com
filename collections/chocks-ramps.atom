@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/chocks-ramps.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T14:21:20-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371453484</id>
+    <published>2019-05-11T14:21:20-04:00</published>
+    <updated>2019-05-11T14:21:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7201"/>
+    <title>Ideal Innovations 60-7201  - 88-8Xl Laminated Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7201-88-8xl-laminated-wheel-chock-12749250068524.jpg?v=1579376042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            173.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7201 88-8XL Laminated Wheel Chock is made from used truck tire laminates compressed and fastened under high pressure.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Galvanized steel sides.</li><li class="extra-info"> Extra Large Wheel Chock</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Rubber</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371453484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">173.12</s:price>
+      <s:sku>FM CCK 60-7201</s:sku>
+      <s:grams>23586</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371420716</id>
+    <published>2019-05-11T14:21:20-04:00</published>
+    <updated>2019-05-11T14:21:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7200"/>
+    <title>Ideal Innovations 60-7200  - 88-8 Laminated Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7200-88-8-laminated-wheel-chock-12749250199596.jpg?v=1579375881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            48.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7200 88-8 Laminated Wheel Chock is made of used truck tire laminates and has galvanized steel sides.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Used truck tire laminates.</li><li class="extra-info"> Galvanized steel sides.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Rubber</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371420716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.48</s:price>
+      <s:sku>FM CCK 60-7200</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371387948</id>
+    <published>2019-05-11T14:21:20-04:00</published>
+    <updated>2019-05-11T14:21:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7204"/>
+    <title>Ideal Innovations 60-7204  - 68-9E Double-Sided Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7204-68-9e-double-sided-wheel-chock-12749250134060.jpg?v=1579376122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            23.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7204 68-9E Rubber Wheel Chock with Eye Hook has a straight-sided triangular profile that reduces the risk of unwanted movement of parked trucks, warehouse equipment, tractor trailers, and box trucks with tire diameters of 17.5 Inch to 22.5 Inch</li><li class="extra-info">The black molded natural rubber construction provides a durable and economic option for securing parked vehicles because the chock's treads grip the wheels to prevent slippage</li><li class="extra-info">When used individually, the chock can hold a parked vehicle on a grade up to 8 to 9%</li><li class="extra-info">When used in a pair, the chocks can hold a parked vehicle on a grade up to 20% (second chock sold separately)</li><li class="extra-info">The attached eye hook has a 7/8 Inch inside diameter for tethering with a rope or a chain to prevent removal from the area</li><li class="extra-info">Constructed from black natural rubber, the chock measures 6 x 8 x 9 inches (H x W x D) and weighs 8 pounds</li><li class="extra-info">This chock meets Occupational Safety and Health Administration (OSHA) regulation 1910.178 (k).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Straight-sided wedge shape reduces the risk of unwanted movement of parked trucks and warehouse equipment with tire diameters of 17.5 Inch to 22.5 Inch.</li><li class="extra-info"> Treads on chock's surface grip the wheel to prevent slippage.</li><li class="extra-info"> Attached eye hook accepts a rope and chain to secure the chock an area.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Rubber</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371387948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.68</s:price>
+      <s:sku>FM CCK 60-7204</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371355180</id>
+    <published>2019-05-11T14:21:19-04:00</published>
+    <updated>2019-05-11T14:21:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7206"/>
+    <title>Ideal Innovations 60-7206  - Wc-5810 Double-Sided Wheel Chock, Smooth</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7206-wc-5810-double-sided-wheel-chock-smooth-12749250101292.jpg?v=1579376076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            45.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The WC-5810 wheel chock helps prevent parked vehicles from moving, is made of 80 durometer rubber for hardness and durability, and fits many tires with a radius of up to 22.5 inches (22.5R)</li><li class="extra-info">The chock has a U-shaped hook for attaching an anchor chain or rope</li><li class="extra-info">It measures 5 x 8 x 10 inches (H x W x L)</li><li class="extra-info">(H is height, the vertical distance from lowest to highest point</li><li class="extra-info"> W is width, the horizontal distance from left to right</li><li class="extra-info"> L is length, the horizontal distance from front to back.) This chock is sold individually, but is recommended for use in pairs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">India</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Complete system weight is 34 lbs.</li><li class="extra-info"> Hook for chain fastening.</li><li class="extra-info"> 80 Durometer Rubber.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Rubber</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371355180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.71</s:price>
+      <s:sku>FM CCK 60-7206</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371322412</id>
+    <published>2019-05-11T14:21:16-04:00</published>
+    <updated>2019-05-11T14:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7243"/>
+    <title>Ideal Innovations 60-7243  - Wheel Chock Standard Sign 12 InchX24 Inch English</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7243-wheel-chock-standard-sign-12-inchx24-inch-english-12749249937452.jpg?v=1579376248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            40.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7243 Wheel Chock Mirror English Sign provides a visual reminder to chock wheels before loading or unloading</li><li class="extra-info">Note: This product should be bundled with a wall bracket, chain and anchors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">CAUTION – CHOCK WHEELS  before loading – unloading</li><li class="extra-info"> Yellow warning color</li><li class="extra-info"> NOTE: This product should be bundled with a sign, wall bracket, chain &amp; anchors.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371322412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.85</s:price>
+      <s:sku>FM CCK 60-7243</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371289644</id>
+    <published>2019-05-11T14:21:15-04:00</published>
+    <updated>2019-05-11T14:21:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7210"/>
+    <title>Ideal Innovations 60-7210  - Sc-8 Aluminum Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7210-sc-8-aluminum-wheel-chock-12749250166828.jpg?v=1579376155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            62.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7210 SC-8 Aluminum Wheel Chock has a claw-like bottom that assures dependable grip on any ground surface conditions</li><li class="extra-info">It is light weight and reliable.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Aluminum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Chock fits snug under tire contour for maximum holding power</li><li class="extra-info"> Often preferred for snow and ice conditions.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Aluminum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371289644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.33</s:price>
+      <s:sku>FM CCK 60-7210</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371256876</id>
+    <published>2019-05-11T14:21:15-04:00</published>
+    <updated>2019-05-11T14:21:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7242"/>
+    <title>Ideal Innovations 60-7242  - Wheel Chock Econo English Sign</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7242-wheel-chock-econo-english-sign-12749249970220.jpg?v=1579376281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            29.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7242 Wheel Chock Econo English Sign provides a visual reminder to chock wheels before loading or unloading</li><li class="extra-info">Note: This product should be bundled with a wall bracket, chain and anchors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">CAUTION – CHOCK WHEELS  before loading – unloading</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371256876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.64</s:price>
+      <s:sku>FM CCK 60-7242</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371224108</id>
+    <published>2019-05-11T14:21:15-04:00</published>
+    <updated>2019-05-11T14:21:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7211"/>
+    <title>Ideal Innovations 60-7211  - Sc-6 Aluminum Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7211-sc-6-aluminum-wheel-chock-12749250035756.jpg?v=1579376314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            40.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7211 SC-6 Aluminum Wheel Chock is lightweight and is an excellent surface grip on the ground and the tire.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Aluminum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Lightweight.</li><li class="extra-info"> Excellent surface grip on tire and ground.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Aluminum</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371224108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.06</s:price>
+      <s:sku>FM CCK 60-7211</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371191340</id>
+    <published>2019-05-11T14:21:15-04:00</published>
+    <updated>2019-05-11T14:21:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7250"/>
+    <title>Ideal Innovations 60-7250  - Cmh-94 Rubber Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7250-cmh-94-rubber-wheel-chock-12749249904684.jpg?v=1579376364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            35.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7250 CMH-94 Rubber Wheel Chock is made of 80 Durometer rubber and has a strong, integral handle.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">One piece of solid rubber.</li><li class="extra-info"> Integral handle.</li><li class="extra-info"> 80 durometer rubber.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Rubber</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371191340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.48</s:price>
+      <s:sku>FM CCK 60-7250</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371125804</id>
+    <published>2019-05-11T14:21:11-04:00</published>
+    <updated>2019-05-11T14:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7252"/>
+    <title>Ideal Innovations 60-7252  - Wheel Chock Wall Bracket</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7252-wheel-chock-wall-bracket-12749249708076.jpg?v=1579376397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            32.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7252 Wheel Chock Wall Bracket is made of 1/4 Inch thick steel with 7/16 Inch diameter mounting holes</li><li class="extra-info">It provides convenient storage for wheel chocks</li><li class="extra-info">Note: This product should be bundled with a sign, chain and anchors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Steel</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Provides convenient storage for wheel chocks.</li><li class="extra-info"> 7/16 Inch diameter mounting holes.</li><li class="extra-info"> Made of 1/4 Inch thick steel.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Steel</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371125804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.54</s:price>
+      <s:sku>FM CCK 60-7252</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371093036</id>
+    <published>2019-05-11T14:21:11-04:00</published>
+    <updated>2019-05-11T14:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7258"/>
+    <title>Ideal Innovations 60-7258  - Mwc-32 Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7258-mwc-32-wheel-chock-12749249740844.jpg?v=1579376485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            23.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7258 MWC-32 Wheel Chock is made of 80 Durometer rubber and has good stability over others in this class.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Good stability over others in this class.</li><li class="extra-info"> 80 durometer rubber.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Rubber</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371093036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.74</s:price>
+      <s:sku>FM CCK 60-7258</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371060268</id>
+    <published>2019-05-11T14:21:11-04:00</published>
+    <updated>2019-05-11T14:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7260"/>
+    <title>Ideal Innovations 60-7260  - 68-9U Rubber Chock With U-Handle</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7260-68-9u-rubber-chock-with-u-handle-12749249773612.jpg?v=1579376519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            35.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7260 68-9U Rubber Wheel Chock with U-Handle.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Made from solid rubber.</li><li class="extra-info"> Comes with U Handle.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Rubber</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371060268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.05</s:price>
+      <s:sku>FM CCK 60-7260</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813371027500</id>
+    <published>2019-05-11T14:21:11-04:00</published>
+    <updated>2019-05-11T14:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7284"/>
+    <title>Ideal Innovations 60-7284  - Ic-10 Ice Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7284-ic-10-ice-chock-12749249675308.jpg?v=1579376602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovation's 60-7284 IC-10 Ice Chock has a tooth-like bottom that grips ice and slippery ground surfaces with east</li><li class="extra-info">It's made of formed steel and powder coated yellow for high visibility.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Steel</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Powder coated yellow for high visibility.</li><li class="extra-info"> Made from formed steel.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Steel</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813371027500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>FM CCK 60-7284</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813370929196</id>
+    <published>2019-05-11T14:21:08-04:00</published>
+    <updated>2019-05-11T14:21:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-7290"/>
+    <title>Ideal Innovations 60-7290  - Cbi-087 Ductile Iron Wheel Chock</title>
+    <s:type>Wheel Chocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wheel-chocks-ideal-innovations-60-7290-cbi-087-ductile-iron-wheel-chock-12749249642540.jpg?v=1579376551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Wheel Chocks<br>
+        <strong>Price: </strong>
+            55.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations 60-7290 CBI-087 Ductile Iron Wheel Chock is made from cast ductile iron for impressive strength.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Cast Iron</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wheel Chocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For increased safety - recommend in pairs.</li><li class="extra-info"> Painted yellow for high visibility.</li><li class="extra-info"> Made from cast ductile iron.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>FM</s:tag>
+    <s:tag>FM CCK</s:tag>
+    <s:tag>Material_Cast Iron</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813370929196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.39</s:price>
+      <s:sku>FM CCK 60-7290</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/snagging-wheels-cups-cones-plugs.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T11:45:56-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813121171500</id>
+    <published>2019-05-11T11:45:56-04:00</published>
+    <updated>2019-05-11T11:45:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523436"/>
+    <title>JET 523436  - 1-1/2 X 3 X 5/8-11Nc T16 Resin Bond Plugstone 523436</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523436-1-1-2-x-3-x-5-8-11nc-t16-resin-bond-plugstone-523436-12748660539436.jpg?v=1579387684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            15.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 x 3 x 5/8-11NC T16 Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 24,200 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813121171500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.86</s:price>
+      <s:sku>BA SNW 523436</s:sku>
+      <s:grams>166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813113831468</id>
+    <published>2019-05-11T11:43:10-04:00</published>
+    <updated>2019-05-11T11:43:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523440"/>
+    <title>JET 523440  - 1-1/2 X 3 X 5/8-11Nc T18R Resin Bond Plugstone 523440</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523440-1-1-2-x-3-x-5-8-11nc-t18r-resin-bond-plugstone-523440-12748638224428.jpg?v=1579387651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            17.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 x 3 x 5/8-11NC T18R Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 24,200 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813113831468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.06</s:price>
+      <s:sku>BA SNW 523440</s:sku>
+      <s:grams>203</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813109014572</id>
+    <published>2019-05-11T11:41:19-04:00</published>
+    <updated>2019-05-11T11:41:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523439"/>
+    <title>JET 523439  - 1-1/2 X 3 X 5/8-11Nc T18 Resin Bond Plugstone 523439</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523439-1-1-2-x-3-x-5-8-11nc-t18-resin-bond-plugstone-523439-12748626886700.jpg?v=1579387591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            17.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 x 3 x 5/8-11NC T18 Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 24,200 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813109014572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.06</s:price>
+      <s:sku>BA SNW 523439</s:sku>
+      <s:grams>243</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813108293676</id>
+    <published>2019-05-11T11:41:02-04:00</published>
+    <updated>2019-05-11T11:41:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523446"/>
+    <title>JET 523446  - 2 X 3 X 5/8-11Nc T16 Resin Bond Plugstone 523446</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523446-2-x-3-x-5-8-11nc-t16-resin-bond-plugstone-523446-12748623937580.jpg?v=1579387796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            19.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 x 3 x 5/8-11NC T16 Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 18,100 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813108293676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.02</s:price>
+      <s:sku>BA SNW 523446</s:sku>
+      <s:grams>257</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813097644076</id>
+    <published>2019-05-11T11:37:00-04:00</published>
+    <updated>2019-05-11T11:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523449"/>
+    <title>JET 523449  - 2 X 3 X 5/8-11Nc T18 Resin Bond Plugstone 523449</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523449-2-x-3-x-5-8-11nc-t18-resin-bond-plugstone-523449-12748590055468.jpg?v=1579387829"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            24.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 x 3 x 5/8-11NC T18 Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 18,100 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813097644076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.91</s:price>
+      <s:sku>BA SNW 523449</s:sku>
+      <s:grams>377</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813097087020</id>
+    <published>2019-05-11T11:36:44-04:00</published>
+    <updated>2019-05-11T11:36:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523450"/>
+    <title>JET 523450  - 2 X 3 X 5/8-11Nc T18R Resin Bond Plugstone 523450</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523450-2-x-3-x-5-8-11nc-t18r-resin-bond-plugstone-523450-12748588875820.jpg?v=1579387763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            24.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 x 3 x 5/8-11NC T18R Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 18,100 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813097087020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.52</s:price>
+      <s:sku>BA SNW 523450</s:sku>
+      <s:grams>385</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813089058860</id>
+    <published>2019-05-11T11:33:25-04:00</published>
+    <updated>2019-05-11T11:33:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523455"/>
+    <title>JET 523455  - 2 X 4 X 5/8-11Nc T18R Resin Bond Plugstone 523455</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523455-2-x-4-x-5-8-11nc-t18r-resin-bond-plugstone-523455-12748564004908.jpg?v=1579387918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            30.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 x 4 x 5/8-11NC T18R Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 18,100 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813089058860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.84</s:price>
+      <s:sku>BA SNW 523455</s:sku>
+      <s:grams>533</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813087354924</id>
+    <published>2019-05-11T11:32:56-04:00</published>
+    <updated>2019-05-11T11:32:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523454"/>
+    <title>JET 523454  - 2 X 4 X 5/8-11Nc T18 Resin Bond Plugstone 523454</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523454-2-x-4-x-5-8-11nc-t18-resin-bond-plugstone-523454-12748559941676.jpg?v=1579387887"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            34.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 x 4 x 5/8-11NC T18 Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 18,100 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813087354924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.28</s:price>
+      <s:sku>BA SNW 523454</s:sku>
+      <s:grams>569</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813079654444</id>
+    <published>2019-05-11T11:29:50-04:00</published>
+    <updated>2019-05-11T11:29:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523206"/>
+    <title>JET 523206  - 4 X 2 X 5/8-11Nc C8 T11 Resin Bond Cup Wheel 523206</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523206-4-x-2-x-5-8-11nc-c8-t11-resin-bond-cup-wheel-523206-12748540805164.jpg?v=1579387320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            41.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 x 2 x 5/8-11NC C8 T11 Resin Bond Cup Wheel</h4> <li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><li class="extra-info"> All sizes and grits are supplied with a wrap-around steel hub for maximum safety and long life</li><li class="extra-info"> 5/8-11NC arbor for easy mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 9,000 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_8</s:tag>
+    <s:tag>Size_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813079654444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.14</s:price>
+      <s:sku>BA SNW 523206</s:sku>
+      <s:grams>802</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813075296300</id>
+    <published>2019-05-11T11:28:05-04:00</published>
+    <updated>2019-05-11T11:28:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523201"/>
+    <title>JET 523201  - 4 X 2 X 5/8-11Nc A16 T11 Resin Bond Cup Wheel 523201</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523201-4-x-2-x-5-8-11nc-a16-t11-resin-bond-cup-wheel-523201-12748525240364.jpg?v=1579387166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            41.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 x 2 x 5/8-11NC A16 T11 Resin Bond Cup Wheel</h4> <li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><li class="extra-info"> All sizes and grits are supplied with a wrap-around steel hub for maximum safety and long life</li><li class="extra-info"> 5/8-11NC arbor for easy mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 9,000 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_16</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813075296300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.14</s:price>
+      <s:sku>BA SNW 523201</s:sku>
+      <s:grams>923</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813070512172</id>
+    <published>2019-05-11T11:26:12-04:00</published>
+    <updated>2019-05-11T11:26:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523480"/>
+    <title>JET 523480  - 3 X 4 X 5/8-11Nc T18R Resin Bond Plugstone 523480</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523480-3-x-4-x-5-8-11nc-t18r-resin-bond-plugstone-523480-12748511346732.jpg?v=1579388005"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            38.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 x 4 x 5/8-11NC T18R Resin Bond Plugstone</h4> <li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><li class="extra-info"> Internal threaded arbor for easy direct mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Used on high speed, portable end grinders for grinding, shaping, cleaning castings, blending and deburring of internal and external contours</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 12,100 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813070512172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.64</s:price>
+      <s:sku>BA SNW 523480</s:sku>
+      <s:grams>1157</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813070086188</id>
+    <published>2019-05-11T11:26:05-04:00</published>
+    <updated>2019-05-11T11:26:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523217"/>
+    <title>JET 523217  - 5 X 2 X 5/8-11Nc C16 T11 Resin Bond Cup Wheel 523217</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523217-5-x-2-x-5-8-11nc-c16-t11-resin-bond-cup-wheel-523217-12748511019052.jpg?v=1579387353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            52.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 x 2 x 5/8-11NC C16 T11 Resin Bond Cup Wheel</h4> <li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><li class="extra-info"> All sizes and grits are supplied with a wrap-around steel hub for maximum safety and long life</li><li class="extra-info"> 5/8-11NC arbor for easy mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><h2>Product Information</h2><li class="extra-info">Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_16</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813070086188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.26</s:price>
+      <s:sku>BA SNW 523217</s:sku>
+      <s:grams>1164</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813069856812</id>
+    <published>2019-05-11T11:26:01-04:00</published>
+    <updated>2019-05-11T11:26:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523216"/>
+    <title>JET 523216  - 5 X 2 X 5/8-11Nc C8 T11 Resin Bond Cup Wheel (For Concrete) 523216</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523216-5-x-2-x-5-8-11nc-c8-t11-resin-bond-cup-wheel-for-concrete-523216-12748510920748.jpg?v=1579387286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            52.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 x 2 x 5/8-11NC C8 T11 Resin Bond Cup Wheel (For Concrete)</h4> <li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><li class="extra-info"> All sizes and grits are supplied with a wrap-around steel hub for maximum safety and long life</li><li class="extra-info"> 5/8-11NC arbor for easy mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 7,200 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_8</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813069856812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.26</s:price>
+      <s:sku>BA SNW 523216</s:sku>
+      <s:grams>1179</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813067202604</id>
+    <published>2019-05-11T11:25:06-04:00</published>
+    <updated>2019-05-11T11:25:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523211"/>
+    <title>JET 523211  - 5 X 2 X 5/8-11Nc A16 T11 Resin Bond Cup Wheel 523211</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523211-5-x-2-x-5-8-11nc-a16-t11-resin-bond-cup-wheel-523211-12748504301612.jpg?v=1579387198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            52.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 x 2 x 5/8-11NC A16 T11 Resin Bond Cup Wheel</h4> <li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><li class="extra-info"> All sizes and grits are supplied with a wrap-around steel hub for maximum safety and long life</li><li class="extra-info"> 5/8-11NC arbor for easy mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 7,200 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_16</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813067202604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.26</s:price>
+      <s:sku>BA SNW 523211</s:sku>
+      <s:grams>1320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813061664812</id>
+    <published>2019-05-11T11:22:51-04:00</published>
+    <updated>2019-05-11T11:22:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523226"/>
+    <title>JET 523226  - 6 Inch x 2 Inch x 5/8-11NC C8 T11 Resin Bond Cup Wheel 523226</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523226-6-inch-x-2-inch-x-5-8-11nc-c8-t11-resin-bond-cup-wheel-523226-12748487688236.jpg?v=1579387405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            57.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 2 x 5/8-11NC C8 T11 Resin Bond Cup Wheel</h4> <li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><li class="extra-info"> All sizes and grits are supplied with a wrap-around steel hub for maximum safety and long life</li><li class="extra-info"> 5/8-11NC arbor for easy mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 6,000 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_8</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813061664812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.49</s:price>
+      <s:sku>BA SNW 523226</s:sku>
+      <s:grams>1674</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813059141676</id>
+    <published>2019-05-11T11:21:56-04:00</published>
+    <updated>2019-05-11T11:21:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-523221"/>
+    <title>JET 523221  - 6 Inch x 2 Inch x 5/8-11NC A16 T11 Resin Bond Cup Wheel 523221</title>
+    <s:type>Resin Bond Grinding Wheels For Angle Grinders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/resin-bond-grinding-wheels-for-angle-grinders-jet-523221-6-inch-x-2-inch-x-5-8-11nc-a16-t11-resin-bond-cup-wheel-523221-12748482314284.jpg?v=1579387438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Resin Bond Grinding Wheels For Angle Grinders<br>
+        <strong>Price: </strong>
+            57.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 2 x 5/8-11NC A16 T11 Resin Bond Cup Wheel</h4> <li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><li class="extra-info"> All sizes and grits are supplied with a wrap-around steel hub for maximum safety and long life</li><li class="extra-info"> 5/8-11NC arbor for easy mounting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Resin Bond Grinding Wheels For Angle Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">JET's wide range of T11 resin bonded cup wheels are used for rough grinding on concrete, stone or steel</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 6,000 RPM</li><li class="extra-info"> Pkg Qty : 10</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Grit_16</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813059141676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.49</s:price>
+      <s:sku>BA SNW 523221</s:sku>
+      <s:grams>1900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812848607276</id>
+    <published>2019-05-11T09:47:27-04:00</published>
+    <updated>2019-05-11T09:47:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09167"/>
+    <title>Carborundum Premier Red 09167  - Type 01 Straight Wheels Zirconia Alumina 2Za14-Rbf6 Reinforced 8X1X5/8 05539509167</title>
+    <s:type>Type 01 Straight Wheels</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-01-straight-wheels-carborundum-premier-red-09167-type-01-straight-wheels-zirconia-alumina-2za14-rbf6-reinforced-8x1x5-8-05539509167-13821900423212.png?v=1628116307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 01 Straight Wheels<br>
+        <strong>Price: </strong>
+            49.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use when grinding with a hand-held machine</li><li class="extra-info">Best performance on a variety of materials including gray and ductile iron, stainless steels and alloys.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Premier Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">5/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">140</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 01 Straight Wheels</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Premium, friable, zirconia alumina grain promotes higher metal removal rates, and faster, freer-cutting than standard zirconia alumina blends</li><li class="extra-info"> Up to 10X life, 50% faster grinding versus aluminum oxide wheels</li><li class="extra-info"> Best choice for heavy-duty stock removal on high-horsepower grinders</li><li class="extra-info"> High-strength, reinforced construction resists breakage</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_5/8 Inch</s:tag>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Grit_140</s:tag>
+    <s:tag>Height_1 Inch</s:tag>
+    <s:tag>Line_Premier Red</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812848607276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.82</s:price>
+      <s:sku>BA SNW 09167</s:sku>
+      <s:grams>2376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812848574508</id>
+    <published>2019-05-11T09:47:27-04:00</published>
+    <updated>2019-05-11T09:47:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-07347"/>
+    <title>Carborundum 07347  - Type 01 Straight Wheels Gold Aluminum Oxide Ga16-P5Bf5 Reinforced 8X1X5/8 05539507347</title>
+    <s:type>Type 01 Straight Wheels</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-01-straight-wheels-carborundum-07347-type-01-straight-wheels-gold-aluminum-oxide-ga16-p5bf5-reinforced-8x1x5-8-05539507347-13816512315436.png?v=1628115940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 01 Straight Wheels<br>
+        <strong>Price: </strong>
+            38.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Use when grinding with a hand-held machine</li><li class="extra-info">The economical choice for grinding steel, steel alloys and cast iron.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 01 Straight Wheels</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Tough, durable aluminum oxide abrasive provides fast cut rate in heavy-duty work</li><li class="extra-info"> Resin bond provides free cutting action with long life</li><li class="extra-info"> High-strength, reinforced construction resists breakage</li><li class="extra-info"> Good choice for numerous small jobs and rapid stock removal in small areas</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812848574508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.22</s:price>
+      <s:sku>BA SNW 07347</s:sku>
+      <s:grams>4300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812841168940</id>
+    <published>2019-05-11T09:44:44-04:00</published>
+    <updated>2019-05-11T09:44:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-64070"/>
+    <title>Carborundum 64070  - Type 16 Cones (Round End) Aluminum Oxide A24-R 2X3X3/8-24 05539564070</title>
+    <s:type>Type 16</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-16-carborundum-64070-type-16-cones-round-end-aluminum-oxide-a24-r-2x3x3-8-24-05539564070-12748064817196.jpg?v=1578911361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 16<br>
+        <strong>Price: </strong>
+            9.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The economical choice for grinding steel or iron castings, removing burrs and flash, and finishing metal surfaces in confined areas.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thread </td>
+<td class="egrimes">3/8 Inch-24</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quality, aluminum oxide abrasive provides fast stock removal</li><li class="extra-info"> Resin bond for free cutting action</li><li class="extra-info"> Good choice for rapid stock removal in small areas</li><li class="extra-info"> Ideal for portable snagging applications such as removing flaws, cracks, gates, risers and parting lines, smoothing weld seams, cleaning castings, and rough beveling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_2 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Thread_3/8 Inch-24</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812841168940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.44</s:price>
+      <s:sku>BA SNW 64070</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812841136172</id>
+    <published>2019-05-11T09:44:44-04:00</published>
+    <updated>2019-05-11T09:44:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09154"/>
+    <title>Carborundum 09154  - Type 16 Cones (Round End) Aluminum Oxide A24-R 1-1/2X3X5/8-11 05539509154</title>
+    <s:type>Type 16</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-16-carborundum-09154-type-16-cones-round-end-aluminum-oxide-a24-r-1-1-2x3x5-8-11-05539509154-13816600952876.jpg?v=1628115942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 16<br>
+        <strong>Price: </strong>
+            8.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The economical choice for grinding steel or iron castings, removing burrs and flash, and finishing metal surfaces in confined areas.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thread </td>
+<td class="egrimes">5/8 Inch-11</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quality, aluminum oxide abrasive provides fast stock removal</li><li class="extra-info"> Resin bond for free cutting action</li><li class="extra-info"> Good choice for rapid stock removal in small areas</li><li class="extra-info"> Ideal for portable snagging applications such as removing flaws, cracks, gates, risers and parting lines, smoothing weld seams, cleaning castings, and rough beveling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_1-1/2 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Thread_5/8 Inch-11</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812841136172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.61</s:price>
+      <s:sku>BA SNW 09154</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812841070636</id>
+    <published>2019-05-11T09:44:42-04:00</published>
+    <updated>2019-05-11T09:44:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09152"/>
+    <title>Carborundum 09152  - Type 16 Cones (Round End) Aluminum Oxide A24-R 2-3/4X3-1/2X5/8-11 05539509152</title>
+    <s:type>Type 16</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-16-carborundum-09152-type-16-cones-round-end-aluminum-oxide-a24-r-2-3-4x3-1-2x5-8-11-05539509152-12748064653356.jpg?v=1578880428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 16<br>
+        <strong>Price: </strong>
+            13.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The economical choice for grinding steel or iron castings, removing burrs and flash, and finishing metal surfaces in confined areas.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thread </td>
+<td class="egrimes">5/8 Inch-11</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quality, aluminum oxide abrasive provides fast stock removal</li><li class="extra-info"> Resin bond for free cutting action</li><li class="extra-info"> Good choice for rapid stock removal in small areas</li><li class="extra-info"> Ideal for portable snagging applications such as removing flaws, cracks, gates, risers and parting lines, smoothing weld seams, cleaning castings, and rough beveling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_2-3/4 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Thread_5/8 Inch-11</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812841070636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>BA SNW 09152</s:sku>
+      <s:grams>675</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812841037868</id>
+    <published>2019-05-11T09:44:42-04:00</published>
+    <updated>2019-05-11T09:44:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09153"/>
+    <title>Carborundum 09153  - Type 16 Cones (Round End) Aluminum Oxide A24-R 2X3X5/8-11 05539509153</title>
+    <s:type>Type 16</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-16-carborundum-09153-type-16-cones-round-end-aluminum-oxide-a24-r-2x3x5-8-11-05539509153-12748064718892.jpg?v=1578880310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 16<br>
+        <strong>Price: </strong>
+            9.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The economical choice for grinding steel or iron castings, removing burrs and flash, and finishing metal surfaces in confined areas.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thread </td>
+<td class="egrimes">5/8 Inch-11</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quality, aluminum oxide abrasive provides fast stock removal</li><li class="extra-info"> Resin bond for free cutting action</li><li class="extra-info"> Good choice for rapid stock removal in small areas</li><li class="extra-info"> Ideal for portable snagging applications such as removing flaws, cracks, gates, risers and parting lines, smoothing weld seams, cleaning castings, and rough beveling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_2 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Thread_5/8 Inch-11</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812841037868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.44</s:price>
+      <s:sku>BA SNW 09153</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812841005100</id>
+    <published>2019-05-11T09:44:41-04:00</published>
+    <updated>2019-05-11T09:44:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-20887"/>
+    <title>Carborundum Premier Red 20887  - Type 16 Cones (Round End) Zirconia Alumina 2Za20-R 2-3/4X3-1/2X5/8-11 05539520887</title>
+    <s:type>Type 16</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-16-carborundum-premier-red-20887-type-16-cones-round-end-zirconia-alumina-2za20-r-2-3-4x3-1-2x5-8-11-05539520887-13824280526892.jpg?v=1628128183"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 16<br>
+        <strong>Price: </strong>
+            34.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The best choice for grinding steel, steel alloys, and cast iron, for removing burrs and flash, and finishing any type of metal surface in a confined area.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Premier Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thread </td>
+<td class="egrimes">5/8 Inch-11</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Premium zirconia alumina abrasive provides the fastest cut rate with 3X the life of aluminum oxide abrasive</li><li class="extra-info"> greatest productivity</li><li class="extra-info"> High-performance resin bond for free cutting action</li><li class="extra-info"> Best choice for rapid stock removal in small and confined areas</li><li class="extra-info"> Ideal for portable snagging applications such as removing flaws, cracks, gates, risers and parting lines, smoothing weld seams, cleaning castings, and rough beveling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_2-3/4 Inch</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Line_Premier Red</s:tag>
+    <s:tag>Thread_5/8 Inch-11</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812841005100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.71</s:price>
+      <s:sku>BA SNW 20887</s:sku>
+      <s:grams>689</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812840972332</id>
+    <published>2019-05-11T09:44:41-04:00</published>
+    <updated>2019-05-11T09:44:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-20886"/>
+    <title>Carborundum Premier Red 20886  - Type 16 Cones (Round End) Zirconia Alumina 2Za20-R 2X3X5/8-11 05539520886</title>
+    <s:type>Type 16</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-16-carborundum-premier-red-20886-type-16-cones-round-end-zirconia-alumina-2za20-r-2x3x5-8-11-05539520886-13824264765484.jpg?v=1628148739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 16<br>
+        <strong>Price: </strong>
+            24.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The best choice for grinding steel, steel alloys, and cast iron, for removing burrs and flash, and finishing any type of metal surface in a confined area.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Premier Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">20</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thread </td>
+<td class="egrimes">5/8 Inch-11</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Premium zirconia alumina abrasive provides the fastest cut rate with 3X the life of aluminum oxide abrasive</li><li class="extra-info"> greatest productivity</li><li class="extra-info"> High-performance resin bond for free cutting action</li><li class="extra-info"> Best choice for rapid stock removal in small and confined areas</li><li class="extra-info"> Ideal for portable snagging applications such as removing flaws, cracks, gates, risers and parting lines, smoothing weld seams, cleaning castings, and rough beveling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_2 Inch</s:tag>
+    <s:tag>Grit_20</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Line_Premier Red</s:tag>
+    <s:tag>Thread_5/8 Inch-11</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812840972332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.11</s:price>
+      <s:sku>BA SNW 20886</s:sku>
+      <s:grams>331</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812840939564</id>
+    <published>2019-05-11T09:44:39-04:00</published>
+    <updated>2019-05-11T09:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09149"/>
+    <title>Carborundum 09149  - Type 17 Cones (Square End) Aluminum Oxide A24-R 2 / 1/2X3X5/8-11 05539509149</title>
+    <s:type>Type 17</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/type-17-carborundum-09149-type-17-cones-square-end-aluminum-oxide-a24-r-2-1-2x3x5-8-11-05539509149-13816585945132.jpg?v=1628140054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Type 17<br>
+        <strong>Price: </strong>
+            9.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The economical choice for grinding steel or iron castings, removing burrs and flash, and finishing metal surfaces in confined areas.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Type 17</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thread </td>
+<td class="egrimes">5/8 Inch-11</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quality, aluminum oxide abrasive provides fast stock removal</li><li class="extra-info"> Resin bond for free cutting action</li><li class="extra-info"> Good choice for rapid stock removal in small areas</li><li class="extra-info"> Ideal for portable snagging applications such as removing flaws, cracks, gates, risers and parting lines, smoothing weld seams, cleaning castings, and rough beveling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SNW</s:tag>
+    <s:tag>Diameter_2 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Thread_5/8 Inch-11</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812840939564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.44</s:price>
+      <s:sku>BA SNW 09149</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+  </entry>
+</feed>

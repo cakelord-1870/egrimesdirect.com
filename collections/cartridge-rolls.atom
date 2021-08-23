@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/cartridge-rolls.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:27:34-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017926700</id>
+    <published>2019-10-16T00:27:34-04:00</published>
+    <updated>2019-10-16T00:27:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-705686"/>
+    <title>3M STA-705686  - Standard Abrasives CR-ST AO 80 1/4 x 1-1/2 x 1/8 IN STA-705686 7100080009</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-705686-standard-abrasives-cr-st-ao-80-1-4-x-1-1-2-x-1-8-in-sta-705686-7100080009-13120509345836.jpg?v=1578790102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO 80 1/4 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017926700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.46</s:price>
+      <s:sku>CA CTG STA-705686</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017893932</id>
+    <published>2019-10-16T00:27:32-04:00</published>
+    <updated>2019-10-16T00:27:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-707620"/>
+    <title>3M STA-707620  - Standard Abrasives CR-ST AO P120 1/4 x 1 x 1/8 IN STA-707620 7100080011</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-707620-standard-abrasives-cr-st-ao-p120-1-4-x-1-x-1-8-in-sta-707620-7100080011-13120509116460.jpg?v=1578790517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO P120 1/4 x 1 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017893932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.39</s:price>
+      <s:sku>CA CTG STA-707620</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017861164</id>
+    <published>2019-10-16T00:27:31-04:00</published>
+    <updated>2019-10-16T00:27:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-708617"/>
+    <title>3M STA-708617  - Standard Abrasives CR-ST AO P100 1/4 x 1-1/2 x 1/8 IN STA-708617 7100080012</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-708617-standard-abrasives-cr-st-ao-p100-1-4-x-1-1-2-x-1-8-in-sta-708617-7100080012-13120509083692.jpg?v=1578790637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO P100 1/4 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017861164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.47</s:price>
+      <s:sku>CA CTG STA-708617</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017795628</id>
+    <published>2019-10-16T00:27:31-04:00</published>
+    <updated>2019-10-16T00:27:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-709907"/>
+    <title>3M STA-709907  - Standard Abrasives CR-ST AO P120 1/4 x 1-1/2 x 1/8 IN STA-709907 7100080014</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-709907-standard-abrasives-cr-st-ao-p120-1-4-x-1-1-2-x-1-8-in-sta-709907-7100080014-13120509050924.jpg?v=1578790791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO P120 1/4 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017795628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.46</s:price>
+      <s:sku>CA CTG STA-709907</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017762860</id>
+    <published>2019-10-16T00:27:29-04:00</published>
+    <updated>2019-10-16T00:27:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-700718"/>
+    <title>3M STA-700718  - Standard Abrasives CR-ST AO P180 1/4 x 1-1/2 x 1/8 IN STA-700718 7100080030</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-700718-standard-abrasives-cr-st-ao-p180-1-4-x-1-1-2-x-1-8-in-sta-700718-7100080030-13120509018156.jpg?v=1578795953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO P180 1/4 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017762860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.45</s:price>
+      <s:sku>CA CTG STA-700718</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017697324</id>
+    <published>2019-10-16T00:27:27-04:00</published>
+    <updated>2019-10-16T00:27:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-704582"/>
+    <title>3M STA-704582  - Standard Abrasives CR-ST AO P240 1/4 x 1-1/2 x 1/8 IN STA-704582 7100080031</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-704582-standard-abrasives-cr-st-ao-p240-1-4-x-1-1-2-x-1-8-in-sta-704582-7100080031-13120508756012.jpg?v=1578796348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO P240 1/4 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017697324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.53</s:price>
+      <s:sku>CA CTG STA-704582</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016878124</id>
+    <published>2019-10-16T00:26:52-04:00</published>
+    <updated>2019-10-16T00:26:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-704214"/>
+    <title>3M STA-704214  - Standard Abrasives CR-FT AO 60 3/8 x 1-1/2 x 1/8 IN STA-704214 7100085864</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-704214-standard-abrasives-cr-ft-ao-60-3-8-x-1-1-2-x-1-8-in-sta-704214-7100085864-13120506724396.jpg?v=1578796280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-FT AO 60 3/8 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016878124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.89</s:price>
+      <s:sku>CA CTG STA-704214</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016845356</id>
+    <published>2019-10-16T00:26:51-04:00</published>
+    <updated>2019-10-16T00:26:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-705509"/>
+    <title>3M STA-705509  - Standard Abrasives CR-FT AO 80 3/8 x 1-1/2 x 1/8 IN STA-705509 7100085865</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-705509-standard-abrasives-cr-ft-ao-80-3-8-x-1-1-2-x-1-8-in-sta-705509-7100085865-13120506658860.jpg?v=1578790068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-FT AO 80 3/8 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016845356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.82</s:price>
+      <s:sku>CA CTG STA-705509</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016812588</id>
+    <published>2019-10-16T00:26:51-04:00</published>
+    <updated>2019-10-16T00:26:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-705819"/>
+    <title>3M STA-705819  - Standard Abrasives CR-ST AO 80 5/16 x 1-1/2 x 1/8 IN STA-705819 7100085866</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-705819-standard-abrasives-cr-st-ao-80-5-16-x-1-1-2-x-1-8-in-sta-705819-7100085866-13120506691628.jpg?v=1578790158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO 80 5/16 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016812588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.51</s:price>
+      <s:sku>CA CTG STA-705819</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016779820</id>
+    <published>2019-10-16T00:26:50-04:00</published>
+    <updated>2019-10-16T00:26:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-707617"/>
+    <title>3M STA-707617  - Standard Abrasives CR-ST AO 80 1/2 x 1 x 1/8 IN STA-707617 7100085867</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-707617-standard-abrasives-cr-st-ao-80-1-2-x-1-x-1-8-in-sta-707617-7100085867-13120506626092.jpg?v=1578790397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO 80 1/2 x 1 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016779820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.49</s:price>
+      <s:sku>CA CTG STA-707617</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016747052</id>
+    <published>2019-10-16T00:26:49-04:00</published>
+    <updated>2019-10-16T00:26:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-709187"/>
+    <title>3M STA-709187  - Standard Abrasives CR-ST AO 60 1/2 x 1-1/2 x 1/8 IN STA-709187 7100085869</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-709187-standard-abrasives-cr-st-ao-60-1-2-x-1-1-2-x-1-8-in-sta-709187-7100085869-13120506593324.jpg?v=1578790669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO 60 1/2 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016747052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.63</s:price>
+      <s:sku>CA CTG STA-709187</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016648748</id>
+    <published>2019-10-16T00:26:44-04:00</published>
+    <updated>2019-10-16T00:26:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-709653"/>
+    <title>3M STA-709653  - Standard Abrasives CR-FT AO 60 1/2 x 1-1/2 x 1/8 IN STA-709653 7100085876</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-709653-standard-abrasives-cr-ft-ao-60-1-2-x-1-1-2-x-1-8-in-sta-709653-7100085876-13120506331180.jpg?v=1578790758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-FT AO 60 1/2 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016648748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.87</s:price>
+      <s:sku>CA CTG STA-709653</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013306412</id>
+    <published>2019-10-16T00:25:38-04:00</published>
+    <updated>2019-10-16T00:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-707988"/>
+    <title>3M STA-707988  - Standard Abrasives CR-ST AO-RB P120 3/4x1-1/2x3/16 IN STA-707988 7100092264</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-707988-standard-abrasives-cr-st-ao-rb-p120-3-4x1-1-2x3-16-in-sta-707988-7100092264-13120496631852.jpg?v=1578790430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB P120 3/4x1-1/2x3/16 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013306412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.11</s:price>
+      <s:sku>CA CTG STA-707988</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013273644</id>
+    <published>2019-10-16T00:25:38-04:00</published>
+    <updated>2019-10-16T00:25:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-708530"/>
+    <title>3M STA-708530  - Standard Abrasives CR-ST AO-RB P100 1/2 x 1-1/2 x 1/8 IN STA-708530 7100092265</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-708530-standard-abrasives-cr-st-ao-rb-p100-1-2-x-1-1-2-x-1-8-in-sta-708530-7100092265-13120496599084.jpg?v=1578790550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB P100 1/2 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013273644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.69</s:price>
+      <s:sku>CA CTG STA-708530</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013240876</id>
+    <published>2019-10-16T00:25:37-04:00</published>
+    <updated>2019-10-16T00:25:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-713139"/>
+    <title>3M STA-713139  - Standard Abrasives CR-ST AO-RB 80 1/2 x 2 x 3/16 IN STA-713139 7100092267</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-713139-standard-abrasives-cr-st-ao-rb-80-1-2-x-2-x-3-16-in-sta-713139-7100092267-13120496566316.jpg?v=1578796435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB 80 1/2 x 2 x 3/16 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013240876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.79</s:price>
+      <s:sku>CA CTG STA-713139</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013208108</id>
+    <published>2019-10-16T00:25:36-04:00</published>
+    <updated>2019-10-16T00:25:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-712625"/>
+    <title>3M STA-712625  - Standard Abrasives CR-ST AO-RB 80 1/4 x 2 x 1/8 IN STA-712625 7100092340</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-712625-standard-abrasives-cr-st-ao-rb-80-1-4-x-2-x-1-8-in-sta-712625-7100092340-13120496369708.jpg?v=1578791118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB 80 1/4 x 2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013208108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA CTG STA-712625</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013175340</id>
+    <published>2019-10-16T00:25:35-04:00</published>
+    <updated>2019-10-16T00:25:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am92341"/>
+    <title>3M AM92341  - Cr-St Aluminum oxide-Rb P120 1/4 x 2 x 1/8 in Am92341 7100092341</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am92341-cr-st-aluminum-oxide-rb-p120-1-4-x-2-x-1-8-in-am92341-7100092341-13120496336940.jpg?v=1580268723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB P120 1/4 x 2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013175340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.56</s:price>
+      <s:sku>CA CTG AM92341</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013142572</id>
+    <published>2019-10-16T00:25:34-04:00</published>
+    <updated>2019-10-16T00:25:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-701974"/>
+    <title>3M STA-701974  - Standard Abrasives CR-FT AO-RB 80 1/2 x 2 x 1/8 IN STA-701974 7100092841</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-701974-standard-abrasives-cr-ft-ao-rb-80-1-2-x-2-x-1-8-in-sta-701974-7100092841-13120496304172.jpg?v=1578796076"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-FT AO-RB 80 1/2 x 2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013142572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.01</s:price>
+      <s:sku>CA CTG STA-701974</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013109804</id>
+    <published>2019-10-16T00:25:34-04:00</published>
+    <updated>2019-10-16T00:25:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab20955"/>
+    <title>3M AB20955  - Cr-St Aluminum oxide-Rb 80 3/4 x 1-1/2 x 3/16 in Ab20955 7100092845</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab20955-cr-st-aluminum-oxide-rb-80-3-4-x-1-1-2-x-3-16-in-ab20955-7100092845-13120496271404.jpg?v=1580128018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB 80 3/4 x 1-1/2 x 3/16 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013109804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.13</s:price>
+      <s:sku>CA CTG AB20955</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013077036</id>
+    <published>2019-10-16T00:25:32-04:00</published>
+    <updated>2019-10-16T00:25:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-706044"/>
+    <title>3M STA-706044  - Cr-St Aluminum oxide-Rb P100 3/8 x 1-1/2 x 1/8 in 7100092846</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-706044-cr-st-aluminum-oxide-rb-p100-3-8-x-1-1-2-x-1-8-in-7100092846-13120496107564.jpg?v=1578790191"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB P100 3/8 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013077036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.55</s:price>
+      <s:sku>CA CTG STA-706044</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013044268</id>
+    <published>2019-10-16T00:25:31-04:00</published>
+    <updated>2019-10-16T00:25:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-706968"/>
+    <title>3M STA-706968  - Cr-Ft Aluminum oxide-Rb P120 3/8 x 1-1/2 x 1/8 in 7100092847</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-706968-cr-ft-aluminum-oxide-rb-p120-3-8-x-1-1-2-x-1-8-in-7100092847-13120496074796.jpg?v=1578790277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-FT AO-RB P120 3/8 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013044268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.82</s:price>
+      <s:sku>CA CTG STA-706968</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255013011500</id>
+    <published>2019-10-16T00:25:30-04:00</published>
+    <updated>2019-10-16T00:25:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-707336"/>
+    <title>3M STA-707336  - Standard Abrasives CR-ST AO-RB P120 3/8 x 1-1/2 x 1/8 IN STA-707336 7100092850</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-707336-standard-abrasives-cr-st-ao-rb-p120-3-8-x-1-1-2-x-1-8-in-sta-707336-7100092850-13120496042028.jpg?v=1578790311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB P120 3/8 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255013011500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.54</s:price>
+      <s:sku>CA CTG STA-707336</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255012978732</id>
+    <published>2019-10-16T00:25:29-04:00</published>
+    <updated>2019-10-16T00:25:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-701758"/>
+    <title>3M STA-701758  - Standard Abrasives CR-ST AO-RB P120 5/16 x 1-1/2 x 1/8IN STA-701758 7100093000</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-701758-standard-abrasives-cr-st-ao-rb-p120-5-16-x-1-1-2-x-1-8in-sta-701758-7100093000-13120496140332.jpg?v=1578795922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST AO-RB P120 5/16 x 1-1/2 x 1/8IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8_enx_1Mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255012978732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.57</s:price>
+      <s:sku>CA CTG STA-701758</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255012945964</id>
+    <published>2019-10-16T00:25:28-04:00</published>
+    <updated>2019-10-16T00:25:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am93007"/>
+    <title>3M AM93007  - Cr-St Zirc 120 1/4 x 1-1/2 x 1/8 in Am93007 7100093007</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am93007-cr-st-zirc-120-1-4-x-1-1-2-x-1-8-in-am93007-7100093007-13120495812652.jpg?v=1580268777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST ZIRC 120 1/4 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255012945964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.73</s:price>
+      <s:sku>CA CTG AM93007</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255012913196</id>
+    <published>2019-10-16T00:25:27-04:00</published>
+    <updated>2019-10-16T00:25:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-727349"/>
+    <title>3M STA-727349  - Standard Abrasives CR-ST ZIRC 80 1/4 x 1-1/2 x 1/8 IN STA-727349 7100093008</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-727349-standard-abrasives-cr-st-zirc-80-1-4-x-1-1-2-x-1-8-in-sta-727349-7100093008-13120495779884.jpg?v=1578797272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA CR-ST ZIRC 80 1/4 x 1-1/2 x 1/8 IN</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM8m1O8mxlv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA CTG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255012913196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.73</s:price>
+      <s:sku>CA CTG STA-727349</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/lifting-positioning-stacking-equipment.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:09:25-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813183823916</id>
+    <published>2019-05-11T12:09:25-04:00</published>
+    <updated>2019-05-11T12:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-131108"/>
+    <title>JET 131108  - 8 Inch Single Sheave Painted Yarding Block 131108</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-131108-8-inch-single-sheave-painted-yarding-block-131108-12748823691308.jpg?v=1579362632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            546.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 Inch Single Sheave Painted Yarding Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 4 T</li><li class="extra-info"> Rope Diameter : 5/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813183823916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">546.60</s:price>
+      <s:sku>MH LFT 131108</s:sku>
+      <s:grams>12996</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813183660076</id>
+    <published>2019-05-11T12:09:21-04:00</published>
+    <updated>2019-05-11T12:09:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130108"/>
+    <title>JET 130108  - 8 Inch Single Sheave Painted Snatch Block 130108</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130108-8-inch-single-sheave-painted-snatch-block-130108-12748823330860.jpg?v=1579362482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            613.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 Inch Single Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Type: Single</li><li class="extra-info"> Rated Capacity : 4 T</li><li class="extra-info"> Rope Diameter : 3/4 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813183660076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">613.07</s:price>
+      <s:sku>MH LFT 130108</s:sku>
+      <s:grams>19754</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813180874796</id>
+    <published>2019-05-11T12:08:13-04:00</published>
+    <updated>2019-05-11T12:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-133104"/>
+    <title>JET 133104  - 4 Inch Single Sheave 133104</title>
+    <s:type>Sheaves</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheaves-jet-133104-4-inch-single-sheave-133104-12748815892524.jpg?v=1579362685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sheaves<br>
+        <strong>Price: </strong>
+            47.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Inch Single Sheave</h4> <li class="extra-info">Cast iron</li><li class="extra-info"> Bronze bushings</li><li class="extra-info"> Ball type oiler</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Not a replacement for snatch block or yarding block sheaves</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">15/16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheaves</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Bore Size : 5/8 Inch</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li><li class="extra-info"> Rated Capacity : 1 T</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/8 Inch</s:tag>
+    <s:tag>Width_15/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813180874796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.18</s:price>
+      <s:sku>MH LFT 133104</s:sku>
+      <s:grams>869</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813063041068</id>
+    <published>2019-05-11T11:23:32-04:00</published>
+    <updated>2019-05-11T11:23:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130103"/>
+    <title>JET 130103  - 3 Inch Single Sheave Painted Snatch Block 130103</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130103-3-inch-single-sheave-painted-snatch-block-130103-12748492210220.jpg?v=1579362356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            108.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Inch Single Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-7/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 1/2 T</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/8 Inch</s:tag>
+    <s:tag>Size_1-7/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813063041068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">108.64</s:price>
+      <s:sku>MH LFT 130103</s:sku>
+      <s:grams>1560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813061861420</id>
+    <published>2019-05-11T11:22:57-04:00</published>
+    <updated>2019-05-11T11:22:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-133105"/>
+    <title>JET 133105  - 5 Inch Single Sheave 133105</title>
+    <s:type>Sheaves</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheaves-jet-133105-5-inch-single-sheave-133105-12748488081452.jpg?v=1579362721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sheaves<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Inch Single Sheave</h4> <li class="extra-info">Cast iron</li><li class="extra-info"> Bronze bushings</li><li class="extra-info"> Ball type oiler</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Not a replacement for snatch block or yarding block sheaves</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheaves</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Bore Size : 3/4 Inch</li><li class="extra-info"> Rope Diameter : 1/2 Inch</li><li class="extra-info"> Rated Capacity : 1-1/2 T</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_1/2 Inch</s:tag>
+    <s:tag>Width_1-1/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813061861420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>MH LFT 133105</s:sku>
+      <s:grams>1630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813058355244</id>
+    <published>2019-05-11T11:21:36-04:00</published>
+    <updated>2019-05-11T11:21:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-131104"/>
+    <title>JET 131104  - 4 Inch Single Sheave Painted Yarding Block 131104</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-131104-4-inch-single-sheave-painted-yarding-block-131104-12748480217132.jpg?v=1579362566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            110.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Inch Single Sheave Painted Yarding Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-1/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 1 T</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Size_1-1/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813058355244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">110.17</s:price>
+      <s:sku>MH LFT 131104</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813054423084</id>
+    <published>2019-05-11T11:20:03-04:00</published>
+    <updated>2019-05-11T11:20:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130203"/>
+    <title>JET 130203  - 3 Inch Double Sheave Painted Snatch Block 130203</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130203-3-inch-double-sheave-painted-snatch-block-130203-12748468781100.jpg?v=1579362449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            178.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Inch Double Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Type: Double</li><li class="extra-info"> Rated Capacity : 1/2 T</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813054423084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">178.12</s:price>
+      <s:sku>MH LFT 130203</s:sku>
+      <s:grams>2520</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813054193708</id>
+    <published>2019-05-11T11:19:54-04:00</published>
+    <updated>2019-05-11T11:19:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-133106"/>
+    <title>JET 133106  - 6 Inch Single Sheave 133106</title>
+    <s:type>Sheaves</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheaves-jet-133106-6-inch-single-sheave-133106-12748468125740.jpg?v=1579362803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sheaves<br>
+        <strong>Price: </strong>
+            91.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 Inch Single Sheave</h4> <li class="extra-info">Cast iron</li><li class="extra-info"> Bronze bushings</li><li class="extra-info"> Ball type oiler</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Not a replacement for snatch block or yarding block sheaves</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-5/16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheaves</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">5/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Bore Size : 1-1/8 Inch</li><li class="extra-info"> Rope Diameter : 5/8 Inch</li><li class="extra-info"> Rated Capacity : 2 T</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_5/8 Inch</s:tag>
+    <s:tag>Width_1-5/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813054193708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">91.93</s:price>
+      <s:sku>MH LFT 133106</s:sku>
+      <s:grams>2660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813054095404</id>
+    <published>2019-05-11T11:19:54-04:00</published>
+    <updated>2019-05-11T11:19:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130104"/>
+    <title>JET 130104  - 4 Inch Single Sheave Painted Snatch Block 130104</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130104-4-inch-single-sheave-painted-snatch-block-130104-12748467044396.jpg?v=1579362240"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            134.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Inch Single Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">7/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Type: Single</li><li class="extra-info"> Rated Capacity : 1 T</li><li class="extra-info"> Rope Diameter : 7/16 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_7/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813054095404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">134.32</s:price>
+      <s:sku>MH LFT 130104</s:sku>
+      <s:grams>2690</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813053046828</id>
+    <published>2019-05-11T11:19:22-04:00</published>
+    <updated>2019-05-11T11:19:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-131105"/>
+    <title>JET 131105  - 5 Inch Single Sheave Painted Yarding Block 131105</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-131105-5-inch-single-sheave-painted-yarding-block-131105-12748463898668.jpg?v=1579362598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            163.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Inch Single Sheave Painted Yarding Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 1-1/2 T</li><li class="extra-info"> Rope Diameter : 1/2 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813053046828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">163.02</s:price>
+      <s:sku>MH LFT 131105</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813048786988</id>
+    <published>2019-05-11T11:17:52-04:00</published>
+    <updated>2019-05-11T11:17:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130204"/>
+    <title>JET 130204  - 4 Inch Double Sheave Painted Snatch Block 130204</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130204-4-inch-double-sheave-painted-snatch-block-130204-12748450988076.jpg?v=1579362389"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            244.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Inch Double Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">7/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Type: Double</li><li class="extra-info"> Rated Capacity : 1 T</li><li class="extra-info"> Rope Diameter : 7/16 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_7/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813048786988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">244.59</s:price>
+      <s:sku>MH LFT 130204</s:sku>
+      <s:grams>4240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813045018668</id>
+    <published>2019-05-11T11:16:26-04:00</published>
+    <updated>2019-05-11T11:16:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-133108"/>
+    <title>JET 133108  - 8 Inch Single Sheave 133108</title>
+    <s:type>Sheaves</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheaves-jet-133108-8-inch-single-sheave-133108-12748438962220.jpg?v=1579362836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sheaves<br>
+        <strong>Price: </strong>
+            164.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 Inch Single Sheave</h4> <li class="extra-info">Cast iron</li><li class="extra-info"> Bronze bushings</li><li class="extra-info"> Ball type oiler</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Not a replacement for snatch block or yarding block sheaves</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheaves</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Bore Size : 1-1/4 Inch</li><li class="extra-info"> Rope Diameter : 7/8 Inch</li><li class="extra-info"> Rated Capacity : 4 T</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_7/8 Inch</s:tag>
+    <s:tag>Width_1-7/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813045018668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">164.55</s:price>
+      <s:sku>MH LFT 133108</s:sku>
+      <s:grams>6701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813044428844</id>
+    <published>2019-05-11T11:16:07-04:00</published>
+    <updated>2019-05-11T11:16:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130106"/>
+    <title>JET 130106  - 6 Inch Single Sheave Painted Snatch Block 130106</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130106-6-inch-single-sheave-painted-snatch-block-130106-12748436701228.jpg?v=1579362323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            274.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 Inch Single Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">5/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 2 T</li><li class="extra-info"> Rope Diameter : 5/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_5/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813044428844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">274.78</s:price>
+      <s:sku>MH LFT 130106</s:sku>
+      <s:grams>7801</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714553388</id>
+    <published>2019-05-11T08:56:11-04:00</published>
+    <updated>2019-05-11T08:56:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-0-5-10"/>
+    <title>Gray CH-0.5-10  - Chain Hoist 0.5T 10 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-0-5-10-chain-hoist-0-5t-10-ft-lift-12747734876204.png?v=1579272202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            319.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 0.5</li><li class="extra-info"> Standard lift (ft.): 10</li><li class="extra-info"> Standard drop (ft.): 10</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 9.25'' L x 7'' W x 8.25'' H</li><li class="extra-info"> Weight: 24 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">0.5 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">10'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_0.5 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_10&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714553388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">319.83</s:price>
+      <s:sku>MH LFT CH-0.5-10</s:sku>
+      <s:grams>10886</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714520620</id>
+    <published>2019-05-11T08:56:09-04:00</published>
+    <updated>2019-05-11T08:56:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-1-10"/>
+    <title>Gray CH-1-10  - Chain Hoist 1T 10 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-1-10-chain-hoist-1t-10-ft-lift-12747734777900.png?v=1579272327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            298.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 1.0</li><li class="extra-info"> Standard lift (ft.): 10</li><li class="extra-info"> Standard drop (ft.): 10</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 14'' L x 11.25'' W x 9.25'' H</li><li class="extra-info"> Weight: 22 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">1 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">10'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_1 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_10&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714520620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">298.16</s:price>
+      <s:sku>MH LFT CH-1-10</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714487852</id>
+    <published>2019-05-11T08:56:08-04:00</published>
+    <updated>2019-05-11T08:56:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-1-20"/>
+    <title>Gray CH-1-20  - Chain Hoist 1T 20 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-1-20-chain-hoist-1t-20-ft-lift-12747734843436.png?v=1579272234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            415.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 1.0</li><li class="extra-info"> Standard lift (ft.): 20</li><li class="extra-info"> Std drop (ft.): 20</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 11.75'' L x 11.25'' W x 8.5'' H</li><li class="extra-info"> Weight: 33 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">1 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">20'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_1 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_20&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714487852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">415.49</s:price>
+      <s:sku>MH LFT CH-1-20</s:sku>
+      <s:grams>14968</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714455084</id>
+    <published>2019-05-11T08:56:08-04:00</published>
+    <updated>2019-05-11T08:56:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-0-5-20"/>
+    <title>Gray CH-0.5-20  - Chain Hoist 0.5T 20 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-0-5-20-chain-hoist-0-5t-20-ft-lift-12747734908972.png?v=1579272120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            358.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 0.5</li><li class="extra-info"> Standard lift (ft.): 20</li><li class="extra-info"> Std drop (ft.): 20</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 13.5'' L x 11.75'' W x 8.25'' H</li><li class="extra-info"> Weight: 30.5 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">0.5 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">20'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_0.5 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_20&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714455084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">358.52</s:price>
+      <s:sku>MH LFT CH-0.5-20</s:sku>
+      <s:grams>13834</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714422316</id>
+    <published>2019-05-11T08:56:06-04:00</published>
+    <updated>2019-05-11T08:56:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-1-5-20"/>
+    <title>Gray CH-1.5-20  - Chain Hoist 1.5T20 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-1-5-20-chain-hoist-1-5t20-ft-lift-12747734745132.png?v=1579272443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            576.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 1.5</li><li class="extra-info"> Standard lift (ft.): 20</li><li class="extra-info"> Std drop (ft.): 20</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 14'' L x 12'' W x 8.25'' H</li><li class="extra-info"> Weight: 43 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">1.5 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">20'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_1.5 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_20&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714422316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">576.49</s:price>
+      <s:sku>MH LFT CH-1.5-20</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714389548</id>
+    <published>2019-05-11T08:56:05-04:00</published>
+    <updated>2019-05-11T08:56:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-2-10"/>
+    <title>Gray CH-2-10  - Chain Hoist 2T 10 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-2-10-chain-hoist-2t-10-ft-lift-12747734679596.png?v=1579272394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            517.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 2.0</li><li class="extra-info"> Standard lift (ft.): 10</li><li class="extra-info"> Standard drop (ft.): 10</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 14'' L x 11.5'' W x 8.5'' H</li><li class="extra-info"> Weight: 45 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">2 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">10'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_2 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_10&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714389548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">517.05</s:price>
+      <s:sku>MH LFT CH-2-10</s:sku>
+      <s:grams>20411</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714356780</id>
+    <published>2019-05-11T08:56:05-04:00</published>
+    <updated>2019-05-11T08:56:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-1-5-10"/>
+    <title>Gray CH-1.5-10  - Chain Hoist 1.5T 10 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-1-5-10-chain-hoist-1-5t-10-ft-lift-12747734810668.png?v=1579272359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            437.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 1.5</li><li class="extra-info"> Standard lift (ft.): 10</li><li class="extra-info"> Standard drop (ft.): 10</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 11.25'' L x 12'' W x 8.5'' H</li><li class="extra-info"> Weight: 36 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">1.5 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">10'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_1.5 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_10&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714356780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">437.94</s:price>
+      <s:sku>MH LFT CH-1.5-10</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714324012</id>
+    <published>2019-05-11T08:56:02-04:00</published>
+    <updated>2019-05-11T08:56:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-3-10"/>
+    <title>Gray CH-3-10  - Chain Hoist 3T 10 Ft Lift</title>
+    <s:type>Jaws</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jaws-gray-ch-3-10-chain-hoist-3t-10-ft-lift-12747734286380.png?v=1579272630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Jaws<br>
+        <strong>Price: </strong>
+            693.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 3.0</li><li class="extra-info"> Standard lift (ft.): 10</li><li class="extra-info"> Standard drop (ft.): 10</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 2</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 14.76'' L x 10.43'' W x 10.04'' H</li><li class="extra-info"> Weight: 54 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">3 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jaws</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">10'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_3 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_10&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714324012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">693.25</s:price>
+      <s:sku>MH LFT CH-3-10</s:sku>
+      <s:grams>24493</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714291244</id>
+    <published>2019-05-11T08:56:02-04:00</published>
+    <updated>2019-05-11T08:56:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-3-20"/>
+    <title>Gray CH-3-20  - Chain Hoist 3T 20 Ft Lift</title>
+    <s:type>Jaws</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jaws-gray-ch-3-20-chain-hoist-3t-20-ft-lift-12747734319148.png?v=1579272597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Jaws<br>
+        <strong>Price: </strong>
+            914.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 3.0</li><li class="extra-info"> Standard lift (ft.): 20</li><li class="extra-info"> Std drop (ft.): 20</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 2</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 13.5'' L x 14.25'' W x 11.5'' H</li><li class="extra-info"> Weight: 65 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">3 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jaws</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">20'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_3 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_20&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714291244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">914.57</s:price>
+      <s:sku>MH LFT CH-3-20</s:sku>
+      <s:grams>29483</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714258476</id>
+    <published>2019-05-11T08:56:01-04:00</published>
+    <updated>2019-05-11T08:56:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-2-20"/>
+    <title>Gray CH-2-20  - Chain Hoist 2T 20 Ft Lift</title>
+    <s:type>Hoists</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoists-gray-ch-2-20-chain-hoist-2t-20-ft-lift-12747734712364.png?v=1579272477"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Hoists<br>
+        <strong>Price: </strong>
+            661.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 2.0</li><li class="extra-info"> Standard lift (ft.): 20</li><li class="extra-info"> Std drop (ft.): 20</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 1</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 14.76'' L x 10.43'' W x 10.04'' H</li><li class="extra-info"> Weight: 62 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">2 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">20'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_2 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_20&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714258476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">661.33</s:price>
+      <s:sku>MH LFT CH-2-20</s:sku>
+      <s:grams>28122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714225708</id>
+    <published>2019-05-11T08:56:01-04:00</published>
+    <updated>2019-05-11T08:56:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-5-10"/>
+    <title>Gray CH-5-10  - Chain Hoist 5T 10 Ft Lift</title>
+    <s:type>Jaws</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jaws-gray-ch-5-10-chain-hoist-5t-10-ft-lift-12747734253612.png?v=1579272563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Jaws<br>
+        <strong>Price: </strong>
+            1108.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 5.0</li><li class="extra-info"> Standard lift (ft.): 10</li><li class="extra-info"> Standard drop (ft.): 10</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 3</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 13.5'' L x 14.5'' W x 11.5'' H</li><li class="extra-info"> Weight: 54 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">5 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jaws</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">10'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_5 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_10&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714225708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1108.96</s:price>
+      <s:sku>MH LFT CH-5-10</s:sku>
+      <s:grams>24493</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812714160172</id>
+    <published>2019-05-11T08:55:58-04:00</published>
+    <updated>2019-05-11T08:55:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-ch-5-20"/>
+    <title>Gray CH-5-20  - Chain Hoist 5T 20 Ft Lift</title>
+    <s:type>Jaws</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jaws-gray-ch-5-20-chain-hoist-5t-20-ft-lift-12747734351916.png?v=1579277241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Jaws<br>
+        <strong>Price: </strong>
+            1673.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Lifting capacity (tons): 5.0</li><li class="extra-info"> Standard lift (ft.): 20</li><li class="extra-info"> Std drop (ft.): 20</li><li class="extra-info"> No</li><li class="extra-info">chain falls: 3</li><li class="extra-info"> Double cover housing for optimum protection of gears, brake, and components from damaging dust, dirt, and grit.</li><li class="extra-info"> Safety mechanical brake instantly engages when operation is stopped offering a reliable and safe hold.</li><li class="extra-info"> Precision maintenance-free sealed bearings increase long-term reliability and reduce pull required to lift loads.</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info">Test certificate included.</li><li class="extra-info"> CE certified and compliant with ANSI B30.11 specifications.</li><li class="extra-info"> Overall Dimensions: 13.5'' L x 14.5'' W x 11.5'' H</li><li class="extra-info"> Weight: 100 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Lift Capacity </td>
+<td class="egrimes">5 ton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jaws</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Standard Lift </td>
+<td class="egrimes">20'</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lift Capacity_5 ton</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Standard Lift_20&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812714160172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1673.49</s:price>
+      <s:sku>MH LFT CH-5-20</s:sku>
+      <s:grams>45359</s:grams>
+    </s:variant>
+  </entry>
+</feed>

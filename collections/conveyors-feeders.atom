@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/conveyors-feeders.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:47:18-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812171227180</id>
+    <published>2019-05-11T01:47:18-04:00</published>
+    <updated>2019-05-11T01:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-krw-30v"/>
+    <title>King Canada KRW-30V  - Replacement Wheel 3 1/8 Inch X 1 3/16 Inch Kpf-30V</title>
+    <s:type>Power Feeders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-feeders-accessories-king-canada-krw-30v-replacement-wheel-3-1-8-inch-x-1-3-16-inch-kpf-30v-12746648092716.jpg?v=1579624619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Feeders &amp; Accessories<br>
+        <strong>Price: </strong>
+            22.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement wheels for KPF-30V</h4> <li class="extra-info">Diameter: 3-1/8 Inch x 1-1/16 Inch Fits model KPF-30V</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Feeders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812171227180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.81</s:price>
+      <s:sku>AC VEY KRW-30V</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812171194412</id>
+    <published>2019-05-11T01:47:18-04:00</published>
+    <updated>2019-05-11T01:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-krw-32"/>
+    <title>King Canada KRW-32  - Replacement Wheel 3 1/8 Inch X 1 3/16 Inch Kpf-32</title>
+    <s:type>Power Feeders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-feeders-accessories-king-canada-krw-32-replacement-wheel-3-1-8-inch-x-1-3-16-inch-kpf-32-12746648125484.jpg?v=1579624774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Feeders &amp; Accessories<br>
+        <strong>Price: </strong>
+            22.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement wheels for KPF-32</h4> <li class="extra-info">Diameter: 3-1/8 Inch x 1-3/16 Inch Fits model KPF-32</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Feeders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812171194412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.81</s:price>
+      <s:sku>AC VEY KRW-32</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812171161644</id>
+    <published>2019-05-11T01:47:18-04:00</published>
+    <updated>2019-05-11T01:47:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-ss-pfb-32"/>
+    <title>King Canada SS-PFB-32  - Auxiliary Base Power Feeder Kpf-32</title>
+    <s:type>Power Feeders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-feeders-accessories-king-canada-ss-pfb-32-auxiliary-base-power-feeder-kpf-32-13391079211052.png?v=1575007087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Feeders &amp; Accessories<br>
+        <strong>Price: </strong>
+            242.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Feeders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812171161644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">242.30</s:price>
+      <s:sku>AC VEY SS-PFB-32</s:sku>
+      <s:grams>2611</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812171030572</id>
+    <published>2019-05-11T01:47:13-04:00</published>
+    <updated>2019-05-11T01:47:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-krw-34"/>
+    <title>King Canada KRW-34  - Replacement Wheel 4 3/4 Inch X 2 1/4 Inch Kpf-34</title>
+    <s:type>Power Feeders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-feeders-accessories-king-canada-krw-34-replacement-wheel-4-3-4-inch-x-2-1-4-inch-kpf-34-12746648027180.jpg?v=1579625378"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Feeders &amp; Accessories<br>
+        <strong>Price: </strong>
+            29.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement wheels for KPF-34</h4> <li class="extra-info">Diameter: 4-3/4 Inch x 2-1/4 Inch Fits model KPF-34</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Feeders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812171030572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.93</s:price>
+      <s:sku>AC VEY KRW-34</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812168704044</id>
+    <published>2019-05-11T01:46:22-04:00</published>
+    <updated>2019-05-11T01:46:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pfm-9424"/>
+    <title>King Canada PFM-9424  - Table Powerfeed Attachment 942Vs/1050Vs Transversal</title>
+    <s:type>Powerfeeds</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powerfeeds-king-canada-pfm-9424-table-powerfeed-attachment-942vs-1050vs-transversal-12746646192172.jpg?v=1579626219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Powerfeeds<br>
+        <strong>Price: </strong>
+            947.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Table powerfeed -Y axis</h4> <li class="extra-info">Fits models 942VS and 1050VS</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powerfeeds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812168704044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">947.87</s:price>
+      <s:sku>MH VEY PFM-9424</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812168671276</id>
+    <published>2019-05-11T01:46:22-04:00</published>
+    <updated>2019-05-11T01:46:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pfm-9426"/>
+    <title>King Canada PFM-9426  - Table Powerfeed Attachment 942Vs/1050Vs Vertical</title>
+    <s:type>Powerfeeds</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powerfeeds-king-canada-pfm-9426-table-powerfeed-attachment-942vs-1050vs-vertical-12746646159404.jpg?v=1579626252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Powerfeeds<br>
+        <strong>Price: </strong>
+            947.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Table powerfeed -Z axis</h4> <li class="extra-info">Fits models 942VS and 1050VS</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powerfeeds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812168671276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">947.87</s:price>
+      <s:sku>MH VEY PFM-9426</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812168638508</id>
+    <published>2019-05-11T01:46:22-04:00</published>
+    <updated>2019-05-11T01:46:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pfm-9422"/>
+    <title>King Canada PFM-9422  - Table Powerfeed Attachment 942Vs/1050Vs Longitudinal</title>
+    <s:type>Powerfeeds</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powerfeeds-king-canada-pfm-9422-table-powerfeed-attachment-942vs-1050vs-longitudinal-12746646224940.jpg?v=1579626189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Powerfeeds<br>
+        <strong>Price: </strong>
+            947.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Table powerfeed -X axis</h4> <li class="extra-info">Fits models 942VS and 1050VS</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powerfeeds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812168638508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">947.87</s:price>
+      <s:sku>MH VEY PFM-9422</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812165427244</id>
+    <published>2019-05-11T01:44:52-04:00</published>
+    <updated>2019-05-11T01:44:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kpf-32"/>
+    <title>King Canada KPF-32  - Power Stock Feeder 4 Speed 2.5 Amp 110V</title>
+    <s:type>Power Feeders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-feeders-accessories-king-canada-kpf-32-power-stock-feeder-4-speed-2-5-amp-110v-12746643701804.jpg?v=1579624022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Feeders &amp; Accessories<br>
+        <strong>Price: </strong>
+            1155.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Power feeder</h4> <li class="extra-info">4 speed power stock feeder Adapts to a variety of woodworking machinery including table saws, shapers, bandsaws and jointers InchTrue-grip” polyurethane rollers provide an accurate feed Comes with a reversing switch</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Feeders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812165427244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1155.97</s:price>
+      <s:sku>MH VEY KPF-32</s:sku>
+      <s:grams>34063</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812165394476</id>
+    <published>2019-05-11T01:44:51-04:00</published>
+    <updated>2019-05-11T01:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kpf-34"/>
+    <title>King Canada KPF-34  - Power Stock Feeder 4 Speed 6.2 Amp 220V</title>
+    <s:type>Power Feeders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-feeders-accessories-king-canada-kpf-34-power-stock-feeder-4-speed-6-2-amp-220v-12746643603500.jpg?v=1579624178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Feeders &amp; Accessories<br>
+        <strong>Price: </strong>
+            1575.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Power feeder (220V)</h4> <li class="extra-info">4 speed power stock feeder (220V) Adapts to a variety of woodworking machinery including table saws, shapers, bandsaws and jointers InchTrue-grip” polyurethane rollers provide an accurate feed Comes with a reversing switch</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Feeders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812165394476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1575.03</s:price>
+      <s:sku>MH VEY KPF-34</s:sku>
+      <s:grams>28159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812165361708</id>
+    <published>2019-05-11T01:44:51-04:00</published>
+    <updated>2019-05-11T01:44:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kpf-30v"/>
+    <title>King Canada KPF-30V  - Power Stock Feeder Vs</title>
+    <s:type>Power Feeders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-feeders-accessories-king-canada-kpf-30v-power-stock-feeder-vs-12746643669036.jpg?v=1579624089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Feeders &amp; Accessories<br>
+        <strong>Price: </strong>
+            719.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Power feeder</h4> <li class="extra-info">Variable speed power stock feeder A small, lightweight, versatile model Forward and reverse variable speed with a feed rate of 7- 40 feet per minute Can be easily reset from a vertical to a horizontal position Polyurethane rollers provide an accurate feed Dust hood outlet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Feeders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812165361708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">719.81</s:price>
+      <s:sku>MH VEY KPF-30V</s:sku>
+      <s:grams>11808</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122246295596</id>
+    <published>2018-08-03T18:40:26-04:00</published>
+    <updated>2018-08-03T18:40:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-gvp-101"/>
+    <title>3M GVP-101  - Motor Blower Gasket 7000126103</title>
+    <s:type>Gaskets</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/gaskets-3m-gvp-101-motor-blower-gasket-7000126103-31602514067605.jpg?v=1628214051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Gaskets<br>
+        <strong>Price: </strong>
+            64.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Motor Blower Gasket, GVP-101</h4> <li class="extra-info">3M Motor Blower Gasket GVP-101 provides the seal that allows the motor blower to provide proper air flow to the user</li><li class="extra-info">It includes five inlet and five outlet.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Gaskets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC VEY</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122246295596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.06</s:price>
+      <s:sku>AC VEY GVP-101</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+</feed>

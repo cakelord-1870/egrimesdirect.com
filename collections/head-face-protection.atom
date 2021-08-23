@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/head-face-protection.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2020-06-09T15:20:46-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/5314288058517</id>
+    <published>2020-06-09T15:20:46-04:00</published>
+    <updated>2020-06-09T15:20:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sellstrom-s39110"/>
+    <title>SellStrom S39110  ~  Single Crown Face shield with window and Ratcheting headgear - Uncoated</title>
+    <s:type>Face Shields</s:type>
+    <s:vendor>SellStrom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/face-shields-sellstrom-s39110-single-crown-face-shield-with-window-and-ratcheting-headgear-uncoated-17622210248853.jpg?v=1593201999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SellStrom<br>
+        <strong>Type: </strong>Face Shields<br>
+        <strong>Price: </strong>
+            35.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[shortdesc]</p>
+<p><span style="color: #5d9e1c;"><strong>Replaces Sellstrom S30110</strong></span></p>
+<li class="extra-info">Extra-large high impact blue crown</li>
+<li class="extra-info">Premium polycarbonate scratch resistant window</li>
+<li class="extra-info">Meets ANSI Z87+ High-Impact and certified to CAN/CSA Z94.2 standards</li>
+[/shortdesc]
+<h2>Extra Product Information</h2>
+<li class="extra-info">Made in the USA using only the highest quality acetate material</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5314288058517</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.54</s:price>
+      <s:sku>SS HED S39110</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5314287960213</id>
+    <published>2020-06-09T15:20:45-04:00</published>
+    <updated>2020-06-09T15:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jackson-safety-14360"/>
+    <title>Jackson Safety 14360  ~  Disposable Splash Protection Face Shield</title>
+    <s:type>Face Shields</s:type>
+    <s:vendor>Jackson Safety</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/face-shields-jackson-safety-14360-disposable-splash-protection-face-shield-17622208970901.png?v=1593201590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jackson Safety<br>
+        <strong>Type: </strong>Face Shields<br>
+        <strong>Price: </strong>
+            5.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Disposable cost effective splash protection</li><li class="extra-info">  Large viewing window</li><li class="extra-info"> Foam sweatband</li><li class="extra-info"> Secure fit headband with foam insert</li><li class="extra-info"> Anti-fog &amp; anti-scratch for optical clarity</li><li class="extra-info"> Individually wrapped</li><li class="extra-info"> Not intended for impact use</li><li class="extra-info"> Meets EN1731 : Personal eye protection ? Mesh eye and face protectors</li>[/shortdesc]<h2>Extra Product Information</h2><li class="extra-info">Sterile and disposable cost effective splash protection</li><li class="extra-info">Anti-fog and anti-scratch large viewing window shield for optical clarity</li><li class="extra-info">Sweat band is a closed cell foam</li><li class="extra-info">Secure fit head band with foam insert.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5314287960213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.56</s:price>
+      <s:sku>SS HED 14360</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5314287861909</id>
+    <published>2020-06-09T15:20:43-04:00</published>
+    <updated>2020-06-09T15:20:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jackson-safety-14350"/>
+    <title>Jackson Safety 14350  ~  Re-Usable Splash Protection Face Shield</title>
+    <s:type>Face Shields</s:type>
+    <s:vendor>Jackson Safety</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/face-shields-jackson-safety-14350-re-usable-splash-protection-face-shield-17622211887253.png?v=1593201464"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jackson Safety<br>
+        <strong>Type: </strong>Face Shields<br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Replaceable Sweatband</li><li class="extra-info"> Replaceable Window</li><li class="extra-info"> Headband &amp; Window are recyclable</li><li class="extra-info"> Individually wrapped</li><li class="extra-info"> Not intended for impact use</li><li class="extra-info"> Meets or exceeds ANSI Z87.1 D3 for basic impact
+and splash protection</li><li class="extra-info"> Made in the USA</li>[/shortdesc]<h2>Extra Product Information</h2><li class="extra-info">deal for splash protection against liquids and body fluids for health care workers, first responders and in food processing applications</li><li class="extra-info"> Safeguards against splash and dust in a wide range of general use applications</li><li class="extra-info"> Easy-to-install/replace window ? quickly snaps on or off the headband for maximum convenience</li><li class="extra-info"> Extra-large full-face coverage for superior protection ? check and compare</li><li class="extra-info"> Reusable design ? significantly reduces landfill waste and saves on disposal costs</li><li class="extra-info"> Window features an anti-fog coating not found on most other face shields ? keeps your vision clear and safe</li><li class="extra-info"> Baseball cap style pinlock head strap ensures quick and easy adjustments ? just set it and forget it</li><li class="extra-info"> Window and headband made with recyclable materials and are both replaceable</li><li class="extra-info"> A premium yet cost effective face shield solution ? a Jackson Safety exclusive
+Not designed for use in high impact applications</li><li class="extra-info"> Individual wrapped to protect the product during shipment and before use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5314287861909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku>SS HED 14350</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5271347396757</id>
+    <published>2020-06-01T15:28:25-04:00</published>
+    <updated>2020-06-01T15:28:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/eulve-fh-01"/>
+    <title>Eulve FH-01  ~  Disposable Face Shield - Packaged Individually (8-1/2&quot; Height, 13&quot; Width)</title>
+    <s:type>Face Shields</s:type>
+    <s:vendor>Eulve</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/face-shields-eulve-fh-01-disposable-face-shield-packaged-individually-8-1-2-height-13-width-17622435528853.jpg?v=1593203000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eulve<br>
+        <strong>Type: </strong>Face Shields<br>
+        <strong>Price: </strong>
+            4.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]
+<div style="background-color: #78c327; border-radius: 15px; box-shadow: 5px 10px 15px #888888;">
+<p style="font-size: 2.5em; text-align: center; color: white;"><strong>IN STOCK NOW</strong></p>
+</div>
+<li class="extra-info">Structure composition of products: The face shield comprises the protective cover and the fixing device</li>
+<li class="extra-info">The protective cover is made of a high-polymer material, and the rubber belt is used as the fixing device, non sterile, disposable use</li>
+<li class="extra-info">Intended purposes: When used for personal protection, it plays a protective role, blocking body fluids, blood splashes</li>
+<li class="extra-info">Appearance and structure: The surface of the face shield should be cleanm complete and free from stains and dirt</li>
+<li class="extra-info">Damage oe separation is prohibited</li>
+<li class="extra-info">The lends should be smooth and free from burs and scratches</li>
+<li class="extra-info">The lens color should be transparent to guarantee clear sight during use</li>
+<li class="extra-info">
+[/shortdesc]
+<h2>Suggested Application</h2>
+</li><li class="extra-info">When wearing the face shield, it should completely cover tha face of the wearer</li>
+<li class="extra-info">Vertically it should stand upright without sagging</li>
+<li class="extra-info">Horizontally there should be no folds when bending it</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5271347396757</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.22</s:price>
+      <s:sku>SS HED FH-01</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124514562092</id>
+    <published>2020-04-17T21:42:42-04:00</published>
+    <updated>2020-04-17T21:42:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-h-420-10"/>
+    <title>3M H-420-10  - Hood With inner Shroud (10/Cs) 7000002073</title>
+    <s:type>Hoods</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoods-3m-h-420-10-hood-with-inner-shroud-10-cs-7000002073-13981524590636.jpg?v=1628104777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hoods<br>
+        <strong>Price: </strong>
+            539.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hood with Inner Shroud, H-420-10</h4> <li class="extra-info">3M™ Hood with Inner Shroud H-420-10 is a replacement respirator hood for 3M™ Hood Assemblies H-611 and H-612</li><li class="extra-info">It is lightweight, comfortable and helps provide head, neck and respiratory protection from pesticide and chemical overspray</li><li class="extra-info">The hood can be used with belt-mounted Powered Air Purifying Respirators or supplied air components.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoods</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Standard</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Powered Air Purifying Respirators are motorized systems powered by a battery pack which draw air through a filter or cartridge to provide respiratory protection to the wearer</li><li class="extra-info">The blower unit can be mounted on the waist, face, or head, depending on the sy</li><h2>Product Information</h2><li class="extra-info">Certain PAPR systems provide a higher level of respiratory protection than non-powered air filtering respirators</li><li class="extra-info"> Constant flow of air can provide cooling for the worker, resulting in greater comfort for the wearer</li><li class="extra-info"> Loose-fitting headgear options provide respiratory protection without the need for a tight faceseal or fit testing</li><li class="extra-info"> Battery-powered blower pulls the air through the filter resulting in no additional breathing resistance to the wearer</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Size_Standard</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124514562092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">539.90</s:price>
+      <s:sku>SS HED H-420-10 CASE</s:sku>
+      <s:grams>1807</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124427890732</id>
+    <published>2020-04-17T14:40:59-04:00</published>
+    <updated>2020-04-17T14:40:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7890"/>
+    <title>3M 7890  - Full Face Plug 7000029584</title>
+    <s:type>Plugs</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plugs-3m-7890-full-face-plug-7000029584-12794773078060.jpg?v=1580149566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Plugs<br>
+        <strong>Price: </strong>
+            322.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Full Face Plug, 7890</h4> <li class="extra-info">3M Full Face Plug 7890 is designed for use with the 3M Half Facepiece Respirator 6000 and the 3M Full Facepiece Respirator 7800S which help protect against a variety of gases, vapours and particulates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Japan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plugs</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Designed to offer comfort and convenience</li><li class="extra-info"> Suitable for many applications</li><li class="extra-info"> Easy installation</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124427890732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">322.17</s:price>
+      <s:sku>AC HED 7890</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5031114801196</id>
+    <published>2020-04-15T12:42:44-04:00</published>
+    <updated>2020-04-15T12:42:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/double-sided-anti-fog-face-shield-with-padded-elastic-head-band"/>
+    <title>Double Sided Anti-fog Face Shield with Padded Elastic Head Band EGD AFCLE</title>
+    <s:type>Face Shields</s:type>
+    <s:vendor>eGrimesDirect</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-double-sided-anti-fog-face-shield-with-padded-elastic-head-band-15729569792044.jpg?v=1590360716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eGrimesDirect<br>
+        <strong>Type: </strong>Face Shields<br>
+        <strong>Price: </strong>
+            3.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]
+<h4 style="color: black;">Clear Double Sided Anti-fog Unhinged Face Shield</h4>
+<h4 style="color: black;">Head Band 250 mm long, foam padding 30 mm</h4>
+<h4 style="color: black;">Face Shield 320 mm long, 220 mm wide and .3 mm thick</h4>
+<li class="extra-info">Face shield designed to help reduce transmission of Covid-19 and other viruses. </li>
+[/shortdesc]
+<h2>Product Information</h2>
+<table class="egrimes">
+<tbody>
+<tr class="egrimes">
+<td class="egrimes" style="width: 35%;">Brand</td>
+<td class="egrimes">EGD</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes">Origin Country</td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes">Product Type</td>
+<td class="egrimes">Accessories</td>
+</tr>
+</tbody>
+</table>
+<h2>Extra Product Information</h2>
+<li class="extra-info">Double Sided Anti-fog Face Shield with Padded Elastic Head Band</li>
+<h2>Product Information</h2>
+<li class="extra-info">Can be washed and reused.  Wash with gentle soap.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5031114801196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.59</s:price>
+      <s:sku>SS HED EGD AFCLR</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4967810629676</id>
+    <published>2020-04-08T11:46:28-04:00</published>
+    <updated>2020-04-08T11:46:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/clear-co-poly-face-shield-with-adjustable-elastic-head-band"/>
+    <title>Clear Co-poly Face Shield with Adjustable Elastic Head Band</title>
+    <s:type>Face Shields</s:type>
+    <s:vendor>eGrimesDirect</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-clear-co-poly-face-shield-with-adjustable-elastic-head-band-15560352661548.jpg?v=1586360948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eGrimesDirect<br>
+        <strong>Type: </strong>Face Shields<br>
+        <strong>Price: </strong>
+            12.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]
+<h4 style="color: black;">Clear Co-poly Unhinged Face Shield</h4>
+<li class="extra-info">Face shield designed to help reduce transmission of Covid-19 and other viruses. </li>
+[/shortdesc]
+<h2>Product Information</h2>
+<table class="egrimes">
+<tbody>
+<tr class="egrimes">
+<td class="egrimes" style="width: 35%;">Brand</td>
+<td class="egrimes">EGD</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes">Origin Country</td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes">Product Type</td>
+<td class="egrimes">Accessories</td>
+</tr>
+</tbody>
+</table>
+<h2>Extra Product Information</h2>
+<li class="extra-info">Clear Co-poly Face Shield with Adjustable Elastic Head Band</li>
+<h2>Product Information</h2>
+<li class="extra-info">Can be washed and reused.  Wash with gentle soap.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4967810629676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.55</s:price>
+      <s:sku>SS HED UNHINGED</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4967545798700</id>
+    <published>2020-04-08T11:19:08-04:00</published>
+    <updated>2020-04-08T11:19:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/clear-poly-hinged-face-shield-with-elastic-head-band"/>
+    <title>Clear Co-poly Hinged Face Shield with Elastic Head Band</title>
+    <s:type>Face Shields</s:type>
+    <s:vendor>eGrimesDirect</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-clear-co-poly-hinged-face-shield-with-elastic-head-band-15559804289068.jpg?v=1586360021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eGrimesDirect<br>
+        <strong>Type: </strong>Face Shields<br>
+        <strong>Price: </strong>
+            18.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]
+<h4 style="color: black;">Clear Co-poly Hinged Face Shield</h4>
+<li class="extra-info">Face shield designed to help reduce transmission of Covid-19 and other viruses. </li>
+[/shortdesc]
+<h2>Product Information</h2>
+<table class="egrimes">
+<tbody>
+<tr class="egrimes">
+<td class="egrimes" style="width: 35%;">Brand</td>
+<td class="egrimes">EGD</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes">Origin Country</td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes">Product Type</td>
+<td class="egrimes">Face Shields</td>
+</tr>
+</tbody>
+</table>
+<h2>Extra Product Information</h2>
+<li class="extra-info">Clear Co-poly Hinged Face Shield with Elastic Head Band</li>
+<h2>Product Information</h2>
+<li class="extra-info">Can be washed and reused.  Wash with gentle soap.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4967545798700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.15</s:price>
+      <s:sku>SS HED HINGED</s:sku>
+      <s:grams>141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037554732</id>
+    <published>2019-12-04T10:30:18-05:00</published>
+    <updated>2019-12-04T10:30:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-l-950"/>
+    <title>3M L-950  - 3M Helmet Shell 1/Case L-950 7000126272</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-l-950-3m-helmet-shell-1-case-l-950-7000126272-13120529530924.jpg?v=1580335348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            151.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Helmet Shell L-950 1/Case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037554732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">151.04</s:price>
+      <s:sku>SS HED L-950</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038013484</id>
+    <published>2019-12-04T10:30:10-05:00</published>
+    <updated>2019-12-04T10:30:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-w-2879"/>
+    <title>3M W-2879  - 3M Ratchet Suspension 1/Case W-2879 7000126090</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-w-2879-3m-ratchet-suspension-1-case-w-2879-7000126090-13120529989676.jpg?v=1578876472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            63.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Ratchet Suspension W-2879 1/Case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038013484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.03</s:price>
+      <s:sku>SS HED W-2879</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255049121836</id>
+    <published>2019-12-04T10:27:55-05:00</published>
+    <updated>2019-12-04T10:27:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-w-2913-2"/>
+    <title>3M W-2913-2  - 3M Chin Strap 2/Case W-2913-2 7000056514</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-w-2913-2-3m-chin-strap-2-case-w-2913-2-7000056514-13816242077740.jpg?v=1627999859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Chin Strap W-2913-2 2/Case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255049121836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.12</s:price>
+      <s:sku>SS HED W-2913-2</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255049089068</id>
+    <published>2019-12-04T10:27:55-05:00</published>
+    <updated>2019-12-04T10:27:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-w-3222-2"/>
+    <title>3M W-3222-2  - 3M Squeeze Clamp W-3222-2 7000056528</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-w-3222-2-3m-squeeze-clamp-w-3222-2-7000056528-13815062593580.jpg?v=1628112880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Squeeze Clamp W-3222-2</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255049089068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.07</s:price>
+      <s:sku>SS HED W-3222-2</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255033131052</id>
+    <published>2019-10-16T00:37:08-04:00</published>
+    <updated>2019-10-16T00:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3m7000138321"/>
+    <title>3M 3M7000138321  - H-701R-Uv Hard Hat White Cf ind 7000138321</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3m7000138321-h-701r-uv-hard-hat-white-cf-ind-7000138321-13120525631532.jpg?v=1580170413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            691.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">H-701R-UV HARD HAT WHITE CF IND</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255033131052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">691.53</s:price>
+      <s:sku>SS HED 3M7000138321</s:sku>
+      <s:grams>1719</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255023464492</id>
+    <published>2019-10-16T00:31:17-04:00</published>
+    <updated>2019-10-16T00:31:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-l-750"/>
+    <title>3M L-750  - L-750 Hardhat Shell L-750 7100039564</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-l-750-l-750-hardhat-shell-l-750-7100039564-13120515538988.jpg?v=1580061178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            191.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">L-750 HARDHAT SHELL 1/CASE</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255023464492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">191.00</s:price>
+      <s:sku>SS HED L-750</s:sku>
+      <s:grams>780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255018287148</id>
+    <published>2019-10-16T00:27:52-04:00</published>
+    <updated>2019-10-16T00:27:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-w-8116-2"/>
+    <title>3M W-8116-2  - 3M Heavy Duty Faceshield Screen, W-8116-2 7100077227</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-w-8116-2-3m-heavy-duty-faceshield-screen-w-8116-2-7100077227-13120510623788.jpg?v=1578863603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            120.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Heavy Duty Faceshield Screen, W-8116-2</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255018287148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.98</s:price>
+      <s:sku>SS HED W-8116-2</s:sku>
+      <s:grams>612</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017500716</id>
+    <published>2019-10-16T00:27:18-04:00</published>
+    <updated>2019-10-16T00:27:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-h-705v-uv"/>
+    <title>3M H-705V-UV  - 3M Hard Hat H-705V-UV, Red, 4-Point Ratchet Suspension, Vented, with Uvicator, 20ea/cs H-705V-UV 7100081973</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-h-705v-uv-3m-hard-hat-h-705v-uv-red-4-point-ratchet-suspension-vented-with-uvicator-20ea-cs-h-705v-uv-7100081973-13981966565420.jpg?v=1628161834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hard Hat H-705V-UV, Red, 4-Point Ratchet Suspension, Vented, with Uvicator, 20ea/cs</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017500716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.45</s:price>
+      <s:sku>SS HED H-705V-UV</s:sku>
+      <s:grams>371</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255000461356</id>
+    <published>2019-10-16T00:16:00-04:00</published>
+    <updated>2019-10-16T00:16:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-bt-927n"/>
+    <title>3M BT-927N  - 3M Versaflo Breathing Tube Radiant Heat Cover, BT-927N 7100154106</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-bt-927n-3m-versaflo-breathing-tube-radiant-heat-cover-bt-927n-7100154106-13978533199916.jpg?v=1628102083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            186.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Versaflo Breathing Tube Radiant Heat Cover, BT-927N</h4> <li class="extra-info">The 3M™ Versaflo™ Breathing Tube Radiant Heat Cover BT-927N is a radiant heat resistant, high durability breathing tube cover for approved Breathing Tubes to help extend the life of the tube.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Radiant heat resistant, high durability breathing tube cover</li><li class="extra-info">Helps extend the life of the approved breathing tubes</li><li class="extra-info">For use with 3M™ Versaflo™ BT Series Breathing Tubes.</li><h2>Product Information</h2><li class="extra-info">Radiant heat resistant</li><li class="extra-info"> Modular</li><li class="extra-info"> Breathing tube cover</li><li class="extra-info"> Protects against radiant heat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255000461356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">186.84</s:price>
+      <s:sku>SS HED BT-927N</s:sku>
+      <s:grams>381</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255000428588</id>
+    <published>2019-10-16T00:15:56-04:00</published>
+    <updated>2019-10-16T00:15:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-m-961n"/>
+    <title>3M M-961N  - 3M Versaflo Over-visor Frame, M-961N, M-961N 7100154127</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-m-961n-3m-versaflo-over-visor-frame-m-961n-m-961n-7100154127-13120473530412.jpg?v=1580060137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            136.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Versaflo Over-visor Frame, M-961N,</h4> <li class="extra-info">The 3M™ Versaflo™ Over-visor Frame M-961N is a carrier frame to fit the 3M™ Versaflo™ Over-visor M-967N to 3M™ Versaflo™ M-Series Helmets, M-307 and M-407.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Carrier frame to fit Over-visor to select 3M™ Versaflo™ M-Series Helmets</li><li class="extra-info">Low profile, designed specifically for use with M-307 and M-407 Helmets</li><li class="extra-info">For use with 3M™ Versaflo™ Gold Over-visor M-967N.</li><h2>Product Information</h2><li class="extra-info">Designed for 3M™ Versaflo™ M-307 and M-407 helmets</li><li class="extra-info"> Modular</li><li class="extra-info"> Low profile</li><li class="extra-info"> Over-visor</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255000428588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">136.50</s:price>
+      <s:sku>SS HED M-961N</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255000395820</id>
+    <published>2019-10-16T00:15:55-04:00</published>
+    <updated>2019-10-16T00:15:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-m-967n"/>
+    <title>3M M-967N  - 3M Versaflo Gold Coated Tinted Over-Visor with UV/IR Protection M-967N, 1 EA/Case M-967N 7100154128</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-m-967n-3m-versaflo-gold-coated-tinted-over-visor-with-uv-ir-protection-m-967n-1-ea-case-m-967n-7100154128-13987038953516.jpg?v=1628107305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            282.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Versaflo Gold Coated Tinted Over-Visor with UV/IR Protection M-967N, 1 EA/Case</h4> <li class="extra-info">3M™ Versaflo™ Tinted Over-visor M-967N with UV/IR protection is a gold coated over-visor designed to flip-up, allowing the user flexibility to have UV/IR protection when needed.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Gold coated tinted over-visor helps protects against UV/IR, sparks and splashes</li><li class="extra-info">Full length 19.69in x 9.84in (500mm x 250mm)</li><li class="extra-info">For use with 3M™ Versaflo™ Over-visor Frame M-961N.</li><h2>Product Information</h2><li class="extra-info">Protects against UV/IR, and sparks and splashes</li><li class="extra-info"> Modular</li><li class="extra-info"> Over-visor</li><li class="extra-info"> Tinted</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255000395820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">282.90</s:price>
+      <s:sku>SS HED M-967N</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255000363052</id>
+    <published>2019-10-16T00:15:54-04:00</published>
+    <updated>2019-10-16T00:15:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-m-973n"/>
+    <title>3M M-973N  - 3M Versaflo Radiant Heat Cover, M-973 M-973N 7100154129</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-m-973n-3m-versaflo-radiant-heat-cover-m-973-m-973n-7100154129-13987028369452.jpg?v=1628160035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            797.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Versaflo Radiant Heat Cover, M-973</h4> <li class="extra-info">3M™ Versaflo™ Radiant Heat Cover M-973 is designed to be used with the 3M™ Versaflo™ M-307 Helmet with flame resistant faceseal in high temperature environments by providing improved head, neck and shoulders protection and comfort from radiant heat.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Protects against radiant heat</li><li class="extra-info"> Modular</li><li class="extra-info"> Modular</li><li class="extra-info"> Protects against radiant heat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255000363052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">797.82</s:price>
+      <s:sku>SS HED M-973N</s:sku>
+      <s:grams>371</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255000330284</id>
+    <published>2019-10-16T00:15:54-04:00</published>
+    <updated>2019-10-16T00:15:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-m-975n"/>
+    <title>3M M-975N  - 3M Versaflo Radiant Heat Cover, M-975N 7100154130</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-m-975n-3m-versaflo-radiant-heat-cover-m-975n-7100154130-13987023421484.jpg?v=1628107117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            743.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Versaflo Radiant Heat Cover, M-975N</h4> <li class="extra-info">3M™ Versaflo™ Radiant Heat Cover M-975N is designed to be used with the 3M™ Versaflo™ M-407 Helmet in high temperature environments by providing improved head, neck and shoulders protection and comfort from radiant heat.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Modular range allows for multiple combinations and different coverage levels</li><li class="extra-info"> Compatible with 3M™ Versaflo™ Helmet M-407</li><li class="extra-info"> Modular</li><li class="extra-info"> Protects against radiant heat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255000330284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">743.92</s:price>
+      <s:sku>SS HED M-975N</s:sku>
+      <s:grams>371</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254996103212</id>
+    <published>2019-10-16T00:13:13-04:00</published>
+    <updated>2019-10-16T00:13:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-060-46-34r01"/>
+    <title>3M 060-46-34R01  - 3M Headgear Shell 060-46-34R01, White 1/Case 060-46-34R01 7000126349</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-060-46-34r01-3m-headgear-shell-060-46-34r01-white-1-case-060-46-34r01-7000126349-13120470319148.jpg?v=1580191652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            162.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254996103212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">162.18</s:price>
+      <s:sku>AC HED 060-46-34R01</s:sku>
+      <s:grams>721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254996070444</id>
+    <published>2019-10-16T00:13:12-04:00</published>
+    <updated>2019-10-16T00:13:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-060-75-02r10"/>
+    <title>3M 060-75-02R10  - 3M Visor 060-75-02R10, Gray Tinted 10/Case 060-75-02R10 7000126351</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-060-75-02r10-3m-visor-060-75-02r10-gray-tinted-10-case-060-75-02r10-7000126351-13120470351916.jpg?v=1580191619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            263.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254996070444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">263.41</s:price>
+      <s:sku>AC HED 060-75-02R10</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254996037676</id>
+    <published>2019-10-16T00:13:11-04:00</published>
+    <updated>2019-10-16T00:13:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-l-137"/>
+    <title>3M L-137  - 3M Wide-view Faceshield Assembly 1/Case L-137 7000126302</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-l-137-3m-wide-view-faceshield-assembly-1-case-l-137-7000126302-13120470286380.jpg?v=1580335067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC HED</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254996037676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.48</s:price>
+      <s:sku>AC HED L-137</s:sku>
+      <s:grams>217</s:grams>
+    </s:variant>
+  </entry>
+</feed>

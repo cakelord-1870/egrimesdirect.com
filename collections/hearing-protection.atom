@@ -1,0 +1,1359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/hearing-protection.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:27-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037030444</id>
+    <published>2019-12-04T10:30:27-05:00</published>
+    <updated>2019-12-04T10:30:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-p9-213121"/>
+    <title>3M P9-213121  - 3M Peltor Cup PTT Button for Direct Wired Headsets, P9-213121, 1 ea/cs P9-213121 7000127277</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-p9-213121-3m-peltor-cup-ptt-button-for-direct-wired-headsets-p9-213121-1-ea-cs-p9-213121-7000127277-13120528908332.jpg?v=1580344141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Peltor(TM) Cup PTT Button for Direct Wired Headsets, P9-213121, 1 ea/cs</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037030444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.28</s:price>
+      <s:sku>AC EAR P9-213121</s:sku>
+      <s:grams>1133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048400940</id>
+    <published>2019-12-04T10:28:04-05:00</published>
+    <updated>2019-12-04T10:28:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-mt15h7aws5-01"/>
+    <title>3M MT15H7AWS5-01  - Mt15H7Aws5-01 Gb Ws Protac Hdset Grndmec Mt15H7Aws5-01 7000108493</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-mt15h7aws5-01-mt15h7aws5-01-gb-ws-protac-hdset-grndmec-mt15h7aws5-01-7000108493-13120543752236.jpg?v=1580337304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            560.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">MT15H7AWS5-01 GB WS PROTAC HDSET GRNDMEC</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048400940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">560.55</s:price>
+      <s:sku>SS EAR MT15H7AWS5-01</s:sku>
+      <s:grams>7538</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293582127148</id>
+    <published>2019-12-03T12:08:42-05:00</published>
+    <updated>2019-12-03T12:08:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-m-985"/>
+    <title>3M Peltor M-985  - Peltor Earmuff Assembly M-98 Orange 7100004873</title>
+    <s:type>Communications</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/communications-3m-peltor-m-985-peltor-earmuff-assembly-m-98-orange-7100004873-13223939866668.jpg?v=1580052659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Communications<br>
+        <strong>Price: </strong>
+            67.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Peltor Earmuff Assembly, M-985, orange</h4> <li class="extra-info">3M Peltor Earmuff Assembly M-985 allows 3M Versaflo M-100 and M-300 Series users to use headgear-mounted earmuffs</li><li class="extra-info">The assembly includes one pair of 3M Peltor Earmuffs H31 and hardware for mounting on the 3M Versaflo Headgear M-100 and M-300 Series.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Peltor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Communications</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Optimal fit on 3M Versaflo Headgear</li><li class="extra-info"> Simple installation</li><li class="extra-info"> Easy-to-adjust for convenient wear</li><li class="extra-info"> Noise Reduction Rating (NRR)*: 23 dB</li><li class="extra-info">CSA Class A</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Peltor</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293582127148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.42</s:price>
+      <s:sku>SS EAR M-985</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333481099308</id>
+    <published>2019-12-03T12:07:28-05:00</published>
+    <updated>2019-12-03T12:07:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-310-1001"/>
+    <title>3M E-A-Rsoft 310-1001  - Earplug Uncorded Classic Pillow Pak 200 Pr *** (Moq 10 Boxes) *** 7000002299</title>
+    <s:type>Ear Plugs</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ear-plugs-3m-e-a-rsoft-310-1001-earplug-uncorded-classic-pillow-pak-200-pr-moq-10-boxes-7000002299-13390950891564.jpg?v=1575051189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Ear Plugs<br>
+        <strong>Price: </strong>
+            44.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M E-A-R Classic Uncorded Earplug, 310-1001</h4> <li class="extra-info">3M E-A-R Classic Uncorded Earplugs set the standard in hearing protection as the world's first foam earplugs</li><li class="extra-info">Constructed from slow-recovery foam,the disposable earplug conforms to the shape of the ear canal for excellent hearing protection.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">E-A-Rsoft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ear Plugs</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ E-A-R™ Classic Earplugs are an economical, reliable choice in hearing protection and conservation</li><li class="extra-info">The slow recovery foam used to create these ear plugs, provides a flame resistant, moisture resistant and sound resistant barrier for the ear canal, alo</li><h2>Product Information</h2><li class="extra-info">Sweat and moisture-resistant for use in humid environments</li><li class="extra-info"> One size fits most</li><li class="extra-info"> Cylindrical shape creates a snug seal for noise reduction</li><li class="extra-info"> Noise Reduction Rating (NRR)*: 29 dB</li><li class="extra-info">CSA Class AL</li><li class="extra-info"> Test compatible with 3M E-A-Rfit Validation System</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_E-A-Rsoft</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333481099308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.24</s:price>
+      <s:sku>SS EAR 310-1001</s:sku>
+      <s:grams>1249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255032803372</id>
+    <published>2019-10-16T00:37:01-04:00</published>
+    <updated>2019-10-16T00:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-hl1ar"/>
+    <title>3M HL1AR  - 3M Peltor Mono Plug/Curly Cable Assembly, -03 series, HL1AR, 2.5mm HL1AR 7000141077</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-hl1ar-3m-peltor-mono-plug-curly-cable-assembly-03-series-hl1ar-2-5mm-hl1ar-7000141077-13120525238316.jpg?v=1580322452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Peltor Mono Plug/Curly Cable Assembly, -03 series, HL1AR, 2.5mm</h4> <li class="extra-info">3M™ Peltor™ Mono Plug/Curly Cable Assembly are replacement parts intended for the 3M™ Peltor™ Listen-Only Headset HTM79 series.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Peltor™ is a global leader in two-way communication products for use in high-noise environments</li><li class="extra-info">The line offers a broad selection of personal safety headsets and two-way radio accessory products for use in a variety of environments.</li><h2>Product Information</h2><li class="extra-info">Includes replacement parts for the 3M™ Peltor™ Listen-Only Headset HTM79 series</li><li class="extra-info"> Great choice for high-noise environments</li><li class="extra-info"> Designed to provide personal safety in a variety of environments</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255032803372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.36</s:price>
+      <s:sku>AC EAR HL1AR</s:sku>
+      <s:grams>5266</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255031394348</id>
+    <published>2019-10-16T00:36:03-04:00</published>
+    <updated>2019-10-16T00:36:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-hl2b"/>
+    <title>3M HL2B  - 3M Peltor HTM79 1/4 in Molded Stereo Plug/Curly Cable Assembly, HL2B, 1 ea/cs HL2B 7000149373</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-hl2b-3m-peltor-htm79-1-4-in-molded-stereo-plug-curly-cable-assembly-hl2b-1-ea-cs-hl2b-7000149373-13120523501612.jpg?v=1580322542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Peltor(TM) HTM79 1/4 in Molded Stereo Plug/Curly Cable Assembly, HL2B, 1 ea/cs</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255031394348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.92</s:price>
+      <s:sku>AC EAR HL2B</s:sku>
+      <s:grams>2966</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255031361580</id>
+    <published>2019-10-16T00:36:02-04:00</published>
+    <updated>2019-10-16T00:36:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-hrk70l"/>
+    <title>3M HRK70L  - 3M Peltor 230 Ohm Speaker, HRK70L, 1 ea/cs HRK70L 7000149374</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-hrk70l-3m-peltor-230-ohm-speaker-hrk70l-1-ea-cs-hrk70l-7000149374-13120523468844.jpg?v=1580062735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Peltor(TM) 230 Ohm Speaker, HRK70L, 1 ea/cs</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255031361580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.96</s:price>
+      <s:sku>AC EAR HRK70L</s:sku>
+      <s:grams>684</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028281388</id>
+    <published>2019-10-16T00:34:19-04:00</published>
+    <updated>2019-10-16T00:34:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-mt7h79f-01"/>
+    <title>3M MT7H79F-01  - Mt7H79F-01 Gb Headset Hi-Viz Mt7H79F-01 7100003168</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-mt7h79f-01-mt7h79f-01-gb-headset-hi-viz-mt7h79f-01-7100003168-13120519700524.jpg?v=1580337456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            447.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">MT7H79F-01 GB HEADSET HI-VIZ</h4> <li class="extra-info">This versatile ground mechanic headset helps provide clear, concise ground crew communications and reliable hearing protection during ground support operations</li><li class="extra-info">The soft earcup cushions are filled with liquid foam for extended wear and comfort.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">3M Peltor`s 2-way communication headsets are designed for industrial users working in high noise environments</li><li class="extra-info">They offer versatility along with the protection, durability and comfort that you expect from a worldwide leader in communication headsets.</li><li class="extra-info"> These ground mechanic headsets feature:</li><li class="extra-info"> Bright neon ear cups</li><li class="extra-info"> Noise-canceling boom microphone with integral amplifier</li><li class="extra-info"> Padded headband</li><li class="extra-info"> Durable plug assemblies</li><li class="extra-info"> NRR 25 dB*</li><li class="extra-info"> *The NRR may overestimate the hearing protection provided during typical use</li><li class="extra-info">3M recommends reducing the NRR by 50% for estimating the amount of noise reduction provided.</li><li class="extra-info"> 3M is Leading the Advancement of Hearing Conservation™.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028281388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">447.12</s:price>
+      <s:sku>SS EAR MT7H79F-01</s:sku>
+      <s:grams>6509</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255008489516</id>
+    <published>2019-10-16T00:22:14-04:00</published>
+    <updated>2019-10-16T00:22:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-hy83-hygiene-kit"/>
+    <title>3M HY83 HYGIENE KIT  - Hy83 Hygiene Kit Hy83 Hygiene Kit 7100113964</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-hy83-hygiene-kit-hy83-hygiene-kit-hy83-hygiene-kit-7100113964-13120485818412.jpg?v=1580062651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">HY83 Hygiene Kit</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255008489516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.52</s:price>
+      <s:sku>SS EAR HY83 HYGIENE KIT</s:sku>
+      <s:grams>1827</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255001673772</id>
+    <published>2019-10-16T00:16:51-04:00</published>
+    <updated>2019-10-16T00:16:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tep-loop-200"/>
+    <title>3M TEP-LOOP-200  - 3M PELTOR Neckloop, TEP-LOOP-200 7100142485</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tep-loop-200-3m-peltor-neckloop-tep-loop-200-7100142485-13120475070508.jpg?v=1578805439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            117.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) PELTOR(TM) Neckloop, TEP-LOOP-200</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255001673772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">117.00</s:price>
+      <s:sku>AC EAR TEP-LOOP-200</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254996758572</id>
+    <published>2019-10-16T00:13:41-04:00</published>
+    <updated>2019-10-16T00:13:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6n"/>
+    <title>3M FL6N  - FL6N 3.5mm STEREO PLUG FOR MP3, 36 Inch/1M FL6N 7100064600</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-fl6n-fl6n-3-5mm-stereo-plug-for-mp3-36-inch-1m-fl6n-7100064600-13120470941740.jpg?v=1580298206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            43.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254996758572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.52</s:price>
+      <s:sku>AC EAR FL6N</s:sku>
+      <s:grams>4544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254996693036</id>
+    <published>2019-10-16T00:13:40-04:00</published>
+    <updated>2019-10-16T00:13:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6u-61"/>
+    <title>3M FL6U-61  - FL6U-61 Adaptor cable -77 Flex Motorola Visar 120/Case FL6U-61 7000108781</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-fl6u-61-fl6u-61-adaptor-cable-77-flex-motorola-visar-120-case-fl6u-61-7000108781-13120470908972.jpg?v=1580089016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            92.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254996693036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">92.87</s:price>
+      <s:sku>AC EAR FL6U-61</s:sku>
+      <s:grams>7506</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254996660268</id>
+    <published>2019-10-16T00:13:35-04:00</published>
+    <updated>2019-10-16T00:13:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-mt17h682fb-09-sv"/>
+    <title>3M MT17H682FB-09-SV  - MT17H682FB-09 SV-SwatTac HD Config 1/CS MT17H682FB-09-SV 7100081701</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-mt17h682fb-09-sv-mt17h682fb-09-sv-swattac-hd-config-1-cs-mt17h682fb-09-sv-7100081701-13120470843436.jpg?v=1580059534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            434.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254996660268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">434.01</s:price>
+      <s:sku>AC EAR MT17H682FB-09-SV</s:sku>
+      <s:grams>526</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982406188</id>
+    <published>2019-10-16T00:04:39-04:00</published>
+    <updated>2019-10-16T00:04:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-391-1012"/>
+    <title>3M 391-1012  - 3M E-A-Rsoft FX Dispenser Bottle Refill, 391-1012 7100088422</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-391-1012-3m-e-a-rsoft-fx-dispenser-bottle-refill-391-1012-7100088422-13120442892332.jpg?v=1580206896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            273.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M E-A-Rsoft FX Dispenser Bottle Refill, 391-1012</h4> <li class="extra-info">The 3M™ E-A-Rsoft FX Dispenser Bottle Refill is intended for use with the 3M™ One Touch Pro Earplug Dispenser, 391-000</li><li class="extra-info">Each refill bottle contains a supply of 500 pairs of 3M™ E-A-Rsoft FX Uncorded Earplugs and easily mounts into the dispenser</li><li class="extra-info">This system makes it fast and easy for workers to access earplugs for hearing protection.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Refill bottle contains 500 pair uncorded 3M E-A-Rsoft FX Earplugs</li><li class="extra-info"> Intended for use with 3M One Touch Pro Earplug Dispenser</li><li class="extra-info"> 3M E-A-Rsoft FX Earplugs are made of a soft, slow recovery foam</li><li class="extra-info"> Noise Reduction Rating (NRR) of 33 dB, CSA Class AL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982406188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">273.25</s:price>
+      <s:sku>SS EAR 391-1012</s:sku>
+      <s:grams>2807</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982340652</id>
+    <published>2019-10-16T00:04:36-04:00</published>
+    <updated>2019-10-16T00:04:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-90543-4dc"/>
+    <title>3M 90543-4DC  - 90543H1-Disc-Ps Worktunes Connect Wireless Hearing Protector With Bluetooth(R)Technology, 90543-4Disc 7100160539</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-90543-4dc-90543h1-disc-ps-worktunes-connect-wireless-hearing-protector-with-bluetooth-r-technology-90543-4disc-7100160539-13120442564652.jpg?v=1580238937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            97.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">90543H1-DC-PS 3M(TM) WorkTunes(TM) Connect Wireless Hearing Protector with Bluetooth(R)Technology, 4/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982340652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">97.52</s:price>
+      <s:sku>SS EAR 90543-4DC</s:sku>
+      <s:grams>512</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254961827884</id>
+    <published>2019-10-15T23:18:17-04:00</published>
+    <updated>2019-10-15T23:18:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-peltor-x5a-ea"/>
+    <title>3M Peltor X5A-EA  - Peltor Over-The-Head Earmuffs X5A Black Pair</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-peltor-x5a-ea-peltor-over-the-head-earmuffs-x5a-black-pair-13179539128364.jpg?v=1580320975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Peltor Over-the-Head Earmuffs, X5A, black</h4> <li class="extra-info">3M Peltor Over-the-Head Earmuffs X5A are one of 3M's latest advancements in hearing conservation</li><li class="extra-info">New technologies in comfort, design and protection all come together in this ground-breaking earmuff.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Peltor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Wire headband offers consistent pressure over prolonged wearing periods</li><li class="extra-info"> Earcup pivot points tilt for optimum comfort and efficiency</li><li class="extra-info"> Replaceable ear cushions and foam liners (3M Peltor Hygiene Kit HYX5)</li><li class="extra-info"> Noise Reduction Rating (NRR)*: 31 dB</li><li class="extra-info">CSA Class AL</li><li class="extra-info"> Hearing Protection Solutions Made Innovatively Easy</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Peltor</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254961827884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.01</s:price>
+      <s:sku>SS EAR X5A</s:sku>
+      <s:grams>3497</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929649708</id>
+    <published>2019-10-15T22:22:33-04:00</published>
+    <updated>2019-10-15T22:22:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-393-3003-2"/>
+    <title>3M Peltor 393-3003-2  - Peltor Earmuff Probed Test Cushions x3 7100062127</title>
+    <s:type>Communications</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/communications-3m-peltor-393-3003-2-peltor-earmuff-probed-test-cushions-x3-7100062127-13120339148844.jpg?v=1580344444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Communications<br>
+        <strong>Price: </strong>
+            37.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Peltor Earmuff Probed Test Cushions X3, 393-3003-2</h4> <li class="extra-info">3M™ Peltor™ Earmuff Probed Test Cushions X3 easily snap into the 3M™ Peltor™ X-Series X3 Earmuffs (sold separately) to allow for fit testing with the 3M™ E-A-Rfit Dual-Ear Validation System</li><li class="extra-info">The complete system issues a pass or fail rating based on the employee's personal attenuation rating (PAR) when wearing 3M™ Peltor™ X-Series X3 Earmuffs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Peltor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Communications</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These cushions are used specifically with the 3M™ Peltor™ X Series X3 Earmuffs to help employers determine what level of hearing conservation protection the earmuffs are providing</li><li class="extra-info">Adapter clips hold microphones next to earmuffs for proper positioning dur</li><h2>Product Information</h2><li class="extra-info">Can be cleaned with hygiene wipes and reused</li><li class="extra-info"> Adapter clips hold microphones next to earmuffs during testing</li><li class="extra-info"> For use with the 3M E-A-Rfit Dual-Ear Validation System and 3M Peltor Earmuffs X-Series X3</li><li class="extra-info"> Snaps into employee's own earmuffs enabling fit test</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Peltor</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929649708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.11</s:price>
+      <s:sku>AC EAR 393-3003-2</s:sku>
+      <s:grams>104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929616940</id>
+    <published>2019-10-15T22:22:29-04:00</published>
+    <updated>2019-10-15T22:22:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-a43-f-4"/>
+    <title>3M Peltor A43-F/4  - Peltor Guide Arms W/ Friction Sleeves 1 Ea/Cs 7000107795</title>
+    <s:type>Communications</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/communications-3m-peltor-a43-f-4-peltor-guide-arms-w-friction-sleeves-1-ea-cs-7000107795-13120339116076.jpg?v=1580344686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Communications<br>
+        <strong>Price: </strong>
+            20.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Peltor(TM) Guide Arms W/ Friction Sleeves A43-F/4, 1 ea/cs</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Peltor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Communications</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC EAR</s:tag>
+    <s:tag>Line_Peltor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929616940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.65</s:price>
+      <s:sku>AC EAR A43-F/4</s:sku>
+      <s:grams>1660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929551404</id>
+    <published>2019-10-15T22:22:27-04:00</published>
+    <updated>2019-10-15T22:22:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-al2ah"/>
+    <title>3M AL2AH  - Charger Cable For Ack08 7100067410</title>
+    <s:type>Hearing Protection &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hearing-protection-parts-3m-al2ah-charger-cable-for-ack08-7100067410-13120339083308.jpg?v=1580276454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hearing Protection &amp; Parts<br>
+        <strong>Price: </strong>
+            49.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">AL2AH CHARGER CABLE FOR ACK08</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hearing Protection &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929551404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.60</s:price>
+      <s:sku>SS EAR AL2AH</s:sku>
+      <s:grams>12387</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929485868</id>
+    <published>2019-10-15T22:22:23-04:00</published>
+    <updated>2019-10-15T22:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl5602"/>
+    <title>3M FL5602  - Ptt External 7000107893</title>
+    <s:type>Hearing Protection &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hearing-protection-parts-3m-fl5602-ptt-external-7000107893-13120338067500.jpg?v=1580298123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hearing Protection &amp; Parts<br>
+        <strong>Price: </strong>
+            237.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FL5602 PTT EXTERNAL</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hearing Protection &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929485868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">237.92</s:price>
+      <s:sku>SS EAR FL5602</s:sku>
+      <s:grams>1868</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929420332</id>
+    <published>2019-10-15T22:22:22-04:00</published>
+    <updated>2019-10-15T22:22:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6007-ws5-01"/>
+    <title>3M FL6007-WS5-01  - Gb Adap Mech Lal Hviz 1/C 7000108499</title>
+    <s:type>Hearing Protection &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hearing-protection-parts-3m-fl6007-ws5-01-gb-adap-mech-lal-hviz-1-c-7000108499-13120338034732.jpg?v=1580298087"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hearing Protection &amp; Parts<br>
+        <strong>Price: </strong>
+            552.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FL6007-WS5-01 GB ADAP MECH LAL HVIZ 1/C</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hearing Protection &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929420332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">552.01</s:price>
+      <s:sku>SS EAR FL6007-WS5-01</s:sku>
+      <s:grams>3415</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929289260</id>
+    <published>2019-10-15T22:22:19-04:00</published>
+    <updated>2019-10-15T22:22:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6br"/>
+    <title>3M FL6BR  - Cable Lite Com Power-Com 4Pole J11 7100016085</title>
+    <s:type>Hearing Protection &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hearing-protection-parts-3m-fl6br-cable-lite-com-power-com-4pole-j11-7100016085-13120337969196.jpg?v=1580298301"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hearing Protection &amp; Parts<br>
+        <strong>Price: </strong>
+            134.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FL6BR CABLE LITE COM POWER-COM 4POLE J11</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hearing Protection &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929289260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">134.73</s:price>
+      <s:sku>SS EAR FL6BR</s:sku>
+      <s:grams>4232</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929256492</id>
+    <published>2019-10-15T22:22:18-04:00</published>
+    <updated>2019-10-15T22:22:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6u-107"/>
+    <title>3M FL6U-107  - Radio Adapter Cable 1/Cs 7100083102</title>
+    <s:type>Hearing Protection &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hearing-protection-parts-3m-fl6u-107-radio-adapter-cable-1-cs-7100083102-13120337936428.jpg?v=1580089258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hearing Protection &amp; Parts<br>
+        <strong>Price: </strong>
+            170.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FL6U-107 Radio Adapter Cable 1/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hearing Protection &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929256492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">170.47</s:price>
+      <s:sku>SS EAR FL6U-107</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929125420</id>
+    <published>2019-10-15T22:22:15-04:00</published>
+    <updated>2019-10-15T22:22:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6u-32"/>
+    <title>3M FL6U-32  - Adap Cble 77Flex Mtrla Gp340/38 7100064602</title>
+    <s:type>Hearing Protection &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hearing-protection-parts-3m-fl6u-32-adap-cble-77flex-mtrla-gp340-38-7100064602-13120337805356.jpg?v=1580298421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hearing Protection &amp; Parts<br>
+        <strong>Price: </strong>
+            157.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FL6U-32 Adap cble 77Flex Mtrla GP340/380</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hearing Protection &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929125420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">157.33</s:price>
+      <s:sku>SS EAR FL6U-32</s:sku>
+      <s:grams>1115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929059884</id>
+    <published>2019-10-15T22:22:13-04:00</published>
+    <updated>2019-10-15T22:22:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6u-36"/>
+    <title>3M FL6U-36  - Adapt Cable -77 Flex For Kenwood 7000107902</title>
+    <s:type>Hearing Protection &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hearing-protection-parts-3m-fl6u-36-adapt-cable-77-flex-for-kenwood-7000107902-13120337772588.jpg?v=1580298368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hearing Protection &amp; Parts<br>
+        <strong>Price: </strong>
+            176.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FL6U-36 Adapt cable -77 Flex for KENWOOD</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hearing Protection &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EAR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929059884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">176.96</s:price>
+      <s:sku>SS EAR FL6U-36</s:sku>
+      <s:grams>8708</s:grams>
+    </s:variant>
+  </entry>
+</feed>

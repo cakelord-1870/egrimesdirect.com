@@ -1,0 +1,1334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/cordless-screwdrivers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:06:24-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813176123436</id>
+    <published>2019-05-11T12:06:24-04:00</published>
+    <updated>2019-05-11T12:06:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400f"/>
+    <title>JET Torx H3400F  - Torx T10 T15 H3400F</title>
+    <s:type>Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/screwdrivers-jet-torx-h3400f-torx-t10-t15-h3400f-13391078064172.png?v=1575007618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Torx - T10 - T15</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Torx</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Screwdrivers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Type: TORX</li><li class="extra-info"> Belongs to Set : H3400</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>Line_Torx</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813176123436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400F</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813174648876</id>
+    <published>2019-05-11T12:06:03-04:00</published>
+    <updated>2019-05-11T12:06:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400c"/>
+    <title>JET H3400C  - Phillips P0 P3 H3400C</title>
+    <s:type>Phillips Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/phillips-screwdrivers-jet-h3400c-phillips-p0-p3-h3400c-13391077900332.png?v=1575007681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Phillips Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Phillips P0 - P3</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Phillips Screwdrivers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Type: Phillips</li><li class="extra-info"> Belongs to Set : H3400</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813174648876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400C</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813174616108</id>
+    <published>2019-05-11T12:06:01-04:00</published>
+    <updated>2019-05-11T12:06:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400g"/>
+    <title>JET Torx H3400G  - Torx T20 T25 H3400G</title>
+    <s:type>Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/screwdrivers-jet-torx-h3400g-torx-t20-t25-h3400g-13391078162476.png?v=1575007503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Torx - T20 - T25</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Torx</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Screwdrivers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Type: TORX</li><li class="extra-info"> Belongs to Set : H3400</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>Line_Torx</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813174616108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400G</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813174583340</id>
+    <published>2019-05-11T12:06:01-04:00</published>
+    <updated>2019-05-11T12:06:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400k"/>
+    <title>JET H3400K  - Sq. (Robertson) S0 S3 H3400K</title>
+    <s:type>Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/screwdrivers-jet-h3400k-sq-robertson-s0-s3-h3400k-13391078293548.png?v=1575007535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Sq. (Robertson) S0 - S3</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Screwdrivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813174583340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400K</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813174550572</id>
+    <published>2019-05-11T12:06:01-04:00</published>
+    <updated>2019-05-11T12:06:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400e"/>
+    <title>JET H3400E  - Sq. (Robertson) S1 S2 H3400E</title>
+    <s:type>Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/screwdrivers-jet-h3400e-sq-robertson-s1-s2-h3400e-13391077965868.png?v=1575007634"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Sq. (Robertson) S1 - S2</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Screwdrivers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Type: Square</li><li class="extra-info"> Belongs to Set : H3400</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813174550572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400E</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813169766444</id>
+    <published>2019-05-11T12:04:05-04:00</published>
+    <updated>2019-05-11T12:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400d"/>
+    <title>JET H3400D  - Phillips P1 P2 H3400D</title>
+    <s:type>Phillips Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/phillips-screwdrivers-jet-h3400d-phillips-p1-p2-h3400d-13391077998636.png?v=1575007518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Phillips Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Phillips P1 - P2</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Phillips Screwdrivers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Type: Phillips</li><li class="extra-info"> Belongs to Set : H3400</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813169766444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400D</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813169733676</id>
+    <published>2019-05-11T12:04:02-04:00</published>
+    <updated>2019-05-11T12:04:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400h"/>
+    <title>JET Torx H3400H  - Torx T27 T30 H3400H</title>
+    <s:type>Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/screwdrivers-jet-torx-h3400h-torx-t27-t30-h3400h-13391078228012.png?v=1575007566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Torx - T27 - T30</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Torx</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Screwdrivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>Line_Torx</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813169733676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400H</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813169635372</id>
+    <published>2019-05-11T12:04:00-04:00</published>
+    <updated>2019-05-11T12:04:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3400j"/>
+    <title>JET H3400J  - Flat F4 F6 H3400J</title>
+    <s:type>Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/screwdrivers-jet-h3400j-flat-f4-f6-h3400j-13391078260780.png?v=1575007328"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Screwdrivers<br>
+        <strong>Price: </strong>
+            6.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Flat - F4 - F6</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Screwdrivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813169635372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.63</s:price>
+      <s:sku>AC SCR H3400J</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157543980</id>
+    <published>2019-05-11T11:59:17-04:00</published>
+    <updated>2019-05-11T11:59:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-14"/>
+    <title>JET H1458-14  - 3/8 Inch Drive Triple Square Drive Socket (10mm) H1458-14</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-14-3-8-inch-drive-triple-square-drive-socket-10mm-h1458-14-12748750979116.jpg?v=1579491362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (10mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 10mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157543980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-14</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157511212</id>
+    <published>2019-05-11T11:59:17-04:00</published>
+    <updated>2019-05-11T11:59:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-11"/>
+    <title>JET H1458-11  - 3/8 Inch Drive Triple Square Drive Socket (5mm) H1458-11</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-11-3-8-inch-drive-triple-square-drive-socket-5mm-h1458-11-12748751929388.jpg?v=1579491329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (5mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 5mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157511212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-11</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157478444</id>
+    <published>2019-05-11T11:59:17-04:00</published>
+    <updated>2019-05-11T11:59:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-12"/>
+    <title>JET H1458-12  - 3/8 Inch Drive Triple Square Drive Socket (6mm) H1458-12</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-12-3-8-inch-drive-triple-square-drive-socket-6mm-h1458-12-12748751339564.jpg?v=1579491454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (6mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 6mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157478444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-12</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157445676</id>
+    <published>2019-05-11T11:59:16-04:00</published>
+    <updated>2019-05-11T11:59:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-13"/>
+    <title>JET H1458-13  - 3/8 Inch Drive Triple Square Drive Socket (8mm) H1458-13</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-13-3-8-inch-drive-triple-square-drive-socket-8mm-h1458-13-12748751044652.jpg?v=1579491487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (8mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 8mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157445676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-13</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157380140</id>
+    <published>2019-05-11T11:59:16-04:00</published>
+    <updated>2019-05-11T11:59:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-10"/>
+    <title>JET H1458-10  - 3/8 Inch Drive Triple Square Drive Socket (4mm) H1458-10</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-10-3-8-inch-drive-triple-square-drive-socket-4mm-h1458-10-12748751437868.jpg?v=1579491275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (4mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 4mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157380140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-10</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157117996</id>
+    <published>2019-05-11T11:59:13-04:00</published>
+    <updated>2019-05-11T11:59:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-15"/>
+    <title>JET H1458-15  - 3/8 Inch Drive Triple Square Drive Socket (12mm) H1458-15</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-15-3-8-inch-drive-triple-square-drive-socket-12mm-h1458-15-12748751011884.jpg?v=1579491522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (12mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 12mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157117996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-15</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813149614124</id>
+    <published>2019-05-11T11:56:25-04:00</published>
+    <updated>2019-05-11T11:56:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-16"/>
+    <title>JET H1458-16  - 3/8 Inch Drive Triple Square Drive Socket (14mm) H1458-16</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-16-3-8-inch-drive-triple-square-drive-socket-14mm-h1458-16-12748729647148.jpg?v=1579508147"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (14mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 14mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813149614124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-16</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813149581356</id>
+    <published>2019-05-11T11:56:25-04:00</published>
+    <updated>2019-05-11T11:56:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458-17"/>
+    <title>JET H1458-17  - 3/8 Inch Drive Triple Square Drive Socket (16mm) H1458-17</title>
+    <s:type>Drive Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-sockets-jet-h1458-17-3-8-inch-drive-triple-square-drive-socket-16mm-h1458-17-12748729712684.jpg?v=1579508213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drive Sockets<br>
+        <strong>Price: </strong>
+            17.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch Drive Triple Square Drive Socket (16mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Sockets</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Belongs to Set : H1458</li><li class="extra-info"> Socket Size : 16mm</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813149581356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.51</s:price>
+      <s:sku>AC SCR H1458-17</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813145813036</id>
+    <published>2019-05-11T11:55:06-04:00</published>
+    <updated>2019-05-11T11:55:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-905761"/>
+    <title>JET 905761  - 3 Clutch Springs For 404606 (Psd14H) 905761</title>
+    <s:type>Fastener Tool Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/fastener-tool-accessories-jet-905761-3-clutch-springs-for-404606-psd14h-905761-12748722110508.jpg?v=1579517552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Fastener Tool Accessories<br>
+        <strong>Price: </strong>
+            27.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Clutch Springs for 404606 (PSD14H)</h4> <li class="extra-info">Clutch Springs for PSD14H</li><li class="extra-info"> Green Spring Torque Rating: 35.40 in/lbs (4Nm) to 79.66 in/lbs (9Nm)</li><li class="extra-info"> Black Spring Torque Rating: 44.25 in/lbs (5Nm) to 115 in/lbs (13Nm)</li><li class="extra-info"> Yellow Spring Torque Rating: 26.55 in/lbs (3Nm) to 53.10 in/lbs (6Nm)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Fastener Tool Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813145813036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.20</s:price>
+      <s:sku>AC SCR 905761</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813095448620</id>
+    <published>2019-05-11T11:36:12-04:00</published>
+    <updated>2019-05-11T11:36:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1458"/>
+    <title>JET H1458  - 8 Piece 3/8 Inch Drive Triple Square Driver Bit Set H1458</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-jet-h1458-8-piece-3-8-inch-drive-triple-square-driver-bit-set-h1458-12748585271340.jpg?v=1579491242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            104.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 PC 3/8 Inch Drive Triple Square Driver Bit Set</h4> <li class="extra-info">Bit sockets are 3/8" sq</li><li class="extra-info">dr</li><li class="extra-info">with a black oxide tip, matte finish and made from SNCM 8660 steel</li><li class="extra-info"> For use on triple square fastener bolts typically found on European vehicles (especially German)</li><li class="extra-info"> For use on cylinder heads, axle shafts, rear toe adjusters, differentials, transmission drain plugs, clutches, belly pans, brake calipers and more</li><li class="extra-info"> Other uses include: Detroit Diesel flywheel bolts, crank pullers on 900 &amp;4000 series engine, and headbolts on 900 series</li><li class="extra-info"> Bit sockets are NOT designed for use with power impact tools CAUTION: Triple square bit sockets may strip the head of double hex bit fasteners found on many Asian vehicles</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">4, 5, 6, 8, 10, 12, 14, 16mm</li><li class="extra-info"> For use on triple square bolts found on cylinder heads, axle shafts, clutches and more in European vehicles</li><h2>Product Information</h2><li class="extra-info">Set Contains : H1458-10, H1458-11, H1458-12, H1458-13, H1458-14, H1458-15, H1458-16 and H1458-17</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813095448620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">104.61</s:price>
+      <s:sku>AC SCR H1458</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813038858284</id>
+    <published>2019-05-11T11:14:08-04:00</published>
+    <updated>2019-05-11T11:14:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-720584"/>
+    <title>JET 720584  - Ph3 X R3 Replacement Bit For 720531 (Jkmd-5S) / 720534 (Jkmd-10) 720584</title>
+    <s:type>Cushion Grip Multi Bit Drivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cushion-grip-multi-bit-drivers-jet-720584-ph3-x-r3-replacement-bit-for-720531-jkmd-5s-720534-jkmd-10-720584-12748422643756.jpg?v=1579453285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cushion Grip Multi Bit Drivers<br>
+        <strong>Price: </strong>
+            3.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">PH3 x R3 Replacement Bit for 720531 (JKMD-5S) / 720534 (JKMD-10)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cushion Grip Multi Bit Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813038858284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.13</s:price>
+      <s:sku>AC SCR 720584</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813036204076</id>
+    <published>2019-05-11T11:11:41-04:00</published>
+    <updated>2019-05-11T11:11:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-720582"/>
+    <title>JET 720582  - 1/4 Inch X Ph2 Replacement Bit For 720531 (Jkmd-5S) / 720534 (Jkmd-10) 720582</title>
+    <s:type>Cushion Grip Multi Bit Drivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cushion-grip-multi-bit-drivers-jet-720582-1-4-inch-x-ph2-replacement-bit-for-720531-jkmd-5s-720534-jkmd-10-720582-12748417105964.jpg?v=1579477080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cushion Grip Multi Bit Drivers<br>
+        <strong>Price: </strong>
+            3.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/4 Inch x PH2 Replacement Bit for 720531 (JKMD-5S) / 720534 (JKMD-10)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cushion Grip Multi Bit Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813036204076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.18</s:price>
+      <s:sku>AC SCR 720582</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813036171308</id>
+    <published>2019-05-11T11:11:41-04:00</published>
+    <updated>2019-05-11T11:11:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-720593"/>
+    <title>JET 720593  - 3/16 Inch Slot X #1 Phillips Replacement Bit For 720533 (Jkmd-6) 720590 (Jrsd-19) And 720591 (Jrsd-38) 720593</title>
+    <s:type>Phillips Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/phillips-screwdrivers-jet-720593-3-16-inch-slot-x-1-phillips-replacement-bit-for-720533-jkmd-6-720590-jrsd-19-and-720591-jrsd-38-720593-12748417204268.jpg?v=1579453530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Phillips Screwdrivers<br>
+        <strong>Price: </strong>
+            4.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/16 Inch Slot x #1 Phillips Replacement Bit for 720533 (JKMD-6), 720590 (JRSD-19) and 720591 (JRSD-38)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Phillips Screwdrivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813036171308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.81</s:price>
+      <s:sku>AC SCR 720593</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813036138540</id>
+    <published>2019-05-11T11:11:41-04:00</published>
+    <updated>2019-05-11T11:11:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-t10"/>
+    <title>JET Torx T10  - X T15 Replacement Bit For 720533 (Jkmd-6) 720590 (Jrsd-19) And 720591 (Jrsd-38) 720596</title>
+    <s:type>Cushion Grip Multi Bit Drivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cushion-grip-multi-bit-drivers-jet-torx-t10-x-t15-replacement-bit-for-720533-jkmd-6-720590-jrsd-19-and-720591-jrsd-38-720596-12748417007660.jpg?v=1579578094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cushion Grip Multi Bit Drivers<br>
+        <strong>Price: </strong>
+            4.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">T10 x T15 TORX Replacement Bit for 720533 (JKMD-6), 720590 (JRSD-19) and 720591 (JRSD-38)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Torx</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cushion Grip Multi Bit Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>Line_Torx</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813036138540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.81</s:price>
+      <s:sku>AC SCR 720596</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813036007468</id>
+    <published>2019-05-11T11:11:38-04:00</published>
+    <updated>2019-05-11T11:11:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-t20"/>
+    <title>JET Torx T20  - X T25 Replacement Bit For 720533 (Jkmd-6) 720590 (Jrsd-19) And 720591 (Jrsd-38) 720597</title>
+    <s:type>Cushion Grip Multi Bit Drivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cushion-grip-multi-bit-drivers-jet-torx-t20-x-t25-replacement-bit-for-720533-jkmd-6-720590-jrsd-19-and-720591-jrsd-38-720597-12748416188460.jpg?v=1579599131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cushion Grip Multi Bit Drivers<br>
+        <strong>Price: </strong>
+            4.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">T20 x T25 TORX Replacement Bit for 720533 (JKMD-6), 720590 (JRSD-19) and 720591 (JRSD-38)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Torx</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cushion Grip Multi Bit Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>Line_Torx</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813036007468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.16</s:price>
+      <s:sku>AC SCR 720597</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813035974700</id>
+    <published>2019-05-11T11:11:38-04:00</published>
+    <updated>2019-05-11T11:11:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-720598"/>
+    <title>JET 720598  - 1/8 Inch Hex X 3/16 Inch Hex Replacement Bit For 720533 (Jkmd-6) 720590 (Jrsd-19) And 720591 (Jrsd-38) 720598</title>
+    <s:type>Cushion Grip Multi Bit Drivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cushion-grip-multi-bit-drivers-jet-720598-1-8-inch-hex-x-3-16-inch-hex-replacement-bit-for-720533-jkmd-6-720590-jrsd-19-and-720591-jrsd-38-720598-12748416024620.jpg?v=1579453647"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cushion Grip Multi Bit Drivers<br>
+        <strong>Price: </strong>
+            4.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/8 Inch Hex x 3/16 Inch Hex Replacement Bit for 720533 (JKMD-6), 720590 (JRSD-19) and 720591 (JRSD-38)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cushion Grip Multi Bit Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813035974700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.16</s:price>
+      <s:sku>AC SCR 720598</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813033779244</id>
+    <published>2019-05-11T11:07:27-04:00</published>
+    <updated>2019-05-11T11:07:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-720592"/>
+    <title>JET 720592  - 1/8 Inch Slot X #0 Phillips Replacement Bit For 720533 (Jkmd-6) 720590 (Jrsd-19) And 720591 (Jrsd-38) 720592</title>
+    <s:type>Phillips Screwdrivers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/phillips-screwdrivers-jet-720592-1-8-inch-slot-x-0-phillips-replacement-bit-for-720533-jkmd-6-720590-jrsd-19-and-720591-jrsd-38-720592-12748407078956.jpg?v=1579453318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Phillips Screwdrivers<br>
+        <strong>Price: </strong>
+            4.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/8 Inch Slot x #0 Phillips Replacement Bit for 720533 (JKMD-6), 720590 (JRSD-19) and 720591 (JRSD-38)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Phillips Screwdrivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813033779244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.81</s:price>
+      <s:sku>AC SCR 720592</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+</feed>

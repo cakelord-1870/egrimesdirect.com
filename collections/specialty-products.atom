@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/specialty-products.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:25:36-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293272567852</id>
+    <published>2019-12-04T10:25:36-05:00</published>
+    <updated>2019-12-04T10:25:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sg-o"/>
+    <title>3M SG-O  - Scotchgard Heavy Duty Water Shield Sg-O 7100133999</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sg-o-scotchgard-heavy-duty-water-shield-sg-o-7100133999-13223239974956.jpg?v=1578799884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotchgard Heavy Duty Water Shield</h4> <li class="extra-info">Be ready for any adventure, no matter the weather with Scotchgard™ Heavy Duty Water Shield</li><li class="extra-info">Whether your kids' coats need an extra layer of defense, or your patio furniture needs some serious water repellency, Scotchgard™ Heavy Duty Water Shield defies the elements with an improved formulation that helps keep clothes and gear drier, longer</li><li class="extra-info">So gear up, get out there and enjoy the great outdoors with Scotchgard™ Heavy Duty Water Shield.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUmxmenxmBOv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Safe for use on polyester, nylon, polypropylene, cotton, leather, suede and more</li><li class="extra-info"> Provides durable protection from the elements with just one application</li><li class="extra-info"> Ideal for use on outerwear, rain gear, umbrellas, patio furniture, outdoor gear, backpacks, luggage, canvas tarps, boat covers and more</li><li class="extra-info"> Repels water during use and in storage</li><li class="extra-info"> Fabric maintains breathability</li><li class="extra-info"> Dries odourless</li><li class="extra-info"> One can provides 60 sq</li><li class="extra-info">ft</li><li class="extra-info">(5.6 sq</li><li class="extra-info">m) of water resistance on light nylon or 20 sq</li><li class="extra-info">ft</li><li class="extra-info">(1.9 sq</li><li class="extra-info">m) on heavier fabrics</li><li class="extra-info"> Reapply Scotchgard™ Heavy Duty Water Shield seasonally</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SPC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293272567852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.97</s:price>
+      <s:sku>SP SPC SG-O</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812220739628</id>
+    <published>2019-05-11T02:09:06-04:00</published>
+    <updated>2019-05-11T02:09:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-55830"/>
+    <title>Klingspor 55830  - Waterproof Cork Polishing Belt 1-1/8 Inch x 21 Inch</title>
+    <s:type>Polishing Belt</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/polishing-belt-klingspor-55830-waterproof-cork-polishing-belt-1-1-8-inch-x-21-inch-13404221079596.jpg?v=1575560857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Polishing Belt<br>
+        <strong>Price: </strong>
+            10.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Belts with cloth backing</h4> <li class="extra-info">Special belt for polishing glass.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">21 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Polishing Belt</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">high performance disc with high stock removal rate for rough grinding and deburring of steel and stainless steel</li>
+<li class="extra-info"> rough grinding and deburring of steel and stainless steel</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_21 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SPC</s:tag>
+    <s:tag>Width_1-1/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812220739628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.90</s:price>
+      <s:sku>SP SPC CS322X 1-1/8X21</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812194263084</id>
+    <published>2019-05-11T01:59:02-04:00</published>
+    <updated>2019-05-11T01:59:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-306319"/>
+    <title>Klingspor 306319  - Waterproof Cork Polishing Belt 4 Inch x 106 Inch</title>
+    <s:type>Polishing Belt</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/polishing-belt-klingspor-306319-waterproof-cork-polishing-belt-4-inch-x-106-inch-12746680631340.jpg?v=1579716189"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Polishing Belt<br>
+        <strong>Price: </strong>
+            113.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Belts with cloth backing</h4> <li class="extra-info">Special belt for polishing glass.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">106 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Polishing Belt</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special product for polishing glass with high quality cork/resin coating</li>
+<li class="extra-info"> long life with consistent polishing effect</li>
+<li class="extra-info"> waterproof</li>
+<li class="extra-info"> waterproof</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_106 Inch</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SPC</s:tag>
+    <s:tag>Width_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812194263084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">113.85</s:price>
+      <s:sku>SP SPC CS322X 4X106</s:sku>
+      <s:grams>284</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737132605484</id>
+    <published>2019-03-16T01:57:40-04:00</published>
+    <updated>2019-03-16T01:57:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4106-10-6ca"/>
+    <title>3M Scotchgard 4106-10-6CA  - Scotchgard Fabric &amp; Upholstery Protector 7100134004</title>
+    <s:type>Scotchgard</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/scotchgard-3m-scotchgard-4106-10-6ca-scotchgard-fabric-upholstery-protector-7100134004-12795101282348.jpg?v=1578772075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Scotchgard<br>
+        <strong>Price: </strong>
+            16.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotchgard Fabric &amp; Upholstery Protector</h4> <li class="extra-info">Protect the things you love with Scotchgard™ Fabric Protector</li><li class="extra-info">Whether it's a brand-new couch, or that favourite silk tie, Scotchgard™ Fabric Protector helps repel liquids and block stains without changing the look and feel of the fabric</li><li class="extra-info">That means you can wipe the surface clean before the mess sinks in for beautiful, long-lasting wear</li><li class="extra-info">So host a family get-together, or wear your favourite jacket with confidence knowing that Scotchgard™ Fabric Protector is your secret defender from life's little mishaps.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotchgard</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Scotchgard</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Strong fabric protection repels spills for easier cleanup</li><li class="extra-info"> Ideal for household items like upholstery, curtains, pillows, table linens, backpacks, luggage and more</li><li class="extra-info"> Perfect for use on clothing like shirts, dresses, silk ties, suits, outerwear, canvas shoes and more</li><li class="extra-info"> Simple, one-step application</li><li class="extra-info"> Dries clear and odourless</li><li class="extra-info"> Safe for use on delicate or dry-clean only fabrics like silk and wool</li><li class="extra-info"> Doesn't impede fabric's breathability</li><li class="extra-info"> Reapply Scotchgard™ Fabric Protector after washing</li><li class="extra-info"> One can covers an average-sized couch, two chairs or five jackets</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Scotchgard</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SPC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737132605484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.05</s:price>
+      <s:sku>SP SPC 4106-10-6CA</s:sku>
+      <s:grams>412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737132539948</id>
+    <published>2019-03-16T01:57:36-04:00</published>
+    <updated>2019-03-16T01:57:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4406-14-6ca"/>
+    <title>3M Scotchgard 4406-14-6CA  - Scotchgard Rug &amp; Carpet Protector 7100134197</title>
+    <s:type>Scotchgard</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/scotchgard-3m-scotchgard-4406-14-6ca-scotchgard-rug-carpet-protector-7100134197-12795148140588.jpg?v=1578772157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Scotchgard<br>
+        <strong>Price: </strong>
+            16.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotchgard Rug &amp; Carpet Protector</h4> <li class="extra-info">Keep your carpet and rugs looking newer, longer with Scotchgard™ Rug &amp; Carpet Protector</li><li class="extra-info">The triple-action approach repels spills, resists soiling, and blocks stains by forcing liquids up to the surface where they bead up for easy cleanup</li><li class="extra-info">Plus, neutralizing action minimizes sticky residue other spray cleaners leave behind, making those reappearing, phantom stains a thing of the past</li><li class="extra-info">So prepare for life's little mishaps and rest assured with Scotchgard™ Rug &amp; Carpet Protector, your secret stain avenger.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMYtSm8_vOv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotchgard</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Scotchgard</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Strong carpet protection repels spills for easier cleanup</li><li class="extra-info"> Ideal for high-traffic areas, runners, bath mats, auto mats and more</li><li class="extra-info"> Doesn't change the look and feel of your carpet</li><li class="extra-info"> Limits reappearing spots</li><li class="extra-info"> Apply to new or clean carpets, wet or dry</li><li class="extra-info"> Simple, one-step application</li><li class="extra-info"> One can covers approximately a 5 ft</li><li class="extra-info">x 6 ft</li><li class="extra-info">(1.5m x 1.8 m) area</li><li class="extra-info"> Reapply Scotchgard™ Rug &amp; Carpet Protector every time your carpet is steam cleaned or every six months</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Scotchgard</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SPC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737132539948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.05</s:price>
+      <s:sku>SP SPC 4406-14-6CA</s:sku>
+      <s:grams>526</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122126626860</id>
+    <published>2018-08-03T17:31:22-04:00</published>
+    <updated>2018-08-03T17:31:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-38070"/>
+    <title>3M Perfect-it 38070  - Perfect-It Iii Cleaner Clay 200 G 7100105087</title>
+    <s:type>Automobile Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/automobile-cleaners-3m-perfect-it-38070-perfect-it-iii-cleaner-clay-200-g-7100105087-12747124965420.jpg?v=1580066761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Automobile Cleaners<br>
+        <strong>Price: </strong>
+            64.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">38070, PERFECT-IT CLEANER CLAY, 6/CASE</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_gIlYt9Nxt1nv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Automobile Cleaners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SPC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122126626860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.45</s:price>
+      <s:sku>SP SPC 38070</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121782267948</id>
+    <published>2018-08-03T15:22:10-04:00</published>
+    <updated>2018-08-03T15:22:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1499-48x55"/>
+    <title>3M Venture 1499-48X55  - Venture Tape Pe Stucco Tape 1499 Red 48 mm x 55 M 7100037509</title>
+    <s:type>Stucco Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/stucco-tapes-3m-venture-1499-48x55-venture-tape-pe-stucco-tape-1499-red-48-mm-x-55-m-7100037509-12749108838444.jpg?v=1578842517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Stucco Tapes<br>
+        <strong>Price: </strong>
+            9.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1499-L497 RED STUCCO 48MMX55M 24/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Venture</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Stucco Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Venture</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SPC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121782267948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.75</s:price>
+      <s:sku>SP SPC 1499-48X55</s:sku>
+      <s:grams>850</s:grams>
+    </s:variant>
+  </entry>
+</feed>

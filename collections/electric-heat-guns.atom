@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/electric-heat-guns.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:44:40-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812164608044</id>
+    <published>2019-05-11T01:44:40-04:00</published>
+    <updated>2019-05-11T01:44:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8300n"/>
+    <title>King Canada 8300N  - Heat Gun Kit</title>
+    <s:type>Heat Guns</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/heat-guns-king-canada-8300n-heat-gun-kit-12746643046444.jpg?v=1579604974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Heat Guns<br>
+        <strong>Price: </strong>
+            31.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1,500 WATT heat gun kit</h4> <li class="extra-info">Powerful 1,500 Watt motor Dual power settings This heat gun is ideal for paint, varnish, lacquer and label removal, thawing or drying, forming and welding plastics, softening caulking and putty, heat shrinking plastics, soldering pipes or loosening joints and screws Built-in thermal protector prevents overheating Comes complete with heat gun, 4 nozzles, 5 pc</li><li class="extra-info">paint scraper kit which includes a flat paint scraper, shavehook scraper handle with 3 interchangeable blades Double insulation</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Heat Guns</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET HEG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812164608044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.36</s:price>
+      <s:sku>ET HEG 8300N</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/artist-craft-adhesives-sealants.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-15T13:51:45-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253771497516</id>
+    <published>2019-10-15T13:51:45-04:00</published>
+    <updated>2019-10-15T13:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-6307c"/>
+    <title>3M Scotch 6307C  - Restickable Glue Stick .2 oz (5.9 ml) 7000138634</title>
+    <s:type>Glue Sticks</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/glue-sticks-3m-scotch-6307c-restickable-glue-stick-2-oz-5-9-ml-7000138634-13119629623340.jpg?v=1580357697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Glue Sticks<br>
+        <strong>Price: </strong>
+            1.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Restickable Glue Stick, 6307C, 5.9 ml (0.20 oz)</h4> <li class="extra-info">The Scotch® Restickable Glue Stick allows you to adjust and move bonded items after application</li><li class="extra-info">It is fast-drying and helps to eliminate the mess</li><li class="extra-info">Scotch restickable glue stick bonds to most lightweight paper, cardboard or fabrics, as well as other surfaces</li><li class="extra-info">It is repositionable after applying.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">South Korea</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Glue Sticks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">.2 oz, 5.9 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Acid free and non-toxic</li><li class="extra-info"> Solid adhesive stick makes paper self-sticking, removable and repositionable</li><li class="extra-info"> Restickable glue stick is safe, and fast-drying</li><li class="extra-info"> Adhesive dries clear and wrinkle-free</li><li class="extra-info"> Hands and household surfaces clean easily with soap and water</li><h2>Suggested Application</h2><li class="extra-info">Paper, cardboard, and fabric adhesion</li><li class="extra-info">Crafting</li><li class="extra-info">Scrapbooking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ART</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>Size_.2 oz5.9 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253771497516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.34</s:price>
+      <s:sku>AD ART 6307C</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124731748396</id>
+    <published>2018-08-04T20:47:23-04:00</published>
+    <updated>2018-08-04T20:47:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-568-24x50"/>
+    <title>3M 568-24X50  - Positionable Mounting Adhesive 568 24 in x 50 Ft (60.96 cm x 12.24 m) 7100001969</title>
+    <s:type>Adhesive Art Supplies</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesive-art-supplies-3m-568-24x50-positionable-mounting-adhesive-568-24-in-x-50-ft-60-96-cm-x-12-24-m-7100001969-12794991050796.jpg?v=1580225700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesive Art Supplies<br>
+        <strong>Price: </strong>
+            118.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Positionable Mounting Adhesive, 568, 24 in x 50 ft (60.96 cm x 12.24 m)</h4> <li class="extra-info">3M™ Positionable Mounting Adhesive is a clean, dry, long-lasting, odourless adhesive that allows you to reposition items even after you've placed them on the substrate</li><li class="extra-info">Once your desired placement or positioning is achieved, simply apply pressure to bond the item permanently in place.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">50ft, 12.24m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesive Art Supplies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Clean, dry, odourless adhesive</li><li class="extra-info"> Initially repositionable</li><li class="extra-info"> Excellent for sensitive papers</li><li class="extra-info"> Acid-free and photo-safe</li><h2>Suggested Application</h2><li class="extra-info">Framing</li><li class="extra-info">Art mounting</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD ART</s:tag>
+    <s:tag>Length_50ft12.24m</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124731748396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">118.59</s:price>
+      <s:sku>AD ART 568-24X50</s:sku>
+      <s:grams>1844</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/spark-plugs.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:01:25-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813163343916</id>
+    <published>2019-05-11T12:01:25-04:00</published>
+    <updated>2019-05-11T12:01:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3116"/>
+    <title>JET H3116  - Spark Plug Gauge &amp; Gapper H3116</title>
+    <s:type>Spark Plug Ignition Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spark-plug-ignition-tools-jet-h3116-spark-plug-gauge-gapper-h3116-12748767985708.jpg?v=1579513286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Spark Plug Ignition Tools<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Spark Plug Gauge and Gapper</h4> <li class="extra-info">For standard and H.E.I</li><li class="extra-info">ignition.</li><li class="extra-info"> Has tapered ground edge for gapping plugs</li><li class="extra-info">Adjusting hole with flange to adjust side wire without pressuring center electrode.</li><li class="extra-info"> Has both metric and decimal markings.</li><li class="extra-info"> Gaps all plugs from .020 - .100 (0.50 - 2.5mm)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spark Plug Ignition Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5.5mm</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>Size_5.5mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813163343916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>FM SPS H3116</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813142503468</id>
+    <published>2019-05-11T11:53:51-04:00</published>
+    <updated>2019-05-11T11:53:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3143"/>
+    <title>JET H3143  - In-Line Ignition Spark Tester H3143</title>
+    <s:type>Testers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/testers-jet-h3143-in-line-ignition-spark-tester-h3143-12748711428140.jpg?v=1579513204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Testers<br>
+        <strong>Price: </strong>
+            28.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">In-Line Ignition Spark Tester</h4> <li class="extra-info">Connects in-line between spark plug and spark plug boot</li><li class="extra-info"> Shows duplicate view of the ignition spark</li><li class="extra-info"> Frequency and intensity of flash aids in diagnosis of ignition or fuel delivery problems</li><li class="extra-info"> Flash is visible in bright daylight</li><li class="extra-info"> Clear plastic body is robust and resistant to shop chemicals</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Testers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813142503468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.91</s:price>
+      <s:sku>FM SPS H3143</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813139587116</id>
+    <published>2019-05-11T11:52:46-04:00</published>
+    <updated>2019-05-11T11:52:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3659-10"/>
+    <title>JET H3659-10  - Replacement Epoxy Applicator For H3659 H3659-10</title>
+    <s:type>Spark Plug Ignition Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spark-plug-ignition-tools-jet-h3659-10-replacement-epoxy-applicator-for-h3659-h3659-10-12748705726508.jpg?v=1579519890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Spark Plug Ignition Tools<br>
+        <strong>Price: </strong>
+            17.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement Epoxy Applicator for H3659</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spark Plug Ignition Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813139587116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.19</s:price>
+      <s:sku>FM SPS H3659-10</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813115568172</id>
+    <published>2019-05-11T11:43:37-04:00</published>
+    <updated>2019-05-11T11:43:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-671932"/>
+    <title>JET 671932  - 3/8 Inch Dr X 5/8 Inch Spark Plug Socket 671932</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-jet-671932-3-8-inch-dr-x-5-8-inch-spark-plug-socket-671932-12748641927212.jpg?v=1579454881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            12.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch DR x 5/8 Inch Spark Plug Socket</h4> <li class="extra-info">Features rubber inserts to protect spark plugs from damage</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">rubber insert protects ceramic plug</li><li class="extra-info"> CrV Steel</li><h2>Product Information</h2><li class="extra-info">Hex Size : 5/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>Size_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813115568172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.89</s:price>
+      <s:sku>FM SPS 671932</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813102034988</id>
+    <published>2019-05-11T11:38:33-04:00</published>
+    <updated>2019-05-11T11:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-671934"/>
+    <title>JET 671934  - 3/8 Inch Dr X 13/16 Inch Spark Plug Socket 671934</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-jet-671934-3-8-inch-dr-x-13-16-inch-spark-plug-socket-671934-12748601294892.jpg?v=1579454847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            14.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/8 Inch DR x 13/16 Inch Spark Plug Socket</h4> <li class="extra-info">Features rubber inserts to protect spark plugs from damage</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">rubber insert protects ceramic plug</li><li class="extra-info"> CrV Steel</li><h2>Product Information</h2><li class="extra-info">Hex Size : 13/16 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>Size_1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813102034988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.01</s:price>
+      <s:sku>FM SPS 671934</s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813080637484</id>
+    <published>2019-05-11T11:30:20-04:00</published>
+    <updated>2019-05-11T11:30:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3661"/>
+    <title>JET H3661  - Ford Triton Spark Plug Shield Extractor Kit H3661</title>
+    <s:type>Spark Plug Ignition Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spark-plug-ignition-tools-jet-h3661-ford-triton-spark-plug-shield-extractor-kit-h3661-12748543852588.jpg?v=1579519922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Spark Plug Ignition Tools<br>
+        <strong>Price: </strong>
+            246.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ford Triton Spark Plug Shield Extractor Kit</h4> <li class="extra-info">Designed to extract frozen or broken spark plug ground electrode shields in Ford Triton engines 2004 to present – 4.6LT, 5.4LT, 6.8LT V-10</li><li class="extra-info"> The elongated plug has a stainless steel shield – as the carbon deposit builds-up, the shield sticks and stays in the cylinder head spark plug well</li><li class="extra-info"> Use the specially machined guide with tap 9mm x 8"L (203.2mm) to tap the shield</li><li class="extra-info"> Use the extractor to pull out the stainless steel sleeve</li><li class="extra-info"> Problem solved</li><li class="extra-info"> saving time and a huge expense</li><li class="extra-info"> Kit Contains: 1 each: guide, Tap 9mm x 8"L (203.2mm), extractor, nut, washer and 4 rubber stopper caps, all in a blow mold case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spark Plug Ignition Tools</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Designed to extract frozen or broken spark plug ground electrode shields in Ford Triton engines 2004 to present – 4.6LT, 5.4LT, 6.8LT V-10</li><li class="extra-info"> The elongated plug has a stainless steel shield – as the carbon deposit builds-up, the shield sticks and stays in t</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813080637484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">246.40</s:price>
+      <s:sku>FM SPS H3661</s:sku>
+      <s:grams>760</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813066973228</id>
+    <published>2019-05-11T11:24:57-04:00</published>
+    <updated>2019-05-11T11:24:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3704"/>
+    <title>JET H3704  - 5 Piece Magnetic Spark Plug Socket Kit H3704</title>
+    <s:type>Spark Plug Ignition Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spark-plug-ignition-tools-jet-h3704-5-piece-magnetic-spark-plug-socket-kit-h3704-12748503318572.jpg?v=1579520727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Spark Plug Ignition Tools<br>
+        <strong>Price: </strong>
+            188.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 PC Magnetic Spark Plug Socket Kit</h4> <li class="extra-info">Long reach magnetic swivel spark plug socket set</li><li class="extra-info"> For hex sizes 5/8", 13/16" and the new 9/16" on Ford Triton engines</li><li class="extra-info"> Made from CrV steel, with a bright hard chrome finish</li><li class="extra-info"> Set Includes:</li><li class="extra-info"> 3/8" DR x 9/16" HEX x 2-1/2" (66mm) Long</li><li class="extra-info"> 3/8" DR x 5/8" HEX x 4" (101.6mm) Long</li><li class="extra-info"> 3/8" DR x 5/8" HEX x 6" (152.4mm) Long</li><li class="extra-info"> 3/8" DR x 5/8" HEX x 11" (279.4mm) Long</li><li class="extra-info"> 3/8" DR x 13/16" HEX x 6" (152.4mm) Long</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spark Plug Ignition Tools</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Long reach magnetic swivel spark plug socket set</li><li class="extra-info"> For hex sizes 5/8", 13/16" and the new 9/16" on Ford Triton engines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813066973228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">188.91</s:price>
+      <s:sku>FM SPS H3704</s:sku>
+      <s:grams>1340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813064450092</id>
+    <published>2019-05-11T11:24:03-04:00</published>
+    <updated>2019-05-11T11:24:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3660"/>
+    <title>JET H3660  - Ford Triton Spark Plug Thread Repair Kit H3660</title>
+    <s:type>Repair Kits</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/repair-kits-jet-h3660-ford-triton-spark-plug-thread-repair-kit-h3660-12748496764972.jpg?v=1579519804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Repair Kits<br>
+        <strong>Price: </strong>
+            982.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ford Triton Spark Plug Thread Repair Kit</h4> <li class="extra-info">Designed to aide in repairing spark plug threads damaged on Ford Triton Modular Engines - 1996-2003 - 4.6LT, 5.4LT, 6.8LT V-10</li><li class="extra-info"> Becoming one of the most asked for repairs as these engine age</li><li class="extra-info"> Repair damaged cylinder heads from spark plug thread erosion and shooting spark plugs out during operations with a patented "Alloy Steel Insert"</li><li class="extra-info"> Foolproof repair system that is fast, cost effective and simple to use</li><li class="extra-info"> Takes as little as 15 minutes, to no more then 45 to repair one cylinder</li><li class="extra-info"> Kit Contains: 1 each, Core Drill, Guide, Hose Assembly, Instructional DVD, 6 -M14 x 1.25 x 19mm O.D.Alloy Inserts, all in a blow mold case</li><li class="extra-info"> Replacement Parts: H3660-10 M14 x 1.25 x 19mm O.D.Alloy Insert</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Repair Kits</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM SPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813064450092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">982.56</s:price>
+      <s:sku>FM SPS H3660</s:sku>
+      <s:grams>1497</s:grams>
+    </s:variant>
+  </entry>
+</feed>

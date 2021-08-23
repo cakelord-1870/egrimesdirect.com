@@ -1,0 +1,1295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-impact-wrenches.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T09:39:36-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812829077548</id>
+    <published>2019-05-11T09:39:36-04:00</published>
+    <updated>2019-05-11T09:39:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p5410"/>
+    <title>Gray P5410  - 1 Inch Drive Black Impact Extension 10 Inch Long</title>
+    <s:type>Impact Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/impact-extensions-gray-p5410-1-inch-drive-black-impact-extension-10-inch-long-12748030804012.png?v=1579324805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Impact Extensions<br>
+        <strong>Price: </strong>
+            108.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Overall Dimensions: 10'' L x 2.15'' W x 2.2'' H</li><li class="extra-info"> Weight: 4.44 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Impact Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812829077548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">108.78</s:price>
+      <s:sku>AC IMP P5410</s:sku>
+      <s:grams>2013</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812829044780</id>
+    <published>2019-05-11T09:39:36-04:00</published>
+    <updated>2019-05-11T09:39:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p5413"/>
+    <title>Gray P5413  - 1 Inch Drive Black Impact Extension 13 Inch Long</title>
+    <s:type>Impact Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/impact-extensions-gray-p5413-1-inch-drive-black-impact-extension-13-inch-long-12748030836780.png?v=1579324839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Impact Extensions<br>
+        <strong>Price: </strong>
+            143.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Overall Dimensions: 13'' L x 2.15'' W x 2.2'' H</li><li class="extra-info"> Weight: 5.34 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Impact Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812829044780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">143.15</s:price>
+      <s:sku>AC IMP P5413</s:sku>
+      <s:grams>2422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812828979244</id>
+    <published>2019-05-11T09:39:35-04:00</published>
+    <updated>2019-05-11T09:39:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p5406"/>
+    <title>Gray P5406  - 1 Inch Drive Black Impact Extension 7 Inch Long</title>
+    <s:type>Impact Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/impact-extensions-gray-p5406-1-inch-drive-black-impact-extension-7-inch-long-12748030738476.png?v=1579324773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Impact Extensions<br>
+        <strong>Price: </strong>
+            89.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Overall Dimensions: 7'' L x 2.15'' W x 6.9'' H</li><li class="extra-info"> Weight: 3.08 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Impact Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812828979244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.93</s:price>
+      <s:sku>AC IMP P5406</s:sku>
+      <s:grams>1397</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812828684332</id>
+    <published>2019-05-11T09:39:32-04:00</published>
+    <updated>2019-05-11T09:39:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-plp100"/>
+    <title>Gray PLP100  - 1 Inch Drive Impact Locking Pin .185 X 1.90 Inch Long</title>
+    <s:type>Impact Locking Pins</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/impact-locking-pins-gray-plp100-1-inch-drive-impact-locking-pin-185-x-1-90-inch-long-12748030083116.png?v=1579345644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Impact Locking Pins<br>
+        <strong>Price: </strong>
+            2.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Locking Pin: .185 x 1.90</li><li class="extra-info"> Drive Size: 1 Inch</li><li class="extra-info"> Can be used with all 1 Inch drive impact sockets and attachments.</li><li class="extra-info"> Overall Dimensions: 1.85'' L x 0.2'' W x 0.2'' H</li><li class="extra-info"> Weight: 0.01 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Impact Locking Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812828684332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.47</s:price>
+      <s:sku>AC IMP PLP100</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812828618796</id>
+    <published>2019-05-11T09:39:31-04:00</published>
+    <updated>2019-05-11T09:39:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-plr100"/>
+    <title>Gray PLR100  - 1 Inch Drive Impact Locking Ring .210 X 2.150 Inch O/D</title>
+    <s:type>Impact Locking Rings</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/impact-locking-rings-gray-plr100-1-inch-drive-impact-locking-ring-210-x-2-150-inch-o-d-12748030050348.png?v=1579345796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Impact Locking Rings<br>
+        <strong>Price: </strong>
+            4.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Locking Ring: .210 x 2.120</li><li class="extra-info"> Drive Size: 1 Inch</li><li class="extra-info"> Can be used with all 1 Inch drive impact sockets and attachments.</li><li class="extra-info"> Overall Dimensions: 2.15'' L x 2.15'' W x 0.25'' H</li><li class="extra-info"> Weight: 0.01 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Impact Locking Rings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812828618796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.51</s:price>
+      <s:sku>AC IMP PLR100</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812828487724</id>
+    <published>2019-05-11T09:39:28-04:00</published>
+    <updated>2019-05-11T09:39:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p7-140a"/>
+    <title>Gray P7-140A  - 1 Inch Drive Universal Joint Black Impact</title>
+    <s:type>Universal Joints</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/universal-joints-gray-p7-140a-1-inch-drive-universal-joint-black-impact-12748029984812.png?v=1579313792"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Universal Joints<br>
+        <strong>Price: </strong>
+            186.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive size: 1 Inch</li><li class="extra-info"> Male (inches): 1 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Articulation provides access to fasteners in confined spaces.</li><li class="extra-info"> Overall Dimensions: 4.5'' L x 2.1'' W x 2.1'' H</li><li class="extra-info"> Weight: 2.9 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Universal Joints</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812828487724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">186.42</s:price>
+      <s:sku>AC IMP P7-140A</s:sku>
+      <s:grams>1315</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826619948</id>
+    <published>2019-05-11T09:38:39-04:00</published>
+    <updated>2019-05-11T09:38:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-17-632"/>
+    <title>Gray 17-632  - 1 Inch X 1 Inch Drive 6 Point Deep Length Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-17-632-1-inch-x-1-inch-drive-6-point-deep-length-impact-socket-12748023824428.png?v=1579176120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            44.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 6 Point</li><li class="extra-info"> Drive Size: 1 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 2'' L x 2'' W x 3.6'' H</li><li class="extra-info"> Weight: 1.66 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826619948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.55</s:price>
+      <s:sku>AC IMP 17-632</s:sku>
+      <s:grams>752</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826587180</id>
+    <published>2019-05-11T09:38:39-04:00</published>
+    <updated>2019-05-11T09:38:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-7-632"/>
+    <title>Gray 7-632  - 1-1/16 Inch X 1 Inch Drive 6 Point Standard Length Impact Socket 7-634</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-7-632-1-1-16-inch-x-1-inch-drive-6-point-standard-length-impact-socket-7-634-12748023791660.png?v=1579231795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            34.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 6 Point</li><li class="extra-info"> Drive Size: 1 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 2.1'' L x 2.1'' W x 2.3'' H</li><li class="extra-info"> Weight: 1.05 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826587180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.92</s:price>
+      <s:sku>AC IMP 7-632</s:sku>
+      <s:grams>476</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826521644</id>
+    <published>2019-05-11T09:38:36-04:00</published>
+    <updated>2019-05-11T09:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p2432dh"/>
+    <title>Gray P2432DH  - 1 Inch X 1/2 Inch Drive 12 Point Regular Length Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-p2432dh-1-inch-x-1-2-inch-drive-12-point-regular-length-impact-socket-12748023857196.png?v=1579309885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            13.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 12 Point</li><li class="extra-info"> Drive size: 1/2 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 1.5'' L x 1.5'' W x 1.75'' H</li><li class="extra-info"> Weight: 0.43 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826521644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.50</s:price>
+      <s:sku>AC IMP P2432DH</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826488876</id>
+    <published>2019-05-11T09:38:36-04:00</published>
+    <updated>2019-05-11T09:38:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-pl2432"/>
+    <title>Gray PL2432  - 1 Inch X 1/2 Inch Drive 6 Point Deep Length Black Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-pl2432-1-inch-x-1-2-inch-drive-6-point-deep-length-black-impact-socket-12748023496748.png?v=1579336595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            20.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 6 Point</li><li class="extra-info"> Drive size: 1/2 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 1.35'' L x 1.35'' W x 3.1'' H</li><li class="extra-info"> Weight: 0.88 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826488876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.22</s:price>
+      <s:sku>AC IMP PL2432</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826423340</id>
+    <published>2019-05-11T09:38:33-04:00</published>
+    <updated>2019-05-11T09:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p4-832"/>
+    <title>Gray P4-832  - 1 Inch X 1/2 Inch Drive 8 Point Regular Length Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-p4-832-1-inch-x-1-2-inch-drive-8-point-regular-length-impact-socket-12748023201836.png?v=1579324284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            22.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 8 Point</li><li class="extra-info"> Drive size: 1/2 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 1.75'' L x 1.75'' W x 1.75'' H</li><li class="extra-info"> Weight: 0.79 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826423340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.65</s:price>
+      <s:sku>AC IMP P4-832</s:sku>
+      <s:grams>358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826390572</id>
+    <published>2019-05-11T09:38:33-04:00</published>
+    <updated>2019-05-11T09:38:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p2432"/>
+    <title>Gray P2432  - 1 Inch X 1/2 Inch Drive 6 Point Regular Length Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-p2432-1-inch-x-1-2-inch-drive-6-point-regular-length-impact-socket-12748023103532.png?v=1579309798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            14.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 6 Point</li><li class="extra-info"> Drive size: 1/2 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 1.5'' L x 1.5'' W x 1.75'' H</li><li class="extra-info"> Weight: 0.55 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826390572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.88</s:price>
+      <s:sku>AC IMP P2432</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826292268</id>
+    <published>2019-05-11T09:38:28-04:00</published>
+    <updated>2019-05-11T09:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-pl2632"/>
+    <title>Gray PL2632  - 1 Inch X 3/4 Inch Drive 6 Point Deep Length Black Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-pl2632-1-inch-x-3-4-inch-drive-6-point-deep-length-black-impact-socket-12748022939692.png?v=1579344356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            34.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 6 Point</li><li class="extra-info"> Drive size: 3/4 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 1.5'' L x 1.5'' W x 3.6'' H</li><li class="extra-info"> Weight: 1.2 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826292268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.79</s:price>
+      <s:sku>AC IMP PL2632</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826193964</id>
+    <published>2019-05-11T09:38:28-04:00</published>
+    <updated>2019-05-11T09:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p2632"/>
+    <title>Gray P2632  - 1 Inch X 3/4 Inch Drive 6 Point Regular Length Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-p2632-1-inch-x-3-4-inch-drive-6-point-regular-length-impact-socket-12748022906924.png?v=1579311036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            23.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 6 Point</li><li class="extra-info"> Drive size: 3/4 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 1.5'' L x 1.5'' W x 2.1'' H</li><li class="extra-info"> Weight: 0.57 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826193964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.63</s:price>
+      <s:sku>AC IMP P2632</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826161196</id>
+    <published>2019-05-11T09:38:28-04:00</published>
+    <updated>2019-05-11T09:38:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p6-832"/>
+    <title>Gray P6-832  - 1 Inch X 3/4 Inch Drive 8 Point Regular Length Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-p6-832-1-inch-x-3-4-inch-drive-8-point-regular-length-impact-socket-12748022972460.png?v=1579325374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            30.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1 Inch</li><li class="extra-info"> Drive Type: 8 Point</li><li class="extra-info"> Drive size: 3/4 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 2'' L x 2'' W x 2'' H</li><li class="extra-info"> Weight: 1.11 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826161196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.43</s:price>
+      <s:sku>AC IMP P6-832</s:sku>
+      <s:grams>503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812826128428</id>
+    <published>2019-05-11T09:38:24-04:00</published>
+    <updated>2019-05-11T09:38:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-pb2632"/>
+    <title>Gray PB2632  - 1 Inch X 3/4 Inch Drive Standard Length Hex Head Socket Black Impact</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-pb2632-1-inch-x-3-4-inch-drive-standard-length-hex-head-socket-black-impact-12748022841388.png?v=1579314813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            77.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1' Inch</li><li class="extra-info"> Drive size: 3/4 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Precision tip ensures a tight and secure fit with the fastener.</li><li class="extra-info"> Overall Dimensions: 1.65'' L x 1.65'' W x 3.7'' H</li><li class="extra-info"> Weight: 1.36 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812826128428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.55</s:price>
+      <s:sku>AC IMP PB2632</s:sku>
+      <s:grams>616</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812824555564</id>
+    <published>2019-05-11T09:37:57-04:00</published>
+    <updated>2019-05-11T09:37:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-30842-i"/>
+    <title>Gray 30842-I  - 1/2 Inch Drive 42 Tooth Reversible Ratchet Head 1000V Insulated</title>
+    <s:type>Ratchets &amp; Accessories</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ratchets-accessories-gray-30842-i-1-2-inch-drive-42-tooth-reversible-ratchet-head-1000v-insulated-12748019466284.png?v=1579204918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Ratchets &amp; Accessories<br>
+        <strong>Price: </strong>
+            157.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1/2 Inch</li><li class="extra-info"> No</li><li class="extra-info">of teeth: 42</li><li class="extra-info"> Features an orange top insulation layer, and a second yellow layer that also serves as a visual safety indicator.</li><li class="extra-info"> Provides user protection for up to 1000 V.</li><li class="extra-info"> Individually insulated and tested to ASTM F1505  standards.</li><li class="extra-info"> Limited Lifetime Warranty.Overall Dimensions: 10'' L x 2.5'' W x 2.5'' H</li><li class="extra-info"> Weight: 1.6 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ratchets &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812824555564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">157.37</s:price>
+      <s:sku>AC IMP 30842-I</s:sku>
+      <s:grams>725</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812824227884</id>
+    <published>2019-05-11T09:37:48-04:00</published>
+    <updated>2019-05-11T09:37:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-34018"/>
+    <title>Gray 34018  - 1/2 Inch Drive E18 Female Torx Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-34018-1-2-inch-drive-e18-female-torx-socket-12748018516012.png?v=1579188719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            16.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: E18</li><li class="extra-info"> Drive size: 1/2 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Precision tip ensures a tight and secure fit with the fastener.</li><li class="extra-info"> Overall Dimensions: 1'' L x 1'' W x 1.6'' H</li><li class="extra-info"> Weight: 0.16 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812824227884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.96</s:price>
+      <s:sku>AC IMP 34018</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812823932972</id>
+    <published>2019-05-11T09:37:45-04:00</published>
+    <updated>2019-05-11T09:37:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-718-i"/>
+    <title>Gray 718-I  - 1/2 Inch Drive Extension 5 Inch Long 1000V Insulated</title>
+    <s:type>Drive Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-extensions-gray-718-i-1-2-inch-drive-extension-5-inch-long-1000v-insulated-12748017205292.png?v=1579225160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drive Extensions<br>
+        <strong>Price: </strong>
+            78.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1/2 Inch</li><li class="extra-info"> Spring-loaded ball ensures a positive lock onto socket.</li><li class="extra-info"> Features an orange top insulation layer, and a second yellow layer that also serves as a visual safety indicator.</li><li class="extra-info"> Provides user protection for up to 1000 V.</li><li class="extra-info"> Individually insulated and tested to ASTM F1505  standards.</li><li class="extra-info"> Limited Lifetime Warranty.Overall Dimensions: 5'' L x 1.25'' W x 1.25'' H</li><li class="extra-info"> Weight: 0.55 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812823932972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.04</s:price>
+      <s:sku>AC IMP 718-I</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812823506988</id>
+    <published>2019-05-11T09:37:31-04:00</published>
+    <updated>2019-05-11T09:37:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p4-140t"/>
+    <title>Gray P4-140T  - 1/2 Inch Drive Torque Limiting Extension 140 Ft/Lbs. Aqua</title>
+    <s:type>Drive Limiting Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-limiting-extensions-gray-p4-140t-1-2-inch-drive-torque-limiting-extension-140-ft-lbs-aqua-12748015763500.png?v=1579323722"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drive Limiting Extensions<br>
+        <strong>Price: </strong>
+            45.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1/2 Inch</li><li class="extra-info"> Aqua: 140 ft/lbs (190Nm)</li><li class="extra-info"> Visually helps to ensure wheel nuts are torqued to recommended values.</li><li class="extra-info"> Do not require ongoing maintenance or calibration.</li><li class="extra-info"> Overall Dimensions: 7.7'' L x 1'' W x 1'' H</li><li class="extra-info"> Weight: 0.72 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Limiting Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812823506988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.90</s:price>
+      <s:sku>AC IMP P4-140T</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812823474220</id>
+    <published>2019-05-11T09:37:31-04:00</published>
+    <updated>2019-05-11T09:37:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p4-120t"/>
+    <title>Gray P4-120T  - 1/2 Inch Drive Torque Limiting Extension 120 Ft/Lbs. White</title>
+    <s:type>Drive Limiting Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-limiting-extensions-gray-p4-120t-1-2-inch-drive-torque-limiting-extension-120-ft-lbs-white-12748015665196.png?v=1579323691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drive Limiting Extensions<br>
+        <strong>Price: </strong>
+            45.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1/2 Inch</li><li class="extra-info"> White</li><li class="extra-info"> 120 ft/lbs (160Nm)</li><li class="extra-info"> Visually helps to ensure wheel nuts are torqued to recommended values.</li><li class="extra-info"> Do not require ongoing maintenance or calibration.</li><li class="extra-info"> Overall Dimensions: 7.7'' L x 1'' W x 1'' H</li><li class="extra-info"> Weight: 0.61 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Limiting Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812823474220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.90</s:price>
+      <s:sku>AC IMP P4-120T</s:sku>
+      <s:grams>276</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812823408684</id>
+    <published>2019-05-11T09:37:28-04:00</published>
+    <updated>2019-05-11T09:37:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p4-140a"/>
+    <title>Gray P4-140A  - 1/2 Inch Drive Universal Joint Black Impact</title>
+    <s:type>Universal Joints</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/universal-joints-gray-p4-140a-1-2-inch-drive-universal-joint-black-impact-12748015403052.png?v=1579323632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Universal Joints<br>
+        <strong>Price: </strong>
+            46.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1/2 Inch</li><li class="extra-info"> Female (inches): 1/2 Inch</li><li class="extra-info"> Male (inches): 1/2 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Articulation provides access to fasteners in confined spaces.</li><li class="extra-info"> Overall Dimensions: 2.5'' L x 1.3'' W x 1.3'' H</li><li class="extra-info"> Weight: 0.4 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Universal Joints</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812823408684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.16</s:price>
+      <s:sku>AC IMP P4-140A</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812823375916</id>
+    <published>2019-05-11T09:37:28-04:00</published>
+    <updated>2019-05-11T09:37:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p4-080t"/>
+    <title>Gray P4-080T  - 1/2 Inch Drive Torque Limiting Extension 80 Ft/Lbs. Blue</title>
+    <s:type>Drive Limiting Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-limiting-extensions-gray-p4-080t-1-2-inch-drive-torque-limiting-extension-80-ft-lbs-blue-12748015566892.png?v=1579323475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drive Limiting Extensions<br>
+        <strong>Price: </strong>
+            44.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1/2 Inch</li><li class="extra-info"> Blue</li><li class="extra-info"> 80 ft/lbs (110Nm)</li><li class="extra-info"> Visually helps to ensure wheel nuts are torqued to recommended values.</li><li class="extra-info"> Do not require ongoing maintenance or calibration.</li><li class="extra-info"> Overall Dimensions: 7.65'' L x 1.1'' W x 1.1'' H</li><li class="extra-info"> Weight: 0.54 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Limiting Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812823375916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.12</s:price>
+      <s:sku>AC IMP P4-080T</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812823343148</id>
+    <published>2019-05-11T09:37:28-04:00</published>
+    <updated>2019-05-11T09:37:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p4-065t"/>
+    <title>Gray P4-065T  - 1/2 Inch Drive Torque Limiting Extension 65 Ft/Lbs. Yellow</title>
+    <s:type>Drive Limiting Extensions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drive-limiting-extensions-gray-p4-065t-1-2-inch-drive-torque-limiting-extension-65-ft-lbs-yellow-12748015435820.png?v=1579313549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drive Limiting Extensions<br>
+        <strong>Price: </strong>
+            44.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Drive Size: 1/2 Inch</li><li class="extra-info"> Yellow</li><li class="extra-info"> 65 ft/lbs (90Nm)</li><li class="extra-info"> Visually helps to ensure wheel nuts are torqued to recommended values.</li><li class="extra-info"> Do not require ongoing maintenance or calibration.</li><li class="extra-info"> Overall Dimensions: 7.7'' L x 1.1'' W x 1.1'' H</li><li class="extra-info"> Weight: 0.44 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drive Limiting Extensions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812823343148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.12</s:price>
+      <s:sku>AC IMP P4-065T</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812822425644</id>
+    <published>2019-05-11T09:37:04-04:00</published>
+    <updated>2019-05-11T09:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-p2408dh"/>
+    <title>Gray P2408DH  - 1/2 Inch X 1/2 Inch Drive 12 Point Regular Length Impact Socket</title>
+    <s:type>Sockets</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sockets-gray-p2408dh-1-2-inch-x-1-2-inch-drive-12-point-regular-length-impact-socket-12748011307052.png?v=1579309077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sockets<br>
+        <strong>Price: </strong>
+            7.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size: 1/2 Inch</li><li class="extra-info"> Drive Type: 12 Point</li><li class="extra-info"> Drive size: 1/2 Inch</li><li class="extra-info"> Corrosion resistant black oxide finish.</li><li class="extra-info"> Made of premium tool steel and precision heat-treated for maximum durability.</li><li class="extra-info"> Hex openings deliver maximum turning power without rounding fasteners.</li><li class="extra-info"> Limited lifetime warranty.</li><li class="extra-info"> Meets ANSI standards.</li><li class="extra-info"> Overall Dimensions: 1.5'' L x 0.94'' W</li><li class="extra-info"> Weight: 0.15 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sockets</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC IMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812822425644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.80</s:price>
+      <s:sku>AC IMP P2408DH</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+</feed>

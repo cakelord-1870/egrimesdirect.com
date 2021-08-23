@@ -1,0 +1,2315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/label-makers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:32:06-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121678721068</id>
+    <published>2019-12-04T10:32:06-05:00</published>
+    <updated>2019-12-04T10:32:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7950-20x27"/>
+    <title>3M 7950-20X27  - Sheet Label Materials 7950 2.0 mil - Clear Gloss Polyester TC (20 Inch x 27 Inch) 7000028885</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7950-20x27-sheet-label-materials-7950-2-0-mil-clear-gloss-polyester-tc-20-inch-x-27-inch-7000028885-31591696269461.jpg?v=1628318001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            237.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Sheet Label Materials 7950 2.0 mil Clear Polyester Gloss TC, 20 in x 27 in, 100 per box Bulk</h4> <li class="extra-info">3M™ Sheet and Screen Label Materials provide roll, can, or sheet production with a variety of facestocks, adhesives, overlaminates, and liners, each with different appearance and performance characteristics.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">300 High Strength Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Polycoated Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7950</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">2.0 mil</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet and Screen Label Materials feature a range of our specially formulated adhesives for just the right balance of adhesion and removability, including 3M™ Adhesive 350, 3M™ High Performance Permanent Tackified Acrylic Adhesive P1400, 3M™ High Stabi</li><h2>Product Information</h2><li class="extra-info">Facestocks (polyester and vinyl) and adhesives offer heat tolerance, clarity, and UV resistance</li><li class="extra-info"> Features a range of our specially formulated adhesives for just the right balance of adhesion and removability</li><li class="extra-info"> Overlaminate delivers moisture and tear resistance</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_300 High Strength Acrylic</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_27 Inch</s:tag>
+    <s:tag>Liner_Polycoated Kraft</s:tag>
+    <s:tag>Material_7950</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_2.0 mil</s:tag>
+    <s:tag>Width_20 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121678721068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">237.71</s:price>
+      <s:sku>OP LAB 7950-20X27</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121679048748</id>
+    <published>2019-12-04T10:32:05-05:00</published>
+    <updated>2019-12-04T10:32:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7909-20x27"/>
+    <title>3M 7909-20X27  - Sheet Label Material 7909S - Brushed Silver Polyester PT (20 Inch x 27 Inch) 7000029159</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7909-20x27-sheet-label-material-7909s-brushed-silver-polyester-pt-20-inch-x-27-inch-7000029159-13960673394732.jpg?v=1627714121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            490.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Sheet Label Materials 7909S .002 Brushed Silver Polyester PT, 20 in x 27 in Sheets, 100 sheets per box</h4> <li class="extra-info">3M™ Sheet and Screen Label Materials provide roll, can, or sheet production with a variety of facestocks, adhesives, overlaminates, and liners, each with different appearance and performance characteristics.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">350 High Performance Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">olycoated Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7909S</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet and Screen Label Materials feature a range of our specially formulated adhesives for just the right balance of adhesion and removability, including 3M™ Adhesive 350, 3M™ High Performance Permanent Tackified Acrylic Adhesive P1400, 3M™ High Stabi</li><h2>Product Information</h2><li class="extra-info">Facestocks (polyester and vinyl) and adhesives offer heat tolerance, clarity, and UV resistance</li><li class="extra-info"> Features a range of our specially formulated adhesives for just the right balance of adhesion and removability</li><li class="extra-info"> Overlaminate delivers moisture and tear resistance</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction label</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_350 High Performance Acrylic</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Brushed</s:tag>
+    <s:tag>Length_20 Inch</s:tag>
+    <s:tag>Liner_olycoated Kraft</s:tag>
+    <s:tag>Material_7909S</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_27 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121679048748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">490.18</s:price>
+      <s:sku>OP LAB 7909-20X27</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121679081516</id>
+    <published>2019-12-04T10:32:04-05:00</published>
+    <updated>2019-12-04T10:32:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7903-20x27"/>
+    <title>3M 7903-20X27  - Sheet Label Material 7903 - Bright Silver Polyester PT (20 Inch x 27 Inch) 7000029169</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7903-20x27-sheet-label-material-7903-bright-silver-polyester-pt-20-inch-x-27-inch-7000029169-13960707801132.jpg?v=1627902094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            332.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sheet Label Materials 7903 .002 Bright Silver Polyester PT, 20 in x 27 in Sheets</h4> <li class="extra-info">3M™ Sheet and Screen Label Materials provide roll, can, or sheet production with a variety of facestocks, adhesives, overlaminates, and liners, each with different appearance and performance characteristics.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">302 Degree Fahrenheit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Polycoated Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7903</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Facestock is print treated for improved ink anchorage</li><li class="extra-info">Heavy adhesive coat weight for textured surfaces</li><li class="extra-info">Excellent adhesion to low surface energy plastics, powder paint coatings and oily metal surfaces</li><li class="extra-info">Excellent high-temperature performance</li><li class="extra-info">90 lb Sheet </li><h2>Product Information</h2><li class="extra-info">Excellent adhesion to LSE plastics and textured Powder Coated Painted Surfaces</li><li class="extra-info">Automotive Underhood Chemical Resistance</li><li class="extra-info"> Screen Printable Labelstock for wide range of applications High performance acrylic adhesive for textured surfaces</li><li class="extra-info"> Facestock is print treated for improved ink anchorage</li><li class="extra-info"> Heavy adhesive coat weight for textured surfaces</li><li class="extra-info"> Excellent high-temperature performance</li><li class="extra-info">90 lb Sheet and Screen lay-flat liner</li><li class="extra-info"> UL recognized and CSA accepted</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_302 Degree Fahrenheit</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Bright</s:tag>
+    <s:tag>Length_27 Inch</s:tag>
+    <s:tag>Liner_Polycoated Kraft</s:tag>
+    <s:tag>Material_7903</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_20 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121679081516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">332.84</s:price>
+      <s:sku>OP LAB 7903-20X27</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121695334444</id>
+    <published>2019-12-04T10:32:03-05:00</published>
+    <updated>2019-12-04T10:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7029-20x27-100"/>
+    <title>3M 7029-20X27-100  - Sheet Label Material 7029 - Gloss Clear Polyester TC (20 Inch x 27 Inch) 7000047380</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7029-20x27-100-sheet-label-material-7029-gloss-clear-polyester-tc-20-inch-x-27-inch-7000047380-12749123223596.jpg?v=1580154898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            226.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Sheet Label Materials 7029 2.0 Clear Polyester TC, 20 in x 27 in Sheets, 100 per box</h4> <li class="extra-info">3M™ Sheet and Screen Label Materials provide roll, can, or sheet production with a variety of facestocks, adhesives, overlaminates, and liners, each with different appearance and performance characteristics.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Acrylic Adhesive P1400</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Polycoated kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7029</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet and Screen Label Materials feature a range of our specially formulated adhesives for just the right balance of adhesion and removability, including 3M™ Adhesive 350, 3M™ High Performance Permanent Tackified Acrylic Adhesive P1400, 3M™ High Stabi</li><h2>Product Information</h2><li class="extra-info">Facestocks (polyester and vinyl) and adhesives offer heat tolerance, clarity, and UV resistance</li><li class="extra-info"> Features a range of our specially formulated adhesives for just the right balance of adhesion and removability</li><li class="extra-info"> Overlaminate delivers moisture and tear resistance</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Acrylic Adhesive P1400</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_20 Inch</s:tag>
+    <s:tag>Liner_Polycoated kraft</s:tag>
+    <s:tag>Material_7029</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_27 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121695334444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">226.62</s:price>
+      <s:sku>OP LAB 7029-20X27-100</s:sku>
+      <s:grams>12428</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121695301676</id>
+    <published>2019-12-04T10:32:03-05:00</published>
+    <updated>2019-12-04T10:32:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7051sa-20x27-100"/>
+    <title>3M 7051SA-20X27-100  - Sheet Label Material 7051SA - Soft White EL Vinyl (20 Inch x 27 Inch) 7000047375</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7051sa-20x27-100-sheet-label-material-7051sa-soft-white-el-vinyl-20-inch-x-27-inch-7000047375-12749122568236.jpg?v=1580227500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            331.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Sheet and Screen Label Materials 7051SA Soft White EL Vinyl, 20 in x 27 in, 100 sheets per box</h4> <li class="extra-info">3M Sheet and Screen Label Materials feature a range of our specially formulated adhesives for just the right balance of adhesion and removability, including 3M Adhesive 350, 3M High Performance Permanent Tackified Acrylic Adhesive P1400, 3M High Stability Acrylic Adhesive 500, 3M R3500 Removable Adhesive, and 3M™ Adhesive 400.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">350 High Holding Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Embossed Polycoated Kraft (PCK)</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7051</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.01mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet and Screen Label Materials feature a range of our specially formulated adhesives for just the right balance of adhesion and removability, including 3M™ Adhesive 350, 3M™ High Performance Permanent Tackified Acrylic Adhesive P1400, 3M™ High Stabi</li><h2>Product Information</h2><li class="extra-info">Facestocks (polyester and vinyl) and adhesives offer heat tolerance, clarity, and UV resistance</li><li class="extra-info"> Features a range of our specially formulated adhesives for just the right balance of adhesion and removability</li><li class="extra-info"> Overlaminate delivers moisture and tear resistance</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_350 High Holding Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Vinyl</s:tag>
+    <s:tag>Length_27 Inch</s:tag>
+    <s:tag>Liner_Embossed Polycoated Kraft (PCK)</s:tag>
+    <s:tag>Material_7051</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.01mm</s:tag>
+    <s:tag>Width_20 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121695301676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">331.54</s:price>
+      <s:sku>OP LAB 7051SA-20X27-100</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121732001836</id>
+    <published>2019-12-04T10:32:02-05:00</published>
+    <updated>2019-12-04T10:32:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fp0862-6x1668"/>
+    <title>3M FP0862-6X1668  - Removable Label Material FP0862 - Gloss Clear Polypropylene TC2S (6 Inch x 1668 ft) 7000122361</title>
+    <s:type>Removable Label Material</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/removable-label-material-3m-fp0862-6x1668-removable-label-material-fp0862-gloss-clear-polypropylene-tc2s-6-inch-x-1668-ft-7000122361-13954618621996.jpg?v=1628162917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Removable Label Material<br>
+        <strong>Price: </strong>
+            269.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Removable Label Materials FP0862 .002 Clear Polypropylene TC2S, 6 in x 1668 ft, 1 per case Bulk</h4> <li class="extra-info">3M™ Removable Label Materials are available for a wide range of labeling, printing, and production challenges, equipped with adhesives designed to provide a variety of adhesion levels while still being removable</li><li class="extra-info">Coated and uncoated facestocks include paper, vinyl, polypropylene (PP), and polyester to accept a wide variety of ink systems.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">R3500 Removable</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Super Calendered Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">FP0862</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Removable Label Material</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Designed to meet a vast array of needs in labeling, printing and processing, our 3M™ Removable Label Materials deliver varied ranges of strength, stability, adhesion and removability</li><li class="extra-info">These materials are available in facestocks including paper, vinyl, pol</li><h2>Product Information</h2><li class="extra-info">Can be used for protective and masking applications in addition to identification</li><li class="extra-info"> Full range of facestocks includes paper, vinyl, polyester, polypropylene (PP), and polystyrene</li><li class="extra-info"> Topcoated and non-topcoated materials allowing print flexibility</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_R3500 Removable</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Face stock material_Polypropylene</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Super Calendered Kraft</s:tag>
+    <s:tag>Material_FP0862</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121732001836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">269.60</s:price>
+      <s:sku>OP LAB FP0862-6X1668</s:sku>
+      <s:grams>14673</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121732165676</id>
+    <published>2019-12-04T10:32:01-05:00</published>
+    <updated>2019-12-04T10:32:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7866-4-1-2x1668"/>
+    <title>3M 7866-4-1/2X1668  - Tamper Evident Label Material 7381/7866 - VOID Gloss White Polyester TC (4.5 Inch x 1668 ft) 7000122373</title>
+    <s:type>Tamper Indicating Label Material</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tamper-indicating-label-material-3m-7866-4-1-2x1668-tamper-evident-label-material-7381-7866-void-gloss-white-polyester-tc-4-5-inch-x-1668-ft-7000122373-13961029615660.jpg?v=1628094157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Tamper Indicating Label Material<br>
+        <strong>Price: </strong>
+            671.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Tamper Evident Label Materials 7381/7866 .002 VOID Gloss White Polyester TC, 4.5 in x 1668 ft, 1 per case Bulk</h4> <li class="extra-info">3M™ Tamper Evident Label Materials are available in a full range of materials, patterns, and colours for specific tamper-resistant labeling challenges</li><li class="extra-info">Destructible and non-destructible facestocks including paper, vinyl, acetate, and polyester, and adhesives are formulated for a variety of surfaces including polyolefins</li><li class="extra-info">Reinforced paper liners add dimensional stability during processing.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">300 High Strength Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Densified Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7381/7866</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tamper Indicating Label Material</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Designed to meet specific challenges in tamper resistant labeling, 3M™ Tamper Evident Label Materials are available in a broad selection of facestocks, adhesives, colours, and patterns</li><li class="extra-info">Labels are supplied in paper, vinyl, acetate, and polyester for durab</li><h2>Product Information</h2><li class="extra-info">Designed for a range of labeling applications where tamper-resistance is important</li><li class="extra-info"> Destructible and non-destructible facestocks include paper, vinyl, acetate and polyester, for reliable use and processing</li><li class="extra-info"> Coatings, colours and patterns help meet varied design specifications and print processes</li><li class="extra-info"> PK, PCK, glassine, or super-calendered liners make for excellent die cutting and other processing</li><h2>Suggested Application</h2><li class="extra-info">Designed for high-speed die cutting and matrix stripping</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_300 High Strength Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Densified Kraft</s:tag>
+    <s:tag>Material_7381/7866</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121732165676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">671.23</s:price>
+      <s:sku>OP LAB 7866-4-1/2X1668</s:sku>
+      <s:grams>12723</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121732100140</id>
+    <published>2019-12-04T10:32:01-05:00</published>
+    <updated>2019-12-04T10:32:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7876-4-1-2x1668"/>
+    <title>3M 7876-4-1/2X1668  - Thermal Transfer Label Material 7876 - Clear Gloss Polyester TC (4.5 Inch x 1668 ft) 7000122369</title>
+    <s:type>Thermal Transfer Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermal-transfer-label-materials-3m-7876-4-1-2x1668-thermal-transfer-label-material-7876-clear-gloss-polyester-tc-4-5-inch-x-1668-ft-7000122369-13972417937452.jpg?v=1628094875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thermal Transfer Label Materials<br>
+        <strong>Price: </strong>
+            462.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Thermal Transfer Label Materials 7876 .002 Clear Polyester Gloss TC, 4.5 in x 1668 ft, 1 per case</h4> <li class="extra-info">3M™ Thermal Transfer Label Materials are versatile and durable label stocks</li><li class="extra-info">They provide excellent thermal stability and moisture resistance for use in demanding applications, such as bar code tracking</li><li class="extra-info">The adhesive on many labels offers excellent clarity and good initial tack to help improve the finished label.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">350 High Holding Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Densified Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7876</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermal Transfer Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">With a variety of label materials, users can find the product that suits their application needs</li><li class="extra-info">From barcode labels and rating plates, to nameplates and durable goods</li><li class="extra-info"> 3M™ Thermal Transfer Label Materials rise to the challenge</li><li class="extra-info">3M™ Thermal Transfer Labe</li><h2>Product Information</h2><li class="extra-info">Offers excellent thermal stability and moisture resistance</li><li class="extra-info"> Versatile materials produced for use in a variety of applications</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_350 High Holding Acrylic</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Densified Kraft</s:tag>
+    <s:tag>Material_7876</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121732100140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">462.34</s:price>
+      <s:sku>OP LAB 7876-4-1/2X1668</s:sku>
+      <s:grams>15218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121734918188</id>
+    <published>2019-12-04T10:32:00-05:00</published>
+    <updated>2019-12-04T10:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3921-6x1668"/>
+    <title>3M 3921-6X1668  - Thermal Transfer Label Material 3921 - Matte White Acrylate (6 Inch x 1668 ft) 7000123567</title>
+    <s:type>Thermal Transfer Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermal-transfer-label-materials-3m-3921-6x1668-thermal-transfer-label-material-3921-matte-white-acrylate-6-inch-x-1668-ft-7000123567-13968882565164.jpg?v=1628014058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thermal Transfer Label Materials<br>
+        <strong>Price: </strong>
+            3590.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Thermal Transfer Label Materials 3921 Matte White Acrylate, 6 in x 1668 ft, 1 per case Bulk</h4> <li class="extra-info">3M™ Thermal Transfer Label Materials are versatile and durable label stocks</li><li class="extra-info">They provide excellent thermal stability and moisture resistance for use in demanding applications, such as bar code tracking</li><li class="extra-info">The adhesive on many labels offers excellent clarity and good initial tack to help improve the finished label.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">150 High Temperature Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Densified Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">3921</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermal Transfer Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">With a variety of label materials, users can find the product that suits their application needs</li><li class="extra-info">From barcode labels and rating plates, to nameplates and durable goods</li><li class="extra-info"> 3M™ Thermal Transfer Label Materials rise to the challenge</li><li class="extra-info">3M™ Thermal Transfer Labe</li><h2>Product Information</h2><li class="extra-info">Offers excellent thermal stability and moisture resistance</li><li class="extra-info"> Versatile materials produced for use in a variety of applications</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_150 High Temperature Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Acrylate</s:tag>
+    <s:tag>Finish_Matte</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Densified Kraft</s:tag>
+    <s:tag>Material_3921</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121734918188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3590.49</s:price>
+      <s:sku>OP LAB 3921-6X1668</s:sku>
+      <s:grams>16147</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121734787116</id>
+    <published>2019-12-04T10:32:00-05:00</published>
+    <updated>2019-12-04T10:32:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7872-6x1668"/>
+    <title>3M 7872-6X1668  - Thermal Transfer Label Material 7872 - Gloss Platinum Polyester TC (6 Inch x 1668 ft) 7000123561</title>
+    <s:type>Thermal Transfer Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermal-transfer-label-materials-3m-7872-6x1668-thermal-transfer-label-material-7872-gloss-platinum-polyester-tc-6-inch-x-1668-ft-7000123561-12749121519660.jpg?v=1580232931"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thermal Transfer Label Materials<br>
+        <strong>Price: </strong>
+            703.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Thermal Transfer Label Materials 7872 .002 Platinum Polyester Gloss TC, 6</h4> <li class="extra-info">3M™ Thermal Transfer Label Materials are versatile and durable label stocks</li><li class="extra-info">They provide excellent thermal stability and moisture resistance for use in demanding applications, such as bar code tracking</li><li class="extra-info">The adhesive on many labels offers excellent clarity and good initial tack to help improve the finished label.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Platinum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Densified Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7872</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermal Transfer Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">With a variety of label materials, users can find the product that suits their application needs</li><li class="extra-info">From barcode labels and rating plates, to nameplates and durable goods</li><li class="extra-info"> 3M™ Thermal Transfer Label Materials rise to the challenge</li><li class="extra-info">3M™ Thermal Transfer Labe</li><h2>Product Information</h2><li class="extra-info">Offers excellent thermal stability and moisture resistance</li><li class="extra-info"> Versatile materials produced for use in a variety of applications</li><h2>Suggested Application</h2><li class="extra-info">Barcode labels and rating plates</li><li class="extra-info">Property identification and asset labelling in harsh environments</li><li class="extra-info">Warning, instruction, and service labels for durable goods</li><li class="extra-info">Nameplates for durable, electronic and sporting  goods</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Platinum</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Densified Kraft</s:tag>
+    <s:tag>Material_7872</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121734787116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">703.12</s:price>
+      <s:sku>OP LAB 7872-6X1668</s:sku>
+      <s:grams>17055</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121962262572</id>
+    <published>2019-12-04T10:31:59-05:00</published>
+    <updated>2019-12-04T10:31:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7381-7866-6x1668-b"/>
+    <title>3M 7381/7866-6X1668-B  - Tamper Evident Label Material 7381/7866 - VOID Gloss White Polyester TC (6 Inch x 1668 ft) 7100024661</title>
+    <s:type>Tamper Indicating Label Material</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tamper-indicating-label-material-3m-7381-7866-6x1668-b-tamper-evident-label-material-7381-7866-void-gloss-white-polyester-tc-6-inch-x-1668-ft-7100024661-12749122011180.jpg?v=1580229449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Tamper Indicating Label Material<br>
+        <strong>Price: </strong>
+            894.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Tamper Evident Label Materials 7381/7866 .002 VOID Gloss White Polyester TC, 6 in x 1668 ft, 1 per case Bulk</h4> <li class="extra-info">3M™ Tamper Evident Label Materials are available in a full range of materials, patterns, and colours for specific tamper-resistant labeling challenges</li><li class="extra-info">Destructible and non-destructible facestocks including paper, vinyl, acetate, and polyester, and adhesives are formulated for a variety of surfaces including polyolefins</li><li class="extra-info">Reinforced paper liners add dimensional stability during processing.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">300 High Strength Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Densified Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7381/7866</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tamper Indicating Label Material</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Designed to meet specific challenges in tamper resistant labeling, 3M™ Tamper Evident Label Materials are available in a broad selection of facestocks, adhesives, colours, and patterns</li><li class="extra-info">Labels are supplied in paper, vinyl, acetate, and polyester for durab</li><h2>Product Information</h2><li class="extra-info">Designed for a range of labeling applications where tamper-resistance is important</li><li class="extra-info"> Destructible and non-destructible facestocks include paper, vinyl, acetate and polyester, for reliable use and processing</li><li class="extra-info"> Coatings, colours and patterns help meet varied design specifications and print processes</li><li class="extra-info"> PK, PCK, glassine, or super-calendered liners make for excellent die cutting and other processing</li><h2>Suggested Application</h2><li class="extra-info">Designed for high-speed die cutting and matrix stripping</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_300 High Strength Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Densified Kraft</s:tag>
+    <s:tag>Material_7381/7866</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121962262572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">894.99</s:price>
+      <s:sku>OP LAB 7381/7866-6X1668-B</s:sku>
+      <s:grams>15830</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124626628652</id>
+    <published>2019-12-04T10:31:57-05:00</published>
+    <updated>2019-12-04T10:31:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7905-20x27"/>
+    <title>3M 7905-20X27  - Sheet Label Materials 7905 - Clear Gloss Polyester TC (20 Inch x 27 Inch) 7000050176</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7905-20x27-sheet-label-materials-7905-clear-gloss-polyester-tc-20-inch-x-27-inch-7000050176-13970943705132.jpg?v=1627378593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            283.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Sheet Label Materials 7905 .002 Clear Polyester Gloss TC, 20 in x 27 in Sheets, 100 sheets per box</h4> <li class="extra-info">3M™ Sheet and Screen Label Materials provide roll, can, or sheet production with a variety of facestocks, adhesives, overlaminates, and liners, each with different appearance and performance characteristics.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">350 High Holding Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Polycoated Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7905</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet and Screen Label Materials feature a range of our specially formulated adhesives for just the right balance of adhesion and removability, including 3M™ Adhesive 350, 3M™ High Performance Permanent Tackified Acrylic Adhesive P1400, 3M™ High Stabi</li><h2>Product Information</h2><li class="extra-info">Facestocks (polyester and vinyl) and adhesives offer heat tolerance, clarity, and UV resistance</li><li class="extra-info"> Features a range of our specially formulated adhesives for just the right balance of adhesion and removability</li><li class="extra-info"> Overlaminate delivers moisture and tear resistance</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_350 High Holding Acrylic</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_27 Inch</s:tag>
+    <s:tag>Liner_Polycoated Kraft</s:tag>
+    <s:tag>Material_7905</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_20 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124626628652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">283.98</s:price>
+      <s:sku>OP LAB 7905-20X27</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1139497959468</id>
+    <published>2019-12-04T10:31:56-05:00</published>
+    <updated>2019-12-04T10:31:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7810-6x1668"/>
+    <title>3M 7810-6X1668  - Thermal Transfer Label Material 7810 - Matte White Polyester (6 Inch x 1668 ft) 7000048836</title>
+    <s:type>Thermal Transfer Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermal-transfer-label-materials-3m-7810-6x1668-thermal-transfer-label-material-7810-matte-white-polyester-6-inch-x-1668-ft-7000048836-12749121847340.jpg?v=1580219461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thermal Transfer Label Materials<br>
+        <strong>Price: </strong>
+            745.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Thermal Transfer Label Material, 7810, white, 6 in x 1668 ft</h4> <li class="extra-info">3M™ Thermal Transfer Label Material 7810 is a 2.3 mil, matte white polyester facestock with 0.8 mil 3M™ Adhesive 310 on a 55 pound, densified kraft liner.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">300 High Strength Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Super Calendered Kraf</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7810</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermal Transfer Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.06mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Thermal Transfer Label Material 7810 has a matte top coat that resists degradation from scuffing, chemicals, moisture and wide temperature fluctuations</li><li class="extra-info">This material features 3M™ Adhesive 310, a firm adhesive that resists oozing and provides high str</li><h2>Product Information</h2><li class="extra-info">Excellent labelstock for a wide range of applications needing quick stick adhesive and high peel</li><li class="extra-info"> Offers long term durability and adhesion with automotive chemical resistance</li><li class="extra-info"> Outdoor durability</li><li class="extra-info"> UL/CSA compliant</li><li class="extra-info"> Available in a variety of formats, including polyester, polypropylene, vinyl, pharmaceutical papers and synthetics</li><h2>Suggested Application</h2><li class="extra-info">Ideal for automotive, electronics, medical device, outdoor power equipment, health care, security, government, personal care, recreational vehicle, aerospace, transportation, packaging, foam fabrication and general industrial</li><li class="extra-info">
+Can be used for bar code tra</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_300 High Strength Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Matte</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Super Calendered Kraf</s:tag>
+    <s:tag>Material_7810</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.06mm</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1139497959468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">745.51</s:price>
+      <s:sku>OP LAB 7810-6X1668</s:sku>
+      <s:grams>16088</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737137225772</id>
+    <published>2019-12-04T10:31:47-05:00</published>
+    <updated>2019-12-04T10:31:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7901-20x27"/>
+    <title>3M 7901-20X27  - Sheet Label Material 7901 - Soft White Vinyl NTC (20 Inch x 27 Inch) 7000048887</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7901-20x27-sheet-label-material-7901-soft-white-vinyl-ntc-20-inch-x-27-inch-7000048887-12749121224748.jpg?v=1580149057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            441.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Sheet Label Materials 7901 .0035 Soft White Vinyl NTC, 20 in x 27 in Sheets, 100 per box</h4> <li class="extra-info">3M™ Sheet and Screen Label Materials provide roll, can, or sheet production with a variety of facestocks, adhesives, overlaminates, and liners, each with different appearance and performance characteristics.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">500 High Stability Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Polycoated Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7901</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.09mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet and Screen Label Materials feature a range of our specially formulated adhesives for just the right balance of adhesion and removability, including 3M™ Adhesive 350, 3M™ High Performance Permanent Tackified Acrylic Adhesive P1400, 3M™ High Stabi</li><h2>Product Information</h2><li class="extra-info">Facestocks (polyester and vinyl) and adhesives offer heat tolerance, clarity, and UV resistance</li><li class="extra-info"> Features a range of our specially formulated adhesives for just the right balance of adhesion and removability</li><li class="extra-info"> Overlaminate delivers moisture and tear resistance</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_500 High Stability Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Vinyl</s:tag>
+    <s:tag>Length_27 Inch</s:tag>
+    <s:tag>Liner_Polycoated Kraft</s:tag>
+    <s:tag>Material_7901</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.09mm</s:tag>
+    <s:tag>Width_20 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737137225772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">441.87</s:price>
+      <s:sku>OP LAB 7901-20X27</s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737136996396</id>
+    <published>2019-12-04T10:31:47-05:00</published>
+    <updated>2019-12-04T10:31:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fp032302w-54x50"/>
+    <title>3M FP032302W-54X50  - Wide Web Label Material FP032302WW-A 2.3 - Gloss White Metallized Polypropylene TC (54 Inch x 50 Yards) 7000122383</title>
+    <s:type>Wide Web Label Material</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wide-web-label-material-3m-fp032302w-54x50-wide-web-label-material-fp032302ww-a-2-3-gloss-white-metallized-polypropylene-tc-54-inch-x-50-yards-7000122383-12749120471084.jpg?v=1580299295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wide Web Label Material<br>
+        <strong>Price: </strong>
+            306.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Wide Web Label Materials FP032302WW-A 2.3 White Metallized Polypropylene TC, 54 in x 50 yd Single Roll, 1 per case</h4> <li class="extra-info">3M™ Press Printable Label Materials are excellent for efficiency across a wide range of printed labeling applications</li><li class="extra-info">Topcoated facestocks from vinyl to acetate provide a wide choice of durability and conformability, and suit specific inks and methods</li><li class="extra-info">3M™ Adhesives are designed for applications requiring high tack, temperature performance, challenging substrates, and more.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">P1655 High Performance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">50yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">54 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Super Calendered Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">FP032302WW-A</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wide Web Label Material</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.03mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Press Printable Label Materials feature combinations of durable, conformable facestocks and premium 3M™ Adhesives designed for screen or flexographic printing processes as well as digital, Inkjet, heat transfer, laser, or dot-matrix printing</li><li class="extra-info">Facestoc</li><h2>Product Information</h2><li class="extra-info">Designed for a full range of on-press printed label applications including flexographic and screen</li><li class="extra-info"> Facestocks include polyester, vinyl, and acetate for durability and conformability</li><li class="extra-info"> Material liner accomodates various printing processes, including high-speed die cutting and matrix stripping</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_P1655 High Performance</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Polypropylene</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_50yds</s:tag>
+    <s:tag>Liner_Super Calendered Kraft</s:tag>
+    <s:tag>Material_FP032302WW-A</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.03mm</s:tag>
+    <s:tag>Width_54 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737136996396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">306.69</s:price>
+      <s:sku>OP LAB FP032302W-54X50</s:sku>
+      <s:grams>14378</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737138307116</id>
+    <published>2019-12-04T10:31:46-05:00</published>
+    <updated>2019-12-04T10:31:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7248-54x50"/>
+    <title>3M 7248-54X50  - Wide Web Label Materials 7248WWA - Clear Polyester GR (54 Inch x 50 yards) 7000122387</title>
+    <s:type>Wide Web Label Material</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wide-web-label-material-3m-7248-54x50-wide-web-label-materials-7248wwa-clear-polyester-gr-54-inch-x-50-yards-7000122387-12749122142252.jpg?v=1580152291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wide Web Label Material<br>
+        <strong>Price: </strong>
+            1251.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Wide Web Label Materials 7248WWA .002 Clear Polyester GR, 54 in x 50 yd Single Roll Wide Web, 1 per case</h4> <li class="extra-info">3M™ Overlaminate Label Materials are designed for protective overlaminate applications</li><li class="extra-info">A durable facestock resists scuffs, abrasions, and chemicals</li><li class="extra-info">Different adhesives are available for performance in a variety of temperatures, substrates, and environments – including oily metals.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">400 Low Temperature Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">50yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">54 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Laser</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7248WWA</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wide Web Label Material</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Designed specifically for protective laminating applications, 3M™ Overlaminate Label Materials offer facestocks that resist abrasions, scuffs, and chemicals</li><li class="extra-info">The 55 lb (24.95 kg) densified kraft paper liner provides excellent stability for a range of conv</li><h2>Product Information</h2><li class="extra-info">Labels for protective overlaminate applications</li><li class="extra-info"> Offers UV resistance and helps prevent colour fading</li><li class="extra-info"> ‎Adhesive is formulated for bonding to challenging substrates and offers high temp resistance</li><li class="extra-info"> Densified and supercalendered kraft and polyester film liners make for efficient die cutting and auto dispensing</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_400 Low Temperature Acrylic</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Length_50yds</s:tag>
+    <s:tag>Liner_Laser</s:tag>
+    <s:tag>Material_7248WWA</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_54 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737138307116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1251.96</s:price>
+      <s:sku>OP LAB 7248-54X50</s:sku>
+      <s:grams>14900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254934630444</id>
+    <published>2019-12-04T10:30:55-05:00</published>
+    <updated>2019-12-04T10:30:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7813-6x1668"/>
+    <title>3M 7813-6X1668  - Thermal Transfer Label Material 7813 - Matte Silver Polyester TT TC (6 Inch x 1668 ft) 7000048569</title>
+    <s:type>Thermal Transfer Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermal-transfer-label-materials-3m-7813-6x1668-thermal-transfer-label-material-7813-matte-silver-polyester-tt-tc-6-inch-x-1668-ft-7000048569-13962504962092.jpg?v=1628166696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thermal Transfer Label Materials<br>
+        <strong>Price: </strong>
+            784.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Thermal Transfer Label Materials 7813 .0033 Silver Polyester Matte TT TC, 6 in x 1668 ft, 1 per case Bulk</h4> <li class="extra-info">3M™ Thermal Transfer Label Materials are versatile and durable label stocks</li><li class="extra-info">They provide excellent thermal stability and moisture resistance for use in demanding applications, such as bar code tracking</li><li class="extra-info">The adhesive on many labels offers excellent clarity and good initial tack to help improve the finished label.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">300 High Strength Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">1668 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Densified Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7813</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermal Transfer Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.08mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">With a variety of label materials, users can find the product that suits their application needs</li><li class="extra-info">From barcode labels and rating plates, to nameplates and durable goods</li><li class="extra-info"> 3M™ Thermal Transfer Label Materials rise to the challenge</li><li class="extra-info">3M™ Thermal Transfer Labe</li><h2>Product Information</h2><li class="extra-info">Offers excellent thermal stability and moisture resistance</li><li class="extra-info"> Versatile materials produced for use in a variety of applications</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info"> Variable information printing</li><li class="extra-info"> Bar code tracking</li><li class="extra-info"> Track and trace</li><li class="extra-info"> Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_300 High Strength Acrylic</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Matte</s:tag>
+    <s:tag>Length_1668 ft</s:tag>
+    <s:tag>Liner_Densified Kraft</s:tag>
+    <s:tag>Material_7813</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.08mm</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254934630444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">784.78</s:price>
+      <s:sku>OP LAB 7813-6X1668</s:sku>
+      <s:grams>18529</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038111788</id>
+    <published>2019-12-04T10:30:09-05:00</published>
+    <updated>2019-12-04T10:30:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7904-20x27-100-box"/>
+    <title>3M 7904-20X27-100/BOX  - Sheet Label Material 7904 - White Vinyl (20 Inch x 27 Inch) 7000125330</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7904-20x27-100-box-sheet-label-material-7904-white-vinyl-20-inch-x-27-inch-7000125330-13960692826156.jpg?v=1628093437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            3.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sheet Label Material, 7904, white, 20 in x 27 in</h4> <li class="extra-info">3M™ Sheet Label Material 7904 is on a 3.4 mil, white, flexible vinyl with 1.8 mil 3M™ Acrylic Adhesive 350 on a 90 pound, polycoated kraft liner.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">350 High Holding Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Polycoated Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7904</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.09mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet Label Material 7904 features a screen printable labelstock for a wide range of applications and high performance acrylic adhesive for textured surfaces</li><li class="extra-info">These materials offer excellent adhesion to LSE plastics and textured, powder coated or pain</li><h2>Product Information</h2><li class="extra-info">Screen printable labelstock for a wide range of applications</li><li class="extra-info"> Excellent adhesion to LSE plastics and textured, powder coated or painted surfaces</li><li class="extra-info"> Non top coated</li><li class="extra-info"> Universal adhesive for harsh environments</li><li class="extra-info"> Heavy adhesive coat weight for textured surfaces</li><li class="extra-info"> Excellent adhesion to low surface energy plastics, powder paint coatings and oily metal surfaces</li><li class="extra-info"> Heavy lay-flat liner for sheet applications</li><li class="extra-info"> Automotive underhood chemical resistance</li><li class="extra-info"> High performance acrylic adhesive for textured surfaces</li><h2>Suggested Application</h2><li class="extra-info">Typical 3M™ Performance Label applications include bar code tracking, track and trace, thermal transfer labels, variable information printing (VIP), brand and instruction labels, warning labels, durable decals, surface protection and masking, over laminat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_350 High Holding Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Vinyl</s:tag>
+    <s:tag>Finish_Matte</s:tag>
+    <s:tag>Length_27 Inch</s:tag>
+    <s:tag>Liner_Polycoated Kraft</s:tag>
+    <s:tag>Material_7904</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.09mm</s:tag>
+    <s:tag>Width_20 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038111788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.28</s:price>
+      <s:sku>OP LAB 7904-20X27-100/BOX</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255053807660</id>
+    <published>2019-12-04T10:26:53-05:00</published>
+    <updated>2019-12-04T10:26:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sp7533-4-gal"/>
+    <title>3M SP7533-4 GAL  - 3M SCREEN PRINTABLE ADHESIVE SP7533 GALLON SP7533-4 GAL 7000046577</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sp7533-4-gal-3m-screen-printable-adhesive-sp7533-gallon-sp7533-4-gal-7000046577-13807635595308.jpg?v=1628110181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            334.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SCREEN PRINTABLE ADHESIVE SP7533 GALLON</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUlYtZmY_UMv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Japan</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255053807660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">334.42</s:price>
+      <s:sku>OP LAB SP7533-4 GAL</s:sku>
+      <s:grams>4427</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4335932014636</id>
+    <published>2019-12-03T12:07:00-05:00</published>
+    <updated>2019-12-03T12:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fpe42-54x4500"/>
+    <title>3M FPE42-54X4500  - Press Printable Label Material FPE42 - Matte Clear Polyethylene (54 Inch x 4500 ft) 7000143528</title>
+    <s:type>Press Printable Lable Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/press-printable-lable-materials-3m-fpe42-54x4500-press-printable-label-material-fpe42-matte-clear-polyethylene-54-inch-x-4500-ft-7000143528-13982704173100.jpg?v=1628103878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Press Printable Lable Materials<br>
+        <strong>Price: </strong>
+            7063.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Press Printable Label Material, FPE42, 54 in x 4500 ft</h4> <li class="extra-info">3M™ Press Printable Label Material FPE42 are on a 3.0 mil, clear, polyethylene treated facestock with 0.9 mil 3M™ Permanent Tackified Acrylic Adhesive P1410 on a 50 pound, super calendared kraft liner.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">P1410 Permanent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4500 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">54 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Super Calendered Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">FPE42</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Press Printable Lable Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.08mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Press Printable Label Material FPE42 offers corona treated conformable film and high tear and elongation properties</li><li class="extra-info">These materials are designed for high-speed die cutting and matrix stripping and offer excellent adhesion to a wide variety of substra</li><h2>Product Information</h2><li class="extra-info">3M™ Permanent Tackified Acrylic Adhesive is neutral pH and offers good adhesion to polyolefins</li><li class="extra-info"> Meets CONIG and CFR 175.105 indirect food requirements</li><li class="extra-info"> Corona treated conformable film</li><li class="extra-info"> Offers high tear and elongation properties</li><li class="extra-info"> Excellent adhesion to a wide variety of substrates, including polyolefin</li><li class="extra-info"> Designed for high-speed die cutting and matrix stripping</li><h2>Suggested Application</h2><li class="extra-info">Designed for high-speed die cutting and matrix stripping</li><li class="extra-info">Think 3M first for label materials used in these key markets: automotive, electronics, medical device, outdoor power equipment, health care, security, government, personal care, recreational vehicle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_P1410 Permanent</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Face stock material_Polyethylene</s:tag>
+    <s:tag>Finish_Matte</s:tag>
+    <s:tag>Length_4500 ft</s:tag>
+    <s:tag>Liner_Super Calendered Kraft</s:tag>
+    <s:tag>Material_FPE42</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.08mm</s:tag>
+    <s:tag>Width_54 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4335932014636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7063.24</s:price>
+      <s:sku>OP LAB FPE42-54X4500</s:sku>
+      <s:grams>136077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4335718989868</id>
+    <published>2019-12-03T12:07:00-05:00</published>
+    <updated>2019-12-03T12:07:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7908-20x27"/>
+    <title>3M 7908-20X27  - Sheet Label Material 7908 - Gloss White Polyester (20 Inch x 27 Inch) 7000050168</title>
+    <s:type>Sheet Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheet-label-materials-3m-7908-20x27-sheet-label-material-7908-gloss-white-polyester-20-inch-x-27-inch-7000050168-31513813155989.jpg?v=1628285840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sheet Label Materials<br>
+        <strong>Price: </strong>
+            3.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sheet Label Material, 7908, white, TC, 20 in x 27 in</h4> <li class="extra-info">3M™ Sheet Label Material 7908 features excellent adhesion to Low Surface Energy (LSE) plastics, as well as textured, powder coated and painted surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">350 High Holding Acrylic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">27 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">20 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Polycoated Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7908</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheet Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Sheet Label Material 7908 features a gloss top coat that offers excellent abrasion and chemical resistance</li><li class="extra-info">It has a heavy adhesive coat weight for textured surfaces</li><li class="extra-info">3M™ Sheet Label Material 7908 also features excellent adhesion to low surface energy</li><h2>Product Information</h2><li class="extra-info">3M™ Performance Labels offer a wide range of products for long term durability and adhesion with automotive chemical resistance and outdoor durability</li><li class="extra-info"> Considered to be the industry standard</li><li class="extra-info"> UL recognized and CSA accepted</li><h2>Suggested Application</h2><li class="extra-info">Typical 3M™ Performance Label Applications include bar code tracking, track and trace, thermal transfer labels, Variable Information Printing (VIP), brand and instruction labels, warning labels, durable decals, surface protection and masking, over laminat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_350 High Holding Acrylic</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_27 Inch</s:tag>
+    <s:tag>Liner_Polycoated Kraft</s:tag>
+    <s:tag>Material_7908</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_20 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4335718989868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.79</s:price>
+      <s:sku>OP LAB 7908 20X27</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4335932899372</id>
+    <published>2019-12-03T12:06:59-05:00</published>
+    <updated>2019-12-03T12:06:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fp016902-54x5500"/>
+    <title>3M FP016902-54X5500  - Removable Label Material FP016902 - Gloss White Polypropylene (54 Inch x 5500 ft) 7000143133</title>
+    <s:type>Removable Label Material</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/removable-label-material-3m-fp016902-54x5500-removable-label-material-fp016902-gloss-white-polypropylene-54-inch-x-5500-ft-7000143133-13954641592364.jpg?v=1628162383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Removable Label Material<br>
+        <strong>Price: </strong>
+            8190.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Removable Label Material, FP016902, 54 in x 5500 ft</h4> <li class="extra-info">3M™ Removable Label Material FP016902 is on a 2.3 mil, white polypropylene, top coated facestock with 0.8 mil 3M™ Removable Acrylic Adhesive R3500 on a 50 pound super calendared kraft liner.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">R3500 Removable</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5500 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">54 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Super Calendered Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">FP016902</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Removable Label Material</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.06mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Removable Label Material FP016902 provides a removable adhesive that removes cleanly, making this label ideal for many applications such as instruction labels or protective masks</li><li class="extra-info">These materials also feature a removable adhesive that offers long term</li><h2>Product Information</h2><li class="extra-info">Provides an adhesive that removes cleanly, making this label ideal for many applications</li><li class="extra-info"> Removable adhesive offers long term adhesion</li><li class="extra-info"> White polypropylene label product offers excellent moisture resistance</li><li class="extra-info"> Film is top coated for use with film inks</li><li class="extra-info"> Excellent alternative to static cling</li><li class="extra-info"> Designed for rotary die cutting and high speed dispensing</li><h2>Suggested Application</h2><li class="extra-info">Typical 3M™ Performance Label Applications include bar code tracking, track and trace, thermal transfer labels, variable information printing (VIP), brand and instruction labels, warning labels, durable decals, surface protection and masking, over laminat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_R3500 Removable</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Polypropylene</s:tag>
+    <s:tag>Finish_Gloss</s:tag>
+    <s:tag>Length_5500 ft</s:tag>
+    <s:tag>Liner_Super Calendered Kraft</s:tag>
+    <s:tag>Material_FP016902</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.06mm</s:tag>
+    <s:tag>Width_54 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4335932899372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8190.81</s:price>
+      <s:sku>OP LAB FP016902-54X5500</s:sku>
+      <s:grams>294834</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4335932702764</id>
+    <published>2019-12-03T12:06:59-05:00</published>
+    <updated>2019-12-03T12:06:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fp020601-10-8x5000"/>
+    <title>3M FP020601-10.8X5000  - Thermal Transfer Label Material FP020601 - White (10.8 Inch x 5000 ft) 7000143137</title>
+    <s:type>Thermal Transfer Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-fp020601-10-8x5000-thermal-transfer-label-material-fp020601-white-10-8-inch-x-5000-ft-7000143137-13390952366124.jpg?v=1575050283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thermal Transfer Label Materials<br>
+        <strong>Price: </strong>
+            1421.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Thermal Transfer Label Material, FP020601, white, 10.8 in x 5000 ft (27.5 cm x 1524.0 m)</h4> <li class="extra-info">3M™ Thermal Transfer Label Materials are versatile and durable label stocks</li><li class="extra-info">They provide excellent thermal stability and moisture resistance for use in demanding applications, such as bar code tracking</li><li class="extra-info">The adhesive on many labels offers excellent clarity and good initial tack to help improve the finished label.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5000 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">10.8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">FP020601</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermal Transfer Label Materials</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">With a variety of label materials, users can find the product that suits their application needs</li><li class="extra-info">From barcode labels and rating plates, to nameplates and durable goods</li><li class="extra-info"> 3M™ Thermal Transfer Label Materials rise to the challenge</li><li class="extra-info">3M™ Thermal Transfer Labe</li><h2>Product Information</h2><li class="extra-info">Offers excellent thermal stability and moisture resistance</li><li class="extra-info"> Versatile materials produced for use in a variety of applications</li><h2>Suggested Application</h2><li class="extra-info">Thermal transfer labels</li><li class="extra-info">
+Variable information printing</li><li class="extra-info">
+Bar code tracking</li><li class="extra-info">
+Track and trace</li><li class="extra-info">
+Brand and instruction labels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Length_5000 ft</s:tag>
+    <s:tag>Material_FP020601</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Width_10.8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4335932702764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1421.01</s:price>
+      <s:sku>OP LAB FP020601-10.8X5000</s:sku>
+      <s:grams>181436</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4335932276780</id>
+    <published>2019-12-03T12:06:59-05:00</published>
+    <updated>2019-12-03T12:06:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fp035402-54x5000"/>
+    <title>3M FP035402-54X5000  - Health Care Label Material FP035402 - White Polyolefin (54 Inch x 5000 ft) 7000143351</title>
+    <s:type>Health Care Label Material</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/health-care-label-material-3m-fp035402-54x5000-health-care-label-material-fp035402-white-polyolefin-54-inch-x-5000-ft-7000143351-13365498118188.jpg?v=1628102626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Health Care Label Material<br>
+        <strong>Price: </strong>
+            8773.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Health Care Label Materials, FP035402 white polyolefin, 54 in x 5000 ft</h4> <li class="extra-info">The 3M™ Health Care Label Materials FP035402 are an FDA registered label construction.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">P1650 Permanent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5000 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">54 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Super Calendered Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">FP035402</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Health Care Label Material</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.1mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Health Care Label Materials FP035402 are an FDA registered label construction for the Blood Bag Industry</li><li class="extra-info">This product provides high performance acrylic adhesive for automotive underhood applications</li><li class="extra-info">3M™ Performance Labels offer a wide range of produ</li><h2>Product Information</h2><li class="extra-info">FDA registered label construction for Blood Bag Industry</li><li class="extra-info"> High performance acrylic adhesive for automotive underhood applications</li><li class="extra-info"> Range of acrylic adhesives suits the most specific applications</li><li class="extra-info"> Film, kraft, and glassine liners make for efficient processing</li><h2>Suggested Application</h2><li class="extra-info">Typical 3M™ Performance Label Applications include bar code tracking, track and trace, thermal transfer labels, Variable Information Printing (VIP), brand and instruction labels, warning labels, durable decals, surface protection and masking, over laminat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_P1650 Permanent</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Face stock material_Polyolefin</s:tag>
+    <s:tag>Finish_Matte</s:tag>
+    <s:tag>Length_5000 ft</s:tag>
+    <s:tag>Liner_Super Calendered Kraft</s:tag>
+    <s:tag>Material_FP035402</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.1mm</s:tag>
+    <s:tag>Width_54 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4335932276780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8773.91</s:price>
+      <s:sku>OP LAB FP035402-54X5000</s:sku>
+      <s:grams>136077</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4335933095980</id>
+    <published>2019-12-03T12:06:58-05:00</published>
+    <updated>2019-12-03T12:06:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fm112-54x2750"/>
+    <title>3M FM112-54X2750  - Thermal Transfer Label Material FM112 - Brushed Silver Polyester (54 Inch x 2750 ft) 7000143138</title>
+    <s:type>Thermal Transfer Label Materials</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermal-transfer-label-materials-3m-fm112-54x2750-thermal-transfer-label-material-fm112-brushed-silver-polyester-54-inch-x-2750-ft-7000143138-13954717974572.jpg?v=1628162728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thermal Transfer Label Materials<br>
+        <strong>Price: </strong>
+            8196.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Thermal Transfer Label Material, FM112, brush silver, 54 in x 2750 ft</h4> <li class="extra-info">3M™ Thermal Transfer Label Material FM112 are on a 2.0 mil, brushed silver, polyester, top coated facestock with 0.9 mil 3M™ General Purpose Permanent Acrylic Adhesive P1212 on a 50 pound super calendared kraft liner.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">P1212 Permanent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2750 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">54 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Liner </td>
+<td class="egrimes">Super Calendered Kraft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">FM112</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermal Transfer Label Materials</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">0.05mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Thermal Transfer Label Material FM112 offer a perfect balance of product performance and price for polyester bar code label applications</li><li class="extra-info">The adhesive has excellent clarity and good initial tack</li><li class="extra-info">These materials provide excellent die-cutting propertie</li><h2>Product Information</h2><li class="extra-info">Perfect balance of product performance and price for polyester bar code label applications</li><li class="extra-info"> Adhesive has excellent clarity and good initial tack</li><li class="extra-info"> Durable high performance material offers thermal stability and moisture resistance</li><li class="extra-info"> Top coating is designed for use with a wide variety of film inks</li><li class="extra-info"> Thermal transfer printable with resin ribbons</li><li class="extra-info"> High clarity general purpose adhesive</li><li class="extra-info"> Good initial tack and excellent die cutting properties</li><li class="extra-info"> Designed for high-speed rotary die cutting and matrix stripping</li><li class="extra-info"> Back side of liner has been lightly coated with silicone to reduce label pick</li><h2>Suggested Application</h2><li class="extra-info">Typical 3M™ Performance Label Applications include bar code tracking, track and trace, thermal transfer labels, Variable Information Printing (VIP), brand and instruction labels, warning labels, durable decals, surface protection and masking, over laminat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_P1212 Permanent</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Face stock material_Polyester</s:tag>
+    <s:tag>Finish_Brushed</s:tag>
+    <s:tag>Length_2750 ft</s:tag>
+    <s:tag>Liner_Super Calendered Kraft</s:tag>
+    <s:tag>Material_FM112</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP LAB</s:tag>
+    <s:tag>Thickness_0.05mm</s:tag>
+    <s:tag>Width_54 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4335933095980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8196.67</s:price>
+      <s:sku>OP LAB FM112-54X2750</s:sku>
+      <s:grams>136077</s:grams>
+    </s:variant>
+  </entry>
+</feed>

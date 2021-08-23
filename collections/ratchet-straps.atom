@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/ratchet-straps.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T05:39:34-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812451885100</id>
+    <published>2019-05-11T05:39:34-04:00</published>
+    <updated>2019-05-11T05:39:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-rs-227-ce"/>
+    <title>Tuff Grade RS-227 CE  - Ratchet Strap 2 Inch X 27&apos; J Hook Ce Certified</title>
+    <s:type>Ratchets &amp; Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ratchets-accessories-tuff-grade-rs-227-ce-ratchet-strap-2-inchx27-j-hook-ce-certified-12747073257516.jpg?v=1575066959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ratchets &amp; Accessories<br>
+        <strong>Price: </strong>
+            20.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 27’ x 2” Breaking Strength 11,000 lbs Working Load Limit 5,000 lbs Hooks Double-J Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ratchets &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812451885100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.26</s:price>
+      <s:sku>SH RAT RS-227 CE</s:sku>
+      <s:grams>2413</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812451819564</id>
+    <published>2019-05-11T05:39:34-04:00</published>
+    <updated>2019-05-11T05:39:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-rs-227-flat-ce"/>
+    <title>Tuff Grade RS-227 FLAT CE  - Ratchet Strap 2 InchX27&apos; Flat Hook Ce Certified</title>
+    <s:type>Ratchets &amp; Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ratchets-accessories-tuff-grade-rs-227-flat-ce-ratchet-strap-2-inchx27-flat-hook-ce-certified-13395153420332.jpg?v=1627478511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ratchets &amp; Accessories<br>
+        <strong>Price: </strong>
+            22.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 27’ x 2” Breaking Strength 11,000 lbs Working Load Limit 5,000 lbs Hooks Flat Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ratchets &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812451819564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.40</s:price>
+      <s:sku>SH RAT RS-227 FLAT CE</s:sku>
+      <s:grams>2512</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812451754028</id>
+    <published>2019-05-11T05:39:34-04:00</published>
+    <updated>2019-05-11T05:39:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-rs-116-ce"/>
+    <title>Tuff Grade RS-116 CE  - Ratchet Strap 1 InchX16&apos; J Hook Ce Certified</title>
+    <s:type>Ratchets &amp; Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ratchets-accessories-tuff-grade-rs-116-ce-ratchet-strap-1-inchx16-j-hook-ce-certified-31548681781397.jpg?v=1628371346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ratchets &amp; Accessories<br>
+        <strong>Price: </strong>
+            7.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 16’ x 1” Breaking Strength 3,000 lbs Working Load Limit 1,500 lbs Hooks Double-J Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ratchets &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812451754028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.87</s:price>
+      <s:sku>SH RAT RS-116 CE</s:sku>
+      <s:grams>780</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812433698860</id>
+    <published>2019-05-11T05:30:02-04:00</published>
+    <updated>2019-05-11T05:30:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgws0204"/>
+    <title>Tuff Grade TGWS0204  - Web Sling 2 InchX4&apos; Type 3 Double Eye 2 Ply Tuff Grade</title>
+    <s:type>Web Slings</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/web-slings-tuff-grade-tgws0204-web-sling-2-inchx4-type-3-double-eye-2-ply-tuff-grade-13390448164908.jpg?v=1629194677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Web Slings<br>
+        <strong>Price: </strong>
+            7.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 2″ Length 4′ Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Web Slings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812433698860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.75</s:price>
+      <s:sku>SH RAT TGWS0204</s:sku>
+      <s:grams>517</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124759011372</id>
+    <published>2018-08-04T20:57:43-04:00</published>
+    <updated>2018-08-04T20:57:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgws0208"/>
+    <title>Tuff Grade TGWS0208  - Web Sling 2 InchX8&apos; Type 3 Double Eye 2 Ply Tuff Grade</title>
+    <s:type>Web Slings</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/web-slings-tuff-grade-tgws0208-web-sling-2-inchx8-type-3-double-eye-2-ply-tuff-grade-12747025711148.jpg?v=1574964211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Web Slings<br>
+        <strong>Price: </strong>
+            11.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 2″ Length 8′ Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Web Slings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124759011372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.95</s:price>
+      <s:sku>SH RAT TGWS0208</s:sku>
+      <s:grams>966</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124032249900</id>
+    <published>2018-08-04T14:40:44-04:00</published>
+    <updated>2018-08-04T14:40:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgws0212"/>
+    <title>Tuff Grade TGWS0212  - Web Sling 2X12&apos; Type 3 Double Eye 2 Ply Tuff Grade</title>
+    <s:type>Web Slings</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/web-slings-tuff-grade-tgws0212-web-sling-2x12-type-3-double-eye-2-ply-tuff-grade-13390444691500.jpg?v=1629193951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Web Slings<br>
+        <strong>Price: </strong>
+            18.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]
+<li class="extra-info">Width 2″</li>
+<li class="extra-info">Length 12′ </li>
+[/shortdesc]
+<h2>Product Information</h2>
+<table class="egrimes">
+<tbody>
+<tr class="egrimes">
+<td class="egrimes" style="width: 35%;">Brand</td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes">Product Type</td>
+<td class="egrimes">Web Slings</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124032249900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.60</s:price>
+      <s:sku>SH RAT TGWS0212</s:sku>
+      <s:grams>1415</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124032217132</id>
+    <published>2018-08-04T14:40:43-04:00</published>
+    <updated>2018-08-04T14:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgws0210"/>
+    <title>Tuff Grade TGWS0210  - Web Sling 2X10&apos; Type 3 Double Eye 2 Ply Tuff Grade</title>
+    <s:type>Web Slings</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/web-slings-tuff-grade-tgws0210-web-sling-2x10-type-3-double-eye-2-ply-tuff-grade-31500796887189.jpg?v=1627047680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Web Slings<br>
+        <strong>Price: </strong>
+            14.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 2″ Length 10′ Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Web Slings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124032217132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.38</s:price>
+      <s:sku>SH RAT TGWS0210</s:sku>
+      <s:grams>1197</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124032184364</id>
+    <published>2018-08-04T14:40:43-04:00</published>
+    <updated>2018-08-04T14:40:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgws0206"/>
+    <title>Tuff Grade TGWS0206  - Web Sling 2 InchX6&apos; Type 3 Double Eye 2 Ply Tuff Grade</title>
+    <s:type>Web Slings</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/web-slings-tuff-grade-tgws0206-web-sling-2-inchx6-type-3-double-eye-2-ply-tuff-grade-13390447345708.jpg?v=1629198453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Web Slings<br>
+        <strong>Price: </strong>
+            9.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 2″ Length 6′ Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Web Slings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124032184364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.87</s:price>
+      <s:sku>SH RAT TGWS0206</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124032151596</id>
+    <published>2018-08-04T14:40:42-04:00</published>
+    <updated>2018-08-04T14:40:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgws0202"/>
+    <title>Tuff Grade TGWS0202  - Web Sling 2 Inch x 2&apos; Type 3 Double Eye 2 Ply Tuff</title>
+    <s:type>Web Slings</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/web-slings-tuff-grade-tgws0202-web-sling-2-inchx2-type-3-double-eye-2-ply-tuff-grade-12747026169900.jpg?v=1574964313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Web Slings<br>
+        <strong>Price: </strong>
+            5.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Width 2″ Length 2′ Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Web Slings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH RAT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124032151596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.97</s:price>
+      <s:sku>SH RAT TGWS0202</s:sku>
+      <s:grams>349</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/shirts-sweaters-vests.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:45:16-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813258338348</id>
+    <published>2019-05-11T12:45:16-04:00</published>
+    <updated>2019-05-11T12:45:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050350-2xl"/>
+    <title>Pioneer V1050350-2XL  - Hi-Viz Traffic T-Shirt V1050350-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1050350-2xl-hi-viz-traffic-t-shirt-v1050350-2xl-12748965576748.jpg?v=1575389635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            16.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Traffic T-Shirt</h4> <li class="extra-info">Polyester mesh</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li><li class="extra-info"> Comfortable rib knit collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Polyester mesh </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813258338348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.81</s:price>
+      <s:sku>SA SHI V1050350-2XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813258108972</id>
+    <published>2019-05-11T12:45:14-04:00</published>
+    <updated>2019-05-11T12:45:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050460-2xl"/>
+    <title>Pioneer V1050460-2XL  - Hi-Viz Traffic T-Shirt V1050460-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1050460-2xl-hi-viz-traffic-t-shirt-v1050460-2xl-12748965380140.jpg?v=1575388894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            14.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Traffic T-Shirt</h4> <li class="extra-info">Polyester mesh</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> 5992/5993 - Radiophone clip strap</li><li class="extra-info"> 5992P/5993P - Packed in hangable bag</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Polyester mesh </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-3XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813258108972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.79</s:price>
+      <s:sku>SA SHI V1050460-2XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813257388076</id>
+    <published>2019-05-11T12:45:03-04:00</published>
+    <updated>2019-05-11T12:45:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050650-2xl"/>
+    <title>Pioneer V1050650-2XL  - Hi-Viz Traffic Micro Mesh T-Shirt V1050650-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1050650-2xl-hi-viz-traffic-micro-mesh-t-shirt-v1050650-2xl-12748965085228.jpg?v=1575387933"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            23.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Traffic Micro Mesh T-Shirt</h4> <li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813257388076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.82</s:price>
+      <s:sku>SA SHI V1050650-2XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813257355308</id>
+    <published>2019-05-11T12:45:03-04:00</published>
+    <updated>2019-05-11T12:45:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050660-2xl"/>
+    <title>Pioneer V1050660-2XL  - Hi-Viz Traffic Micro Mesh T-Shirt V1050660-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1050660-2xl-hi-viz-traffic-micro-mesh-t-shirt-v1050660-2xl-12748964954156.jpg?v=1575387711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            23.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Traffic Micro Mesh T-Shirt</h4> <li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813257355308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.82</s:price>
+      <s:sku>SA SHI V1050660-2XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813257322540</id>
+    <published>2019-05-11T12:45:03-04:00</published>
+    <updated>2019-05-11T12:45:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050950-2xl"/>
+    <title>Pioneer V1050950-2XL  - Hi-Viz Traffic Micro Mesh Long-Sleeved Safety Shirt V1050950-2XL</title>
+    <s:type>Shirts Long Sleeved</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/shirts-long-sleeved-pioneer-v1050950-2xl-hi-viz-traffic-micro-mesh-long-sleeved-safety-shirt-v1050950-2xl-12748964986924.jpg?v=1575419254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Shirts Long Sleeved<br>
+        <strong>Price: </strong>
+            29.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Traffic Micro Mesh Long-Sleeved Safety Shirt</h4> <li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Shirts Long Sleeved</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 3 Type P and R</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813257322540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.03</s:price>
+      <s:sku>SA SHI V1050950-2XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813257289772</id>
+    <published>2019-05-11T12:45:03-04:00</published>
+    <updated>2019-05-11T12:45:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050960-2xl"/>
+    <title>Pioneer V1050960-2XL  - Hi-Viz Traffic Micro Mesh Long-Sleeved Safety Shirt V1050960-2XL</title>
+    <s:type>Shirts Long Sleeved</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/shirts-long-sleeved-pioneer-v1050960-2xl-hi-viz-traffic-micro-mesh-long-sleeved-safety-shirt-v1050960-2xl-12748965019692.jpg?v=1575419137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Shirts Long Sleeved<br>
+        <strong>Price: </strong>
+            29.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Traffic Micro Mesh Long-Sleeved Safety Shirt</h4> <li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Shirts Long Sleeved</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3.7 oz (125 GSM) micro mesh quick-dry </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 3 Type P and R</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813257289772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.03</s:price>
+      <s:sku>SA SHI V1050960-2XL</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256962092</id>
+    <published>2019-05-11T12:44:56-04:00</published>
+    <updated>2019-05-11T12:44:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1052150-2xl"/>
+    <title>Pioneer V1052150-2XL  - Ultra-Cool Ultra-Breathable Safety T-Shirt V1052150-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1052150-2xl-ultra-cool-ultra-breathable-safety-t-shirt-v1052150-2xl-12748964823084.jpg?v=1575417455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            34.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ultra-Cool, Ultra-Breathable Safety T-Shirt</h4> <li class="extra-info">Ultra-breathable and moisture-wicking CoolPass  fabric</li><li class="extra-info"> Cool and breathable zebra reflective tape</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> UPF 50+ UV protection</li><li class="extra-info"> Reflective patch on each sleeve</li><li class="extra-info"> Rib V-neck</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Ultra-breathable and moisture-wicking CoolPass fabric </li><li class="extra-info"> Cool and breathable zebra reflective tape </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> UPF 50+ UV protection</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256962092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.17</s:price>
+      <s:sku>SA SHI V1052150-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256929324</id>
+    <published>2019-05-11T12:44:56-04:00</published>
+    <updated>2019-05-11T12:44:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1052160-2xl"/>
+    <title>Pioneer V1052160-2XL  - Ultra-Cool Ultra-Breathable Safety T-Shirt V1052160-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1052160-2xl-ultra-cool-ultra-breathable-safety-t-shirt-v1052160-2xl-12748964790316.jpg?v=1575417473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            34.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ultra-Cool, Ultra-Breathable Safety T-Shirt</h4> <li class="extra-info">Ultra-breathable and moisture-wicking CoolPass  fabric</li><li class="extra-info"> Cool and breathable zebra reflective tape</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> UPF 50+ UV protection</li><li class="extra-info"> Reflective patch on each sleeve</li><li class="extra-info"> Rib V-neck</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Ultra-breathable and moisture-wicking CoolPass fabric </li><li class="extra-info"> Cool and breathable zebra reflective tape </li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 </li><li class="extra-info"> UPF 50+ UV protection</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256929324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.17</s:price>
+      <s:sku>SA SHI V1052160-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256405036</id>
+    <published>2019-05-11T12:44:39-04:00</published>
+    <updated>2019-05-11T12:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050860-2xl"/>
+    <title>Pioneer V1050860-2XL  - Cotton Long-Sleeved Safety Shirt V1050860-2XL</title>
+    <s:type>Shirts Long Sleeved</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/shirts-long-sleeved-pioneer-v1050860-2xl-cotton-long-sleeved-safety-shirt-v1050860-2xl-12748964134956.jpg?v=1575386965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Shirts Long Sleeved<br>
+        <strong>Price: </strong>
+            38.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Cotton Long-Sleeved Safety Shirt</h4> <li class="extra-info">100% cotton jersey knit</li><li class="extra-info"> Self fabric crew neck</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Shirts Long Sleeved</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% cotton jersey knit </li><li class="extra-info"> Self fabric crew neck </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256405036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.45</s:price>
+      <s:sku>SA SHI V1050860-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256372268</id>
+    <published>2019-05-11T12:44:39-04:00</published>
+    <updated>2019-05-11T12:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050560-2xl"/>
+    <title>Pioneer V1050560-2XL  - Cotton Safety T-Shirt V1050560-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1050560-2xl-cotton-safety-t-shirt-v1050560-2xl-12748964266028.jpg?v=1575388418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            30.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Cotton Safety T-Shirt</h4> <li class="extra-info">100% cotton jersey knit</li><li class="extra-info"> Self fabric crew neck</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Reflective patch on each sleeve</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% cotton jersey knit </li><li class="extra-info"> Self fabric crew neck </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256372268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.12</s:price>
+      <s:sku>SA SHI V1050560-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256339500</id>
+    <published>2019-05-11T12:44:39-04:00</published>
+    <updated>2019-05-11T12:44:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1050550-2xl"/>
+    <title>Pioneer V1050550-2XL  - Cotton Safety T-Shirt V1050550-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1050550-2xl-cotton-safety-t-shirt-v1050550-2xl-12748964298796.jpg?v=1575388641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            30.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Cotton Safety T-Shirt</h4> <li class="extra-info">100% cotton jersey knit</li><li class="extra-info"> Self fabric crew neck</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Reflective patch on each sleeve</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> Chest pocket with hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% cotton jersey knit </li><li class="extra-info"> Self fabric crew neck </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256339500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.12</s:price>
+      <s:sku>SA SHI V1050550-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256306732</id>
+    <published>2019-05-11T12:44:35-04:00</published>
+    <updated>2019-05-11T12:44:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1051160-2xl"/>
+    <title>Pioneer Birdseye V1051160-2XL  - Birdseye Safety T-Shirt V1051160-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-birdseye-v1051160-2xl-birdseye-safety-t-shirt-v1051160-2xl-12748964167724.jpg?v=1575410258"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            18.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Birdseye Safety T-Shirt</h4> <li class="extra-info">Soft premium birdseye moisture-wicking polyester</li><li class="extra-info"> 6990/6990R/6991 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> 6992/6992N - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> 6990R - Reflective patch on each sleeve</li><li class="extra-info"> Rib crew neck</li><li class="extra-info"> Chest pocket with hook and loop closure</li><li class="extra-info"> Radiophone clip strap</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Birdseye</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Soft premium birdseye moisture-wicking polyester </li><li class="extra-info"> 6990/6990R/6991 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R </li><li class="extra-info"> 6992/6992N - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>Line_Birdseye</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256306732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.37</s:price>
+      <s:sku>SA SHI V1051160-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256273964</id>
+    <published>2019-05-11T12:44:35-04:00</published>
+    <updated>2019-05-11T12:44:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1051150-2xl"/>
+    <title>Pioneer Birdseye V1051150-2XL  - Birdseye Safety T-Shirt V1051150-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-birdseye-v1051150-2xl-birdseye-safety-t-shirt-v1051150-2xl-12748964102188.jpg?v=1575410738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            18.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Birdseye Safety T-Shirt</h4> <li class="extra-info">Soft premium birdseye moisture-wicking polyester</li><li class="extra-info"> 6990/6990R/6991 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> 6992/6992N - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> 6990R - Reflective patch on each sleeve</li><li class="extra-info"> Rib crew neck</li><li class="extra-info"> Chest pocket with hook and loop closure</li><li class="extra-info"> Radiophone clip strap</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Birdseye</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Soft premium birdseye moisture-wicking polyester </li><li class="extra-info"> 6990/6990R/6991 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R </li><li class="extra-info"> 6992/6992N - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>Line_Birdseye</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256273964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.37</s:price>
+      <s:sku>SA SHI V1051150-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256208428</id>
+    <published>2019-05-11T12:44:31-04:00</published>
+    <updated>2019-05-11T12:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1051360-2xl"/>
+    <title>Pioneer Birdseye V1051360-2XL  - Birdseye Safety Polo Shirt V1051360-2XL</title>
+    <s:type>Shirts Polo</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/shirts-polo-pioneer-birdseye-v1051360-2xl-birdseye-safety-polo-shirt-v1051360-2xl-12748963774508.jpg?v=1575409281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Shirts Polo<br>
+        <strong>Price: </strong>
+            29.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Birdseye Safety Polo Shirt</h4> <li class="extra-info">Soft premium birdseye moisture-wicking polyester</li><li class="extra-info"> 6986/6987 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> 6988 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Rib polo collar with contrast stripes</li><li class="extra-info"> Chest pocket with hook and loop closure</li><li class="extra-info"> Radiophone clip strap</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Birdseye</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Shirts Polo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Soft premium birdseye moisture-wicking polyester </li><li class="extra-info"> 6986/6987 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R </li><li class="extra-info"> 6988 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>Line_Birdseye</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256208428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.03</s:price>
+      <s:sku>SA SHI V1051360-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256175660</id>
+    <published>2019-05-11T12:44:31-04:00</published>
+    <updated>2019-05-11T12:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1051270-2xl"/>
+    <title>Pioneer V1051270-2XL  - Birdseye Long-Sleeved Safety Shirt V1051270-2XL</title>
+    <s:type>Shirts Long Sleeved</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/shirts-long-sleeved-pioneer-v1051270-2xl-birdseye-long-sleeved-safety-shirt-v1051270-2xl-12748963971116.jpg?v=1575418075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Shirts Long Sleeved<br>
+        <strong>Price: </strong>
+            25.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Birdseye Long-Sleeved Safety Shirt</h4> <li class="extra-info">Soft premium birdseye moisture-wicking polyester</li><li class="extra-info"> 6995/6996 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 6997 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Rib crew neck</li><li class="extra-info"> Chest pocket with hook and loop closure</li><li class="extra-info"> Radiophone clip strap</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Shirts Long Sleeved</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Soft premium birdseye moisture-wicking polyester </li><li class="extra-info"> 6995/6996 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 3 Type P and R </li><li class="extra-info"> 6997 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256175660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.53</s:price>
+      <s:sku>SA SHI V1051270-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256142892</id>
+    <published>2019-05-11T12:44:31-04:00</published>
+    <updated>2019-05-11T12:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1051350-2xl"/>
+    <title>Pioneer Birdseye V1051350-2XL  - Birdseye Safety Polo Shirt V1051350-2XL</title>
+    <s:type>Shirts Polo</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/shirts-polo-pioneer-birdseye-v1051350-2xl-birdseye-safety-polo-shirt-v1051350-2xl-12748963872812.jpg?v=1575409404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Shirts Polo<br>
+        <strong>Price: </strong>
+            29.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Birdseye Safety Polo Shirt</h4> <li class="extra-info">Soft premium birdseye moisture-wicking polyester</li><li class="extra-info"> 6986/6987 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> 6988 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Rib polo collar with contrast stripes</li><li class="extra-info"> Chest pocket with hook and loop closure</li><li class="extra-info"> Radiophone clip strap</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Birdseye</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Shirts Polo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Soft premium birdseye moisture-wicking polyester </li><li class="extra-info"> 6986/6987 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R </li><li class="extra-info"> 6988 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>Line_Birdseye</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256142892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.03</s:price>
+      <s:sku>SA SHI V1051350-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256110124</id>
+    <published>2019-05-11T12:44:31-04:00</published>
+    <updated>2019-05-11T12:44:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1051170-2xl"/>
+    <title>Pioneer Birdseye V1051170-2XL  - Birdseye Safety T-Shirt V1051170-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-birdseye-v1051170-2xl-birdseye-safety-t-shirt-v1051170-2xl-12748963905580.jpg?v=1575409897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            18.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Birdseye Safety T-Shirt</h4> <li class="extra-info">Soft premium birdseye moisture-wicking polyester</li><li class="extra-info"> 6990/6990R/6991 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> 6992/6992N - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> 6990R - Reflective patch on each sleeve</li><li class="extra-info"> Rib crew neck</li><li class="extra-info"> Chest pocket with hook and loop closure</li><li class="extra-info"> Radiophone clip strap</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Birdseye</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Soft premium birdseye moisture-wicking polyester </li><li class="extra-info"> 6990/6990R/6991 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 2 Type P and R </li><li class="extra-info"> 6992/6992N - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Birdseye</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256110124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.37</s:price>
+      <s:sku>SA SHI V1051170-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256077356</id>
+    <published>2019-05-11T12:44:27-04:00</published>
+    <updated>2019-05-11T12:44:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1052350-2xl"/>
+    <title>Pioneer V1052350-2XL  - Poly/Cotton Drop Needle Hi-Viz T-Shirt V1052350-2XL</title>
+    <s:type>T-shirts</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/t-shirts-pioneer-v1052350-2xl-poly-cotton-drop-needle-hi-viz-t-shirt-v1052350-2xl-12748963807276.jpg?v=1575416963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>T-shirts<br>
+        <strong>Price: </strong>
+            22.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Poly/Cotton Drop Stitch Hi-Viz T-Shirt</h4> <li class="extra-info">5.3 oz (180 GSM) poly/cotton knit</li><li class="extra-info"> Drop stitched for ultimate breathability</li><li class="extra-info"> Cotton yarn inside for ultra cool comfort</li><li class="extra-info"> Hi-visibility polyester outside meets CSA Z96-15 Class 2 level 2 and ANSI/ISEA 107-15 Class 2 Type P and R</li><li class="extra-info"> 2" silver StarTech  reflective tape</li><li class="extra-info"> Rib crew neck with grey contrast stripes</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">T-shirts</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">5.3 oz (180 GSM) poly/cotton knit </li><li class="extra-info"> Drop stitched for ultimate breathability </li><li class="extra-info"> Cotton yarn inside for ultra cool comfort</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256077356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.81</s:price>
+      <s:sku>SA SHI V1052350-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813255946284</id>
+    <published>2019-05-11T12:44:24-04:00</published>
+    <updated>2019-05-11T12:44:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1060350-2xl"/>
+    <title>Pioneer V1060350-2XL  - Hi-Viz Polyester Fleece Hoodie V1060350-2XL</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoodies-pioneer-v1060350-2xl-hi-viz-polyester-fleece-hoodie-v1060350-2xl-12748963741740.jpg?v=1575416361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Polyester Fleece Hoodie</h4> <li class="extra-info">Premium 10.5 oz (360 GSM) polyester fleece</li><li class="extra-info"> 6924/6925 - CSA Z96-15 Class 2 Level 2 (becomes Class 3 when worn with hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 6925BK - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> Double-stitched StarTech  reflective tape</li><li class="extra-info"> Zips into inner zipper on 5575A/5585A/5585BK to make 3-in-1 jacket (optional, sold separately)</li><li class="extra-info"> Detachable drawstring hood</li><li class="extra-info"> Elastic cuffs and hem</li><li class="extra-info"> 2 front slash pockets</li><li class="extra-info"> Full front reversible zipper</li><li class="extra-info"> 2 radiophone clip straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoodies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Premium 10.5 oz (360 GSM) polyester fleece </li><li class="extra-info"> 6924/6925 - CSA Z96-15 Class 2 Level 2 (becomes Class 3 when worn with hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R </li><li class="extra-info"> 6925BK - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 1</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813255946284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.84</s:price>
+      <s:sku>SA SHI V1060350-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813255913516</id>
+    <published>2019-05-11T12:44:20-04:00</published>
+    <updated>2019-05-11T12:44:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1060471-2xl"/>
+    <title>Pioneer V1060471-2XL  - Hi-Viz Polyester Fleece Hoodie V1060471-2XL</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoodies-pioneer-v1060471-2xl-hi-viz-polyester-fleece-hoodie-v1060471-2xl-12748963676204.jpg?v=1575415643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Polyester Fleece Hoodie</h4> <li class="extra-info">Premium 10.5 oz (360 GSM) polyester fleece</li><li class="extra-info"> 6924/6925 - CSA Z96-15 Class 2 Level 2 (becomes Class 3 when worn with hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 6925BK - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> Double-stitched StarTech  reflective tape</li><li class="extra-info"> Zips into inner zipper on 5575A/5585A/5585BK to make 3-in-1 jacket (optional, sold separately)</li><li class="extra-info"> Detachable drawstring hood</li><li class="extra-info"> Elastic cuffs and hem</li><li class="extra-info"> 2 front slash pockets</li><li class="extra-info"> Full front reversible zipper</li><li class="extra-info"> 2 radiophone clip straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoodies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Premium 10.5 oz (360 GSM) polyester fleece </li><li class="extra-info"> 6924/6925 - CSA Z96-15 Class 2 Level 2 (becomes Class 3 when worn with hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R </li><li class="extra-info"> 6925BK - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 1</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813255913516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.84</s:price>
+      <s:sku>SA SHI V1060471-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813255880748</id>
+    <published>2019-05-11T12:44:20-04:00</published>
+    <updated>2019-05-11T12:44:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1060460-2xl"/>
+    <title>Pioneer V1060460-2XL  - Hi-Viz Polyester Fleece Hoodie V1060460-2XL</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoodies-pioneer-v1060460-2xl-hi-viz-polyester-fleece-hoodie-v1060460-2xl-12748963708972.jpg?v=1575416035"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            64.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Polyester Fleece Hoodie</h4> <li class="extra-info">Premium 10.5 oz (360 GSM) polyester fleece</li><li class="extra-info"> 6924/6925 - CSA Z96-15 Class 2 Level 2 (becomes Class 3 when worn with hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 6925BK - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> Double-stitched StarTech  reflective tape</li><li class="extra-info"> Zips into inner zipper on 5575A/5585A/5585BK to make 3-in-1 jacket (optional, sold separately)</li><li class="extra-info"> Detachable drawstring hood</li><li class="extra-info"> Elastic cuffs and hem</li><li class="extra-info"> 2 front slash pockets</li><li class="extra-info"> Full front reversible zipper</li><li class="extra-info"> 2 radiophone clip straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoodies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Premium 10.5 oz (360 GSM) polyester fleece </li><li class="extra-info"> 6924/6925 - CSA Z96-15 Class 2 Level 2 (becomes Class 3 when worn with hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R </li><li class="extra-info"> 6925BK - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 1</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813255880748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.84</s:price>
+      <s:sku>SA SHI V1060460-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813255847980</id>
+    <published>2019-05-11T12:44:20-04:00</published>
+    <updated>2019-05-11T12:44:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1060550-2xl"/>
+    <title>Pioneer V1060550-2XL  - Hi-Viz Micro Fleece Zip Hoodie V1060550-2XL</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoodies-pioneer-v1060550-2xl-hi-viz-micro-fleece-zip-hoodie-v1060550-2xl-12748963643436.jpg?v=1575415317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            52.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Micro Fleece Zip Hoodie</h4> <li class="extra-info">7 oz (240 GSM) micro fleece</li><li class="extra-info"> 4-way comfort stretch</li><li class="extra-info"> 6940/6941 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 6942 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Full front zipper</li><li class="extra-info"> Detachable drawstring hood</li><li class="extra-info"> Elastic cuffs and hem</li><li class="extra-info"> 2 front slash pockets</li><li class="extra-info"> 2 radiophone clip straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoodies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">7 oz (240 GSM) micro fleece </li><li class="extra-info"> 4-way comfort stretch </li><li class="extra-info"> 6940/6941 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 3 Type P and R </li><li class="extra-info"> 6942 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813255847980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku>SA SHI V1060550-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813255815212</id>
+    <published>2019-05-11T12:44:20-04:00</published>
+    <updated>2019-05-11T12:44:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1060560-2xl"/>
+    <title>Pioneer V1060560-2XL  - Hi-Viz Micro Fleece Zip Hoodie V1060560-2XL</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoodies-pioneer-v1060560-2xl-hi-viz-micro-fleece-zip-hoodie-v1060560-2xl-12748963545132.jpg?v=1575415057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            52.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Micro Fleece Zip Hoodie</h4> <li class="extra-info">7 oz (240 GSM) micro fleece</li><li class="extra-info"> 4-way comfort stretch</li><li class="extra-info"> 6940/6941 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 6942 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Full front zipper</li><li class="extra-info"> Detachable drawstring hood</li><li class="extra-info"> Elastic cuffs and hem</li><li class="extra-info"> 2 front slash pockets</li><li class="extra-info"> 2 radiophone clip straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoodies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">7 oz (240 GSM) micro fleece </li><li class="extra-info"> 4-way comfort stretch </li><li class="extra-info"> 6940/6941 - CSA Z96-15 Class 2 Level 2 and ANSI/ISEA 107-15 Class 3 Type P and R </li><li class="extra-info"> 6942 - CSA Z96-15 Class 1 Level 2 and ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813255815212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku>SA SHI V1060560-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813253980204</id>
+    <published>2019-05-11T12:43:23-04:00</published>
+    <updated>2019-05-11T12:43:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v2570170-2xl"/>
+    <title>Pioneer V2570170-2XL  - Flame Resistant Pullover Style Heavyweight Cotton Hoodie V2570170-2XL</title>
+    <s:type>Pullovers</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pullovers-pioneer-v2570170-2xl-flame-resistant-pullover-style-heavyweight-cotton-hoodie-v2570170-2xl-12748962070572.jpg?v=1575384091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Pullovers<br>
+        <strong>Price: </strong>
+            122.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Flame Resistant Pullover Style Heavyweight Cotton Hoodie</h4> <li class="extra-info">100% FR treated preshrunk cotton, 12 oz (400 GSM)</li><li class="extra-info"> Material and all components meet CGSB 155.20-2017</li><li class="extra-info"> Thermal Protective Performance (TPP) value: 11.6 cal/cm²</li><li class="extra-info"> Meets ASTM F1506-10a, NFPA 70E and CSA Z462-15</li><li class="extra-info"> ATPV 23 cal/cm² (Arc Thermal Protective Value)</li><li class="extra-info"> ARC 2 Arc Rating Category</li><li class="extra-info"> Sewn with inherently FR thread</li><li class="extra-info"> Liberal sizing</li><li class="extra-info"> Tough double-stitched seams</li><li class="extra-info"> Front pouch pocket</li><li class="extra-info"> Non-detachable hood</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pullovers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% FR treated preshrunk cotton, 12 oz (400 GSM) </li><li class="extra-info"> Material and all components meet CGSB 155.20-2017 </li><li class="extra-info"> Thermal Protective Performance (TPP) value: 11.6 cal/cm²</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-7XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813253980204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.67</s:price>
+      <s:sku>SA SHI V2570170-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813253914668</id>
+    <published>2019-05-11T12:43:23-04:00</published>
+    <updated>2019-05-11T12:43:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v2570270-2xl"/>
+    <title>Pioneer V2570270-2XL  - Flame Resistant Zip Style Heavyweight Cotton Hoodie V2570270-2XL</title>
+    <s:type>Hoodies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoodies-pioneer-v2570270-2xl-flame-resistant-zip-style-heavyweight-cotton-hoodie-v2570270-2xl-12748962037804.jpg?v=1575383868"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Hoodies<br>
+        <strong>Price: </strong>
+            136.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Flame Resistant Zip Style Heavyweight Cotton Hoodie</h4> <li class="extra-info">100% FR treated preshrunk cotton, 12 oz (400 GSM)</li><li class="extra-info"> Material and all components meet CGSB 155.20-2017</li><li class="extra-info"> Thermal Protective Performance (TPP) value: 11.6 cal/cm²</li><li class="extra-info"> Meets ASTM F1506-10a, NFPA 70E and CSA Z462-15</li><li class="extra-info"> ATPV 23 cal/cm² (Arc Thermal Protective Value)</li><li class="extra-info"> ARC 2 Arc Rating Category</li><li class="extra-info"> Sewn with inherently FR thread</li><li class="extra-info"> 2 front slash pockets</li><li class="extra-info"> FR brass non-locking zipper</li><li class="extra-info"> Tough double-stitched seams</li><li class="extra-info"> Liberal sizing</li><li class="extra-info"> Detachable snap hood</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoodies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% FR treated preshrunk cotton, 12 oz (400 GSM) </li><li class="extra-info"> Material and all components meet CGSB 155.20-2017 </li><li class="extra-info"> Thermal Protective Performance (TPP) value: 11.6 cal/cm²</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-7XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SHI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813253914668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">136.76</s:price>
+      <s:sku>SA SHI V2570270-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

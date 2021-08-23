@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/power-supplied-air.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2020-05-01T14:51:31-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122241642540</id>
+    <published>2020-05-01T14:51:31-04:00</published>
+    <updated>2020-05-01T14:51:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-17-0099-54"/>
+    <title>3M 17-0099-54  - Breathing Tube Cover 7000126741</title>
+    <s:type>Supplied Air Components</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/supplied-air-components-3m-17-0099-54-breathing-tube-cover-7000126741-31563770724501.jpg?v=1628366492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Supplied Air Components<br>
+        <strong>Price: </strong>
+            29.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathing Tube Cover, 17-0099-54</h4> <li class="extra-info">3M™ Breathing Tube Cover 17-0099-54 is a flame resistant cloth cover for breathing tube assemblies for 3M™ Adflo™ and 3M™ GVP Powered Air Purifying Respirators.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Supplied Air Components</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Flame resistant</li><li class="extra-info"> Designed for 3M™ Adflo™ and 3M™ GVP Powered Air Purifying Respirator</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122241642540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.21</s:price>
+      <s:sku>SS PSU 17-0099-54</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122226274348</id>
+    <published>2020-05-01T14:51:30-04:00</published>
+    <updated>2020-05-01T14:51:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-gvp-psk2"/>
+    <title>3M GVP-PSK2  - Belt-Mounted Painter&apos;S Kit 7000127695</title>
+    <s:type>Belt Mounted Air Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/belt-mounted-air-parts-3m-gvp-psk2-belt-mounted-painter-s-kit-7000127695-31604737310869.jpg?v=1628247160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Belt Mounted Air Parts<br>
+        <strong>Price: </strong>
+            2197.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Belt-Mounted Painters Kit, GVP-PSK2</h4> <li class="extra-info">3M Belt-Mounted Painters Kit GVP-PSK2 is a complete, ready to use OV/HE PAPR system</li><li class="extra-info">Ideal as a painter's respirator kit or for use in any application that requires mobility and respiratory protection against organic Vapours.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey, Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Belt Mounted Air Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Belt-Mounted Painters Kit GVP-PSK2 includes a 3M Powered Air Purifying Respirator Assembly GVP-CB including battery, comfort belt, and charger, a 3M OV/HE Filter GVP-441 with 3M Shower Cover GVP-119, a 3M Breathing Tube BT-20L with 3M Breathing T</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_GreyBlack</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122226274348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2197.12</s:price>
+      <s:sku>SS PSU GVP-PSK2</s:sku>
+      <s:grams>5624</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122146648108</id>
+    <published>2020-05-01T14:51:28-04:00</published>
+    <updated>2020-05-01T14:51:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-35-3099-01"/>
+    <title>3M Adflo 35-3099-01  - Adflo Powered Air Purifying Respirator Blower Unit &amp; Cover With High Altitude Compensation 7100025879</title>
+    <s:type>Air Purifying</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/air-purifying-3m-adflo-35-3099-01-adflo-powered-air-purifying-respirator-blower-unit-cover-with-high-altitude-compensation-7100025879-31599141224597.jpg?v=1628228460"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Air Purifying<br>
+        <strong>Price: </strong>
+            666.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adflo Powered Air Purifying Respirator Blower Unit and Cover, 35-3099-01, with High Altitude Compensation</h4> <li class="extra-info">3M Adflo Powered Air Purifying Respirator Blower Unit with Cover 35-3099-01 is a replacement blower unit for 3M Adflo Turbo Assembly with high altitude compensation</li><li class="extra-info">Includes blower unit and cover.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Adflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Air Purifying</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Adflo Powered Air Purifying Respirator Blower Unit with Cover 35-3099-01 is designed for welders working in higher altitude locations</li><li class="extra-info">Blower unit adjusts for changes in air density</li><li class="extra-info">With 3M Adflo Turbo Assembly with High Altitude Compensation, you</li><h2>Product Information</h2><li class="extra-info">Replacement blower unit for the 3M Adflo Turbo Assembly</li><li class="extra-info">Designed for welders working in higher altitude locations</li><li class="extra-info">Does not include HE particulate filter, spark arrestor, prefilter, organic vapor/acid gas cartridge, or battery</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Adflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122146648108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">666.22</s:price>
+      <s:sku>SS PSU 35-3099-01</s:sku>
+      <s:grams>722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037521964</id>
+    <published>2020-04-18T08:20:51-04:00</published>
+    <updated>2020-04-18T08:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-022-00-03r01"/>
+    <title>3M 022-00-03R01  - Breathe Easy Turbo Powered Air Purifying Respirator Replacement Unit 7000126342</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-022-00-03r01-breathe-easy-turbo-powered-air-purifying-respirator-replacement-unit-7000126342-13120529432620.jpg?v=1580189458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            639.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Breathe Easy Turbo Powered Air Purifying Respirator Replacement Unit</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037521964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">639.21</s:price>
+      <s:sku>SS PSU 022-00-03R01</s:sku>
+      <s:grams>852</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352583172140</id>
+    <published>2020-04-18T07:49:38-04:00</published>
+    <updated>2020-04-18T07:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-301n"/>
+    <title>3M TR-301N+  - 3M Blower (Each) 7100153842</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-301n-3m-blower-tr-301n-7100153842-13427278053420.jpg?v=1579667853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            561.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <h3 style="font-weight: bold;">DELAYED SHIPMENTS ~ COVID-19</h3>  <p>Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection.</p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us.</li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns</li>  <p>This policy has been implemented by 3M to ensure fair delivery of product and accurate demand requirement forecasting nationally and worldwide.</p>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates.</li>  <p>We currently receive very short notice before inventory is released. We will keep you informed as we receive updates pertaining to your order.</p>  <br> <span style="font-size: 0.9em;"> <span style="font-weight: bold;"> From the Grimes staff:</span> Our hearts and thoughts go out to all affected by this terrible virus. <br> Our team is working diligently to expedite and keep customers informed. We are sorry for the inconvenience and will continue to do our very best to assist you. </span>  [shortdesc]  <h4 style="color: black;">3M Particulate Respirator, 8210, N95</h4>  <li class="extra-info">3M Particulate Respirator 8210 is a lightweight, disposable N95 particulate respirator that is designed to help provide quality, reliable worker respiratory protection.</li>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>    <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>  <a href="https://egrimesdirect.com/pages/covid-19-supplies">  <p style="text-align: center; font-size: 2em; background-color: #78c327; color: white; border-radius: 20px; font-weight: bolder;"><strong>In Stock</strong> Covid-19 products here</p>  </a>  [/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352583172140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">561.62</s:price>
+      <s:sku>AC PSU TR-301N+</s:sku>
+      <s:grams>576</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981947436</id>
+    <published>2020-04-18T07:38:56-04:00</published>
+    <updated>2020-04-18T07:38:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-800-hik"/>
+    <title>3M TR-800-HIK  - Versaflo Powered Air Purifying Respirator Heavy Industry Kit (Each) 7100150927</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-800-hik-versaflo-powered-air-purifying-respirator-heavy-industry-kit-each-7100150927-13812052590636.jpg?v=1628112159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3152.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Powered Air Purifying Respirator Heavy Industry Kit TR-800-HIK, 1 EA/Case</h4> <li class="extra-info">3M™ Versaflo™ Powered Air Purifying Respirator Heavy Industry Kit TR-800-HIK is a complete Powered Air Purifying Respirator featuring an Intrinsically Safe motor/blower and including everything required to get started</li><li class="extra-info">This ready-to-use kit provides a simple way to purchase a complete PAPR system for use in rugged industrial environments.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Top of the line IS protection - The TR-800 is a PAPR blower rated at Division I for Classes I,II, and III under the most current UL standard (UL 60079, 6th Edition, 2013)</li><li class="extra-info"> Cover your bases - Utilize cartridges to help protect against certain gas and vapors, combined with filters for protection against particulates.</li><li class="extra-info"> Fewer worries - Rugged, durable faceshield with premium visor helps protect against sparks and debris.</li><li class="extra-info"> Feel heightened comfort - Heavy-duty belt designed with airflow channels, multiple size adjustments and belt extender options.</li><li class="extra-info"> Work with ease - Intuitive, coloured touchpoints plus visual and audible lowflow indicators help make the TR-800 easy to use.</li><li class="extra-info"> Keep the air flowing - Multi-speed blower functions up to 16,000 feet and battery offers long run time, less charge time and, ultimately, reduced down time.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981947436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3152.36</s:price>
+      <s:sku>SS PSU TR-800-HIK</s:sku>
+      <s:grams>5297</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981783596</id>
+    <published>2020-04-18T07:38:51-04:00</published>
+    <updated>2020-04-18T07:38:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-300n-hkl"/>
+    <title>3M TR-300N+ HKL  - Versaflo Healthcare Powered Air Purifying Respirator Kit (medium/large) 7100153841</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-300n-hkl-versaflo-healthcare-powered-air-purifying-respirator-kit-medium-large-7100153841-30616338432149.jpg?v=1628110915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1572.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Healthcare Powered Air Purifying Respirator Kit, TR-300N+ HKL, medium/large</h4> <li class="extra-info">Like the HKS, the 3M™ Versaflo™ Healthcare Powered Air Purifying Respirator Kit, TR-300N+ HKL, medium/large is a complete, ready-to-use HE PAPR system with a medium-to-large headcover</li><li class="extra-info">Suggested industries include: Pharmaceutical and Healthcare</li><li class="extra-info">Provides protection against particulates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Easy access to ears - Stethoscope use is easier with the unique shape of our S-Series headcovers</li><li class="extra-info"> Connect quickly - Our innovative Quick Release Swivel (QRS) connects quickly and helps avoid kinks in the breathing tube</li><li class="extra-info"> Expand your view - See more with a wider field of vision, thanks to enhanced visor design</li><li class="extra-info"> Conveniently disposable - Save time cleaning with our maintenance-free disposable hood</li><li class="extra-info"> Better patient contact - Patients can see their provider’s entire face</li><li class="extra-info"> Two selectable flow rate options - 6.5 CFM and 7.2 CFM - offers more options and comfort to the user</li><li class="extra-info"> Easy-to-use and versatile PAPR system for particulate environments</li><li class="extra-info"> High Efficiency particulate filter</li><li class="extra-info">Optional nuisance organic vapor filter available</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981783596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1572.53</s:price>
+      <s:sku>SS PSU TR-300N+ HKL</s:sku>
+      <s:grams>5470</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981750828</id>
+    <published>2020-04-18T07:38:48-04:00</published>
+    <updated>2020-04-18T07:38:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-300n-eck"/>
+    <title>3M TR-300N+ ECK  - Versaflo Easy Clean Powered Air Purifying Respirator Kit 7100153814</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-300n-eck-versaflo-easy-clean-powered-air-purifying-respirator-kit-7100153814-13810547884076.jpg?v=1628157879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1511.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Easy Clean Powered Air Purifying Respirator Kit ,TR-300N+ ECK</h4> <li class="extra-info">3M™ Versaflo™ Easy Clean Powered Air Purifying Respirator Kit ,TR-300N+ ECK is a complete, ready to use HE PAPR system that is easy to clean and maintain</li><li class="extra-info">Suggested industries include: Pharmaceutical, Healthcare and Food Safety</li><li class="extra-info">Provides protection against particulates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Conveniently disposable - Save time cleaning with our maintenance-free disposable hood</li><li class="extra-info"> Wider field of vision - Freedom to wear your own safety eyewear</li><li class="extra-info"> Connect quickly - Our innovative Quick Release Swivel (QRS) connects quickly and helps avoid kinks in the breathing tube</li><li class="extra-info"> Contoured design - Slim device with smooth outer surfaces can help work in tight spaces</li><li class="extra-info"> Two selectable flow rate options - 6.5 CFM and 7.2 CFM - offers more options and comfort to the user</li><li class="extra-info"> Easy-to-use and versatile PAPR system for particulate environments</li><li class="extra-info"> High Efficiency particulate filter</li><li class="extra-info">Optional nuisance organic vapor filter available</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981750828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1511.16</s:price>
+      <s:sku>SS PSU TR-300N+ ECK</s:sku>
+      <s:grams>4585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352576159788</id>
+    <published>2020-04-18T07:38:44-04:00</published>
+    <updated>2020-04-18T07:38:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-306n"/>
+    <title>3M TR-306N+  - Versaflo Powered Air Purifying Respirator Assembly with high durability belt and high capacity battery (Each) 7100153813</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-306n-versaflo-powered-air-purifying-respirator-assembly-with-high-durability-belt-and-high-capacity-battery-each-7100153813-13910813179948.jpg?v=1628110716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1284.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <h3 style="font-weight: bold;">DELAYED SHIPMENTS ~ COVID-19</h3>  <p>Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection.</p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us.</li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns</li>  <p>This policy has been implemented by 3M to ensure fair delivery of product and accurate demand requirement forecasting nationally and worldwide.</p>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates.</li>  <p>We currently receive very short notice before inventory is released. We will keep you informed as we receive updates pertaining to your order.</p>  <br> <span style="font-size: 0.9em;"> <span style="font-weight: bold;"> From the Grimes staff:</span> Our hearts and thoughts go out to all affected by this terrible virus. <br> Our team is working diligently to expedite and keep customers informed. We are sorry for the inconvenience and will continue to do our very best to assist you. </span>  [shortdesc]  <h4 style="color: black;">3M Particulate Respirator, 8210, N95</h4>  <li class="extra-info">3M Particulate Respirator 8210 is a lightweight, disposable N95 particulate respirator that is designed to help provide quality, reliable worker respiratory protection.</li>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>    <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>  <a href="https://egrimesdirect.com/pages/covid-19-supplies">  <p style="text-align: center; font-size: 2em; background-color: #78c327; color: white; border-radius: 20px; font-weight: bolder;"><strong>In Stock</strong> Covid-19 products here</p>  </a>  <h4 style="color: black;">3M Versaflo Powered Air Purifying Respirator Assembly, TR-306N+, with high durability belt and high capacity battery</h4> <li class="extra-info">3M™ Versaflo™ Powered Air Purifying Respirator Assembly, TR-306N+, with high durability belt and high capacity battery provides protection against particulates</li><li class="extra-info">Combines performance, protection and functionality with a slim, lightweight balanced design for comfort.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Two selectable flow rate options - 6.5 CFM and 7.2 CFM - offers more options and comfort to the user</li><li class="extra-info"> Easy-to-use and versatile PAPR system for particulate environments</li><li class="extra-info"> Highly Efficient filter captures hazardous dust, mist and fume plus options for nuisance level gases and vapours</li><li class="extra-info"> Work longer - the High Efficiency battery allows you to work in a remote location for extended periods of time</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352576159788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1284.12</s:price>
+      <s:sku>SS PSU TR-306N+</s:sku>
+      <s:grams>2762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352576061484</id>
+    <published>2020-04-18T07:38:42-04:00</published>
+    <updated>2020-04-18T07:38:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-307n"/>
+    <title>3M TR-307N+  - Versaflo Powered Air Purifying Respirator Assembly with easy clean belt and high capacity battery (Each) 7100153810</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-307n-versaflo-powered-air-purifying-respirator-assembly-with-easy-clean-belt-and-high-capacity-battery-each-7100153810-13910841163820.jpg?v=1628110180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1276.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <h3 style="font-weight: bold;">DELAYED SHIPMENTS ~ COVID-19</h3>  <p>Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection.</p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us.</li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns</li>  <p>This policy has been implemented by 3M to ensure fair delivery of product and accurate demand requirement forecasting nationally and worldwide.</p>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates.</li>  <p>We currently receive very short notice before inventory is released. We will keep you informed as we receive updates pertaining to your order.</p>  <br> <span style="font-size: 0.9em;"> <span style="font-weight: bold;"> From the Grimes staff:</span> Our hearts and thoughts go out to all affected by this terrible virus. <br> Our team is working diligently to expedite and keep customers informed. We are sorry for the inconvenience and will continue to do our very best to assist you. </span>  [shortdesc]  <h4 style="color: black;">3M Particulate Respirator, 8210, N95</h4>  <li class="extra-info">3M Particulate Respirator 8210 is a lightweight, disposable N95 particulate respirator that is designed to help provide quality, reliable worker respiratory protection.</li>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>    <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>  <a href="https://egrimesdirect.com/pages/covid-19-supplies">  <p style="text-align: center; font-size: 2em; background-color: #78c327; color: white; border-radius: 20px; font-weight: bolder;"><strong>In Stock</strong> Covid-19 products here</p>  </a>  <h4 style="color: black;">3M Versaflo Powered Air Purifying Respirator Assembly, TR-307N+, with easy clean belt and high capacity battery</h4> <li class="extra-info">The 3M™ Versaflo™ Powered Air Purifying Respirator Assembly, TR-307N+, with easy clean belt and high capacity battery provides protection against particulates</li><li class="extra-info">Combines performance, protection and functionality with a slim, lightweight balanced design for comfort.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Two selectable flow rate options - 6.5 CFM and 7.2 CFM - offers more options and comfort to the user</li><li class="extra-info"> Easy-to-use and versatile PAPR system for particulate environments</li><li class="extra-info"> High Efficiency particulate filter</li><li class="extra-info">Optional nuisance organic vapor filter available</li><li class="extra-info"> Work longer - the High Efficiency battery allows you to work in a remote location for extended periods of time</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352576061484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1276.70</s:price>
+      <s:sku>SS PSU TR-307N+</s:sku>
+      <s:grams>2567</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352576028716</id>
+    <published>2020-04-18T07:38:39-04:00</published>
+    <updated>2020-04-18T07:38:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-305n"/>
+    <title>3M TR-305N+  - Versaflo Powered Air Purifying Respirator Assembly with standard belt and economy battery 7100153812</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-305n-3m-versaflo-powered-air-purifying-respirator-assembly-tr-305n-with-standard-belt-and-economy-battery-tr-305n-7100153812-13427278381100.jpg?v=1579668057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1145.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <h3 style="font-weight: bold;">DELAYED SHIPMENTS ~ COVID-19</h3>  <p>Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection.</p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us.</li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns</li>  <p>This policy has been implemented by 3M to ensure fair delivery of product and accurate demand requirement forecasting nationally and worldwide.</p>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates.</li>  <p>We currently receive very short notice before inventory is released. We will keep you informed as we receive updates pertaining to your order.</p>  <br> <span style="font-size: 0.9em;"> <span style="font-weight: bold;"> From the Grimes staff:</span> Our hearts and thoughts go out to all affected by this terrible virus. <br> Our team is working diligently to expedite and keep customers informed. We are sorry for the inconvenience and will continue to do our very best to assist you. </span>  [shortdesc]  <h4 style="color: black;">3M Particulate Respirator, 8210, N95</h4>  <li class="extra-info">3M Particulate Respirator 8210 is a lightweight, disposable N95 particulate respirator that is designed to help provide quality, reliable worker respiratory protection.</li>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>    <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>  <a href="https://egrimesdirect.com/pages/covid-19-supplies">  <p style="text-align: center; font-size: 2em; background-color: #78c327; color: white; border-radius: 20px; font-weight: bolder;"><strong>In Stock</strong> Covid-19 products here</p>  </a>  <h4 style="color: black;">3M Versaflo Powered Air Purifying Respirator Assembly, TR-305N+, with standard belt and economy battery</h4> <li class="extra-info">3M™ Versaflo™ Powered Air Purifying Respirator Assembly, TR-305N+, with standard belt and economy battery provides protection against particulates</li><li class="extra-info">Combines performance, protection and functionality with a slim, lightweight balanced design for comfort.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Two selectable flow rate options - 6.5 CFM and 7.2 CFM - offers more options and comfort to the user</li><li class="extra-info"> Easy-to-use and versatile PAPR system for particulate environments</li><li class="extra-info"> High Efficiency particulate filter</li><li class="extra-info">Optional nuisance organic vapor filter available</li><li class="extra-info"> Economy battery included</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352576028716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1145.04</s:price>
+      <s:sku>SS PSU TR-305N+</s:sku>
+      <s:grams>2893</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352575963180</id>
+    <published>2020-04-18T07:38:34-04:00</published>
+    <updated>2020-04-18T07:38:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-302n"/>
+    <title>3M TR-302N+  - Versaflo Powered Air Purifying Respirator  (Each) 7100153809</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-302n-versaflo-powered-air-purifying-respirator-each-7100153809-13910789718060.jpg?v=1628110537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            589.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <h3 style="font-weight: bold;">DELAYED SHIPMENTS ~ COVID-19</h3>  <p>Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection.</p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us.</li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns</li>  <p>This policy has been implemented by 3M to ensure fair delivery of product and accurate demand requirement forecasting nationally and worldwide.</p>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates.</li>  <p>We currently receive very short notice before inventory is released. We will keep you informed as we receive updates pertaining to your order.</p>  <br> <span style="font-size: 0.9em;"> <span style="font-weight: bold;"> From the Grimes staff:</span> Our hearts and thoughts go out to all affected by this terrible virus. <br> Our team is working diligently to expedite and keep customers informed. We are sorry for the inconvenience and will continue to do our very best to assist you. </span>  [shortdesc]  <h4 style="color: black;">3M Particulate Respirator, 8210, N95</h4>  <li class="extra-info">3M Particulate Respirator 8210 is a lightweight, disposable N95 particulate respirator that is designed to help provide quality, reliable worker respiratory protection.</li>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>    <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>  <a href="https://egrimesdirect.com/pages/covid-19-supplies">  <p style="text-align: center; font-size: 2em; background-color: #78c327; color: white; border-radius: 20px; font-weight: bolder;"><strong>In Stock</strong> Covid-19 products here</p>  </a>  <h4 style="color: black;">3M Versaflo Powered Air Purifying Respirator, TR-302N+</h4> <li class="extra-info">The 3M™ Versaflo™ Air Purifying Respirator TR-300N+ PAPR combines performance, protection and functionality with a slim, lightweight balanced design for comfort</li><li class="extra-info">The 3M™ Versaflo™ PAPR Unit TR-302N+ does not include a filter, belt, battery, or charger.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Two selectable flow rate options - 6.5 CFM and 7.2 CFM</li><li class="extra-info"> Easy-to-use and versatile PAPR</li><li class="extra-info"> Offers more options and comfort to the user</li><li class="extra-info"> For particulate environments</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352575963180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">589.70</s:price>
+      <s:sku>SS PSU TR-302N+</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981554220</id>
+    <published>2020-04-18T07:38:32-04:00</published>
+    <updated>2020-04-18T07:38:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-6590n"/>
+    <title>3M TR-6590N  - Versaflo Multi-Gas/HE Cartridge (Case of 5) 7100035844</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-6590n-versaflo-multi-gas-he-cartridge-case-of-5-7100035844-13810653265964.jpg?v=1628110913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            701.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Multi-Gas/HE Cartridge, TR-6590N</h4> <li class="extra-info">The 3M™ Versaflo™ Multi-Gas/HE Cartridge is a combination high efficiency (HE) particulate filter and multi-gas cartridge (MG) for use with 3M™ Versaflo™ Powered Air Purifying Respirators, TR-600 and TR-800 Series</li><li class="extra-info">3M recommends the use of the 3M™ Versaflo™ Filter Cover, TR-6500FC to help protect the filter from physical damage.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High Efficiency (HE) particulate filter</li><li class="extra-info"> Captures a broad range of certain gases and vapours, including mercury</li><li class="extra-info"> Compatible with the 3M™ Versaflo™ Powered Air Purifying Respirator</li><li class="extra-info"> Ensure 3M™ Filters and Respirator Cartridges are compatible with your 3M Powered Air Purifying Respirator (PAPR)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981554220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">701.94</s:price>
+      <s:sku>SS PSU TR-6590N</s:sku>
+      <s:grams>5420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981488684</id>
+    <published>2020-04-18T07:38:29-04:00</published>
+    <updated>2020-04-18T07:38:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-6800fc"/>
+    <title>3M TR-6800FC  - 3M Versaflo Filter Cover, TR-6800FC 7100021247</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tr-6800fc-3m-versaflo-filter-cover-tr-6800fc-7100021247-13179542143020.jpg?v=1578825561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Filter Cover, TR-6800FC</h4> <li class="extra-info">The 3M™ Versaflo™ Filter Cover, TR-6800FC is a replacement part for use with the 3M™ Versaflo™ Powered Air Purifying Respirator TR-600 Series and TR-800 Series</li><li class="extra-info">This filter cover is specifically designed to cover the 3M™ Versaflo™ HEPA and Nuisance OV Filter, TR-6820N and protect it from damage.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Replacement part for 3M Versaflo Powered Air Purifying Respirators TR-600 Series</li><li class="extra-info"> Holds filter in place and helps physically protect it from damage</li><li class="extra-info"> Specifically designed to cover and protect 3M Versaflo HEPA and Nuisance OV Filter, TR-6820N</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981488684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.54</s:price>
+      <s:sku>SS PSU TR-6800FC</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4332764823596</id>
+    <published>2020-04-18T07:35:13-04:00</published>
+    <updated>2020-04-18T07:35:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-versaflo-tr-800-psk"/>
+    <title>3M Versaflo TR-800-PSK  - Powered Air Purifying Respirator Assembly Painters Kit 7100150922</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-versaflo-tr-800-psk-powered-air-purifying-respirator-assembly-painters-kit-7100150922-13811352928300.jpg?v=1628112702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3608.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Powered Air Purifying Respirator Assembly Painters Kit TR-800-PSK/94248(AAD), 1 EA/Case</h4> <li class="extra-info">3M™ Versaflo™ Powered Air Purifying Respirator Assembly Painters Kit TR-800-PSK/94248(AAD) is a complete Powered Air Purifying Respirator with an Intrinsically Safe motor/blower that includes everything required to get started for use in Paint Spray operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Top of the line IS protection - The TR-800 is a PAPR blower rated at Division I for Classes I,II, and III under the most current UL standard (UL 60079, 6th Edition, 2013)</li><li class="extra-info"> More options for more tasks - Choose from particulate filters or gas and vapor combination cartridges for protection in a variety of environments.</li><li class="extra-info"> Work at your own speed - Multiple airflow rates put you in control of your comfort.</li><li class="extra-info"> When clean is critical - Easy-to-clean belt and disposable breathing tube covers save time and effort, paving the way for more productivity.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4332764823596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3608.12</s:price>
+      <s:sku>SS PSU TR-800-PSK</s:sku>
+      <s:grams>4676</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121789739052</id>
+    <published>2020-04-18T04:55:11-04:00</published>
+    <updated>2020-04-18T04:55:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3m7100048973"/>
+    <title>3M Adflo 3M7100048973  - Adflo Battery Charging 7100048973</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/batteries-3m-adflo-3m7100048973-adflo-battery-charging-7100048973-12782275166252.jpg?v=1580276043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            1277.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Adflo Battery Charging Stand 6-Position, 35-0099-08N6, for Lithium Ion and NiMH batteries</h4> <li class="extra-info">The 3M Adflo Battery Charging Stand 6-Position for lithium ion and NiMH batteries is used to provide power to smart chargers while charging up to six 3M Adflo Powered Air Purifying Respirator batteries at the same time</li><li class="extra-info">Lithium ion and NiMh batteries may be charged simultaneously provided the matching charger for the corresponding battery type is used (i.e</li><li class="extra-info">Li-Ion chargers with Li-Ion batteries and NiMh chargers with NiMh batteries).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Adflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Batteries</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Docks up to six 3M Adflo Powered Air Purifying Respirator Batteries at a time</li><li class="extra-info"> For use only with 3M Adflo Powered Air Purifying Respirator Batteries and Chargers</li><li class="extra-info"> The battery charging stand may be table mounted or wall mounted</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Adflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121789739052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1277.54</s:price>
+      <s:sku>SS PSU 3M7100048973</s:sku>
+      <s:grams>6073</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121746255916</id>
+    <published>2020-04-18T04:55:09-04:00</published>
+    <updated>2020-04-18T04:55:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-m-350"/>
+    <title>3M Versaflo M-350  - Versaflo Replacement Head Suspension 7000127679</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-m-350-versaflo-replacement-head-suspension-7000127679-13812610662444.jpg?v=1628106575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            90.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Replacement Head Suspension, M-350</h4> <li class="extra-info">The 3M™ Versaflo™ Replacement Head Suspension is a replacement part for 3M™ Versaflo™ Hardhats, M-300 Series and 3M™ Versaflo™ Helmets, M-400 Series.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121746255916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.01</s:price>
+      <s:sku>SS PSU M-350</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737124380716</id>
+    <published>2020-04-18T04:55:07-04:00</published>
+    <updated>2020-04-18T04:55:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-m-407"/>
+    <title>3M Versaflo M-407  - Versaflo Helmet Assembly With Premium Visor &amp; Flame Resistant Shroud 7000002395</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-m-407-versaflo-helmet-assembly-with-premium-visor-flame-resistant-shroud-7000002395-13812612202540.jpg?v=1628106935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            929.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Helmet Assembly with Premium Visor and Flame Resistant Shroud, M-407</h4> <li class="extra-info">3M™ Versaflo™ Helmet Assembly with Premium Visor and Flame Resistant Shroud M-407 help provide respiratory and limited head and eye protection</li><li class="extra-info">The assembly includes a premium visor and premium shroud.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Versaflo™ M-Series Headtops feature lightweight, compact and well balanced faceshields and helmets that can offer integrated protection from a range of respiratory, head, eye and hearing hazards with offerings for neck and shoulder coverage</li><li class="extra-info">The 3M™ Versaflo™ Helmet Assembly with Premium Visor and Flame Resistant Shroud M-407 features a flame resistant shroud for applications with hot particles</li><li class="extra-info">The assembly includes a 3M™ Versaflo™ Premium Visor M-927, 3M™ Versaflo™ Inner Collar M-444 and 3M™ Versaflo™ Flame Resistant Outer Shroud M-447.</li><h2>Product Information</h2><li class="extra-info">Meets ANSI Z89.1 Type I, Class G</li><li class="extra-info"> Lightweight, compact and well-balanced</li><li class="extra-info"> Integrated protection from a range of respiratory, head, eye, face and hearing hazards</li><li class="extra-info"> Coated lenses provide added chemical and scratch resistant properties</li><li class="extra-info"> Spare parts and accessories are quick and easy to replace</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737124380716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">929.85</s:price>
+      <s:sku>SS PSU M-407</s:sku>
+      <s:grams>1706</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121775878188</id>
+    <published>2020-04-18T04:55:05-04:00</published>
+    <updated>2020-04-18T04:55:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-371"/>
+    <title>3M Versaflo TR-371  - Filter Cover White/Gray 7100021881</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-tr-371-filter-cover-white-gray-7100021881-13811174572076.jpg?v=1628158415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            45.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Filter Cover, TR-371, white/gray</h4> <li class="extra-info">The 3M™ Versaflo™ Filter Cover, TR-371 is a replacement part for the 3M™ Versaflo™ Powered Air Purifying Respirator, TR-300 Series</li><li class="extra-info">This plastic filter cover is a direct replacement for the 3M™ Versaflo™ Filter Cover, TR-370.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Slovakia</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Replacement part for 3M™ Versaflo™ Powered Air Purifying Respirator, TR-300 Series</li><li class="extra-info"> Plastic filter cover includes window to view filter label</li><li class="extra-info"> Easy to install</li><li class="extra-info"> Direct replacement part for the 3M™ Versaflo™ Filter Cover, TR-370</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121775878188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.75</s:price>
+      <s:sku>SS PSU TR-371</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121806745644</id>
+    <published>2020-04-18T04:55:03-04:00</published>
+    <updated>2020-04-18T04:55:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-600-hkl"/>
+    <title>3M Versaflo TR-600-HKL  - Versaflo HeaDiscover Powererd Air Purifying Respirator Kit Medium/Large 7100098538</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-tr-600-hkl-versaflo-headiscover-powererd-air-purifying-respirator-kit-medium-large-7100098538-13811195543596.jpg?v=1628157877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            2379.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Headcover Powererd Air Purifying Respirator Kit, TR-600-HKL, medium/large</h4> <li class="extra-info">3M™ Versaflo™ Headcover Powererd Air Purifying Respirator Kit, TR-600-HKL is a complete, ready to use Powered Air Purifying Respirator system that includes a medium/large head cover</li><li class="extra-info">The kit includes a 3M™ Versaflo™ Soft Headtop S-133, 3M™ Versaflo™ Airflow Indicator TR-971, 3M™ Versaflo™ Filter TR-6710N, 3M™ Versaflo™ Single Station Battery Charger TR-641N, 3M™ Versaflo™ Cleaning and Storage Kit TR-653 , 3M™ Versaflo™ Carrying Bag TR-991, 3M™ Versaflo™ PAPR Unit TR-602N , 3M™ Versaflo™ Standard Battery TR-630, 3M™ Versaflo™ Length Adjusting Breathing Tube BT-30, 3M™ Versaflo™ Easy Clean Belt TR-627 and 3M™ Versaflo™ Filter Cover TR-6700FC.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Complete kit with headcover</li><li class="extra-info"> Carrying bag included</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121806745644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2379.08</s:price>
+      <s:sku>SS PSU TR-600-HKL</s:sku>
+      <s:grams>5413</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121808449580</id>
+    <published>2020-04-18T04:55:01-04:00</published>
+    <updated>2020-04-18T04:55:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-600-hks"/>
+    <title>3M Versaflo TR-600-HKS  - Versaflo HeaDiscover Powered Air Purifying Respirator Kit Small/Medium 7100100424</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-tr-600-hks-versaflo-headiscover-powered-air-purifying-respirator-kit-small-medium-7100100424-13811188662316.jpg?v=1628158055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            2379.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Headcover Powered Air Purifying Respirator Kit,TR-600-HKS, small/medium</h4> <li class="extra-info">3M™ Versaflo™ Headcover Powererd Air Purifying Respirator Kit, TR-600-HKL is a complete, ready to use Powered Air Purifying Respirator system that includes a small/medium head cover</li><li class="extra-info">The kit includes a 3M™ Versaflo™ Soft Headtop S-133, 3M™ Versaflo™ Airflow Indicator TR-971, 3M™ Versaflo™ Filter TR-6710N, 3M™ Versaflo™ Single Station Battery Charger TR-641N, 3M™ Versaflo™ Cleaning and Storage Kit TR-653 , 3M™ Versaflo™ Carrying Bag TR-991, 3M™ Versaflo™ PAPR Unit TR-602N, 3M™ Versaflo™ Standard Battery TR-630, 3M™ Versaflo™ Length Adjusting Breathing Tube BT-30, 3M™ Versaflo™ Easy Clean Belt TR-627 and 3M™ Versaflo™ Filter Cover TR-6700FC.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Complete kit with headcover</li><li class="extra-info"> Carrying bag included</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121808449580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2379.08</s:price>
+      <s:sku>SS PSU TR-600-HKS</s:sku>
+      <s:grams>5875</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121806614572</id>
+    <published>2020-04-18T04:54:59-04:00</published>
+    <updated>2020-04-18T04:54:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-614-hk"/>
+    <title>3M Versaflo TR-614-HK  - Versaflo Powered Air Purifying Respirator Assembly (Each) 7100098537</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-tr-614-hk-versaflo-powered-air-purifying-respirator-assembly-each-7100098537-13811197804588.jpg?v=1628158236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            2260.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo Powered Air Purifying Respirator Assembly, TR-614-HK</h4> <li class="extra-info">3M™ Versaflo™ Powered Air Purifying Respirator Assembly, TR-614-HK includes: 3M™ Versaflo™ Powered Air Purifying Respirator Assembly Unit TR-602N, a 3M™ Versaflo™ Standard Battery TR-630, a 3M™ Versaflo™ Filter TR-6710N, a 3M™ Versaflo™ Filter Cover TR- 6700FC, a 3M™ Versaflo™ Length Adjusting Breathing Tube BT-30, a 3M™ Versaflo™ Single Station Battery Charger TR-641N, a 3M™ Versaflo™ Easy Clean Belt TR-627, a 3M™ Versaflo™ Airflow Indicator TR-971, a 3M™ Versaflo™ Cleaning and Storage Kit TR-653 and a 3M™ Versaflo™ Carrying Bag TR-991</li><li class="extra-info">3M™ Versaflo™ Powered Air Purifying Respirator Assembly TR-614-HK may be combind with 3M™ Versaflo™ Branded Headtops and filters or cartridges to create a complete, compact, light weight, easy-to-use Powered Air Purifying Respirator for protection against certain particulates, Vapours and gases</li><li class="extra-info">The TR-614 HK assembly may be the preferred choice of customers working in pharmaceutial or healthcare.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Easy to use</li><li class="extra-info"> Lightweight</li><li class="extra-info"> Easy to clean</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121806614572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2260.13</s:price>
+      <s:sku>SS PSU TR-614-HK</s:sku>
+      <s:grams>5707</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737124085804</id>
+    <published>2020-04-18T04:54:57-04:00</published>
+    <updated>2020-04-18T04:54:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-6710n-40"/>
+    <title>3M Versaflo TR-6710N-40  - Versaflo High Efficiency Filter (Each) 7100019288</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-tr-6710n-40-versaflo-high-efficiency-filter-tr-6710n-7100019288-12795172519980.jpg?v=1578816079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            69.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo High Efficiency Filter, TR-6710N</h4> <li class="extra-info">3M™ Versaflo™ High Efficiency Filter TR-6710N is a High Efficiency (HE) particulate filter for use with 3M™ Versaflo™ TR-600 Series Powered Air Purifying Respirator Systems</li><li class="extra-info">3M recommends the use of the 3M™ Versaflo™ Filter Cover TR-6700FC to help protect the filter from physical damage.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">The filter attaches directly to the motor/blower</li><li class="extra-info"> Highly efficient</li><li class="extra-info"> Convenient package size</li><li class="extra-info"> Simple to install</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737124085804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.08</s:price>
+      <s:sku>SS PSU TR-6710N-40</s:sku>
+      <s:grams>512</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254926962732</id>
+    <published>2020-04-18T04:54:55-04:00</published>
+    <updated>2020-04-18T04:54:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-6710n-5"/>
+    <title>3M Versaflo TR-6710N-5  - Versaflo High Efficiency Filter (Case of 5) 7100028247</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-tr-6710n-5-versaflo-high-efficiency-filter-7100028247-13120332300332.jpg?v=1578816112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            364.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo High Efficiency Filter, TR-6710N-5</h4> <li class="extra-info">3M™ Versaflo™ High Efficiency Filter TR-6710N-5 is a High Efficiency (HE) particulate filter for use with 3M™ Versaflo™ Powered Air Purifying Respirator TR-600 Series</li><li class="extra-info">3M recommends the use of the 3M™ Versaflo™ Filter Cover TR-6700FC to help protect the filter from physical damage.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">The filter attaches directly to the motor/blower</li><li class="extra-info"> Highly efficient</li><li class="extra-info"> Convenient package size</li><li class="extra-info"> Simple to install</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254926962732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">364.20</s:price>
+      <s:sku>SS PSU TR-6710N-5</s:sku>
+      <s:grams>1746</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737124020268</id>
+    <published>2020-04-18T04:54:53-04:00</published>
+    <updated>2020-04-18T04:54:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tr-6820n"/>
+    <title>3M Versaflo TR-6820N  - Versaflo High Efficiency &amp; Nuisance Organic Vapour/Acid Gas Filter/Cartridge 7100021092</title>
+    <s:type>Powered Respirators &amp; Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/powered-respirators-parts-3m-versaflo-tr-6820n-versaflo-high-efficiency-nuisance-organic-vapour-acid-gas-filter-cartridge-7100021092-13811333693484.jpg?v=1628112158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Powered Respirators &amp; Parts<br>
+        <strong>Price: </strong>
+            94.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">  <div style="                     padding: 3%;                      border-radius: 10%;                      border-style: solid;                      border-color: red;                     border-width: 1px;                     font-size: 0.7em;                     ">  <h3 style="font-weight: bold;">   DELAYED SHIPMENTS  ~  COVID-19  </h3>  <p> Current Coronavirus pandemic demands are delaying supply of 3M surgical masks and N95 or better respiratory protection </p>  <li>Orders are <h style="font-weight: bold;">prioritized by date</h> and will be filled as stock is released to us. </li>  <li>3M protection items are <h style="font-weight: bold;">final sale</h> - We will not be processing cancellations or returns </li>  <li>Due to worldwide shortage - we are <h style="font-weight: bold; text-decoration: underline;">not</h> able to guarantee delivery dates. </li>  <p>We currently receive very short notice before inventory is released.  We will keep you informed as we receive updates pertaining to your order.</p>  </div>[shortdesc]<p style="            font-size: 2em;             font-family: Arial, Helvetica, sans-serif;             font-weight: bolder;             color: white;             background-color: red;             border-radius: 20px;             text-align: center;                        ">    Pre-Order Product </p>        <p style="            text-align: center;            font-size: 1.2em;            font-weight: bolder;             font-family: Arial, Helvetica, sans-serif;             ">    Product currently on backorder. Reserve your place in queue to receive the product once stock is replenished.   </p>    <a href="https://egrimesdirect.com/pages/covid-19-supplies">   <p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">    For Covid-19 related products     <span style="color: black; text-decoration: underline;">      click here!     </span>   </p>  </a><h4 style="color: black;">3M Versaflo High Efficiency and Nuisance Organic Vapour/Acid Gas Filter/Cartridge, TR-6820N</h4> <li class="extra-info">The 3M™ Versaflo™ High Efficiency and Nuisance Organic Vapour/Acid Gas Filter/Cartridge, TR-6820N is a high efficiency particulate filter cartridge intended to be used with 3M™ Versaflo™ Powered Air Purifying Respirator, TR-600</li><li class="extra-info">This lightweight filter is more portable than standard gas/vapour cartridges and may also be used to filter harmful particulates such as mould.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Versaflo</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Powered Respirators &amp; Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Intended for use with the 3M™ Versaflo™ Powered Air Purifying Respirator, TR-600</li><li class="extra-info"> High Efficiency (HE) particulate filter and approved cartridge for Hydrogen Fluoride (HF)</li><li class="extra-info"> Filter is also treated to remove certain nuisance-level organic vapours</li><li class="extra-info"> NIOSH approved: HF/HE</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Versaflo</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS PSU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737124020268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.69</s:price>
+      <s:sku>SS PSU TR-6820N</s:sku>
+      <s:grams>607</s:grams>
+    </s:variant>
+  </entry>
+</feed>

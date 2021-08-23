@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/carts-dollies-reel-stands-tricycles.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:58-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812679295020</id>
+    <published>2019-12-04T10:30:58-05:00</published>
+    <updated>2019-12-04T10:30:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-93515"/>
+    <title>Gray 93515  - Pro+ Series Utility Cart With 3 Drawers</title>
+    <s:type>Chests</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chests-gray-93515-pro-series-utility-cart-with-3-drawers-12747688050732.png?v=1579264676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Chests<br>
+        <strong>Price: </strong>
+            662.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Heavy-duty 100 lbs</li><li class="extra-info">bearing slides standard on all drawers.</li><li class="extra-info"> Tubular key and steel double hook engagement mechanism provides excellent security and protection.</li><li class="extra-info"> High gloss, scratch and corrosion resistant powder coat paint finish.</li><li class="extra-info"> Drawer liners included.All drawers feature “rolled in” edges which provide added strength and stiffness.
+Overall Dimensions: 19'' L x 30'' W x 36'' H</li><li class="extra-info"> Weight: 120 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chests</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812679295020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">662.95</s:price>
+      <s:sku>MH DOL 93515</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293854363692</id>
+    <published>2019-12-03T12:08:22-05:00</published>
+    <updated>2019-12-03T12:08:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jg-150-sgp-150a-100-foot"/>
+    <title>JET JG-150/SGP-150A  - 1-1/2 Ton 100&apos; Cable Assembly For /Sumo® Wire Grip Pullers 111163</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-jg-150-sgp-150a-1-1-2-ton-100-cable-assembly-for-sumo-wire-grip-pullers-111163-13225325166636.jpg?v=1579533333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            369.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 Ton 100' Cable Assembly For JET Wire Grip Pullers</h4> <li class="extra-info">Wire rope for JET / JGP Series grip pullers with safety hook included</li><li class="extra-info"> Galvanized for longer life</li><li class="extra-info"> Includes reel</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Wire Size : 7/16 Inch</li><li class="extra-info"> Wire Rope Length : 100'</li><li class="extra-info"> Fits Product : 111123 / 111137</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293854363692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">369.91</s:price>
+      <s:sku>MH DOL 111163</s:sku>
+      <s:grams>12700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293855084588</id>
+    <published>2019-12-03T12:08:20-05:00</published>
+    <updated>2019-12-03T12:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jg-75-sgp-75a-100-foot"/>
+    <title>JET JG-75/SGP-75A  - 3/4 Ton 100&apos; Cable Assembly For /Sumo® Wire Grip Pullers 111162</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-jg-75-sgp-75a-3-4-ton-100-cable-assembly-for-sumo-wire-grip-pullers-111162-13225330966572.jpg?v=1579533450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            279.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/4 Ton 100' Cable Assembly For JET Wire Grip Pullers</h4> <li class="extra-info">Wire rope for JET / JGP Series grip pullers with safety hook included</li><li class="extra-info"> Galvanized for longer life</li><li class="extra-info"> Includes reel</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Wire Size : 5/16 Inch</li><li class="extra-info"> Wire Rope Length : 100'</li><li class="extra-info"> Fits Product : 111122 / 111136</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293855084588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">279.29</s:price>
+      <s:sku>MH DOL 111162</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253762060332</id>
+    <published>2019-10-15T13:27:39-04:00</published>
+    <updated>2019-10-15T13:27:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2510"/>
+    <title>3M C.A.R.T.S. 2510  - C.A.R.T.S. 0 7000045706</title>
+    <s:type>Dollies</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dollies-3m-c-a-r-t-s-2510-c-a-r-t-s-0-7000045706-13119611240492.jpg?v=1580112569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Dollies<br>
+        <strong>Price: </strong>
+            516.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M C.A.R.T.S., 02510</h4> <li class="extra-info">3M™ C.A.R.T.S., 02510, is a red, metal, three-shelf body cart for organizing and transporting shop supplies constructed with 18 gauge metal with 5 inch rubber caster wheels.The epoxy powder coating ensures lasting durability</li><li class="extra-info">The cart capacity is 400 lbs (182 kg).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">C.A.R.T.S.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dollies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">14 gauge uprights</li><li class="extra-info"> 18 gauge sturdy metal construction</li><li class="extra-info"> Three large storage areas</li><li class="extra-info"> Holding capacity of 400 lb</li><li class="extra-info">(180 kg)</li><li class="extra-info"> Some assembly required</li><li class="extra-info"> Dimensions: 19-3/4 in</li><li class="extra-info">x 29-1/2 in</li><li class="extra-info">x 32 in.</li><li class="extra-info"> Epoxy powder coated for lasting durability.</li><li class="extra-info"> Cart capacity: 400 lbs.</li><li class="extra-info"> Some assembly required</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_C.A.R.T.S.</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253762060332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">516.66</s:price>
+      <s:sku>MH DOL 2510</s:sku>
+      <s:grams>24199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813362540588</id>
+    <published>2019-05-11T14:17:43-04:00</published>
+    <updated>2019-05-11T14:17:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069101"/>
+    <title>Dynamic D069101  - Tools 2 Tray Utility Cart</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069101-tools-2-tray-utility-cart-12749231718444.png?v=1579159799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            311.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813362540588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">311.44</s:price>
+      <s:sku>MH DOL D069101</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813362442284</id>
+    <published>2019-05-11T14:17:39-04:00</published>
+    <updated>2019-05-11T14:17:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069102"/>
+    <title>Dynamic D069102  - Tools 3 Drawer Service Cart</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069102-tools-3-drawer-service-cart-12749231128620.png?v=1579160002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            548.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813362442284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">548.73</s:price>
+      <s:sku>MH DOL  D069102</s:sku>
+      <s:grams>23500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813183529004</id>
+    <published>2019-05-11T12:09:18-04:00</published>
+    <updated>2019-05-11T12:09:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-5012"/>
+    <title>JET JTES-5012  - 5 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124207</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-5012-5-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124207-12748822970412.jpg?v=1579551274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            279.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 5 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813183529004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">279.29</s:price>
+      <s:sku>MH DOL 124207</s:sku>
+      <s:grams>11116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813182414892</id>
+    <published>2019-05-11T12:08:40-04:00</published>
+    <updated>2019-05-11T12:08:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-spcu-300"/>
+    <title>JET SPCU-300  - 3 Ton Sumo Series Universal Plate Clamp 109327</title>
+    <s:type>Plate Clamps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plate-clamps-jet-spcu-300-3-ton-sumo-series-universal-plate-clamp-109327-12748818710572.jpg?v=1579591771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Plate Clamps<br>
+        <strong>Price: </strong>
+            510.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton JET Series Universal Plate Clamp</h4> <li class="extra-info">Universal type suitable for lifting horizontally stored plates into vertical position</li><li class="extra-info"> Can be used to flip plates over provided adequate ground clearance is allowed for safety lock lever to operate</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plate Clamps</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 200% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Jaw Opening : 0 – 1-3/16</li><li class="extra-info"> Suspension Eye Opening : 3 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Plate Thickness : 19/64 Inch (7.5mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813182414892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">510.38</s:price>
+      <s:sku>MH DOL 109327</s:sku>
+      <s:grams>15495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813054750764</id>
+    <published>2019-05-11T11:20:13-04:00</published>
+    <updated>2019-05-11T11:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-0512"/>
+    <title>JET JTES-0512  - 1/2 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124202</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-0512-1-2-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124202-12748470026284.jpg?v=1579551071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            78.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 1/2 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813054750764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.46</s:price>
+      <s:sku>MH DOL 124202</s:sku>
+      <s:grams>2440</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813053112364</id>
+    <published>2019-05-11T11:19:23-04:00</published>
+    <updated>2019-05-11T11:19:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jcpp-200"/>
+    <title>JET JCPP-200  - 2 Ton Single Pawl Hand Cable Puller Heavy Duty 111225</title>
+    <s:type>Cable Pullers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cable-pullers-jet-jcpp-200-2-ton-single-pawl-hand-cable-puller-heavy-duty-111225-12748463931436.jpg?v=1579522801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cable Pullers<br>
+        <strong>Price: </strong>
+            98.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Ton Single Pawl Hand Cable Puller - Heavy Duty</h4> <li class="extra-info">Heavy duty solid steel ratchet pawl and holding dog</li><li class="extra-info"> 14" heavy duty polished ratchet arm with ergonomic grip for operator comfort and ease of use</li><li class="extra-info"> Heavy duty aircraft cable, 12' length, 3/16" diameter</li><li class="extra-info"> Pulling capacity 2 tons, lifting capacity 1 ton INSERT HAND DRAWN DIAGRAM</li><li class="extra-info"> safety hooks icon</li><li class="extra-info"> heavy duty icon</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cable Pullers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-1/4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 ton pulling capacity, 1 ton lifting capacity</li><li class="extra-info"> Single pawl</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 1 T</li><li class="extra-info"> Number of Pawls : 1</li><li class="extra-info"> Number of Hooks : 2</li><li class="extra-info"> Max</li><li class="extra-info">Cable Length : 5' @ 2 tons</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>Size_1-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813053112364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">98.07</s:price>
+      <s:sku>MH DOL 111225</s:sku>
+      <s:grams>3000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813049507884</id>
+    <published>2019-05-11T11:18:12-04:00</published>
+    <updated>2019-05-11T11:18:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-1012"/>
+    <title>JET JTES-1012  - 1 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124203</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-1012-1-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124203-12748453150764.jpg?v=1579550986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            98.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 1 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813049507884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">98.07</s:price>
+      <s:sku>MH DOL 124203</s:sku>
+      <s:grams>3800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813048983596</id>
+    <published>2019-05-11T11:17:59-04:00</published>
+    <updated>2019-05-11T11:17:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-spc-100"/>
+    <title>JET SPC-100  - 1 Ton Sumo Series Plate Clamp 109302</title>
+    <s:type>Plate Clamps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plate-clamps-jet-spc-100-1-ton-sumo-series-plate-clamp-109302-12748451872812.jpg?v=1579591567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Plate Clamps<br>
+        <strong>Price: </strong>
+            211.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1 Ton JET Series Plate Clamp</h4> <li class="extra-info">Vertical type for straight line lifting of vertically stored steel plates</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plate Clamps</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 200% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Jaw Opening : 0 – 7/8 Inch</li><li class="extra-info"> Suspension Eye Opening : 2 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Plate Thickness : 7/32 Inch (5.5mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813048983596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">211.36</s:price>
+      <s:sku>MH DOL 109302</s:sku>
+      <s:grams>4000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813048590380</id>
+    <published>2019-05-11T11:17:49-04:00</published>
+    <updated>2019-05-11T11:17:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-1512"/>
+    <title>JET JTES-1512  - 1-1/2 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124204</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-1512-1-1-2-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124204-12748449873964.jpg?v=1579551206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            117.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 1/2 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813048590380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">117.75</s:price>
+      <s:sku>MH DOL 124204</s:sku>
+      <s:grams>4300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813044068396</id>
+    <published>2019-05-11T11:16:01-04:00</published>
+    <updated>2019-05-11T11:16:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-spcu-200"/>
+    <title>JET SPCU-200  - 2 Ton Sumo Series Universal Plate Clamp 109325</title>
+    <s:type>Plate Clamps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plate-clamps-jet-spcu-200-2-ton-sumo-series-universal-plate-clamp-109325-12748435619884.jpg?v=1579591805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Plate Clamps<br>
+        <strong>Price: </strong>
+            354.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Ton JET Series Universal Plate Clamp</h4> <li class="extra-info">Universal type suitable for lifting horizontally stored plates into vertical position</li><li class="extra-info"> Can be used to flip plates over provided adequate ground clearance is allowed for safety lock lever to operate</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plate Clamps</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 200% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Jaw Opening : 0 – 1 Inch</li><li class="extra-info"> Suspension Eye Opening : 2-3/8 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Plate Thickness : 1/4 Inch (6.3mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813044068396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">354.81</s:price>
+      <s:sku>MH DOL 109325</s:sku>
+      <s:grams>8001</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813042954284</id>
+    <published>2019-05-11T11:15:30-04:00</published>
+    <updated>2019-05-11T11:15:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-3012"/>
+    <title>JET JTES-3012  - 3 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124206</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-3012-3-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124206-12748430868524.jpg?v=1579551309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            203.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 3 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813042954284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">203.78</s:price>
+      <s:sku>MH DOL 124206</s:sku>
+      <s:grams>9001</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813040627756</id>
+    <published>2019-05-11T11:14:49-04:00</published>
+    <updated>2019-05-11T11:14:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-10012"/>
+    <title>JET JTES-10012  - 10 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124208</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-10012-10-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124208-12748425723948.jpg?v=1579551020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            427.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">10 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 10 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813040627756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">427.34</s:price>
+      <s:sku>MH DOL 124208</s:sku>
+      <s:grams>16852</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813038235692</id>
+    <published>2019-05-11T11:13:44-04:00</published>
+    <updated>2019-05-11T11:13:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jg-300-sgp-300a"/>
+    <title>JET JG-300/SGP-300A  - 3 Ton 66&apos; Cable Assembly For /Sumo® Wire Grip Pullers 111154</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-jg-300-sgp-300a-3-ton-66-cable-assembly-for-sumo-wire-grip-pullers-111154-12748420644908.jpg?v=1579533399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            437.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton 66' Cable Assembly For JET Wire Grip Pullers</h4> <li class="extra-info">Wire rope for JET / JGP Series grip pullers with safety hook included</li><li class="extra-info"> Galvanized for longer life</li><li class="extra-info"> Includes reel</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Wire Size : 5/8 Inch</li><li class="extra-info"> Wire Rope Length : 66'</li><li class="extra-info"> Fits Product : 111124 / 111138</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813038235692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">437.91</s:price>
+      <s:sku>MH DOL 111154</s:sku>
+      <s:grams>24004</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813037908012</id>
+    <published>2019-05-11T11:13:38-04:00</published>
+    <updated>2019-05-11T11:13:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-120254"/>
+    <title>JET 120254  - 2 Ton Sbt Series Manual Trolley Heavy Duty 120254</title>
+    <s:type>Trolleys</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolleys-jet-120254-2-ton-sbt-series-manual-trolley-heavy-duty-120254-12748419498028.jpg?v=1579361731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolleys<br>
+        <strong>Price: </strong>
+            543.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Ton SBT Series Manual Trolley - Heavy Duty</h4> <li class="extra-info">Load is moved by pulling on hoist load chain in direction of travel</li><li class="extra-info"> Double sealed ball bearings for long life</li><li class="extra-info"> Specially hardened steel wheels meet ANSI B30.11 specifications (Certificate included)</li><li class="extra-info"> Specially designed integrated drop stops/bumpers take the load in the event of wheel failure and prevent wheels from contacting other trolleys on the track</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Comes equipped for use on up to 8" beam widths</li><li class="extra-info"> Can be installed or removed at any point along the track</li><li class="extra-info"> Use on straight or curved H, I, W and S-beams</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolleys</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Double sealed ball bearings for long life</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Use on straight or curved track</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 4,400 lb</li><li class="extra-info"> I-Beam Flange Width (H) : 4 – 8-1/32 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Curve Radius : 43 Inch</li><li class="extra-info"> A: 13-29/32 Inch</li><li class="extra-info"> B: 11-7/8 Inch</li><li class="extra-info"> C: 10-15/16 Inch</li><li class="extra-info"> D: 3-1/2 Inch</li><li class="extra-info"> E: 1-1/8 Inch</li><li class="extra-info"> F: 1/8 Inch</li><li class="extra-info"> G: 6-1/16 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813037908012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">543.61</s:price>
+      <s:sku>MH DOL 120254</s:sku>
+      <s:grams>25004</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813021425708</id>
+    <published>2019-05-11T10:56:27-04:00</published>
+    <updated>2019-05-11T10:56:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-2012"/>
+    <title>JET JTES-2012  - 2 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124205</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-2012-2-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124205-12748381192236.jpg?v=1579551106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            150.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 2 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813021425708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.93</s:price>
+      <s:sku>MH DOL 124205</s:sku>
+      <s:grams>5896</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813015724076</id>
+    <published>2019-05-11T10:53:51-04:00</published>
+    <updated>2019-05-11T10:53:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jg-75-sgp-75a"/>
+    <title>JET JG-75/SGP-75A  - 3/4 Ton 66&apos; Cable Assembly For /Sumo® Wire Grip Pullers 111152</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-jg-75-sgp-75a-3-4-ton-66-cable-assembly-for-sumo-wire-grip-pullers-111152-12748372738092.jpg?v=1579533574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            200.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/4 Ton 66' Cable Assembly For JET Wire Grip Pullers</h4> <li class="extra-info">Wire rope for JET / JGP Series grip pullers with safety hook included</li><li class="extra-info"> Galvanized for longer life</li><li class="extra-info"> Includes reel</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Wire Size : 5/16 Inch</li><li class="extra-info"> Wire Rope Length : 66'</li><li class="extra-info"> Fits Product : 111122 / 111136</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813015724076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.79</s:price>
+      <s:sku>MH DOL 111152</s:sku>
+      <s:grams>8001</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813015232556</id>
+    <published>2019-05-11T10:53:41-04:00</published>
+    <updated>2019-05-11T10:53:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-120251"/>
+    <title>JET 120251  - 1/2 Ton Sbt Series Manual Trolley Heavy Duty 120251</title>
+    <s:type>Trolleys</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolleys-jet-120251-1-2-ton-sbt-series-manual-trolley-heavy-duty-120251-12748372443180.jpg?v=1579379432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolleys<br>
+        <strong>Price: </strong>
+            247.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton SBT Series Manual Trolley - Heavy Duty</h4> <li class="extra-info">Load is moved by pulling on hoist load chain in direction of travel</li><li class="extra-info"> Double sealed ball bearings for long life</li><li class="extra-info"> Specially hardened steel wheels meet ANSI B30.11 specifications (Certificate included)</li><li class="extra-info"> Specially designed integrated drop stops/bumpers take the load in the event of wheel failure and prevent wheels from contacting other trolleys on the track</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Comes equipped for use on up to 8" beam widths</li><li class="extra-info"> Can be installed or removed at any point along the track</li><li class="extra-info"> Use on straight or curved H, I, W and S-beams</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolleys</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Double sealed ball bearings for long life</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Use on straight or curved track</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 1,100 lb</li><li class="extra-info"> I-Beam Flange Width (H) : 3-1/4 – 8-1/32 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Curve Radius : 36 Inch</li><li class="extra-info"> A: 12-13/32 Inch</li><li class="extra-info"> B: 8-1/2 Inch</li><li class="extra-info"> C: 8-1/8 Inch</li><li class="extra-info"> D: 2-1/4 Inch</li><li class="extra-info"> E: 1-1/4 Inch</li><li class="extra-info"> F: 1/8 Inch</li><li class="extra-info"> G: 4-41/64 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813015232556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">247.58</s:price>
+      <s:sku>MH DOL 120251</s:sku>
+      <s:grams>9389</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813014446124</id>
+    <published>2019-05-11T10:53:15-04:00</published>
+    <updated>2019-05-11T10:53:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-spc-300"/>
+    <title>JET SPC-300  - 3 Ton Sumo Series Plate Clamp 109305</title>
+    <s:type>Plate Clamps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plate-clamps-jet-spc-300-3-ton-sumo-series-plate-clamp-109305-12748371001388.jpg?v=1579591740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Plate Clamps<br>
+        <strong>Price: </strong>
+            433.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton SUMO Series Plate Clamp</h4> <li class="extra-info">Vertical type for straight line lifting of vertically stored steel plates</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plate Clamps</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 200% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Jaw Opening : 0 – 1-3/8 Inch</li><li class="extra-info"> Suspension Eye Opening : 2-3/8 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Plate Thickness : 11/32 Inch (8.8mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813014446124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">433.38</s:price>
+      <s:sku>MH DOL 109305</s:sku>
+      <s:grams>10432</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813014380588</id>
+    <published>2019-05-11T10:53:15-04:00</published>
+    <updated>2019-05-11T10:53:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-120252"/>
+    <title>JET 120252  - 1 Ton Sbt Series Manual Trolley Heavy Duty 120252</title>
+    <s:type>Trolleys</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolleys-jet-120252-1-ton-sbt-series-manual-trolley-heavy-duty-120252-12748370968620.jpg?v=1579379484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolleys<br>
+        <strong>Price: </strong>
+            317.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1 Ton SBT Series Manual Trolley - Heavy Duty</h4> <li class="extra-info">Load is moved by pulling on hoist load chain in direction of travel</li><li class="extra-info"> Double sealed ball bearings for long life</li><li class="extra-info"> Specially hardened steel wheels meet ANSI B30.11 specifications (Certificate included)</li><li class="extra-info"> Specially designed integrated drop stops/bumpers take the load in the event of wheel failure and prevent wheels from contacting other trolleys on the track</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Comes equipped for use on up to 8" beam widths</li><li class="extra-info"> Can be installed or removed at any point along the track</li><li class="extra-info"> Use on straight or curved H, I, W and S-beams</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolleys</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Double sealed ball bearings for long life</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Use on straight or curved track</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 2,200 lb</li><li class="extra-info"> I-Beam Flange Width (H) : 4 – 8-1/32 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Curve Radius : 40 Inch</li><li class="extra-info"> A: 13-1/8 Inch</li><li class="extra-info"> B: 10-1/4 Inch</li><li class="extra-info"> C: 9-3/8 Inch</li><li class="extra-info"> D: 2-15/16 Inch</li><li class="extra-info"> E: 1-1/4 Inch</li><li class="extra-info"> F: 1/8 Inch</li><li class="extra-info"> G: 5-13/64 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813014380588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">317.06</s:price>
+      <s:sku>MH DOL 120252</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813014347820</id>
+    <published>2019-05-11T10:53:15-04:00</published>
+    <updated>2019-05-11T10:53:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-spcu-50"/>
+    <title>JET SPCU-50  - 1/2 Ton Sumo Series Universal Plate Clamp 109322</title>
+    <s:type>Plate Clamps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plate-clamps-jet-spcu-50-1-2-ton-sumo-series-universal-plate-clamp-109322-12748371066924.jpg?v=1579591860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Plate Clamps<br>
+        <strong>Price: </strong>
+            178.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton SUMO Series Universal Plate Clamp</h4> <li class="extra-info">Universal type suitable for lifting horizontally stored plates into vertical position</li><li class="extra-info"> Can be used to flip plates over provided adequate ground clearance is allowed for safety lock lever to operate</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plate Clamps</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 200% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Jaw Opening : 0 – 19/32 Inch</li><li class="extra-info"> Suspension Eye Opening : 2 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Plate Thickness : 5/32 Inch (3.8mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813014347820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">178.12</s:price>
+      <s:sku>MH DOL 109322</s:sku>
+      <s:grams>2494</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813013463084</id>
+    <published>2019-05-11T10:52:52-04:00</published>
+    <updated>2019-05-11T10:52:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-120253"/>
+    <title>JET 120253  - 1-1/2 Ton Sbt Series Manual Trolley Heavy Duty 120253</title>
+    <s:type>Trolleys</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolleys-jet-120253-1-1-2-ton-sbt-series-manual-trolley-heavy-duty-120253-12748369264684.jpg?v=1579361841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolleys<br>
+        <strong>Price: </strong>
+            400.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 Ton SBT Series Manual Trolley - Heavy Duty</h4> <li class="extra-info">Load is moved by pulling on hoist load chain in direction of travel</li><li class="extra-info"> Double sealed ball bearings for long life</li><li class="extra-info"> Specially hardened steel wheels meet ANSI B30.11 specifications (Certificate included)</li><li class="extra-info"> Specially designed integrated drop stops/bumpers take the load in the event of wheel failure and prevent wheels from contacting other trolleys on the track</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Comes equipped for use on up to 8" beam widths</li><li class="extra-info"> Can be installed or removed at any point along the track</li><li class="extra-info"> Use on straight or curved H, I, W and S-beams</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolleys</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Double sealed ball bearings for long life</li><li class="extra-info"> Adjustable to fit various sizes of flanges and beams</li><li class="extra-info"> Use on straight or curved track</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 3,300 lb</li><li class="extra-info"> I-Beam Flange Width (H) : 4 – 8-1/32 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Curve Radius : 40 Inch</li><li class="extra-info"> A: 13-15/16 Inch</li><li class="extra-info"> B: 10-3/4 Inch</li><li class="extra-info"> C: 10 Inch</li><li class="extra-info"> D: 3-3/8 Inch</li><li class="extra-info"> E: 1-1/8 Inch</li><li class="extra-info"> F: 1/8 Inch</li><li class="extra-info"> G: 5-1/4 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813013463084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">400.14</s:price>
+      <s:sku>MH DOL 120253</s:sku>
+      <s:grams>19504</s:grams>
+    </s:variant>
+  </entry>
+</feed>

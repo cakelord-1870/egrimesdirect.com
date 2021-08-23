@@ -1,0 +1,1378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/casters.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T05:37:11-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446871596</id>
+    <published>2019-05-11T05:37:11-04:00</published>
+    <updated>2019-05-11T05:37:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30080pb-ir-br"/>
+    <title>Tuff Grade V30080PB-IR/BR  - Caster 3 Inch Tlb Swivel Blue Rubber 220Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30080pb-ir-br-caster-3-inch-tlb-swivel-blue-rubber-220lb-cap-12747064279084.jpg?v=1574964092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            13.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 3″ Wheel Width 1-1/2″ Load Rating 220 lbs</li><li class="extra-info">Plate Size 3-1/16” x 2-3/8” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446871596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.82</s:price>
+      <s:sku>MH CAS TGC-10302-S</s:sku>
+      <s:grams>793</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446773292</id>
+    <published>2019-05-11T05:37:09-04:00</published>
+    <updated>2019-05-11T05:37:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30100ps-ir-br"/>
+    <title>Tuff Grade V30100PS-IR/BR  - Caster 4 Inch Swivel Blue Rubber 330Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30100ps-ir-br-caster-4-inch-swivel-blue-rubber-330lb-cap-12747064180780.jpg?v=1574963958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            12.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 4″ Wheel Width 1-1/2″ Load Rating 330 lbs</li><li class="extra-info">Plate Size 3-1/16” x 2-3/8” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446773292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.77</s:price>
+      <s:sku>MH CAS TGC-10400-S</s:sku>
+      <s:grams>793</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446740524</id>
+    <published>2019-05-11T05:37:08-04:00</published>
+    <updated>2019-05-11T05:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30100pb-ir-br"/>
+    <title>Tuff Grade V30100PB-IR/BR  - Caster 4 Inch Tlb Swivel Blue Rubber 330Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30100pb-ir-br-caster-4-inch-tlb-swivel-blue-rubber-330lb-cap-12747064115244.jpg?v=1574963973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            15.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 4″ Wheel Width 1-1/2″ Load Rating 330 lbs</li><li class="extra-info">Plate Size 3-1/16” x 2-3/8” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446740524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.21</s:price>
+      <s:sku>MH CAS TGC-10402-S</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446707756</id>
+    <published>2019-05-11T05:37:08-04:00</published>
+    <updated>2019-05-11T05:37:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30100f-ir-br"/>
+    <title>Tuff Grade V30100F-IR/BR  - Caster 4 Inch Rigid Blue Rubber 330Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30100f-ir-br-caster-4-inch-rigid-blue-rubber-330lb-cap-12747064213548.jpg?v=1574963941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            11.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 4″ Wheel Width 1-1/2″ Load Rating 330 lbs</li><li class="extra-info">Plate Size 3-1/16” x 2-3/8” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446707756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.52</s:price>
+      <s:sku>MH CAS TGC-10400-R</s:sku>
+      <s:grams>566</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446674988</id>
+    <published>2019-05-11T05:37:05-04:00</published>
+    <updated>2019-05-11T05:37:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30125ps-ir-br"/>
+    <title>Tuff Grade V30125PS-IR/BR  - Caster 5 Inch Swivel Blue Rubber 440Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30125ps-ir-br-caster-5-inch-swivel-blue-rubber-440lb-cap-13390438531116.jpg?v=1629199891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            16.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 5″ Wheel Width 1-3/4″ Load Rating 440 lbs</li><li class="extra-info">Plate Size 3-1/16” x 2-3/8” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446674988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.92</s:price>
+      <s:sku>MH CAS TGC-10500-S</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446642220</id>
+    <published>2019-05-11T05:37:05-04:00</published>
+    <updated>2019-05-11T05:37:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30125pb-ir-br"/>
+    <title>Tuff Grade V30125PB-IR/BR  - Caster 5 Inch Tlb Swivel Blue Rubber 440Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30125pb-ir-br-caster-5-inch-tlb-swivel-blue-rubber-440lb-cap-12747064016940.jpg?v=1574963856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            19.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 5″ Wheel Width 1-3/4″ Load Rating 440 lbs</li><li class="extra-info">Plate Size 3-1/16” x 2-3/8” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446642220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.30</s:price>
+      <s:sku>MH CAS TGC-10502-S</s:sku>
+      <s:grams>1270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446609452</id>
+    <published>2019-05-11T05:37:05-04:00</published>
+    <updated>2019-05-11T05:37:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30125f-ir-br"/>
+    <title>Tuff Grade V30125F-IR/BR  - Caster 5 Inch Rigid Blue Rubber 440Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30125f-ir-br-caster-5-inch-rigid-blue-rubber-440lb-cap-13390438236204.jpg?v=1629194665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            15.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 5″ Wheel Width 1-3/4″ Load Rating 440 lbs</li><li class="extra-info">Plate Size 3-1/16” x 2-3/8” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446609452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.67</s:price>
+      <s:sku>MH CAS TGC-10500-R</s:sku>
+      <s:grams>884</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446576684</id>
+    <published>2019-05-11T05:37:02-04:00</published>
+    <updated>2019-05-11T05:37:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30160pb-ir-br"/>
+    <title>Tuff Grade V30160PB-IR/BR  - Caster 6 Inch Tlb Swivel Blue Rubber 700Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30160pb-ir-br-caster-6-inch-tlb-swivel-blue-rubber-700lb-cap-12747063885868.jpg?v=1574963700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            39.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 6″ Wheel Width 2-3/8″ Load Rating 770 lbs</li><li class="extra-info">Plate Size 4-1/8” x 3-1/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446576684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.51</s:price>
+      <s:sku>MH CAS TGC-10602-S</s:sku>
+      <s:grams>2834</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446543916</id>
+    <published>2019-05-11T05:37:01-04:00</published>
+    <updated>2019-05-11T05:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-v30160f-ir-br"/>
+    <title>Tuff Grade V30160F-IR/BR  - Caster 6 Inch Rigid Blue Rubber 700Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-v30160f-ir-br-caster-6-inch-rigid-blue-rubber-700lb-cap-12747063984172.jpg?v=1574963717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            28.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 6″ Wheel Width 2-3/8″ Load Rating 770 lbs</li><li class="extra-info">Plate Size 4-1/8” x 3-1/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446543916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.67</s:price>
+      <s:sku>MH CAS TGC-10600-R</s:sku>
+      <s:grams>1837</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446347308</id>
+    <published>2019-05-11T05:36:57-04:00</published>
+    <updated>2019-05-11T05:36:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-b07-01a-100-262"/>
+    <title>Tuff Grade B07-01A-100-262  - Caster 4 Inch Tlb Swivel Orange Polyurethane 600 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-b07-01a-100-262-caster-4-inch-tlb-swivel-orange-polyurethane-600-lb-cap-12747063754796.jpg?v=1575068099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            33.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 4″ Wheel Width 2″ Load Rating 600 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446347308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.83</s:price>
+      <s:sku>MH CAS TGC-30402-S</s:sku>
+      <s:grams>1474</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446150700</id>
+    <published>2019-05-11T05:36:54-04:00</published>
+    <updated>2019-05-11T05:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-b07-01-150-262"/>
+    <title>Tuff Grade B07-01-150-262  - Caster 6 Inch Swivel Orange Polyurethane 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-b07-01-150-262-caster-6-inch-swivel-orange-polyurethane-900-lb-cap-12747063099436.jpg?v=1575068219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            38.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 6″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446150700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.21</s:price>
+      <s:sku>MH CAS TGC-30600-S</s:sku>
+      <s:grams>2971</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812446117932</id>
+    <published>2019-05-11T05:36:54-04:00</published>
+    <updated>2019-05-11T05:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-b07-01-125-262"/>
+    <title>Tuff Grade B07-01-125-262  - Caster 5 Inch Swivel Orange Polyurethane 750 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-b07-01-125-262-caster-5-inch-swivel-orange-polyurethane-750-lb-cap-13395190579244.jpg?v=1627045050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            33.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 5″ Wheel Width 2″ Load Rating 750 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812446117932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.34</s:price>
+      <s:sku>MH CAS TGC-30500-S</s:sku>
+      <s:grams>1746</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445888556</id>
+    <published>2019-05-11T05:36:51-04:00</published>
+    <updated>2019-05-11T05:36:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-bo7-04-200-262"/>
+    <title>Tuff Grade BO7-04-200-262  - Caster 8 Inch Rigid Orange Polyurethane 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-bo7-04-200-262-caster-8-inch-rigid-orange-polyurethane-900-lb-cap-13395183271980.jpg?v=1629195028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            39.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 8″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445888556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.18</s:price>
+      <s:sku>MH CAS TGC-30800-R</s:sku>
+      <s:grams>3061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445855788</id>
+    <published>2019-05-11T05:36:51-04:00</published>
+    <updated>2019-05-11T05:36:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-b07-01-200-262"/>
+    <title>Tuff Grade B07-01-200-262  - Caster 8 Inch Swivel Orange Polyurethane 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-b07-01-200-262-caster-8-inch-swivel-orange-polyurethane-900-lb-cap-12747062968364.jpg?v=1575068252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            43.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 8″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445855788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.49</s:price>
+      <s:sku>MH CAS TGC-30800-S</s:sku>
+      <s:grams>3061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445823020</id>
+    <published>2019-05-11T05:36:51-04:00</published>
+    <updated>2019-05-11T05:36:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-b07-01a-150-262"/>
+    <title>Tuff Grade B07-01A-150-262  - Caster 6 InchTop Locking Brake Swivel Orange Polyurethane 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-b07-01a-150-262-caster-6-inchtop-locking-brake-swivel-orange-polyurethane-900-lb-cap-13395187957804.jpg?v=1629194487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            43.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 6″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445823020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.45</s:price>
+      <s:sku>MH CAS TGC-30602-S</s:sku>
+      <s:grams>2472</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445724716</id>
+    <published>2019-05-11T05:36:48-04:00</published>
+    <updated>2019-05-11T05:36:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50400-s"/>
+    <title>Tuff Grade TGC-50400-S  - Caster 4X2 Phenolic Swivel 550 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50400-s-caster-4x2-phenolic-swivel-550-lb-cap-12747062804524.jpg?v=1574977576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            24.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 4″ Wheel Width 2″ Load Rating 550 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445724716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.45</s:price>
+      <s:sku>MH CAS TGC-50400-S</s:sku>
+      <s:grams>1877</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445691948</id>
+    <published>2019-05-11T05:36:47-04:00</published>
+    <updated>2019-05-11T05:36:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50400-r"/>
+    <title>Tuff Grade TGC-50400-R  - Caster 4X2 Phenolic Rigid 550 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50400-r-caster-4x2-phenolic-rigid-550-lb-cap-12747062870060.jpg?v=1574977595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            21.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 4″ Wheel Width 2″ Load Rating 550 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445691948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.20</s:price>
+      <s:sku>MH CAS TGC-50400-R</s:sku>
+      <s:grams>1546</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445659180</id>
+    <published>2019-05-11T05:36:47-04:00</published>
+    <updated>2019-05-11T05:36:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-b07-01a-200-262"/>
+    <title>Tuff Grade B07-01A-200-262  - Caster 8 InchTop Locking Brake Swivel Orange Polyurethane 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-b07-01a-200-262-caster-8-inchtop-locking-brake-swivel-orange-polyurethane-900-lb-cap-12747062902828.jpg?v=1575068115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            49.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 8″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>Size_8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445659180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.37</s:price>
+      <s:sku>MH CAS TGC-30802-S</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445626412</id>
+    <published>2019-05-11T05:36:44-04:00</published>
+    <updated>2019-05-11T05:36:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50500-r"/>
+    <title>Tuff Grade TGC-50500-R  - Caster 5X2 Phenolic Rigid 700 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50500-r-caster-5x2-phenolic-rigid-700-lb-cap-12747062738988.jpg?v=1574977441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            25.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 5″ Wheel Width 2″ Load Rating 700 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445626412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.74</s:price>
+      <s:sku>MH CAS TGC-50500-R</s:sku>
+      <s:grams>1846</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445593644</id>
+    <published>2019-05-11T05:36:43-04:00</published>
+    <updated>2019-05-11T05:36:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50502-s"/>
+    <title>Tuff Grade TGC-50502-S  - Caster 5X2 Phenolic Swivel With Top Locking Brake 700 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50502-s-caster-5x2-phenolic-swivel-with-top-locking-brake-700-lb-cap-12747061985324.jpg?v=1574977334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            31.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 5″ Wheel Width 2″ Load Rating 700 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445593644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.23</s:price>
+      <s:sku>MH CAS TGC-50502-S</s:sku>
+      <s:grams>2453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445528108</id>
+    <published>2019-05-11T05:36:40-04:00</published>
+    <updated>2019-05-11T05:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50600-s"/>
+    <title>Tuff Grade TGC-50600-S  - Caster 6X2 Phenolic Swivel 800 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50600-s-caster-6x2-phenolic-swivel-800-lb-cap-12747061952556.jpg?v=1574977319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            34.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 6″ Wheel Width 2″ Load Rating 800 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445528108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.13</s:price>
+      <s:sku>MH CAS TGC-50600-S</s:sku>
+      <s:grams>2453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445495340</id>
+    <published>2019-05-11T05:36:40-04:00</published>
+    <updated>2019-05-11T05:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50600-r"/>
+    <title>Tuff Grade TGC-50600-R  - Caster 6X2 Phenolic Rigid 800 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50600-r-caster-6x2-phenolic-rigid-800-lb-cap-12747062018092.jpg?v=1574977351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            31.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 6″ Wheel Width 2″ Load Rating 800 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445495340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.09</s:price>
+      <s:sku>MH CAS TGC-50600-R</s:sku>
+      <s:grams>2145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445462572</id>
+    <published>2019-05-11T05:36:40-04:00</published>
+    <updated>2019-05-11T05:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50800-r"/>
+    <title>Tuff Grade TGC-50800-R  - Caster 8X2 Phenolic Swivel 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50800-r-caster-8x2-phenolic-swivel-900-lb-cap-12747061854252.jpg?v=1574977202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            32.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Rigid Wheel Diameter 8″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445462572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.32</s:price>
+      <s:sku>MH CAS TGC-50800-R</s:sku>
+      <s:grams>2825</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445429804</id>
+    <published>2019-05-11T05:36:37-04:00</published>
+    <updated>2019-05-11T05:36:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50802-s"/>
+    <title>Tuff Grade TGC-50802-S  - Caster 8X2 Phenolic Swivel With Top Locking Brake 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50802-s-caster-8x2-phenolic-swivel-with-top-locking-brake-900-lb-cap-13390875689004.jpg?v=1629195218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            41.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel with Brake Wheel Diameter 8″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445429804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.31</s:price>
+      <s:sku>MH CAS TGC-50802-S</s:sku>
+      <s:grams>3533</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812445364268</id>
+    <published>2019-05-11T05:36:36-04:00</published>
+    <updated>2019-05-11T05:36:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgc-50800-s"/>
+    <title>Tuff Grade TGC-50800-S  - Caster 8X2 Phenolic Swivel 900 Lb Cap</title>
+    <s:type>Casters</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-tuff-grade-tgc-50800-s-caster-8x2-phenolic-swivel-900-lb-cap-13390882144300.jpg?v=1629195208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            38.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Type Swivel Wheel Diameter 8″ Wheel Width 2″ Load Rating 900 lbs</li><li class="extra-info">Plate Size 3-3/8” x 2-13/16” Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CAS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812445364268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.34</s:price>
+      <s:sku>MH CAS TGC-50800-S</s:sku>
+      <s:grams>3243</s:grams>
+    </s:variant>
+  </entry>
+</feed>

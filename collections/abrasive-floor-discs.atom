@@ -1,0 +1,2004 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/abrasive-floor-discs.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:23-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037325356</id>
+    <published>2019-12-04T10:30:23-05:00</published>
+    <updated>2019-12-04T10:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-17660-g100-19"/>
+    <title>3M F-17660-G100-19  - 3M Sanding Screen, 29828, 19xNH, 100 grit F-17660-G100-19 7000126484</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-17660-g100-19-3m-sanding-screen-29828-19xnh-100-grit-f-17660-g100-19-7000126484-13120529268780.jpg?v=1580096404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            196.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sanding Screen, 29828, 19xNH, 100 grit</h4> <li class="extra-info">The 3M™ Sanding Screen 29828 is a mesh screen disc with a strong fibre, uniform open construction and consistent cut from start to finish.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Features a synthetic backing</li><li class="extra-info"> Coated with resin and silicon carbide mineral for long lasting performance</li><li class="extra-info"> Marked with product tradename and mineral grade</li><li class="extra-info"> Consistent cut from start to finish</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037325356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">196.64</s:price>
+      <s:sku>CA ADI F-17660-G100-19</s:sku>
+      <s:grams>1528</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037292588</id>
+    <published>2019-12-04T10:30:23-05:00</published>
+    <updated>2019-12-04T10:30:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-17662-g60-19"/>
+    <title>3M F-17662-G60-19  - 3M Sanding Screen 60 grit 12/case F-17662-G60-19 7000126486</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-17662-g60-19-3m-sanding-screen-60-grit-12-case-f-17662-g60-19-7000126486-13120529203244.jpg?v=1580096337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            230.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sanding Screen 60 grit 12/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037292588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">230.11</s:price>
+      <s:sku>CA ADI F-17662-G60-19</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037390892</id>
+    <published>2019-12-04T10:30:22-05:00</published>
+    <updated>2019-12-04T10:30:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-17655-g100-20"/>
+    <title>3M F-17655-G100-20  - 3M Sanding Screen 100 grit 12/case F-17655-G100-20 7000126480</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-17655-g100-20-3m-sanding-screen-100-grit-12-case-f-17655-g100-20-7000126480-13120529334316.jpg?v=1580096494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sanding Screen 100 grit 12/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037390892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.50</s:price>
+      <s:sku>CA ADI F-17655-G100-20</s:sku>
+      <s:grams>131</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037358124</id>
+    <published>2019-12-04T10:30:22-05:00</published>
+    <updated>2019-12-04T10:30:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-17659-g120-19"/>
+    <title>3M F-17659-G120-19  - 3M Sanding Screen 120 grit 12/case F-17659-G120-19 7000126483</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-17659-g120-19-3m-sanding-screen-120-grit-12-case-f-17659-g120-19-7000126483-13120529301548.jpg?v=1580284416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            170.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sanding Screen 120 grit 12/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037358124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">170.14</s:price>
+      <s:sku>CA ADI F-17659-G120-19</s:sku>
+      <s:grams>1605</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812542128172</id>
+    <published>2019-05-11T06:53:56-04:00</published>
+    <updated>2019-05-11T06:53:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-85223"/>
+    <title>Sait 85223  - 7 Inch X 7/8 Inch Edge Sanding Disc 40 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-sait-85223-7-inch-x-7-8-inch-edge-sanding-disc-40-grit-silicon-carbide-grain-12747318951980.jpg?v=1575238133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            1.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Floor Sanding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">40</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Silicon carbide grain Closed coat for more material removal Excellent for general refinishing For use on: Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812542128172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.85</s:price>
+      <s:sku>CA ADI 85223</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812541046828</id>
+    <published>2019-05-11T06:52:11-04:00</published>
+    <updated>2019-05-11T06:52:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-85219"/>
+    <title>Sait 85219  - 7 Inch X 7/8 Inch Edge Sanding Disc 12 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-sait-85219-7-inch-x-7-8-inch-edge-sanding-disc-12-grit-silicon-carbide-grain-12747314331692.jpg?v=1575238409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            2.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Floor Sanding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Silicon carbide grain Combination backing paper and cloth Open coat structure prevents loading Excellent for removing heavy finishes For use on: Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812541046828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.12</s:price>
+      <s:sku>CA ADI 85219</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812518305836</id>
+    <published>2019-05-11T06:31:11-04:00</published>
+    <updated>2019-05-11T06:31:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-85119"/>
+    <title>Sait 85119  - 17 Inch X 2 Inch Floor Sanding Disc 80 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-sait-85119-17-inch-x-2-inch-floor-sanding-disc-80-grit-silicon-carbide-grain-12747254595628.jpg?v=1575239366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            7.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Floor Sanding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">17 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">17x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Silicon carbide grain Closed coat for more material removal Excellent for general refinishing For use on: Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Diameter_17 Inch</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812518305836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.23</s:price>
+      <s:sku>CA ADI 85119</s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812515291180</id>
+    <published>2019-05-11T06:28:34-04:00</published>
+    <updated>2019-05-11T06:28:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-85118"/>
+    <title>Sait 85118  - 17 Inch X 2 Inch Floor Sanding Disc 60 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-sait-85118-17-inch-x-2-inch-floor-sanding-disc-60-grit-silicon-carbide-grain-12747249221676.jpg?v=1575239349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            8.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Floor Sanding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">17 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">17x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Silicon carbide grain Closed coat for more material removal Excellent for general refinishing For use on: Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Diameter_17 Inch</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812515291180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.32</s:price>
+      <s:sku>CA ADI 85118</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812500873260</id>
+    <published>2019-05-11T06:18:45-04:00</published>
+    <updated>2019-05-11T06:18:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-88810"/>
+    <title>Sait Saitscreen 88810  - 18 Inch Sanding Disc 100 Grit Silicon Carbide Grain</title>
+    <s:type></s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sait-saitscreen-88810-18-inch-sanding-disc-100-grit-silicon-carbide-grain-12747218255916.jpg?v=1575199312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Saitscreen</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Floor Sanding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">18 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">100</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cloth screen impregnated with silicon carbide grain Long life Non-loading Double sided Excellent for removing paint and varnish from floors For use on: Concrete, Wood</li><h2>Product Information</h2><li class="extra-info">Floor Sanding</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Diameter_18 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Line_Saitscreen</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812500873260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.14</s:price>
+      <s:sku>CA ADI 88810</s:sku>
+      <s:grams>157</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812498251820</id>
+    <published>2019-05-11T06:17:13-04:00</published>
+    <updated>2019-05-11T06:17:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-85133"/>
+    <title>Sait 85133  - 18 Inch X 2 Inch Floor Sanding Disc 36 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-sait-85133-18-inch-x-2-inch-floor-sanding-disc-36-grit-silicon-carbide-grain-12747209244716.jpg?v=1575238973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Floor Sanding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">18 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">18x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">36</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Silicon carbide grain Closed coat for more material removal Excellent for general refinishing For use on: Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Diameter_18 Inch</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812498251820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>CA ADI 85133</s:sku>
+      <s:grams>261</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205502508</id>
+    <published>2019-05-11T02:03:12-04:00</published>
+    <updated>2019-05-11T02:03:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301794"/>
+    <title>Klingspor 301794  - 7 Inch X 7/8 Inch Edge Sanding Disc 16 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301794-7-inch-x-7-8-inch-edge-sanding-disc-16-grit-silicon-carbide-grain-12746701439020.jpg?v=1579631739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            113.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_16</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205502508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">113.80</s:price>
+      <s:sku>CA ADI PS19 16 7X7/8</s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205469740</id>
+    <published>2019-05-11T02:03:12-04:00</published>
+    <updated>2019-05-11T02:03:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301787"/>
+    <title>Klingspor 301787  - 15 Inch X 2 Inch Floor Sanding Disc 36 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-klingspor-301787-15-inch-x-2-inch-floor-sanding-disc-36-grit-silicon-carbide-grain-12746701602860.jpg?v=1579631529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            400.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">15 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">15x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">36</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_15 Inch</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205469740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">400.24</s:price>
+      <s:sku>CA ADI PS19 36 15X2</s:sku>
+      <s:grams>93</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205436972</id>
+    <published>2019-05-11T02:03:11-04:00</published>
+    <updated>2019-05-11T02:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301788"/>
+    <title>Klingspor 301788  - 15 Inch X 2 Inch Floor Sanding Disc 80 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-klingspor-301788-15-inch-x-2-inch-floor-sanding-disc-80-grit-silicon-carbide-grain-12746701570092.jpg?v=1579631625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            271.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">15 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">15x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_15 Inch</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205436972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">271.39</s:price>
+      <s:sku>CA ADI PS19 80 15X2</s:sku>
+      <s:grams>64</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205404204</id>
+    <published>2019-05-11T02:03:11-04:00</published>
+    <updated>2019-05-11T02:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301789"/>
+    <title>Klingspor 301789  - 15 Inch X 2 Inch Floor Sanding Disc 24 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-klingspor-301789-15-inch-x-2-inch-floor-sanding-disc-24-grit-silicon-carbide-grain-12746701471788.jpg?v=1579631771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            473.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">15 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">15x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_15 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205404204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">473.21</s:price>
+      <s:sku>CA ADI PS19 24 15X2</s:sku>
+      <s:grams>151</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205371436</id>
+    <published>2019-05-11T02:03:11-04:00</published>
+    <updated>2019-05-11T02:03:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301786"/>
+    <title>Klingspor 301786  - 15 Inch X 2 Inch Floor Sanding Disc 16 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-klingspor-301786-15-inch-x-2-inch-floor-sanding-disc-16-grit-silicon-carbide-grain-12746701635628.jpg?v=1579631593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            502.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">15 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">15x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_15 Inch</s:tag>
+    <s:tag>Grit_16</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205371436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">502.31</s:price>
+      <s:sku>CA ADI PS19 16 15X2</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205305900</id>
+    <published>2019-05-11T02:03:07-04:00</published>
+    <updated>2019-05-11T02:03:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301816"/>
+    <title>Klingspor 301816  - 7 Inch X 7/8 Inch Edge Sanding Disc 36 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301816-7-inch-x-7-8-inch-edge-sanding-disc-36-grit-silicon-carbide-grain-12746701373484.jpg?v=1579631825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            90.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">36</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205305900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.98</s:price>
+      <s:sku>CA ADI PS19 36 7X7/8</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205273132</id>
+    <published>2019-05-11T02:03:07-04:00</published>
+    <updated>2019-05-11T02:03:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301815"/>
+    <title>Klingspor 301815  - 7 Inch X 7/8 Inch Edge Sanding Disc 24 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301815-7-inch-x-7-8-inch-edge-sanding-disc-24-grit-silicon-carbide-grain-12746701406252.jpg?v=1579631704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            107.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205273132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.27</s:price>
+      <s:sku>CA ADI PS19 24 7X7/8</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205240364</id>
+    <published>2019-05-11T02:03:07-04:00</published>
+    <updated>2019-05-11T02:03:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301817"/>
+    <title>Klingspor 301817  - 7 Inch X 7/8 Inch Edge Sanding Disc 40 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301817-7-inch-x-7-8-inch-edge-sanding-disc-40-grit-silicon-carbide-grain-12746701078572.jpg?v=1579631942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            83.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">40</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205240364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.34</s:price>
+      <s:sku>CA ADI PS19 40 7X7/8</s:sku>
+      <s:grams>19</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205207596</id>
+    <published>2019-05-11T02:03:04-04:00</published>
+    <updated>2019-05-11T02:03:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301819"/>
+    <title>Klingspor 301819  - 7 Inch X 7/8 Inch Edge Sanding Disc 60 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301819-7-inch-x-7-8-inch-edge-sanding-disc-60-grit-silicon-carbide-grain-12746701045804.jpg?v=1579631973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            68.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205207596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">68.84</s:price>
+      <s:sku>CA ADI PS19 60 7X7/8</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205174828</id>
+    <published>2019-05-11T02:03:04-04:00</published>
+    <updated>2019-05-11T02:03:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301820"/>
+    <title>Klingspor 301820  - 7 Inch X 7/8 Inch Edge Sanding Disc 80 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301820-7-inch-x-7-8-inch-edge-sanding-disc-80-grit-silicon-carbide-grain-12746701013036.jpg?v=1579632062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            62.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205174828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.05</s:price>
+      <s:sku>CA ADI PS19 80 7X7/8</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205142060</id>
+    <published>2019-05-11T02:03:03-04:00</published>
+    <updated>2019-05-11T02:03:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301818"/>
+    <title>Klingspor 301818  - 7 Inch X 7/8 Inch Edge Sanding Disc 50 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301818-7-inch-x-7-8-inch-edge-sanding-disc-50-grit-silicon-carbide-grain-12746701144108.jpg?v=1579631854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            75.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">50</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205142060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.65</s:price>
+      <s:sku>CA ADI PS19 50 7X7/8</s:sku>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205109292</id>
+    <published>2019-05-11T02:03:03-04:00</published>
+    <updated>2019-05-11T02:03:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301821"/>
+    <title>Klingspor 301821  - 7 Inch X 7/8 Inch Edge Sanding Disc 100 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301821-7-inch-x-7-8-inch-edge-sanding-disc-100-grit-silicon-carbide-grain-12746700980268.jpg?v=1579632006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            57.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">100</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205109292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.80</s:price>
+      <s:sku>CA ADI PS19 100 7X7/8</s:sku>
+      <s:grams>14</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205076524</id>
+    <published>2019-05-11T02:03:03-04:00</published>
+    <updated>2019-05-11T02:03:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301822"/>
+    <title>Klingspor 301822  - 7 Inch X 7/8 Inch Edge Sanding Disc 120 Grit Silicon Carbide Grain</title>
+    <s:type>Edge Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/edge-discs-klingspor-301822-7-inch-x-7-8-inch-edge-sanding-disc-120-grit-silicon-carbide-grain-12746700587052.jpg?v=1579632195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Edge Discs<br>
+        <strong>Price: </strong>
+            57.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">7x7/8</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Edge Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_7/8 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_7 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205076524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.80</s:price>
+      <s:sku>CA ADI PS19 120 7X7/8</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205010988</id>
+    <published>2019-05-11T02:03:00-04:00</published>
+    <updated>2019-05-11T02:03:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301823"/>
+    <title>Klingspor 301823  - 16 Inch X 2 Inch Floor Sanding Disc 16 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-klingspor-301823-16-inch-x-2-inch-floor-sanding-disc-16-grit-silicon-carbide-grain-12746700619820.jpg?v=1579632094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            631.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">16x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">16</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_16 Inch</s:tag>
+    <s:tag>Grit_16</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205010988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">631.38</s:price>
+      <s:sku>CA ADI PS19 16 16X2</s:sku>
+      <s:grams>212</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812204945452</id>
+    <published>2019-05-11T02:02:58-04:00</published>
+    <updated>2019-05-11T02:02:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-301825"/>
+    <title>Klingspor 301825  - 16 Inch X 2 Inch Floor Sanding Disc 36 Grit Silicon Carbide Grain</title>
+    <s:type>Floor Discs</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-discs-klingspor-301825-16-inch-x-2-inch-floor-sanding-disc-36-grit-silicon-carbide-grain-12746700554284.jpg?v=1579632308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Floor Discs<br>
+        <strong>Price: </strong>
+            520.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Discs with paper backing</h4> <li class="extra-info">Special high-performance product for hardwood sanding, particularly suitable for parquet processing and floor reconditioning.</li>[/shortdesc][additional]<embed src="https://klingsporpdf.s3.ca-central-1.amazonaws.com/Coated-abrasives_group-O_EN_MSDS.pdf" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Dimensions </td>
+<td class="egrimes">16x2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">36</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Discs</td>
+</tr>
+</table>   <h2>Product Information</h2>
+<li class="extra-info">special high</li>
+<li class="extra-info"> used on standard edger disc machines</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_2 Inch</s:tag>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ADI</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Diameter_16 Inch</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812204945452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">520.76</s:price>
+      <s:sku>CA ADI PS19 36 16X2</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+</feed>

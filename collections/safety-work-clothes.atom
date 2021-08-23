@@ -1,0 +1,2723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/safety-work-clothes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-12T23:06:47-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367531212844</id>
+    <published>2019-12-12T23:06:47-05:00</published>
+    <updated>2019-12-12T23:06:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/280-gsm-poly-cotton-parka-with-thermomaxx-insulation-in-orange-vc50jo"/>
+    <title>280 GSM Poly/Cotton Parka with ThermoMAXX Insulation in Orange -  Viking VC50JO</title>
+    <s:type>Parkas</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parkas-280-gsm-poly-cotton-parka-with-thermomaxx-insulation-in-orange-viking-vc50jo-13450547331116.png?v=1579667369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Parkas<br>
+        <strong>Price: </strong>
+            121.19 - 122.65
+            <a href="https://egrimesdirect.com/products/280-gsm-poly-cotton-parka-with-thermomaxx-insulation-in-orange-vc50jo">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">280 gsm ThermoMAXX insulation provides warmth up to -50°C/-60°F</li><li class="extra-info"> Fully compliant with CSA Z96-15 Class 1, Level 2</li><li class="extra-info"> Fully compliant with ANSI/ISEA 107-2015 Type O, Class 1, not FR</li><li class="extra-info"> 2 Inch Vi-brance reflective material in 4 Inch contrasting tape meets WCB/Worksafe/DOT configuration</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parkas</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">280 gsm ThermoMAXX insulation provides warmth up to -50°C/-60°F</li><li class="extra-info"> 270 gsm (8 oz/yd²) 65/35 poly/cotton fabric provides superior abrasion and tear resistance</li><li class="extra-info"> Insulated detachable hood</li><li class="extra-info"> Fully hemstitched seams eliminates unravelling</li><h2>Suggested Application</h2><li class="extra-info">Foul weather protection as well as thermal layer</li><li class="extra-info"> Municipality crews working on road construction and traffic control</li><li class="extra-info"> Automotive mechanics for protection from dirt and grease when fixing vehicles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531212844</id>
+      <title>Medium</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SA JAC VC50JO-M</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531212844</id>
+      <title>Small</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SA JAC VC50JO-S</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531212844</id>
+      <title>Large</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SA JAC VC50JO-L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531212844</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">122.65</s:price>
+      <s:sku>SA JAC VC50JO-4XL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531212844</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">122.65</s:price>
+      <s:sku>SA JAC VC50JO-2XL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531212844</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SA JAC VC50JO-XL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531212844</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">122.65</s:price>
+      <s:sku>SA JAC VC50JO-3XL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367531114540</id>
+    <published>2019-12-12T23:06:46-05:00</published>
+    <updated>2019-12-12T23:06:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/280-gsm-poly-cotton-parka-with-thermomaxx-insulation-in-navy-vc50jn"/>
+    <title>280 GSM Poly/Cotton Parka with ThermoMAXX Insulation in Navy -  Viking VC50JN</title>
+    <s:type>Parkas</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parkas-280-gsm-poly-cotton-parka-with-thermomaxx-insulation-in-navy-viking-vc50jn-13450547527724.png?v=1579667490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Parkas<br>
+        <strong>Price: </strong>
+            121.19 - 127.04
+            <a href="https://egrimesdirect.com/products/280-gsm-poly-cotton-parka-with-thermomaxx-insulation-in-navy-vc50jn">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">280 gsm ThermoMAXX insulation provides warmth up to -50°C/-60°F</li><li class="extra-info"> Fully compliant with CSA Z96-15 Class 1, Level 2</li><li class="extra-info"> Fully compliant with ANSI/ISEA 107-2015 Type O, Class 1, not FR</li><li class="extra-info"> 2 Inch Vi-brance reflective material in 4 Inch contrasting tape meets WCB/Worksafe/DOT configuration</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Navy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parkas</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">280 gsm ThermoMAXX insulation provides warmth up to -50°C/-60°F</li><li class="extra-info"> 270 gsm (8 oz/yd²) 65/35 poly/cotton fabric provides superior abrasion and tear resistance</li><li class="extra-info"> Insulated detachable hood</li><li class="extra-info"> Fully hemstitched seams eliminates unravelling</li><h2>Suggested Application</h2><li class="extra-info">Foul weather protection as well as thermal layer</li><li class="extra-info"> Municipality crews working on road construction and traffic control</li><li class="extra-info"> Automotive mechanics for protection from dirt and grease when fixing vehicles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Navy</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531114540</id>
+      <title>Small</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SA JAC VC50JN-S</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531114540</id>
+      <title>Medium</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SA JAC VC50JN-M</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531114540</id>
+      <title>Large</title>
+      <s:price currency="CAD">127.04</s:price>
+      <s:sku>SA JAC VC50JN-L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531114540</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">127.04</s:price>
+      <s:sku>SA JAC VC50JN-XL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531114540</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">122.65</s:price>
+      <s:sku>SA JAC VC50JN-3XL</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367531081772</id>
+    <published>2019-12-12T23:06:45-05:00</published>
+    <updated>2019-12-12T23:06:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-pu-stretch-hi-viz-long-waterproof-coat-v3520360"/>
+    <title>Flame Resistant PU Stretch Hi-Viz Long Waterproof Coat -  Pioneer V3520360</title>
+    <s:type>Coats</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/coats-flame-resistant-pu-stretch-hi-viz-long-waterproof-coat-pioneer-v3520360-13450547363884.jpg?v=1579667283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Coats<br>
+        <strong>Price: </strong>
+            144.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">FR treated 100% polyurethane/poly</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> CSA Z96-15 Class 3 Level 2 and Class 3 Level FR and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> Passes ASTM D6413-13 flame resistance test</li><li class="extra-info"> Oil and chemical resistant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Lightweight and tough 4-way stretch PU</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Heat welded seams</li><li class="extra-info"> Extra-large detachable hood</li><li class="extra-info"> Full front zipper with snap storm placket</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Coats</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>X-Small</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-XS</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>Small</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>Medium</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>5X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-5XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531081772</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520360-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367531049004</id>
+    <published>2019-12-12T23:06:45-05:00</published>
+    <updated>2019-12-12T23:06:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-pu-stretch-hi-viz-long-waterproof-coat-v3520350"/>
+    <title>Flame Resistant PU Stretch Hi-Viz Long Waterproof Coat -  Pioneer V3520350</title>
+    <s:type>Coats</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/coats-flame-resistant-pu-stretch-hi-viz-long-waterproof-coat-pioneer-v3520350-13450547298348.jpg?v=1579667336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Coats<br>
+        <strong>Price: </strong>
+            144.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">FR treated 100% polyurethane/poly</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> CSA Z96-15 Class 3 Level 2 and Class 3 Level FR and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> Passes ASTM D6413-13 flame resistance test</li><li class="extra-info"> Oil and chemical resistant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Lightweight and tough 4-way stretch PU</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Heat welded seams</li><li class="extra-info"> Extra-large detachable hood</li><li class="extra-info"> Full front zipper with snap storm placket</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Fluorescent Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Coats</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Fluorescent Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>Small</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>Medium</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>5X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-5XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367531049004</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">144.23</s:price>
+      <s:sku>SA JAC V3520350-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530885164</id>
+    <published>2019-12-12T23:06:40-05:00</published>
+    <updated>2019-12-12T23:06:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-pu-stretch-hi-viz-waterproof-jacket-v3520170"/>
+    <title>Flame Resistant PU Stretch Hi-Viz Waterproof Jacket -  Pioneer V3520170</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-flame-resistant-pu-stretch-hi-viz-waterproof-jacket-pioneer-v3520170-13450546282540.jpg?v=1579667101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            114.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">FR treated 100% polyurethane/poly</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> 5892/5894 - CSA Z96-15 Class 2 Level 2 and Class 2 Level FR (becomes Class 3 when worn with FR hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 5894BK - CSA Z96-15 Class 1 Level 2 and Class 1 Level FR and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> Passes ASTM D6413-13 flame resistance test</li><li class="extra-info"> Oil and chemical resistant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Lightweight and tough 4-way stretch PU</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Heat welded seams</li><li class="extra-info"> Extra-large detachable hood</li><li class="extra-info"> Full front zipper with snap storm placket</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>X-Small</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-XS</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>Small</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>Medium</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530885164</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520170-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530819628</id>
+    <published>2019-12-12T23:06:38-05:00</published>
+    <updated>2019-12-12T23:06:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-pu-stretch-hi-viz-waterproof-jacket-v3520160"/>
+    <title>Flame Resistant PU Stretch Hi-Viz Waterproof Jacket -  Pioneer V3520160</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-flame-resistant-pu-stretch-hi-viz-waterproof-jacket-pioneer-v3520160-13450546118700.jpg?v=1579667249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            114.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">FR treated 100% polyurethane/poly</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> 5892/5894 - CSA Z96-15 Class 2 Level 2 and Class 2 Level FR (becomes Class 3 when worn with FR hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 5894BK - CSA Z96-15 Class 1 Level 2 and Class 1 Level FR and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> Passes ASTM D6413-13 flame resistance test</li><li class="extra-info"> Oil and chemical resistant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Lightweight and tough 4-way stretch PU</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Heat welded seams</li><li class="extra-info"> Extra-large detachable hood</li><li class="extra-info"> Full front zipper with snap storm placket</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530819628</id>
+      <title>X-Small</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520160-XS</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530819628</id>
+      <title>Small</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520160-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530819628</id>
+      <title>Medium</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520160-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530819628</id>
+      <title>Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520160-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530819628</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520160-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530819628</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520160-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530819628</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520160-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530786860</id>
+    <published>2019-12-12T23:06:38-05:00</published>
+    <updated>2019-12-12T23:06:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-pu-stretch-hi-viz-waterproof-jacket-v3520150"/>
+    <title>Flame Resistant PU Stretch Hi-Viz Waterproof Jacket -  Pioneer V3520150</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-flame-resistant-pu-stretch-hi-viz-waterproof-jacket-pioneer-v3520150-13450546020396.jpg?v=1579667134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            114.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">FR treated 100% polyurethane/poly</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> 5892/5894 - CSA Z96-15 Class 2 Level 2 and Class 2 Level FR (becomes Class 3 when worn with FR hi-viz pant featuring reflective leg bands) and ANSI/ISEA 107-15 Class 3 Type P and R</li><li class="extra-info"> 5894BK - CSA Z96-15 Class 1 Level 2 and Class 1 Level FR and ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> Passes ASTM D6413-13 flame resistance test</li><li class="extra-info"> Oil and chemical resistant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Lightweight and tough 4-way stretch PU</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Heat welded seams</li><li class="extra-info"> Extra-large detachable hood</li><li class="extra-info"> Full front zipper with snap storm placket</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Fluorescent Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> XS-7XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Fluorescent Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>Size_6X-Large</s:tag>
+    <s:tag>Size_7X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>X-Small</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-XS</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>Small</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>Medium</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>5X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-5XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>6X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-6XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530786860</id>
+      <title>7X-Large</title>
+      <s:price currency="CAD">114.58</s:price>
+      <s:sku>SA JAC V3520150-7XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530754092</id>
+    <published>2019-12-12T23:06:38-05:00</published>
+    <updated>2019-12-12T23:06:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-pvc-rain-jacket-v3510660"/>
+    <title>Flame Resistant PVC Rain Jacket -  Pioneer V3510660</title>
+    <s:type>Rain Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-jackets-flame-resistant-pvc-rain-jacket-pioneer-v3510660-13450546053164.jpg?v=1579667218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Jackets<br>
+        <strong>Price: </strong>
+            13.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">.35 mm FR treated PVC/poly/PVC</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> 100% waterproof</li><li class="extra-info"> 578J - Jacket with zip and snap front placket, detachable snap hood</li><li class="extra-info"> 578P - Bib pant with self fabric suspenders</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-6XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>Size_6X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>Small</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>Medium</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>Large</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>5X-Large</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-5XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530754092</id>
+      <title>6X-Large</title>
+      <s:price currency="CAD">13.54</s:price>
+      <s:sku>SA JAC V3510660-6XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530623020</id>
+    <published>2019-12-12T23:06:34-05:00</published>
+    <updated>2019-12-12T23:06:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/rainshield-jacket-in-orange-v3246950"/>
+    <title>Rainshield Jacket in Orange -  Ranpro Pioneer V3246950</title>
+    <s:type>Rain Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-jackets-rainshield-jacket-in-orange-ranpro-pioneer-v3246950-13450545659948.jpg?v=1579667049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Jackets<br>
+        <strong>Price: </strong>
+            57.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">10 oz/yd² PVC/nylon/PVC treated through silver-zinc composite ion anti-bacterial treatment</li><li class="extra-info"> Detached hood (sold separately) with draw strings</li><li class="extra-info"> Interior PVC coating sheds water and makes for easy cleaning</li><li class="extra-info"> High tear and abrasion resistance</li><li class="extra-info"> Anti-fungal and anti-mildew treated fabric</li><li class="extra-info"> Brass button closure to prevent dirt and grime build-up</li><li class="extra-info"> Elastic bottom and arm closure</li><li class="extra-info"> Inner storm flap provides extra barrier from wetness</li><li class="extra-info"> Roomy raglan sleeves</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530623020</id>
+      <title>Small</title>
+      <s:price currency="CAD">57.83</s:price>
+      <s:sku>SA JAC V3246950-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530623020</id>
+      <title>Medium</title>
+      <s:price currency="CAD">57.83</s:price>
+      <s:sku>SA JAC V3246950-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530623020</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">57.83</s:price>
+      <s:sku>SA JAC V3246950-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530623020</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">57.83</s:price>
+      <s:sku>SA JAC V3246950-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530623020</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">57.83</s:price>
+      <s:sku>SA JAC V3246950-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530491948</id>
+    <published>2019-12-12T23:06:31-05:00</published>
+    <updated>2019-12-12T23:06:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/rain-jacket-with-hood-in-moss-green-v3246440"/>
+    <title>Rain Jacket with Hood in Moss Green -  Ranpro Pioneer V3246440</title>
+    <s:type>Rain Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-jackets-rain-jacket-with-hood-in-moss-green-ranpro-pioneer-v3246440-13450545365036.jpg?v=1579664010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Jackets<br>
+        <strong>Price: </strong>
+            104.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">14.5 oz/yd² PVC on poly-cotton blend</li><li class="extra-info"> Fabric is abrasion and tear resistant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Sewn and double RF welded seams</li><li class="extra-info"> Fabric is marine/fish oil resistant</li><li class="extra-info"> Roomy raglan sleeves</li><li class="extra-info"> Attached hood with draw cord fits over ball cap</li><li class="extra-info"> Reinforced, concealed corrosion resistant brass snap closure</li><li class="extra-info"> Inner storm flap to keep elements out</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530491948</id>
+      <title>Small</title>
+      <s:price currency="CAD">104.69</s:price>
+      <s:sku>SA JAC V3246440-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530491948</id>
+      <title>Medium</title>
+      <s:price currency="CAD">104.69</s:price>
+      <s:sku>SA JAC V3246440-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530491948</id>
+      <title>Large</title>
+      <s:price currency="CAD">104.69</s:price>
+      <s:sku>SA JAC V3246440-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530491948</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">104.69</s:price>
+      <s:sku>SA JAC V3246440-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530491948</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">104.69</s:price>
+      <s:sku>SA JAC V3246440-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530491948</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">104.69</s:price>
+      <s:sku>SA JAC V3246440-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530491948</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">104.69</s:price>
+      <s:sku>SA JAC V3246440-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530426412</id>
+    <published>2019-12-12T23:06:30-05:00</published>
+    <updated>2019-12-12T23:06:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/hooded-jacket-in-fluorescent-orange-v3246250"/>
+    <title>Hooded Jacket in Fluorescent Orange -  Ranpro Pioneer V3246250</title>
+    <s:type>Jackets with Hoods</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-with-hoods-hooded-jacket-in-fluorescent-orange-ranpro-pioneer-v3246250-13450545430572.jpg?v=1579664166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets with Hoods<br>
+        <strong>Price: </strong>
+            114.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">14.5 oz/yd² PVC on poly-cotton blend</li><li class="extra-info"> Fabric is abrasion and tear resistant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Sewn and double RF welded seams</li><li class="extra-info"> Fabric is marine/fish oil resistant</li><li class="extra-info"> Roomy raglan sleeves</li><li class="extra-info"> Attached hood with draw cord fits over ball cap</li><li class="extra-info"> Reinforced, concealed corrosion resistant brass snap closure</li><li class="extra-info"> Inner storm flap to keep elements out</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Fluorescent Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets with Hoods</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Fluorescent Orange</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530426412</id>
+      <title>Small</title>
+      <s:price currency="CAD">114.73</s:price>
+      <s:sku>SA JAC V3246250-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530426412</id>
+      <title>Medium</title>
+      <s:price currency="CAD">114.73</s:price>
+      <s:sku>SA JAC V3246250-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530426412</id>
+      <title>Large</title>
+      <s:price currency="CAD">114.73</s:price>
+      <s:sku>SA JAC V3246250-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530426412</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">114.73</s:price>
+      <s:sku>SA JAC V3246250-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530426412</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">114.73</s:price>
+      <s:sku>SA JAC V3246250-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530426412</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">114.73</s:price>
+      <s:sku>SA JAC V3246250-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530426412</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">114.73</s:price>
+      <s:sku>SA JAC V3246250-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530393644</id>
+    <published>2019-12-12T23:06:30-05:00</published>
+    <updated>2019-12-12T23:06:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/canadian-hooded-rain-jacket-in-olive-green-v3242040"/>
+    <title>Canadian Hooded Rain Jacket in Olive Green -  Ranpro Pioneer V3242040</title>
+    <s:type>Rain Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-jackets-canadian-hooded-rain-jacket-in-olive-green-ranpro-pioneer-v3242040-13450545299500.jpg?v=1579664132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Jackets<br>
+        <strong>Price: </strong>
+            76.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Heavy-duty 13 oz/yd² PVC double-coated on high tenacity polyester</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Fabric is marine/fish oil resistant</li><li class="extra-info"> Electronically welded seams ensure water tightness</li><li class="extra-info"> Increased softness and cold flex in the harshest conditions</li><li class="extra-info"> Increased wear and tear resistance</li><li class="extra-info"> Attached hood with internal drawstring</li><li class="extra-info"> Roomy raglan sleeves</li><li class="extra-info"> Concealed corrosion resistant brass snap closure</li><li class="extra-info"> Inner storm flap to keep out elements</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530393644</id>
+      <title>Medium</title>
+      <s:price currency="CAD">76.82</s:price>
+      <s:sku>SA JAC V3242040-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530393644</id>
+      <title>Small</title>
+      <s:price currency="CAD">76.82</s:price>
+      <s:sku>SA JAC V3242040-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530393644</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">76.82</s:price>
+      <s:sku>SA JAC V3242040-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530393644</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">76.82</s:price>
+      <s:sku>SA JAC V3242040-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530393644</id>
+      <title>Large</title>
+      <s:price currency="CAD">76.82</s:price>
+      <s:sku>SA JAC V3242040-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530262572</id>
+    <published>2019-12-12T23:06:27-05:00</published>
+    <updated>2019-12-12T23:06:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/nailhead-tree-planter-hooded-jacket-v3040340"/>
+    <title>Nailhead Tree Planter Hooded Jacket -  Nailhead Pioneer V3040340</title>
+    <s:type>Jackets with Hoods</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-with-hoods-nailhead-tree-planter-hooded-jacket-nailhead-pioneer-v3040340-13450544742444.jpg?v=1579663925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets with Hoods<br>
+        <strong>Price: </strong>
+            56.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">420 denier oxford polyester with PVC coating</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Front and back vents</li><li class="extra-info"> 2 large front cargo pockets</li><li class="extra-info"> Adjustable wrists</li><li class="extra-info"> Detachable hood converts to jacket pouch</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nailhead</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets with Hoods</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Nailhead</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>X-Small</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-XS</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>Small</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>Medium</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>Large</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530262572</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">56.35</s:price>
+      <s:sku>SA JAC V3040340-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530197036</id>
+    <published>2019-12-12T23:06:25-05:00</published>
+    <updated>2019-12-12T23:06:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/5106-hi-viz-pvc-rain-jacket-with-tape-v3032050"/>
+    <title>5106 Hi-Viz PVC Rain Jacket with Tape -  Pioneer V3032050</title>
+    <s:type>Rain Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-jackets-5106-hi-viz-pvc-rain-jacket-with-tape-pioneer-v3032050-13450544119852.jpg?v=1579663890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Jackets<br>
+        <strong>Price: </strong>
+            52.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Hi-viz PVC/poly/PVC 0.35 mm durable waterproof material</li><li class="extra-info"> CSA Z96-15 Class 2 Level 2 (becomes Class 3 when worn with hi-viz pant featuring reflective leg bands)</li><li class="extra-info"> ANSI 107-15 Class 3 Type P and R</li><li class="extra-info"> StarTech 2" reflective tape</li><li class="extra-info"> Detachable drawstring hood</li><li class="extra-info"> Double placket and snap closure</li><li class="extra-info"> Snaps on cuffs</li><li class="extra-info"> Corduroy collar</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Fluorescent Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Fluorescent Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530197036</id>
+      <title>Small</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku>SA JAC V3032050-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530197036</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku>SA JAC V3032050-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530197036</id>
+      <title>Medium</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku>SA JAC V3032050-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530197036</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku>SA JAC V3032050-4XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530197036</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">52.93</s:price>
+      <s:sku>SA JAC V3032050-2XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530164268</id>
+    <published>2019-12-12T23:06:24-05:00</published>
+    <updated>2019-12-12T23:06:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pu-stretch-jacket-in-olive-green-v3020140"/>
+    <title>PU Stretch Jacket in Olive Green -  Pioneer V3020140</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-pu-stretch-jacket-in-olive-green-pioneer-v3020140-13450544644140.jpg?v=1579663978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            85.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">100% waterproof polyurethane</li><li class="extra-info"> Lightweight and tough 4-way stretch fabric</li><li class="extra-info"> Polyester tricot lining wicks away body perspiration</li><li class="extra-info"> Remains flexible in cold temperatures</li><li class="extra-info"> Oil resistant</li><li class="extra-info"> 2 front pockets</li><li class="extra-info"> Heat welded seams</li><li class="extra-info"> Hood folds into collar</li><li class="extra-info"> 2-way zipper with snap storm placket</li><li class="extra-info"> Adjustable wrists</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> XS-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>X-Small</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-XS</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>Small</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>Medium</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>Large</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530164268</id>
+      <title>5X-Large</title>
+      <s:price currency="CAD">85.39</s:price>
+      <s:sku>SA JAC V3020140-5XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530065964</id>
+    <published>2019-12-12T23:06:22-05:00</published>
+    <updated>2019-12-12T23:06:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/48-inch-long-pvc-rain-coat-v3010760"/>
+    <title>48 Inch Long PVC Rain Coat -  Pioneer V3010760</title>
+    <s:type>Rain Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-jackets-48-inch-long-pvc-rain-coat-pioneer-v3010760-13450544087084.jpg?v=1579663856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Jackets<br>
+        <strong>Price: </strong>
+            15.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">.35 mm PVC/polyester/PVC</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Welded seams</li><li class="extra-info"> Detachable hood</li><li class="extra-info"> Zipper plus snap storm placket</li><li class="extra-info"> 2 large front cargo pockets</li><li class="extra-info"> Corduroy collar</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530065964</id>
+      <title>Medium</title>
+      <s:price currency="CAD">15.26</s:price>
+      <s:sku>SA JAC V3010760-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530065964</id>
+      <title>Small</title>
+      <s:price currency="CAD">15.26</s:price>
+      <s:sku>SA JAC V3010760-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530065964</id>
+      <title>Large</title>
+      <s:price currency="CAD">15.26</s:price>
+      <s:sku>SA JAC V3010760-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530065964</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">15.26</s:price>
+      <s:sku>SA JAC V3010760-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530065964</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">15.26</s:price>
+      <s:sku>SA JAC V3010760-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530065964</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">15.26</s:price>
+      <s:sku>SA JAC V3010760-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530065964</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">15.26</s:price>
+      <s:sku>SA JAC V3010760-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367530033196</id>
+    <published>2019-12-12T23:06:22-05:00</published>
+    <updated>2019-12-12T23:06:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/supported-pvc-rain-jacket-v3010560"/>
+    <title>Supported PVC Rain Jacket -  Pioneer V3010560</title>
+    <s:type>Rain Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-jackets-supported-pvc-rain-jacket-pioneer-v3010560-13450543988780.jpg?v=1579663775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Jackets<br>
+        <strong>Price: </strong>
+            12.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">.35 mm PVC/polyester/PVC</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Vented back and underarms</li><li class="extra-info"> 2 large front cargo pockets</li><li class="extra-info"> Zipper plus snap storm placket</li><li class="extra-info"> Welded seams</li><li class="extra-info"> Corduroy collar</li><li class="extra-info"> Detachable hood</li><li class="extra-info"> Embroidery access zipper</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-3XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530033196</id>
+      <title>Small</title>
+      <s:price currency="CAD">12.69</s:price>
+      <s:sku>SA JAC V3010560-S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530033196</id>
+      <title>Medium</title>
+      <s:price currency="CAD">12.69</s:price>
+      <s:sku>SA JAC V3010560-M</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530033196</id>
+      <title>Large</title>
+      <s:price currency="CAD">12.69</s:price>
+      <s:sku>SA JAC V3010560-L</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530033196</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">12.69</s:price>
+      <s:sku>SA JAC V3010560-2XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530033196</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">12.69</s:price>
+      <s:sku>SA JAC V3010560-3XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367530033196</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">12.69</s:price>
+      <s:sku>SA JAC V3010560-XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529902124</id>
+    <published>2019-12-12T23:06:18-05:00</published>
+    <updated>2019-12-12T23:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-quilted-cotton-safety-parka-v2560250"/>
+    <title>Flame Resistant Quilted Cotton Safety Parka -  Pioneer V2560250</title>
+    <s:type>Parkas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parkas-flame-resistant-quilted-cotton-safety-parka-pioneer-v2560250-13450543497260.jpg?v=1579663653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Parkas<br>
+        <strong>Price: </strong>
+            299.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">5523 - CSA Z96-15 Class 1 Level 2 and Class 1 Level FR</li><li class="extra-info"> 5533 - CSA Z96-15 Class 2 Level 2 and Class 2 Level FR</li><li class="extra-info"> 6.5 oz (220 GSM) modacrylic polyester blend FR insulation</li><li class="extra-info"> FR brass non-locking zipper</li><li class="extra-info"> Fleece hand warmers</li><li class="extra-info"> Underarm gussets for extra mobility</li><li class="extra-info"> 6 storage pockets: 2 back, 2 chest, 2 side</li><li class="extra-info"> Action back, elastic waist and aramid storm cuffs</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parkas</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>Small</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-S</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>Medium</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-L</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-3XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>5X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-5XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-4XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529902124</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560250-2XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529869356</id>
+    <published>2019-12-12T23:06:18-05:00</published>
+    <updated>2019-12-12T23:06:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-quilted-cotton-safety-parka-v2560210"/>
+    <title>Flame Resistant Quilted Cotton Safety Parka -  Pioneer V2560210</title>
+    <s:type>Parkas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parkas-flame-resistant-quilted-cotton-safety-parka-pioneer-v2560210-13450543431724.jpg?v=1579663742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Parkas<br>
+        <strong>Price: </strong>
+            299.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">5523 - CSA Z96-15 Class 1 Level 2 and Class 1 Level FR</li><li class="extra-info"> 5533 - CSA Z96-15 Class 2 Level 2 and Class 2 Level FR</li><li class="extra-info"> 6.5 oz (220 GSM) modacrylic polyester blend FR insulation</li><li class="extra-info"> FR brass non-locking zipper</li><li class="extra-info"> Fleece hand warmers</li><li class="extra-info"> Underarm gussets for extra mobility</li><li class="extra-info"> 6 storage pockets: 2 back, 2 chest, 2 side</li><li class="extra-info"> Action back, elastic waist and aramid storm cuffs</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parkas</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>Small</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-S</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>Medium</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-M</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-L</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-2XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-3XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>5X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-5XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529869356</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">299.28</s:price>
+      <s:sku>SA JAC V2560210-4XL</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529803820</id>
+    <published>2019-12-12T23:06:16-05:00</published>
+    <updated>2019-12-12T23:06:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/fr-jacket-v2449320"/>
+    <title>FR Jacket -  Ranpro Pioneer V2449320</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-fr-jacket-ranpro-pioneer-v2449320-13450543398956.jpg?v=1579663620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            283.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">J162 310DH - 8 oz/yd² PVC on Dupont Nomex /Kevlar</li><li class="extra-info"> J163 310DH and J161 310DH - 10 oz/yd² PVC on Dupont Nomex /Kevlar</li><li class="extra-info"> Meets CGSB 155.20, 2000 Type 3</li><li class="extra-info"> Meets CSA Z96-09/ANSI 107 Class 2 Level 2 high-visibility safety apparel standards, CSA Class 3 when worn with Utili-Gard pants</li><li class="extra-info"> Meets ASTM F1891-06 Standard Specification for Arc and Flame Resistant Rainwear, NFPA 70E-12 and CSA Z462-12</li><li class="extra-info"> J162 310DH - ATPV 12.9 cal/cm², EBTAS 41.2 cal/cm², HAF 80%</li><li class="extra-info"> J163 310DH - ATPV 14 cal/cm², EBTAS 42.6 cal/cm², HAF 84.6%</li><li class="extra-info"> J161 310DH - ATPV 10.8 cal/cm², ETBAS 47.6 cal/cm², HAF 82.2%</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Dolman sleeve design for ease of movement</li><li class="extra-info"> FR brass zipper</li><li class="extra-info"> Outer storm flap with top to bottom FR hook and loop closure</li><li class="extra-info"> Inner storm flap for reduced heat transmission</li><li class="extra-info"> Form-fitting collar has pouch for detachable hood with FR hook and loop closure</li><li class="extra-info"> Hood sold separately</li><li class="extra-info"> Tab style FR hook and loop cuff adjustments</li><li class="extra-info"> Vented back</li><li class="extra-info"> FR elastic drawstring on inner bottom hem to prevent arc exposure</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>X-Small</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-XS</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>Small</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-S</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>Medium</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-M</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>Large</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-L</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-2XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-3XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529803820</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">283.79</s:price>
+      <s:sku>SA JAC V2449320-4XL</s:sku>
+      <s:grams>600</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529771052</id>
+    <published>2019-12-12T23:06:16-05:00</published>
+    <updated>2019-12-12T23:06:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/fr-jacket-in-orange-v2246450"/>
+    <title>FR Jacket in Orange -  Ranpro Pioneer V2246450</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-fr-jacket-in-orange-ranpro-pioneer-v2246450-13450543333420.jpg?v=1579663686"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            506.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">14 oz/yd² low smoke Neoprene on Dupont Nomex</li><li class="extra-info"> Meets FR ASTM F1891-06 Standard Specifications for Arc and Flame Resistant Rainwear</li><li class="extra-info"> ARC 2 rating: ATPV 13.3 cal/cm², EBTAS 40.8 cal/cm², HAF 80.6%</li><li class="extra-info"> NFPA 70E and CSA Z462-12</li><li class="extra-info"> Meets CGSB 155.20-2000 Workwear for Protection Against Hydrocarbon Flash Fire</li><li class="extra-info"> Type 1 single layer garment</li><li class="extra-info"> TPP: with spacer 15, without spacer 4</li><li class="extra-info"> Meets ASTM F2733 Standard Specification for Flame Resistant Rainwear for Protection Against Flame Hazards</li><li class="extra-info"> Meets CSA Z96-09/ANSI/ISEA 107-10 Class 2 Level 2 and Class 3 Level 2 when worn with pant</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Inner and outer storm flaps/zipper closure</li><li class="extra-info"> Hard hat sized hood rolls up in collar (sold separately)</li><li class="extra-info"> Angled collar under the chin with FR hook and loop closure</li><li class="extra-info"> Two front pockets with flaps and FR hook and loop closure</li><li class="extra-info"> Dolman sleeve design</li><li class="extra-info"> Inner elastic cuffs</li><li class="extra-info"> Tab style hook and loop cuff adjustments</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529771052</id>
+      <title>Small</title>
+      <s:price currency="CAD">506.17</s:price>
+      <s:sku>SA JAC V2246450-S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529771052</id>
+      <title>Medium</title>
+      <s:price currency="CAD">506.17</s:price>
+      <s:sku>SA JAC V2246450-M</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529771052</id>
+      <title>Large</title>
+      <s:price currency="CAD">506.17</s:price>
+      <s:sku>SA JAC V2246450-L</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529771052</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">506.17</s:price>
+      <s:sku>SA JAC V2246450-XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529771052</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">506.17</s:price>
+      <s:sku>SA JAC V2246450-2XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529771052</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">506.17</s:price>
+      <s:sku>SA JAC V2246450-3XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529771052</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">506.17</s:price>
+      <s:sku>SA JAC V2246450-4XL</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529672748</id>
+    <published>2019-12-12T23:06:11-05:00</published>
+    <updated>2019-12-12T23:06:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/fr-and-chemical-protective-jacket-in-green-v2241940"/>
+    <title>FR and Chemical Protective Jacket in Green -  Ranpro Pioneer V2241940</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-fr-and-chemical-protective-jacket-in-green-ranpro-pioneer-v2241940-13450543202348.jpg?v=1579663536"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            107.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">10 oz/yd² FR PVC/polyester</li><li class="extra-info"> Meets CGSB 155.20-2000, Type 3</li><li class="extra-info"> Recommended for "Momentary Protection from Open Flame"</li><li class="extra-info"> Resistant to chemicals as per ASTM F739-07</li><li class="extra-info"> J43 320 - StarTech FR reflective tape</li><li class="extra-info"> RF welded watertight seams</li><li class="extra-info"> Non-conductive collar snaps to attach hood (sold separately)</li><li class="extra-info"> Generous styling fits over work clothes</li><li class="extra-info"> J43 380 - Raglan sleeves for ease of movement and added comfort, brass zipper closure with concealed outer non-conductive snaps, inner cone cuff designed to grip glove and create a seal around wrist, double storm flap, two-snap cuff adjustment</li><li class="extra-info"> J43 320 - Dolman sleeves for ease of movement and added comfort, snap front closure, durable non-conductive plastic snaps, CSA Class 1 Level 2 (ANSI/ISEA 107-15 Class 1 Type O)</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529672748</id>
+      <title>Small</title>
+      <s:price currency="CAD">107.73</s:price>
+      <s:sku>SA JAC V2241940-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529672748</id>
+      <title>Large</title>
+      <s:price currency="CAD">107.73</s:price>
+      <s:sku>SA JAC V2241940-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529672748</id>
+      <title>Medium</title>
+      <s:price currency="CAD">107.73</s:price>
+      <s:sku>SA JAC V2241940-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529672748</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">107.73</s:price>
+      <s:sku>SA JAC V2241940-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529672748</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">107.73</s:price>
+      <s:sku>SA JAC V2241940-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529672748</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">107.73</s:price>
+      <s:sku>SA JAC V2241940-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529672748</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">107.73</s:price>
+      <s:sku>SA JAC V2241940-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529639980</id>
+    <published>2019-12-12T23:06:11-05:00</published>
+    <updated>2019-12-12T23:06:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/fr-and-chemical-protective-coat-in-green-v2241740"/>
+    <title>FR and Chemical Protective Coat in Green -  Ranpro Pioneer V2241740</title>
+    <s:type>Coats</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/coats-fr-and-chemical-protective-coat-in-green-ranpro-pioneer-v2241740-13450543136812.jpg?v=1579663411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Coats<br>
+        <strong>Price: </strong>
+            136.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">10 oz/yd² FR PVC/polyester</li><li class="extra-info"> Meets CGSB 155.20-2000, Type 3</li><li class="extra-info"> Recommended for "Momentary Protection from Open Flame"</li><li class="extra-info"> Resistant to chemicals as per ASTM F739-07</li><li class="extra-info"> Meets CSA Class 1 Level 2</li><li class="extra-info"> StarTech FR reflective tape</li><li class="extra-info"> Dolman sleeves for ease of movement and added comfort</li><li class="extra-info"> Collar with snaps to attach hood (sold separately)</li><li class="extra-info"> Snap front closure</li><li class="extra-info"> Inner cone cuff designed to grip glove and create a seal around wrist</li><li class="extra-info"> Durable non-conductive plastic snaps</li><li class="extra-info"> RF welded watertight seams</li><li class="extra-info"> Generous styling fits over work clothes</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Coats</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-3XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529639980</id>
+      <title>Large</title>
+      <s:price currency="CAD">136.76</s:price>
+      <s:sku>SA JAC V2241740-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529639980</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">136.76</s:price>
+      <s:sku>SA JAC V2241740-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529639980</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">136.76</s:price>
+      <s:sku>SA JAC V2241740-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529639980</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">136.76</s:price>
+      <s:sku>SA JAC V2241740-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529607212</id>
+    <published>2019-12-12T23:06:10-05:00</published>
+    <updated>2019-12-12T23:06:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/fr-and-chemical-protective-jacket-in-green-v2240640"/>
+    <title>FR and Chemical Protective Jacket in Green -  Ranpro Pioneer V2240640</title>
+    <s:type>Jackets</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/jackets-fr-and-chemical-protective-jacket-in-green-ranpro-pioneer-v2240640-13450543267884.jpg?v=1579663502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Jackets<br>
+        <strong>Price: </strong>
+            102.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">10 oz/yd² FR PVC/polyester</li><li class="extra-info"> Meets CGSB 155.20-2000, Type 3</li><li class="extra-info"> Recommended for "Momentary Protection from Open Flame"</li><li class="extra-info"> Resistant to chemicals as per ASTM F739-07</li><li class="extra-info"> J43 320 - StarTech FR reflective tape</li><li class="extra-info"> RF welded watertight seams</li><li class="extra-info"> Non-conductive collar snaps to attach hood (sold separately)</li><li class="extra-info"> Generous styling fits over work clothes</li><li class="extra-info"> J43 380 - Raglan sleeves for ease of movement and added comfort, brass zipper closure with concealed outer non-conductive snaps, inner cone cuff designed to grip glove and create a seal around wrist, double storm flap, two-snap cuff adjustment</li><li class="extra-info"> J43 320 - Dolman sleeves for ease of movement and added comfort, snap front closure, durable non-conductive plastic snaps, CSA Class 1 Level 2 (ANSI/ISEA 107-15 Class 1 Type O)</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Jackets</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Ranpro</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529607212</id>
+      <title>Small</title>
+      <s:price currency="CAD">102.59</s:price>
+      <s:sku>SA JAC V2240640-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529607212</id>
+      <title>Medium</title>
+      <s:price currency="CAD">102.59</s:price>
+      <s:sku>SA JAC V2240640-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529607212</id>
+      <title>Large</title>
+      <s:price currency="CAD">102.59</s:price>
+      <s:sku>SA JAC V2240640-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529607212</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">102.59</s:price>
+      <s:sku>SA JAC V2240640-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529607212</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">102.59</s:price>
+      <s:sku>SA JAC V2240640-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529607212</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">102.59</s:price>
+      <s:sku>SA JAC V2240640-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529607212</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">102.59</s:price>
+      <s:sku>SA JAC V2240640-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367529508908</id>
+    <published>2019-12-12T23:06:09-05:00</published>
+    <updated>2019-12-12T23:06:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/hi-viz-quilted-cotton-duck-parka-v206038a"/>
+    <title>Hi-Viz Quilted Cotton Duck Parka -  Pioneer V206038A</title>
+    <s:type>Parkas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parkas-hi-viz-quilted-cotton-duck-parka-pioneer-v206038a-13450543038508.jpg?v=1579663445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Parkas<br>
+        <strong>Price: </strong>
+            129.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">100% cotton duck canvas, 10.5 oz (350 GSM) with 6.5 oz (220 GSM) poly filling</li><li class="extra-info"> 5535A/5535BKA - CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> 5537A - CSA Z96-15 Class 2 Level 2</li><li class="extra-info"> Double-stitched StarTech reflective tape with combined-performance trim</li><li class="extra-info"> Brass zipper plus snap closure storm placket</li><li class="extra-info"> Radiophone clip strap</li><li class="extra-info"> 5 storage pockets: 4 front, 1 inside chest</li><li class="extra-info"> Drawstring waist and storm cuffs</li><li class="extra-info"> Snaps on collar to attach 539/538BK/538 hood (sold separately)</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Navy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parkas</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Size Range</li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Navy</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA JAC</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529508908</id>
+      <title>Small</title>
+      <s:price currency="CAD">129.13</s:price>
+      <s:sku>SA JAC V206038A-S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529508908</id>
+      <title>Medium</title>
+      <s:price currency="CAD">129.13</s:price>
+      <s:sku>SA JAC V206038A-M</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529508908</id>
+      <title>X-Large</title>
+      <s:price currency="CAD">129.13</s:price>
+      <s:sku>SA JAC V206038A-XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529508908</id>
+      <title>Large</title>
+      <s:price currency="CAD">129.13</s:price>
+      <s:sku>SA JAC V206038A-L</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529508908</id>
+      <title>4X-Large</title>
+      <s:price currency="CAD">129.13</s:price>
+      <s:sku>SA JAC V206038A-4XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529508908</id>
+      <title>3X-Large</title>
+      <s:price currency="CAD">129.13</s:price>
+      <s:sku>SA JAC V206038A-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367529508908</id>
+      <title>2X-Large</title>
+      <s:price currency="CAD">129.13</s:price>
+      <s:sku>SA JAC V206038A-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

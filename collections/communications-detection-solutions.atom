@@ -1,0 +1,1037 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/communications-detection-solutions.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:16-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037653036</id>
+    <published>2019-12-04T10:30:16-05:00</published>
+    <updated>2019-12-04T10:30:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3551b"/>
+    <title>3M 3551B  - 3M Ethylene Oxide Monitor 3551B, Bulk 50/Case 3551B 7000126239</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3551b-3m-ethylene-oxide-monitor-3551b-bulk-50-case-3551b-7000126239-13120529596460.jpg?v=1580202424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1666.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Ethylene Oxide Monitor 3551B, Bulk 50/Case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037653036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1666.63</s:price>
+      <s:sku>ES DET 3551B</s:sku>
+      <s:grams>1769</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037882412</id>
+    <published>2019-12-04T10:30:12-05:00</published>
+    <updated>2019-12-04T10:30:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3520b"/>
+    <title>3M 3520B  - 3M Organic Vapour Monitor with Backup Section, 3520B, bulk, 50/case 3520B 7000126168</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3520b-3m-organic-vapour-monitor-with-backup-section-3520b-bulk-50-case-3520b-7000126168-13120529825836.jpg?v=1580175898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1635.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Organic Vapour Monitor with Backup Section, 3520B, bulk, 50/case</h4> <li class="extra-info">The 3M™ Organic Vapour Monitor with Backup Section, 3520B makes it easy to measure air quality hazards by detecting compounds for which activated carbon shows limited capacity</li><li class="extra-info">The 3M™ Organic Vapour Monitor uses sorbent pads to collect and diffuse vapours with an accuracy of +/-25% at a 95% confidence level</li><li class="extra-info">This product comes in bulk and each monitor has an 18-month shelf life.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0vlY_UPx2vnv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">This product comes in bulk with 25 monitors per case</li><li class="extra-info"> No batteries, hoses or pumps required to operate</li><li class="extra-info"> Simple and convenient—just clip the monitor to a shirt lapel, collar, or pocket</li><li class="extra-info"> Small and lightweight—won't interfere with employee activities</li><li class="extra-info"> Can be analyzed by a lab of your choice</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037882412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1635.91</s:price>
+      <s:sku>ES DET 3520B</s:sku>
+      <s:grams>2131</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048302636</id>
+    <published>2019-12-04T10:28:05-05:00</published>
+    <updated>2019-12-04T10:28:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fl6ba"/>
+    <title>3M FL6BA  - Fl6Ba Adaptor Cable For Protac xp Fl6Ba 7000108504</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-fl6ba-fl6ba-adaptor-cable-for-protac-xp-fl6ba-7000108504-13120543719468.jpg?v=1580298333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            156.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">FL6BA ADAPTOR CABLE FOR PROTAC XP</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048302636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">156.01</s:price>
+      <s:sku>ES DET FL6BA</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048433708</id>
+    <published>2019-12-04T10:28:04-05:00</published>
+    <updated>2019-12-04T10:28:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tk52"/>
+    <title>3M TK52  - Tk52 Mc-Ptt Red Tk52 7000107833</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tk52-tk52-mc-ptt-red-tk52-7000107833-13120543785004.jpg?v=1578805560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            97.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">TK52 MC-PTT RED</h4> <li class="extra-info">This Push-to-Talk (PTT) 6.5-foot cord with large button assists with clear, communication in the radio set-ups of the 3M™ Peltor™ Circuit Racing Solutions</li><li class="extra-info">It offers the ability to switch between voice reception and transmit modes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Allows user to switch from voice reception mode to transmit mode</li><li class="extra-info"> Compatible with 3M™ Peltor™ Circuit Racing Solutions</li><li class="extra-info"> Works in conjunction with radio set-ups for clear, high-quality communication</li><li class="extra-info"> Ability to connect to Peltor™ Intercom or straight to comm</li><li class="extra-info">radio</li><li class="extra-info"> Assists with clear, reliable communication in noisy racing environment</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048433708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">97.41</s:price>
+      <s:sku>ES DET TK52</s:sku>
+      <s:grams>938</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048466476</id>
+    <published>2019-12-04T10:28:03-05:00</published>
+    <updated>2019-12-04T10:28:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-a44"/>
+    <title>3M A44  - A44 Microphone Guide For Comtac A44 7000107796</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-a44-a44-microphone-guide-for-comtac-a44-7000107796-13120543817772.jpg?v=1580243370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">A44 MICROPHONE GUIDE FOR COMTAC</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048466476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.33</s:price>
+      <s:sku>ES DET A44</s:sku>
+      <s:grams>6218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255058264108</id>
+    <published>2019-12-04T10:26:00-05:00</published>
+    <updated>2019-12-04T10:26:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ack05"/>
+    <title>3M ACK05  - Ack05 Rechargeable Ack Pack Forlite-Com Ack05 7000009682</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ack05-ack05-rechargeable-ack-pack-forlite-com-ack05-7000009682-13120552271916.jpg?v=1580121418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ACK05 RECHARGEABLE ACK PACK FORLITE-COM</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Sweden</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255058264108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.06</s:price>
+      <s:sku>ES DET ACK05</s:sku>
+      <s:grams>11049</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255018549292</id>
+    <published>2019-10-16T00:27:59-04:00</published>
+    <updated>2019-10-16T00:27:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ack053"/>
+    <title>3M ACK053  - Ack053 Accumulater Pack Nimh 2.4V 1900Mah Ack053 7100075338</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ack053-ack053-accumulater-pack-nimh-2-4v-1900mah-ack053-7100075338-13120510820396.jpg?v=1580262936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ACK053 ACCUMULATR PACK NiMH 2.4V 1900mAh</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255018549292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.52</s:price>
+      <s:sku>ES DET ACK053</s:sku>
+      <s:grams>11049</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255008882732</id>
+    <published>2019-10-16T00:22:36-04:00</published>
+    <updated>2019-10-16T00:22:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-mt73-1"/>
+    <title>3M MT73/1  - Mt73/1 7100112094</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-mt73-1-mt73-1-7100112094-13120486965292.jpg?v=1580332895"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            145.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">MT73/1 Standard microphone dynamic</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">France</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255008882732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">145.58</s:price>
+      <s:sku>ES DET MT73/1</s:sku>
+      <s:grams>2526</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254987943980</id>
+    <published>2019-10-16T00:08:15-04:00</published>
+    <updated>2019-10-16T00:08:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3500"/>
+    <title>3M 3500  - 3M Organic Vapour Monitor, 3500B 3500 7000001878</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3500-3m-organic-vapour-monitor-3500b-3500-7000001878-13120447938604.jpg?v=1580176021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            310.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Organic Vapour Monitor, 3500B</h4> <li class="extra-info">The 3M Organic Vapour Monitor, 3500B makes it easy to measure air quality hazards by detecting possible organic contaminants in the air</li><li class="extra-info">The 3M Organic Vapour Monitor uses a single charcoal adsorbent wafer to collect and diffuse organic vapours with an accuracy of +/-25% at a 95% confidence level</li><li class="extra-info">This product has an 18-month shelf life.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZN5lY_UPx2vnvViI17zHvu07zUUlSSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">No batteries, hoses or pumps required to operate</li><li class="extra-info"> Simple and convenient—just clip the monitor to a shirt lapel, collar, or pocket</li><li class="extra-info"> Small and lightweight—won't interfere with employee activities</li><li class="extra-info"> Can be anaylzed by a lab of your choice</li><li class="extra-info"> Help ensure your safety with a portable gas detector</li><li class="extra-info"> Gas monitoring system allows you to work in confidence</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254987943980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">310.71</s:price>
+      <s:sku>ES DET 3500</s:sku>
+      <s:grams>439</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254927847468</id>
+    <published>2019-10-15T22:20:51-04:00</published>
+    <updated>2019-10-15T22:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pg2008uv-sti"/>
+    <title>3M Peltor PG2008UV-STI  - Can Stih Lumjkv1A 1/C 7000103836</title>
+    <s:type>Communications</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/communications-3m-peltor-pg2008uv-sti-can-stih-lumjkv1a-1-c-7000103836-13120334200876.jpg?v=1580069167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Communications<br>
+        <strong>Price: </strong>
+            56.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Peltor STIHL Lumberjack Kit, PG2008UV-STI</h4> <li class="extra-info">The 3M ™ Peltor ™ Lumberjack Kit is a hard helmet system that is designed to protect your head, face, and hearing</li><li class="extra-info">The 3M ™ Peltor ™ Lumberjack Kit is great for tree work it helps protect against debris, including wood and small flying objects</li><li class="extra-info">It also offers excellent noise attenuation</li><li class="extra-info">The kit includes a hard hat, visor, and ear protectors for total protection</li><li class="extra-info">The 3M ™ Peltor ™ Lumberjack Kit is designed for the agriculture and forestry sectors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Peltor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Communications</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Work with confidence in gear that meets CSA hard hat classifications</li><li class="extra-info">Specifically designed for tree work, the 3M™ Peltor™ STIHL® Lumberjack Kit has you protected.</li><h2>Product Information</h2><li class="extra-info">System combines head, face, and hearing protection</li><li class="extra-info"> 4 point Ratchet Suspension Hard Hat for head protection against falling objects and debris specifically in forestry and tree work</li><li class="extra-info"> Helps protect against debris</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>Line_Peltor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254927847468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.54</s:price>
+      <s:sku>ES DET PG2008UV-STI</s:sku>
+      <s:grams>920</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4029351329836</id>
+    <published>2019-09-02T14:08:54-04:00</published>
+    <updated>2019-09-02T14:08:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2139"/>
+    <title>3M Littmann 2139  - Master Classic Ii Teaching Stethoscope Black / Burgundy Tube 40 in (101.6 cm) 7100139201</title>
+    <s:type>Diagnosis</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/diagnosis-3m-littmann-2139-master-classic-ii-teaching-stethoscope-black-burgundy-tube-40-in-101-6-cm-7100139201-12168338440236.jpg?v=1580060642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Diagnosis<br>
+        <strong>Price: </strong>
+            192.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Littmann Master Classic II Teaching Stethoscope, 2139, black/burgundy tube, 40 in (101.6 cm)</h4> <li class="extra-info">With its dual headsets, the 3M™ Littmann® Master Classic II™ Teaching Stethoscope allows instructors and students to simultaneously auscultate patients with excellent acoustic sensitivity.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Littmann</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black- Burgandy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Diagnosis</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high quality stethoscopes are available in two chestpiece options that offer both bell and diaphragm mode auscultation</li><li class="extra-info">The traditional style chestpiece of the 3M™ Littmann®Classic II S.E</li><li class="extra-info">stethoscope or the single-sided tunable chestpiece design of</li><h2>Product Information</h2><li class="extra-info">Perform patient auscultation simultaneously with students in real time</li><li class="extra-info"> Long 40” (101.6 cm) length allows you to move around patients more easily</li><li class="extra-info"> Comfortable to use</li><li class="extra-info"> Tunable diaphragm technology allows you to hear low and high frequency by applying pressure</li><li class="extra-info"> Includes patented snap-tight soft-sealing eartips</li><li class="extra-info"> See Littmann.ca/WarrantyRepairs for limited warranty details</li><li class="extra-info"> Comfortable fit and excellent acoustic seal with patented snap-tight soft sealing eartips</li><li class="extra-info"> You will get optimal sound transmission with its anatomically designed headset which strategically and comfortably fits in your ear canal</li><li class="extra-info">So durable, it can be reliably flexed one million times</li><li class="extra-info"> See Littmann.ca/WarrantyRepairs for limited warranty details</li><li class="extra-info"> Latex free.</li><h2>Suggested Application</h2><li class="extra-info">Used as a diagnostic aid as part of the physical assessment of a patient.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black- Burgandy</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>Line_Littmann</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4029351329836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">192.70</s:price>
+      <s:sku>ES DET 2139</s:sku>
+      <s:grams>585</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4029351297068</id>
+    <published>2019-09-02T14:08:54-04:00</published>
+    <updated>2019-09-02T14:08:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2147"/>
+    <title>3M Littmann 2147  - Master Classic II Stethoscope Navy Blue Tube 27 in (68.6 cm) 7000002655</title>
+    <s:type>Diagnostic</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/diagnostic-3m-littmann-2147-master-classic-ii-stethoscope-navy-blue-tube-27-in-68-6-cm-7000002655-12168337555500.jpg?v=1580330521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Diagnostic<br>
+        <strong>Price: </strong>
+            169.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Littmann Master Classic II Stethoscope, 2147, navy blue tube, 27 in (68.6 cm)</h4> <li class="extra-info">The 3M™ Littmann® Master Classic II™ Stethoscope combines ergonomic design with excellent acoustic sensitivity to deliver reliable performance, and comfortable use to professionals dedicated to providing only the best in patient care</li><li class="extra-info">It features a patented tunable diaphragm that alternates between low and high frequency sounds with a simple pressure change on the chestpiece</li><li class="extra-info"> a hand-polished alloy chestpiece</li><li class="extra-info"> high performance single-lumen tubing</li><li class="extra-info"> patented snap-tight, soft-sealing eartips</li><li class="extra-info"> a comfortably angled anatomically correct headset</li><li class="extra-info"> and a patient-friendly, non-chill rim and diaphragm</li><li class="extra-info">Ideal for students and medical professionals alike.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Littmann</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Diagnostic</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Pressure-based sound frequency adjustment with tunable diaphragm</li><li class="extra-info"> Anatomically designed headset</li><li class="extra-info"> Includes patented soft-sealing eartips</li><li class="extra-info"> Durable design</li><li class="extra-info"> See Littmann.ca/WarrantyRepairs for limited warranty details</li><li class="extra-info"> Available in a variety of tube colours and chestpiece finishes</li><li class="extra-info"> Suit your style by selecting a tube colour and chestpiece finish that fits you</li><li class="extra-info"> See Littmann.ca/WarrantyRepairs for limited warranty details</li><li class="extra-info"> Latex free</li><h2>Suggested Application</h2><li class="extra-info">Used as a diagnostic tool as part of the physical assessment of cardiac, adult and pediatric patients</li><li class="extra-info">Ideally suited for certified nursing assistants, EMTs, entry level nurse, licensed vocational nurse, medical assistants, nursing students or registered n</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>Line_Littmann</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4029351297068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.73</s:price>
+      <s:sku>ES DET 2147</s:sku>
+      <s:grams>409</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812715241516</id>
+    <published>2019-05-11T08:56:26-04:00</published>
+    <updated>2019-05-11T08:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87707"/>
+    <title>Gray 87707  - Carbon Monoxide Analyzer With Carrying Case</title>
+    <s:type>Detection Solutions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detection-solutions-gray-87707-carbon-monoxide-analyzer-with-carrying-case-12747736350764.png?v=1579256001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Detection Solutions<br>
+        <strong>Price: </strong>
+            1288.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detection Solutions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812715241516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1288.23</s:price>
+      <s:sku>ES DET 87707</s:sku>
+      <s:grams>1700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812701937708</id>
+    <published>2019-05-11T08:51:24-04:00</published>
+    <updated>2019-05-11T08:51:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87708"/>
+    <title>Gray 87708  - Combustion Analyzer With Carrying Case</title>
+    <s:type>Detection Solutions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detection-solutions-gray-87708-combustion-analyzer-with-carrying-case-12747718066220.png?v=1579256128"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Detection Solutions<br>
+        <strong>Price: </strong>
+            1763.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detection Solutions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812701937708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1763.73</s:price>
+      <s:sku>ES DET 87708</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812683227180</id>
+    <published>2019-05-11T08:44:06-04:00</published>
+    <updated>2019-05-11T08:44:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87720"/>
+    <title>Gray 87720  - Multimeter Combustible Gas Leak Detector</title>
+    <s:type>Detection Solutions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detection-solutions-gray-87720-multimeter-combustible-gas-leak-detector-12747692048428.png?v=1579256430"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Detection Solutions<br>
+        <strong>Price: </strong>
+            484.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detection Solutions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812683227180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">484.29</s:price>
+      <s:sku>ES DET 87720</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812682866732</id>
+    <published>2019-05-11T08:43:56-04:00</published>
+    <updated>2019-05-11T08:43:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87750"/>
+    <title>Gray 87750  - Multimeter Refridgerant Leak Detector</title>
+    <s:type>Detection Solutions</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detection-solutions-gray-87750-multimeter-refridgerant-leak-detector-12747691884588.png?v=1579256484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Detection Solutions<br>
+        <strong>Price: </strong>
+            495.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detection Solutions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812682866732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">495.57</s:price>
+      <s:sku>ES DET 87750</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737128968236</id>
+    <published>2019-03-16T01:55:59-04:00</published>
+    <updated>2019-03-16T01:55:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3100nb"/>
+    <title>3M Littmann 3100NB  - Electronic Stethoscope Navy Blue Tube 27 in (68.6 cm) 7000030378</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-littmann-3100nb-electronic-stethoscope-navy-blue-tube-27-in-68-6-cm-7000030378-12749101039660.jpg?v=1580330575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            615.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Littmann® Electronic Stethoscope, 3100NB, navy blue tube, 27 in (68.6 cm)</h4> <li class="extra-info">Comfortable and surprisingly lightweight, the sleek and sophisticated 3M Littmann® Electronic Stethoscope model 3100 offers Ambient Noise Reduction technology and sound amplification to help you hear with confidence.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Littmann</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Marine Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Eliminate an average of 85% of ambient noise</li><li class="extra-info">Amplify sounds up to 24 times</li><li class="extra-info">Bell and Diaphragm mode</li><li class="extra-info">Includes patented 3M Littmann® Snap Tight Soft-Sealing Eartips</li><li class="extra-info">Non-chill diaphragm cover</li><li class="extra-info">Durable, latex-free design</li><li class="extra-info">Two-year warranty</li><li class="extra-info">Two-year warranty</li><li class="extra-info">3M Littmann® Electronic Stethoscopes are available in a variety of tube colours and chestpiece finishes</li><h2>Suggested Application</h2><li class="extra-info">Reduce frictional noise</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Marine Blue</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>Line_Littmann</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737128968236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">615.87</s:price>
+      <s:sku>ES DET 3100NB</s:sku>
+      <s:grams>2104</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122210250796</id>
+    <published>2018-08-03T18:13:49-04:00</published>
+    <updated>2018-08-03T18:13:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-529-05-20"/>
+    <title>3M 529-05-20  - Remote Alarm 529-05-21 7000131708</title>
+    <s:type>Detection Solutions</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detection-solutions-3m-529-05-20-remote-alarm-529-05-21-7000131708-12794961821740.jpg?v=1580160179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Detection Solutions<br>
+        <strong>Price: </strong>
+            638.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Remote Alarm, 529-05-20</h4> <li class="extra-info">3M Remote Alarm 529-05-20 may be used with the carbon monoxide monitor in the 3M Portable Compressed Air Filter and Regulator Panel 256-02-00, 256-02-01 and the 3M Retrofit Carbon Monoxide Monitor Kit W-2808</li><li class="extra-info">It provides an audible signal outside the work area if the carbon monoxide level exceeds the preset level.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detection Solutions</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122210250796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">638.31</s:price>
+      <s:sku>ES DET 529-05-20</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121663680556</id>
+    <published>2018-08-03T14:16:54-04:00</published>
+    <updated>2018-08-03T14:16:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2160"/>
+    <title>3M Littmann 2160  - Master Cardiology Stethoscope Black Tube 27 Inch (6 cm) 7000002615</title>
+    <s:type>Cardiology</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cardiology-3m-littmann-2160-master-cardiology-stethoscope-black-tube-27-inch-6-cm-7000002615-12749101072428.jpg?v=1580060491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Cardiology<br>
+        <strong>Price: </strong>
+            338.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Littmann Master Cardiology Stethoscope, 2160, black tube, 27 in (69 cm)</h4> <li class="extra-info">Reward your achievement with a mark of distinction—the 3M™ Littmann® Master Cardiology™ Stethoscope</li><li class="extra-info">With its handcrafted stainless steel chestpiece, this top-of-the-line stethoscope is designed for peak performance</li><li class="extra-info">It features a patented tunable diaphragm that conveniently alternates between low and high frequency sounds with a simple change of pressure on the chestpiece.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Littmann</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cardiology</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Anatomically designed headset</li><li class="extra-info"> Two-in-one tube design helps eliminates noise from tubes rubbing together</li><li class="extra-info"> Pressure-based sound frequency adjustment with tunable diaphragm</li><li class="extra-info"> Special-procedures adaptor for neonatal or pediatric auscultation included</li><li class="extra-info"> Includes patented snap-tight soft-sealing eartips</li><li class="extra-info"> Non-chill rim and diaphragm</li><li class="extra-info"> Durable design</li><li class="extra-info"> See Littmann.ca/WarrantyRepairs for limited warranty details</li><li class="extra-info"> Available in a variety of tube colours and chestpiece finishes</li><li class="extra-info"> Suit your style by selecting a tube colour and chestpiece finish that fits you</li><h2>Suggested Application</h2><li class="extra-info">Cardiology/High Performance</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DET</s:tag>
+    <s:tag>Line_Littmann</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121663680556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">338.28</s:price>
+      <s:sku>ES DET 2160</s:sku>
+      <s:grams>536</s:grams>
+    </s:variant>
+  </entry>
+</feed>

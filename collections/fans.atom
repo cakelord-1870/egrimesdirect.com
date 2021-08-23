@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/fans.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T14:23:04-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813376172076</id>
+    <published>2019-05-11T14:23:04-04:00</published>
+    <updated>2019-05-11T14:23:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5301"/>
+    <title>Ideal Innovations 60-5301  - Dock Fan With 60 Inch Arm - Fandl60</title>
+    <s:type>Dock Fans</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dock-fans-ideal-innovations-60-5301-dock-fan-with-60-inch-arm-fandl60-12749257605164.jpg?v=1579343605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Dock Fans<br>
+        <strong>Price: </strong>
+            555.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations high capacity fan provides powerful ventilation and cooling solutions for the dock, warehouse or trailer</li><li class="extra-info">Each fan is supplied with a “Y” cord that enables the fan to be used separately or in conjunction with any Ideal Innovationdock light head and is available in 40” or 60” arm lengths</li><li class="extra-info">Featuring a low vibration, 18” fan, this system can move over 3,000 cubic feet of air per minute</li><li class="extra-info">Facilities realize increased safety and productivity by keeping employees cool on hot summer days</li><li class="extra-info">In the winter, it moves warm air around, keeping the warehouse more comfortable while reducing heating costs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dock Fans</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High output fan provides a safer and more comfortable environment for warehouse workers.</li><li class="extra-info"> Arm design allows fan to be mounted out of the way.</li><li class="extra-info"> Provides adjustable airflow.</li><li class="extra-info"> Durable design and construction for reduced maintenance costs.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813376172076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">555.69</s:price>
+      <s:sku>SH FAN 60-5301</s:sku>
+      <s:grams>19050</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813376204844</id>
+    <published>2019-05-11T14:23:03-04:00</published>
+    <updated>2019-05-11T14:23:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5302"/>
+    <title>Ideal Innovations 60-5302  - Dock Fan - Dlfan - Fan Only</title>
+    <s:type>Dock Fans</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dock-fans-ideal-innovations-60-5302-dock-fan-dlfan-fan-only-12749257572396.jpg?v=1579343637"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Dock Fans<br>
+        <strong>Price: </strong>
+            330.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations high capacity fans provides powerful ventilation and cooling solutions for the dock, warehouse or trailer</li><li class="extra-info">Each fan is supplied with a “Y” cord that enables the fan to be used separately or in conjunction with any Ideal Innovationdock light head and is available in 40” or 60” arm lengths</li><li class="extra-info">Featuring a low vibration, 18” fan, this system can move over 3,000 cubic feet of air per minute</li><li class="extra-info">Facilities realize increased safety and productivity by keeping employees cool on hot summer days</li><li class="extra-info">In the winter, it moves warm air around, keeping the warehouse more comfortable while reducing heating costs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dock Fans</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High output fan provides a safer and more comfortable environment for warehouse workers.</li><li class="extra-info"> Provides adjustable airflow.</li><li class="extra-info"> Durable design and construction for reduced maintenance costs.</li><li class="extra-info"> 3-speed.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813376204844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">330.27</s:price>
+      <s:sku>SH FAN 60-5302</s:sku>
+      <s:grams>13607</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813376139308</id>
+    <published>2019-05-11T14:23:03-04:00</published>
+    <updated>2019-05-11T14:23:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5303"/>
+    <title>Ideal Innovations 60-5303  - Heavy Duty Bracket</title>
+    <s:type>Dock Fans</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dock-fans-ideal-innovations-60-5303-heavy-duty-bracket-12749257539628.jpg?v=1579355871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Dock Fans<br>
+        <strong>Price: </strong>
+            104.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations Heavy Duty Bracket provides extra reinforcement for high capacity dock fans and dock lights</li><li class="extra-info">Supports Ideal Innovations heavy duty dock fans and lights.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dock Fans</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Heavy duty</li><li class="extra-info"> Easy to install</li><li class="extra-info"> Reinforced support of heavy dock lights and fans</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813376139308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">104.87</s:price>
+      <s:sku>SH FAN 60-5303</s:sku>
+      <s:grams>3628</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813376106540</id>
+    <published>2019-05-11T14:23:03-04:00</published>
+    <updated>2019-05-11T14:23:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5300"/>
+    <title>Ideal Innovations 60-5300  - Dock Fan With 40 Inch Arm - Fandl40</title>
+    <s:type>Dock Fans</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dock-fans-ideal-innovations-60-5300-dock-fan-with-40-inch-arm-fandl40-12749257670700.jpg?v=1579343513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Dock Fans<br>
+        <strong>Price: </strong>
+            527.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations high capacity fan provides powerful ventilation and cooling solutions for the dock, warehouse or trailer</li><li class="extra-info">Each fan is supplied with a “Y” cord that enables the fan to be used separately or in conjunction with any Ideal Innovationdock light head and is available in 40” or 60” arm lengths</li><li class="extra-info">Featuring a low vibration, 18” fan, this system can move over 3,000 cubic feet of air per minute</li><li class="extra-info">Facilities realize increased safety and productivity by keeping employees cool on hot summer days</li><li class="extra-info">In the winter, it moves warm air around, keeping the warehouse more comfortable while reducing heating costs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dock Fans</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High output fan provides a safer and more comfortable environment for warehouse workers.</li><li class="extra-info"> Arm design allows fan to be mounted out of the way.</li><li class="extra-info"> Provides adjustable airflow.</li><li class="extra-info"> Durable design and construction for reduced maintenance costs.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813376106540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">527.52</s:price>
+      <s:sku>SH FAN 60-5300</s:sku>
+      <s:grams>16782</s:grams>
+    </s:variant>
+  </entry>
+</feed>

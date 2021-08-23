@@ -1,0 +1,640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/construction-structural-sealants.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-06T15:24:42-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352234553388</id>
+    <published>2019-12-06T15:24:42-05:00</published>
+    <updated>2019-12-06T15:24:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/lepage-1403221"/>
+    <title>Lepage 1403221  - Construction Structrual Pl Premium Adhesive (295 ml)</title>
+    <s:type></s:type>
+    <s:vendor>Lepage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/lepage-1403221-construction-structrual-pl-premium-adhesive-295-ml-13427279364140.png?v=1579668725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lepage<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Lepage</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">9.975 fl. Oz, 295 ml</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Volume_9.975 fl. Oz295 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352234553388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.27</s:price>
+      <s:sku>AD CNN 1403221 295ML</s:sku>
+      <s:grams>1115</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025987628</id>
+    <published>2019-10-16T00:32:50-04:00</published>
+    <updated>2019-10-16T00:32:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ec-1300-yel-pint"/>
+    <title>3M EC-1300-YEL-PINT  - 3M Scotch-Weld Neoprene High Performance Rubber And Gasket Adhesive EC-1300 Yellow, 1 pt, 12 per case EC-1300-YEL-PINT 7100023581</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ec-1300-yel-pint-3m-scotch-weld-neoprene-high-performance-rubber-and-gasket-adhesive-ec-1300-yellow-1-pt-12-per-case-ec-1300-yel-pint-7100023581-13120517898284.jpg?v=1580294459"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Weld(TM) Neoprene High Performance Rubber And Gasket Adhesive EC-1300 Yellow, 1 pt, 12 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMY_UMxt1Pv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025987628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.97</s:price>
+      <s:sku>AD CNN EC-1300-YEL-PINT</s:sku>
+      <s:grams>521</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254995251244</id>
+    <published>2019-10-16T00:12:36-04:00</published>
+    <updated>2019-10-16T00:12:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4274"/>
+    <title>3M 4274  - Noise, Vibration &amp; Harshness Dampening Material black/clear, 6.8 fl. oz. (200 ml) 7100004038</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4274-noise-vibration-harshness-dampening-material-black-clear-6-8-fl-oz-200-ml-7100004038-13120468090924.jpg?v=1580168698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            70.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Noise, Vibration &amp; Harshness Dampening Material, 04274, black/clear, 6.8 fl. oz. (200 ml)</h4> <li class="extra-info">3M™ Noise, Vibration &amp; Harshness Dampening Material is a flexible adhesive-type material used to reduce noise and vibration between panels where a long work time is required</li><li class="extra-info">This product can be applied between roof skins and roof bows, door skins and door intrusion beams, or other areas using non-structural type foam materials, providing up to 1 inch (2.54 cm) thick layer of flexible material on vertical and overhead applications</li><li class="extra-info">It can also be applied over existing damping material as long as the original material is still integrally bonded.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMx2vNxmxnv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black, Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">6.8 fl. Oz, 200 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">60 minute work time</li><li class="extra-info"> Remains very soft, yet sturdy</li><li class="extra-info"> Will not degrade</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Color_BlackClear</s:tag>
+    <s:tag>Volume_6.8 fl. Oz200 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254995251244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.35</s:price>
+      <s:sku>AD CNN 4274</s:sku>
+      <s:grams>385</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736557985836</id>
+    <published>2019-03-15T19:13:02-04:00</published>
+    <updated>2019-03-15T19:13:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-525-cart-gry"/>
+    <title>3M 525-CART-GRY  - Polyurethane Construction Sealant 525 in Gray 10.5 fl. Oz Cartridge 7000121504</title>
+    <s:type>Structural Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/structural-adhesives-3m-525-cart-gry-polyurethane-construction-sealant-525-in-gray-10-5-fl-oz-cartridge-7000121504-12747122475052.jpg?v=1580160663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Structural Adhesives<br>
+        <strong>Price: </strong>
+            7.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyurethane Construction Sealant 525 Gray, 10.5 Fluid Ounce Cartridge, 12 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Structural Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">10.5 fl. Oz, 310 ml</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Color_Gray</s:tag>
+    <s:tag>Volume_10.5 fl. Oz310 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736557985836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.40</s:price>
+      <s:sku>AD CNN 525-CART-GRY</s:sku>
+      <s:grams>438</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1139119423532</id>
+    <published>2018-08-10T18:03:49-04:00</published>
+    <updated>2018-08-10T18:03:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dp8010-490ml"/>
+    <title>3M Scotch-Weld DP8010-490ML  - Structural Plastic Adhesive DP8010 in Blue (490 ml) Duo-Pak 7100036719</title>
+    <s:type>Structural Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/structural-adhesives-3m-scotch-weld-dp8010-490ml-structural-plastic-adhesive-dp8010-in-blue-490-ml-duo-pak-7100036719-12795182350380.jpg?v=1578759683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Structural Adhesives<br>
+        <strong>Price: </strong>
+            333.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Structural Plastic Adhesive, DP8010, blue, 490 ml duo-pak</h4> <li class="extra-info">3M Scotch-Weld Structural Plastic Adhesive DP8010 is a two-part, acrylic-based adhesives (10:1 ratio by volume) that can bond many low surface energy plastics, including many grades of polypropylene, polyethylene and TPO’s without special surface preparation</li><li class="extra-info">3M Scotch-Weld Adhesive DP8010 can replace screws, rivets, plastic welding, and two-step processes which include chemical etchants, priming or surface treatments in many applications.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZG9mx2BmY_Gmv7Pj17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Structural Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">16.56 fl. Oz, 490 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Creates strong bond on low surface energy plastics (LSE) such as polyolefin with minimal or no surface prep required</li><li class="extra-info"> Formulated to bond multi-material assemblies such as LSE plastics, thermoplastics, composites, and metals</li><li class="extra-info"> Medium viscosity allows controlled dispensing</li><li class="extra-info"> Strong adhesive can replace screws, rivets, and welding</li><h2>Suggested Application</h2><li class="extra-info">Bonds low surface energy plastics</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Volume_16.56 fl. Oz490 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1139119423532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">333.70</s:price>
+      <s:sku>AD CNN DP8010-490ML</s:sku>
+      <s:grams>707</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122283061292</id>
+    <published>2018-08-03T19:07:07-04:00</published>
+    <updated>2018-08-03T19:07:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8101"/>
+    <title>3M 8101  - Structural Adhesive 2 fl. Oz (60 ml) - 2 Tubes Per Kit 7000121313</title>
+    <s:type>Structural Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/structural-adhesives-3m-8101-structural-adhesive-2-fl-oz-60-ml-2-tubes-per-kit-7000121313-12795105247276.jpg?v=1580146293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Structural Adhesives<br>
+        <strong>Price: </strong>
+            43.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Structural Adhesive, 08101, 2 fl. oz. (60 ml)</h4> <li class="extra-info">3M™ Structural Adhesive, 08101, is a two-part general purpose structural adhesive that may be used for bonding metal, glass and plastic</li><li class="extra-info">This product can be used for trim, fibreglass and flexible body parts repair.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00x4x_x48mv4v70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Structural Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">2 fl. Oz, 60 ml</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">It is easy to mix, sets up quickly, spreads smoothly, and cures to an extremely strong bond.</li><h2>Product Information</h2><li class="extra-info">Cures quickly</li><li class="extra-info"> Easy to mix</li><li class="extra-info"> Spreads smoothly</li><li class="extra-info"> Very high strength once cured</li><h2>Suggested Application</h2><li class="extra-info">Used to bond metal, painted metal, fibreglass, rigid plastics and other materials to themselves or each other</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Volume_2 fl. Oz60 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122283061292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.99</s:price>
+      <s:sku>AD CNN 8101</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122145894444</id>
+    <published>2018-08-03T17:42:48-04:00</published>
+    <updated>2018-08-03T17:42:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dp8010ns-490ml"/>
+    <title>3M Scotch-Weld DP8010NS-490ML  - Structural Plastic Adhesive DP8010NS in Blue (490 ml) Duo-Pak 7100036723</title>
+    <s:type>Structural Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/structural-adhesives-3m-scotch-weld-dp8010ns-490ml-structural-plastic-adhesive-dp8010ns-in-blue-490-ml-duo-pak-7100036723-13806345781292.jpg?v=1627645283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Structural Adhesives<br>
+        <strong>Price: </strong>
+            373.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Structural Plastic Adhesive, DP8010NS, blue, 490 ml duo-pak</h4> <li class="extra-info">3M Scotch-Weld Structural Plastic Adhesive DP8010NS is a two-part acrylic-based adhesive that can bond many low surface energy plastics</li><li class="extra-info">It has a 10:1 mix ratio, a 10 minute worklife and reaches handling strength in two hours</li><li class="extra-info">3M Scotch-Weld Adhesive DP8010NS can replace screws, rivets, plastic welding, and two-step processes which include chemical etchants, priming or surface treatments in many applications.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9N9mxmxOx_eovV8O17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Structural Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">16.56 fl. Oz, 490 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Creates strong bond on low surface energy (LSE) plastics such as polyolefin with minimal or no surface prep required</li><li class="extra-info"> Delivers non-sag formulation so adhesive stays where when applied</li><li class="extra-info"> Formulated to bond multi-material assemblies such as LSE plastics, thermoplastics, composites, and metals</li><li class="extra-info"> Medium viscosity allows controlled dispensing</li><li class="extra-info"> Strong adhesive can replace screws, rivets, and welding</li><h2>Suggested Application</h2><li class="extra-info">Bonds low surface energy plastics</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Volume_16.56 fl. Oz490 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122145894444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">373.00</s:price>
+      <s:sku>AD CNN DP8010NS-490ML</s:sku>
+      <s:grams>762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122145599532</id>
+    <published>2018-08-03T17:42:36-04:00</published>
+    <updated>2018-08-03T17:42:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dp8010-45ml"/>
+    <title>3M Scotch-Weld DP8010-45ML  - Structural Plastic Adhesive DP8010 in Blue (45 ml) Duo-Pak 7100036717</title>
+    <s:type>Structural Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/structural-adhesives-3m-scotch-weld-dp8010-45ml-structural-plastic-adhesive-dp8010-in-blue-45-ml-duo-pak-7100036717-31570541609109.jpg?v=1628355691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Structural Adhesives<br>
+        <strong>Price: </strong>
+            49.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Structural Plastic Adhesive, DP8010, blue, 45 ml duo-pak</h4> <li class="extra-info">3M Scotch-Weld Structural Plastic Adhesive DP8010 is a two-part, acrylic-based adhesives (10:1 ratio by volume) that can bond many low surface energy plastics, including many grades of polypropylene, polyethylene and TPO’s without special surface preparation</li><li class="extra-info">3M Scotch-Weld Adhesive DP8010 can replace screws, rivets, plastic welding, and two-step processes which include chemical etchants, priming or surface treatments in many applications.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9Njmx2BmY_GmvV8J17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Structural Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">1.5 fl. Oz, 45 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Creates strong bond on low surface energy plastics (LSE) such as polyolefin with minimal or no surface prep required</li><li class="extra-info"> Formulated to bond multi-material assemblies such as LSE plastics, thermoplastics, composites, and metals</li><li class="extra-info"> Medium viscosity allows controlled dispensing</li><li class="extra-info"> Strong adhesive can replace screws, rivets, and welding</li><h2>Suggested Application</h2><li class="extra-info">Bonds low surface energy plastics</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Volume_1.5 fl. Oz45 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122145599532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.19</s:price>
+      <s:sku>AD CNN DP8010-45ML</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121790165036</id>
+    <published>2018-08-03T15:26:24-04:00</published>
+    <updated>2018-08-03T15:26:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7333"/>
+    <title>3M 7333  - Impact Resistant Adhesive 6.8 fl. oz. (200 ml) 7100050351</title>
+    <s:type>Structural Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/structural-adhesives-3m-7333-impact-resistant-adhesive-6-8-fl-oz-200-ml-7100050351-13971898695724.jpg?v=1627636807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Structural Adhesives<br>
+        <strong>Price: </strong>
+            92.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Impact Resistant Adhesive, 07333, 6.8 fl. oz. (200 ml)</h4> <li class="extra-info">3M™ Impact Resistant Adhesive, 07333, is a two-part epoxy adhesive which helps provide an extended work time, but can be rapidly cured with heat</li><li class="extra-info">The adhesive has excellent adhesion to a wide variety of properly prepared automotive substrates including steel and aluminum</li><li class="extra-info">It also has a feature indicating when the curing process has begun through colour change technology</li><li class="extra-info">The adhesive bead starts silver in colour and changes to purple once curing is underway</li><li class="extra-info">Cured product is purple to indicate proper mixing and complete cure.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9Ulmxm9PYtxmvVsj17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Structural Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">6.8 fl. Oz, 200 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Two-part epoxy adhesive</li><li class="extra-info"> Extended work time</li><li class="extra-info"> Cures rapidly with heat</li><li class="extra-info"> Excellent adhesion to properly prepared automotive substrates</li><li class="extra-info"> Unique colour change feature indicates when curing process has begun</li><li class="extra-info"> Corrosion inhibiting formula</li><h2>Suggested Application</h2><li class="extra-info">Intended for true structural bonding applications when specified by automotive OEMs, and is recommended for all weld-bonded and rivet-bonded joints</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Volume_6.8 fl. Oz200 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121790165036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">92.65</s:price>
+      <s:sku>AD CNN 7333</s:sku>
+      <s:grams>393</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121781678124</id>
+    <published>2018-08-03T15:21:56-04:00</published>
+    <updated>2018-08-03T15:21:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dp8010ns-45ml"/>
+    <title>3M Scotch-Weld DP8010NS-45ML  - Structural Plastic Adhesive DP8010NS in Blue (45 ml) Duo-Pak 7100036721</title>
+    <s:type>Structural Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/structural-adhesives-3m-scotch-weld-dp8010ns-45ml-structural-plastic-adhesive-dp8010ns-in-blue-45-ml-duo-pak-7100036721-13806337425452.jpg?v=1627660137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Structural Adhesives<br>
+        <strong>Price: </strong>
+            52.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Structural Plastic Adhesive, DP8010NS, blue, 45 ml duo-pak</h4> <li class="extra-info">3M Scotch-Weld Structural Plastic Adhesive DP8010NS is a two-part acrylic-based adhesive that can bond many low surface energy plastics</li><li class="extra-info">It has a 10:1 mix ratio, a 10 minute worklife and reaches handling strength in two hours</li><li class="extra-info">3M Scotch-Weld Adhesive DP8010NS can replace screws, rivets, plastic welding, and two-step processes which include chemical etchants, priming or surface treatments in many applications.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lzgvmxmxOx_eov7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Structural Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">1.5 fl. Oz, 45 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Creates strong bond on low surface energy (LSE) plastics such as polyolefin with minimal or no surface prep required</li><li class="extra-info"> Delivers non-sag formulation so adhesive stays where when applied</li><li class="extra-info"> Formulated to bond multi-material assemblies such as LSE plastics, thermoplastics, composites, and metals</li><li class="extra-info"> Medium viscosity allows controlled dispensing</li><li class="extra-info"> Strong adhesive can replace screws, rivets, and welding</li><h2>Suggested Application</h2><li class="extra-info">Bonds low surface energy plastics</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD CNN</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Volume_1.5 fl. Oz45 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121781678124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.03</s:price>
+      <s:sku>AD CNN DP8010NS-45ML</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+</feed>

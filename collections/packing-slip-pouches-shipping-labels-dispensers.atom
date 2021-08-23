@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/packing-slip-pouches-shipping-labels-dispensers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-15T22:26:42-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933483564</id>
+    <published>2019-10-15T22:26:42-04:00</published>
+    <updated>2019-10-15T22:26:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fc-1"/>
+    <title>3M FC-1  - Packing List Envelope Bilingual 4 1/2 in x 5 1/2 in 10 7000142837</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-fc-1-packing-list-envelope-bilingual-4-1-2-in-x-5-1-2-in-10-7000142837-13120352485420.jpg?v=1580304417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            48.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Packing List Envelope FC-1 Bilingual, 4 1/2 in x 5 1/2 in, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933483564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.46</s:price>
+      <s:sku>PA PSS FC-1</s:sku>
+      <s:grams>2816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933450796</id>
+    <published>2019-10-15T22:26:36-04:00</published>
+    <updated>2019-10-15T22:26:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tc-2"/>
+    <title>3M TC-2  - Packing List Envelope Bilingual 4 1/2 in x 6 in 10 7000142834</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-tc-2-packing-list-envelope-bilingual-4-1-2-in-x-6-in-10-7000142834-13120352190508.jpg?v=1578803127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            64.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Packing List Envelope TC-2, Bilingual, 4 1/2 in x 6 in, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933450796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.26</s:price>
+      <s:sku>PA PSS TC-2</s:sku>
+      <s:grams>3302</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933418028</id>
+    <published>2019-10-15T22:26:35-04:00</published>
+    <updated>2019-10-15T22:26:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ti-1"/>
+    <title>3M TI-1  - Packing List Envelope Bilingual 4 1/2 in x 5 1/2 in 10 7000142838</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-ti-1-packing-list-envelope-bilingual-4-1-2-in-x-5-1-2-in-10-7000142838-13120352059436.jpg?v=1578805592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            48.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Packing List Envelope TI-1, Bilingual, 4 1/2 in x 5 1/2 in, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933418028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.47</s:price>
+      <s:sku>PA PSS TI-1</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253780770860</id>
+    <published>2019-10-15T14:11:02-04:00</published>
+    <updated>2019-10-15T14:11:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tc-1"/>
+    <title>3M TC-1  - Packing List Envelope Bilingual 4 1/2 in x 5 1/2 in 10 7000142833</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-tc-1-packing-list-envelope-bilingual-4-1-2-in-x-5-1-2-in-10-7000142833-13119670321196.jpg?v=1578803239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            42.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Packing List Envelope, TC-1, Bilingual, 4 1/2 in x 5 1/2 in</h4> <li class="extra-info">Pressure sensitive polyethylene envelope top printed with InchPacking List Enclosed Inch (Bilingual).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Pressure sensitive polyethylene envelope</li><h2>Product Information</h2><li class="extra-info">Top printed with InchPacking List Enclosed Inch (Bilingual)</li><h2>Suggested Application</h2><li class="extra-info">Packing list envelope</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253780770860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.02</s:price>
+      <s:sku>PA PSS TC-1</s:sku>
+      <s:grams>2798</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253780705324</id>
+    <published>2019-10-15T14:11:01-04:00</published>
+    <updated>2019-10-15T14:11:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tc-3"/>
+    <title>3M TC-3  - Packing List Envelope Bilingual 7 in x 5 1/2 in 10 7000142835</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-tc-3-packing-list-envelope-bilingual-7-in-x-5-1-2-in-10-7000142835-13119670255660.jpg?v=1578803162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            85.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Packing List Envelope, TC-3, Bilingual, 7 in x 5 1/2 in</h4> <li class="extra-info">Pressure sensitive polyethylene envelope top printed with InchPacking List Enclosed Inch (Bilingual).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Pressure sensitive polyethylene envelope</li><h2>Product Information</h2><li class="extra-info">Top printed with InchPacking List Enclosed Inch (Bilingual)</li><h2>Suggested Application</h2><li class="extra-info">Packing list envelope</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253780705324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.52</s:price>
+      <s:sku>PA PSS TC-3</s:sku>
+      <s:grams>4671</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134768172</id>
+    <published>2019-03-16T01:58:25-04:00</published>
+    <updated>2019-03-16T01:58:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-np-4"/>
+    <title>3M NP-4  - Non-Printed Packing List Envelope Np4 5-1/2 in x 10 in 10 7000124019</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-np-4-non-printed-packing-list-envelope-np4-5-1-2-in-x-10-in-10-7000124019-12794930167852.jpg?v=1580343423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            129.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Non-Printed Packing List Envelope NP4, 5-1/2 in x 10 in, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134768172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.73</s:price>
+      <s:sku>PA PSS NP-4</s:sku>
+      <s:grams>6304</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145020481580</id>
+    <published>2018-08-13T22:13:43-04:00</published>
+    <updated>2018-08-13T22:13:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-np-6"/>
+    <title>3M NP-6  - Non-Printed Packing List Envelope Np6 9-1/2 in x 12 in 10 7000124015</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-np-6-non-printed-packing-list-envelope-np6-9-1-2-in-x-12-in-10-7000124015-12746879729708.jpg?v=1580343454"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            288.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Non-Printed Packing List Envelope NP6, 9-1/2 in x 12 in, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145020481580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">288.39</s:price>
+      <s:sku>PA PSS NP-6</s:sku>
+      <s:grams>13517</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145016320044</id>
+    <published>2018-08-13T22:11:51-04:00</published>
+    <updated>2018-08-13T22:11:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-np-2"/>
+    <title>3M NP-2  - Non-Printed Packing List Envelope Np2 4-1/2 in x 6 in 10 7000124017</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-np-2-non-printed-packing-list-envelope-np2-4-1-2-in-x-6-in-10-7000124017-12794936361004.jpg?v=1580343332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            67.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Non-Printed Packing List Envelope NP2, 4-1/2 in x 6 in, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145016320044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.48</s:price>
+      <s:sku>PA PSS NP-2</s:sku>
+      <s:grams>3329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1144157896748</id>
+    <published>2018-08-13T13:51:16-04:00</published>
+    <updated>2018-08-13T13:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-np-1"/>
+    <title>3M NP-1  - Non-Printed Packing List Envelope Np1 4-1/2 in x 5-1/2 in 10 7000124016</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-np-1-non-printed-packing-list-envelope-np1-4-1-2-in-x-5-1-2-in-10-7000124016-12746880221228.jpg?v=1580343365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            44.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Non-Printed Packing List Envelope, NP1, 4-1/2 in x 5-1/2 in (114.3 mm x 139.7 mm)</h4> <li class="extra-info">The 3M™ Non-Printed Packing List Envelope NP1 is a side load, clear polyethylene, non-printed, envelope with a strong rubber resin adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Non-Printed Packing List Envelope NP1 offers an easy to remove liner, exposing a high tack adhesive that holds packing slips, invoices, cards and other shipping documents securely to packages</li><li class="extra-info">This product features a natural rubber adhesive for go</li><h2>Product Information</h2><li class="extra-info">Easy to remove liner</li><li class="extra-info"> Natural rubber adhesive for good instant adhesion</li><li class="extra-info"> Easy tear, pressure sensitive</li><li class="extra-info"> Custom printing available on all standard size 3M™ Packing List Envelopes</li><h2>Suggested Application</h2><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer manufacturing and woodworking</li><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping, p</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1144157896748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.11</s:price>
+      <s:sku>PA PSS NP-1</s:sku>
+      <s:grams>2993</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1139463520300</id>
+    <published>2018-08-10T21:48:58-04:00</published>
+    <updated>2018-08-10T21:48:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-np-zip-500"/>
+    <title>3M NP-ZIP-500  - Non-Printed Zipper Closure Packing List Envelope Npz-xl Clear 10 in x 12-1/2 in 5 7000124279</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-np-zip-500-non-printed-zipper-closure-packing-list-envelope-npz-xl-clear-10-in-x-12-1-2-in-5-7000124279-12795154235436.jpg?v=1580343570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            0.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Non-Printed Zipper Closure Packing List Envelope NPZ-XL Clear, 10 in x 12-1/2 in, 500 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1139463520300</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.55</s:price>
+      <s:sku>PA PSS NP-ZIP-500</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122262843436</id>
+    <published>2018-08-03T18:51:06-04:00</published>
+    <updated>2018-08-03T18:51:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-np-5"/>
+    <title>3M NP-5  - Non-Printed Packing List Envelope Np5 7 in x 10 in 10 7000124020</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-np-5-non-printed-packing-list-envelope-np5-7-in-x-10-in-10-7000124020-31602749800597.jpg?v=1628212600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            0.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Non-Printed Packing List Envelope, NP5, 7 in x 10 in</h4> <li class="extra-info">3M™ Non-Printed Packing List Envelope NP5 is a side load, clear polyethylene, non-printed, envelope with a strong rubber resin adhesive</li><li class="extra-info">Custom printing available on all standard size 3M™ Packing List Envelopes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Non-Printed Packing List Envelope NP5 offers an easy to remove liner, exposing a high tack adhesive that holds packing slips, invoices, cards and other shipping documents securely to packages</li><li class="extra-info">Documents load from the back of envelope easily.</li><h2>Product Information</h2><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><li class="extra-info"> Easy tear, pressure sensitive</li><h2>Suggested Application</h2><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer manufacturing and woodworking.</li><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping, </li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122262843436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.16</s:price>
+      <s:sku>PA PSS NP-5</s:sku>
+      <s:grams>7983</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122262712364</id>
+    <published>2018-08-03T18:51:01-04:00</published>
+    <updated>2018-08-03T18:51:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-np-3"/>
+    <title>3M NP-3  - Non-Printed Packing List Envelope Np3 7 in x 5-1/2 in 10 7000124018</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-np-3-non-printed-packing-list-envelope-np3-7-in-x-5-1-2-in-10-7000124018-12746879893548.jpg?v=1580054577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            89.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Non-Printed Packing List Envelope, NP3, 7 in x 5-1/2 in</h4> <li class="extra-info">3M™ Non-Printed Packing List Envelope NP3 is a top load, clear polyethylene, non-printed, envelope with a strong rubber resin adhesive</li><li class="extra-info">Custom printing available on all standard size 3M™ Packing List Envelopes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Non-Printed Packing List Envelope NP3 offers an easy to remove liner, exposing a high tack adhesive that holds packing slips, invoices, cards and other shipping documents securely to packages</li><li class="extra-info">This product features a natural rubber adhesive for go</li><h2>Product Information</h2><li class="extra-info">Easy to remove liner</li><li class="extra-info"> Natural rubber adhesive for good instant adhesion</li><li class="extra-info"> Easy tear, pressure sensitive</li><h2>Suggested Application</h2><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer manufacturing and woodworking</li><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping, p</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122262712364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.81</s:price>
+      <s:sku>PA PSS NP-3</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121738686508</id>
+    <published>2018-08-03T14:57:29-04:00</published>
+    <updated>2018-08-03T14:57:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-npzl-1-2x11-1-2"/>
+    <title>3M NPZL-1/2X11 1/2  - Non-Printed Zipper Closure Packing List Envelope Npz-L Clear 8-1/2 in x 11-1/2 in 5 7000124211</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-npzl-1-2x11-1-2-non-printed-zipper-closure-packing-list-envelope-npz-l-clear-8-1-2-in-x-11-1-2-in-5-7000124211-31582919032981.jpg?v=1628344180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            203.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Non-Printed Zipper Closure Packing List Envelope NPZ-L Clear, 8-1/2 in x 11-1/2 in, 500 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121738686508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">203.74</s:price>
+      <s:sku>PA PSS NPZL-1/2X11 1/2</s:sku>
+      <s:grams>6758</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121738555436</id>
+    <published>2018-08-03T14:57:27-04:00</published>
+    <updated>2018-08-03T14:57:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-t-1bulk"/>
+    <title>3M T-1(BULK)  - Top Print Packing List Envelope Ple-T1 4-1/2 in x 5-1/2 in 10 Bulk 7000124014</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-t-1-bulk-top-print-packing-list-envelope-ple-t1-4-1-2-in-x-5-1-2-in-10-bulk-7000124014-31583005180053.jpg?v=1628344165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            45.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Top Print Packing List Envelope PLE-T1, 4-1/2 in x 5-1/2 in, 1000 per case Bulk</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121738555436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.69</s:price>
+      <s:sku>PA PSS T-1(BULK)</s:sku>
+      <s:grams>2971</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121660600364</id>
+    <published>2018-08-03T14:14:53-04:00</published>
+    <updated>2018-08-03T14:14:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-t-3"/>
+    <title>3M T-3  - Top Print Packing List Envelope Ple-T3 7 in x 5-1/2 in 10 7000001262</title>
+    <s:type>Envelopes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/envelopes-3m-t-3-top-print-packing-list-envelope-ple-t3-7-in-x-5-1-2-in-10-7000001262-31581521936533.jpg?v=1628346506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Envelopes<br>
+        <strong>Price: </strong>
+            96.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Top Print Packing List Envelope PLE-T3, 7 in x 5-1/2 in, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Envelopes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA PSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121660600364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">96.15</s:price>
+      <s:sku>PA PSS T-3</s:sku>
+      <s:grams>4445</s:grams>
+    </s:variant>
+  </entry>
+</feed>

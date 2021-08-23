@@ -1,0 +1,1607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/suits.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:31:59-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030251052</id>
+    <published>2019-12-04T10:31:59-05:00</published>
+    <updated>2019-12-04T10:31:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-r411y30"/>
+    <title>Tuff Grade R411Y30  - 3 Piece Fr Rainsuit Bib Pant Jacket &amp; Hood Yellow Medium</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tuff-grade-r411y30-3-piece-fr-rainsuit-bib-pant-jacket-hood-yellow-medium-12747031642156.jpg?v=1575067142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">3 Piece Yellow Rain Suit includes Jacket, Pants and Hood</li><li class="extra-info">Suit is 100% waterproof, PVC/Polyester/PVC construction</li><li class="extra-info">Made with Ultrasonically welded seams for durability and waterproofing</li><li class="extra-info">Thickness is 35 mil.
+Installed with cape back and underarm vents for increased air circulation.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Medium</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030251052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SA SUI V351036I-M</s:sku>
+      <s:grams>1655</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030414892</id>
+    <published>2019-12-04T10:31:58-05:00</published>
+    <updated>2019-12-04T10:31:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-r411y70"/>
+    <title>Tuff Grade R411Y70  - 3 Piece Fr Rainsuit Bib Pant Jacket &amp; Hood Yellow 3Xl</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-tuff-grade-r411y70-3-piece-fr-rainsuit-bib-pant-jacket-hood-yellow-3xl-13395156992044.jpg?v=1629193953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">3 Piece Yellow Rain Suit includes Jacket, Pants and Hood</li><li class="extra-info">Suit is 100% waterproof, PVC/Polyester/PVC construction</li><li class="extra-info">Made with Ultrasonically welded seams for durability and waterproofing</li><li class="extra-info">Thickness is 35 mil.
+Installed with cape back and underarm vents for increased air circulation.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030414892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SA SUI V351036I-3XL</s:sku>
+      <s:grams>1678</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030349356</id>
+    <published>2019-12-04T10:31:58-05:00</published>
+    <updated>2019-12-04T10:31:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-r411y60"/>
+    <title>Tuff Grade R411Y60  - 3 Piece Fr Rainsuit Bib Pant Jacket &amp; Hood Yellow 2Xl</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tuff-grade-r411y60-3-piece-fr-rainsuit-bib-pant-jacket-hood-yellow-2xl-12747031740460.jpg?v=1575067037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">3 Piece Yellow Rain Suit includes Jacket, Pants and Hood</li><li class="extra-info">Suit is 100% waterproof, PVC/Polyester/PVC construction</li><li class="extra-info">Made with Ultrasonically welded seams for durability and waterproofing</li><li class="extra-info">Thickness is 35 mil.
+Installed with cape back and underarm vents for increased air circulation.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030349356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SA SUI V351036I-2XL</s:sku>
+      <s:grams>1678</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030283820</id>
+    <published>2019-12-04T10:31:58-05:00</published>
+    <updated>2019-12-04T10:31:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-r411y50"/>
+    <title>Tuff Grade R411Y50  - 3 Piece Fr Rainsuit Bib Pant Jacket &amp; Hood Yellow Xl</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tuff-grade-r411y50-3-piece-fr-rainsuit-bib-pant-jacket-hood-yellow-xl-12747031674924.jpg?v=1575067054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">3 Piece Yellow Rain Suit includes Jacket, Pants and Hood</li><li class="extra-info">Suit is 100% waterproof, PVC/Polyester/PVC construction</li><li class="extra-info">Made with Ultrasonically welded seams for durability and waterproofing</li><li class="extra-info">Thickness is 35 mil.
+Installed with cape back and underarm vents for increased air circulation.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Large</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030283820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SA SUI V351036I-XL</s:sku>
+      <s:grams>1655</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1779993509932</id>
+    <published>2019-12-04T10:31:45-05:00</published>
+    <updated>2019-12-04T10:31:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgrw-2020"/>
+    <title>Tuff Grade TGRW-2020  - Rainwear, Fire-Retardent Size Large Colour Yellow Thickness 0.35mm Product Specs</title>
+    <s:type>Rainwear</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rainwear-tuff-grade-tgrw-2020-rainwear-fire-retardent-size-large-colour-yellow-thickness-0-35mm-product-specs-13390486601772.jpg?v=1627048427"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Rainwear<br>
+        <strong>Price: </strong>
+            21.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">3 Piece Yellow Rain Suit includes Jacket, Pants and Hood</li><li class="extra-info">Suit is 100% waterproof, PVC/Polyester/PVC construction</li><li class="extra-info">Made with Ultrasonically welded seams for durability and waterproofing</li><li class="extra-info">Thickness is 35 mil.
+Installed with cape back and underarm vents for increased air circulation.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rainwear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1779993509932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku>SA SUI TGRW-2020</s:sku>
+      <s:grams>1655</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813258043436</id>
+    <published>2019-05-11T12:45:13-04:00</published>
+    <updated>2019-05-11T12:45:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v3010461-2xl"/>
+    <title>Pioneer V3010461-2XL  - Supported Pvc 3 Piece Rain Suit V3010461-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v3010461-2xl-supported-pvc-3-piece-rain-suit-v3010461-2xl-12748965347372.jpg?v=1575380270"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            19.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Supported PVC 3-Piece Rain Suit</h4> <li class="extra-info">3 pieces: jacket, detachable hood and bib pant</li><li class="extra-info"> .35 mm PVC/polyester/PVC</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Jacket: vented back and underarms, 2 large front cargo pockets, zipper plus snap storm placket, welded seams, corduroy collar, detachable hood, embroidery access zipper</li><li class="extra-info"> Bib pant: adjustable waist and suspenders, snap fly access</li><li class="extra-info"> 577B - packed in hangable bag</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3 pieces: jacket, detachable hood and bib pant </li><li class="extra-info"> .35 mm PVC/polyester/PVC </li><li class="extra-info"> 100% waterproof and windproof</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813258043436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.61</s:price>
+      <s:sku>SA SUI V3010461-2XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256831020</id>
+    <published>2019-05-11T12:44:53-04:00</published>
+    <updated>2019-05-11T12:44:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080160-2xl"/>
+    <title>Pioneer V1080160-2XL  - Lightweight Waterproof Suit V1080160-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080160-2xl-lightweight-waterproof-suit-v1080160-2xl-12748964692012.jpg?v=1575412790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lightweight Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch</li><li class="extra-info"> 100% waterproof polyester/PVC</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Jacket: back vents, adjustable hem, 2 large front cargo pockets</li><li class="extra-info"> Hood folds and zips into collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch </li><li class="extra-info"> 100% waterproof polyester/PVC </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256831020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SA SUI V1080160-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256798252</id>
+    <published>2019-05-11T12:44:53-04:00</published>
+    <updated>2019-05-11T12:44:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080150-2xl"/>
+    <title>Pioneer V1080150-2XL  - Lightweight Waterproof Suit V1080150-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080150-2xl-lightweight-waterproof-suit-v1080150-2xl-12748964659244.jpg?v=1575412675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lightweight Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch</li><li class="extra-info"> 100% waterproof polyester/PVC</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Jacket: back vents, adjustable hem, 2 large front cargo pockets</li><li class="extra-info"> Hood folds and zips into collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch </li><li class="extra-info"> 100% waterproof polyester/PVC </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256798252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SA SUI V1080150-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256765484</id>
+    <published>2019-05-11T12:44:53-04:00</published>
+    <updated>2019-05-11T12:44:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080170-2xl"/>
+    <title>Pioneer V1080170-2XL  - Lightweight Waterproof Suit V1080170-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080170-2xl-lightweight-waterproof-suit-v1080170-2xl-12748964626476.jpg?v=1575412415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lightweight Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch</li><li class="extra-info"> 100% waterproof polyester/PVC</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Jacket: back vents, adjustable hem, 2 large front cargo pockets</li><li class="extra-info"> Hood folds and zips into collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch </li><li class="extra-info"> 100% waterproof polyester/PVC </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256765484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SA SUI V1080170-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256699948</id>
+    <published>2019-05-11T12:44:50-04:00</published>
+    <updated>2019-05-11T12:44:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080260-2xl"/>
+    <title>Pioneer V1080260-2XL  - Tough 210D Oxford Poly/Pvc Waterproof Suit V1080260-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080260-2xl-tough-210d-oxford-poly-pvc-waterproof-suit-v1080260-2xl-12748964560940.jpg?v=1575386495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            61.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tough 210D Oxford Poly/PVC Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch</li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Full back vent for working comfort</li><li class="extra-info"> Jacket: 2 lower flap pockets, drawstring with toggle on hem, half mesh lined back, full front zipper, hood folds into collar</li><li class="extra-info"> Bib pant: elastic suspenders, metal buckles, snaps on leg hems to fit snug to boots</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch </li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256699948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.34</s:price>
+      <s:sku>SA SUI V1080260-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813256667180</id>
+    <published>2019-05-11T12:44:49-04:00</published>
+    <updated>2019-05-11T12:44:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080250-2xl"/>
+    <title>Pioneer V1080250-2XL  - Tough 210D Oxford Poly/Pvc Waterproof Suit V1080250-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080250-2xl-tough-210d-oxford-poly-pvc-waterproof-suit-v1080250-2xl-12748964528172.jpg?v=1575386758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            61.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tough 210D Oxford Poly/PVC Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch</li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Full back vent for working comfort</li><li class="extra-info"> Jacket: 2 lower flap pockets, drawstring with toggle on hem, half mesh lined back, full front zipper, hood folds into collar</li><li class="extra-info"> Bib pant: elastic suspenders, metal buckles, snaps on leg hems to fit snug to boots</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch </li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813256667180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.34</s:price>
+      <s:sku>SA SUI V1080250-2XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813254307884</id>
+    <published>2019-05-11T12:43:33-04:00</published>
+    <updated>2019-05-11T12:43:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v2243950-2xl"/>
+    <title>Ranpro Pioneer V2243950-2XL  - Element Fr Pvc 3 Piece Suit V2243950-2XL</title>
+    <s:type>Suits</s:type>
+    <s:vendor>Ranpro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/suits-ranpro-pioneer-v2243950-2xl-element-fr-pvc-3-piece-suit-v2243950-2xl-12748962234412.jpg?v=1575330232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ranpro<br>
+        <strong>Type: </strong>Suits<br>
+        <strong>Price: </strong>
+            117.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Element FR  PVC 3-Piece Suit</h4> <li class="extra-info">13 oz/yd² PVC on polyester</li><li class="extra-info"> Material and all components meet CGSB 155.20, 2000 Type 3</li><li class="extra-info"> CSA Z96 striping package featuring retroreflective striping</li><li class="extra-info"> Jacket is CSA Z96-09 Class 2 Level 2, jacket and pants are Class 3 when worn together</li><li class="extra-info"> Oil resistant</li><li class="extra-info"> Extremely durable and comfortable</li><li class="extra-info"> Remains flexible in cold conditions</li><li class="extra-info"> Permanently welded seams</li><li class="extra-info"> Good tear and snag resistance</li><li class="extra-info"> Generous styling fits over work clothes JACKET:</li><li class="extra-info"> Dolman sleeve design</li><li class="extra-info"> Stand-up collar with durable snaps to attach hood</li><li class="extra-info"> Concealed nylon snap front closure</li><li class="extra-info"> Inner storm flap</li><li class="extra-info"> Two snap adjustments at cuffs</li><li class="extra-info"> Unique wideweld cuff design for added durability HOOD:</li><li class="extra-info"> Fits easily over hard hat</li><li class="extra-info"> Attaches to jacket with plastic snaps</li><li class="extra-info"> Detachable to prevent entanglement while working</li><li class="extra-info"> Drawstring with cord locks for best fit PANT:</li><li class="extra-info"> Single bib design</li><li class="extra-info"> Double-layer top for durability</li><li class="extra-info"> Elastic waist back</li><li class="extra-info"> Adjustable elastic suspenders with spreader bar and nylon slides provide support and comfort</li><li class="extra-info"> Two snap adjustments at cuffs for best fit</li><li class="extra-info"> Unique wideweld cuff design for added durability</li><li class="extra-info"> Roomy legs to easily put on boots</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">13 oz/yd² PVC on polyester </li><li class="extra-info"> Material and all components meet CGSB 155.20, 2000 Type 3 </li><li class="extra-info"> CSA Z96 striping package featuring retroreflective striping </li><li class="extra-info"> Jacket is CSA Z96-09 Class 2 Level 2, jacket and pants are Class 3 when worn together</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>Line_Pioneer</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813254307884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">117.77</s:price>
+      <s:sku>SA SUI V2243950-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813252833324</id>
+    <published>2019-05-11T12:43:12-04:00</published>
+    <updated>2019-05-11T12:43:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v3040140-2xl"/>
+    <title>Pioneer V3040140-2XL  - Polyester / Pvc Rain Suit V3040140-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v3040140-2xl-polyester-pvc-rain-suit-v3040140-2xl-12748961710124.jpg?v=1575354959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            40.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Polyester/PVC Rain Suit</h4> <li class="extra-info">Polyester/PVC</li><li class="extra-info"> 2 pieces: hooded jacket and elastic waist pant</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Vented mesh back for breathability</li><li class="extra-info"> Hood stuffs into zippered collar pouch</li><li class="extra-info"> 2 large front pockets</li><li class="extra-info"> Adjustable wrists and cuffs to snug against cold and wet conditions</li><li class="extra-info"> Drawstring jacket hem</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Polyester/PVC </li><li class="extra-info"> 2 pieces: hooded jacket and waist pant </li><li class="extra-info"> 100% waterproof and windproof</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813252833324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.94</s:price>
+      <s:sku>SA SUI V3040140-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813252309036</id>
+    <published>2019-05-11T12:42:52-04:00</published>
+    <updated>2019-05-11T12:42:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v3510160-2xl"/>
+    <title>Pioneer V3510160-2XL  - Flame Resistant PVC Heavy-Duty 3 Piece Rain Suit V3510160-2XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v3510160-2xl-flame-resistant-pvc-heavy-duty-3-piece-rain-suit-v3510160-2xl-12748961021996.jpg?v=1575353862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            50.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Flame Resistant PVC Heavy-Duty 3-Piece Rain Suit</h4> <li class="extra-info">Heavy-duty .45 mm FR treated PVC/polyester/PVC</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> 100% waterproof</li><li class="extra-info"> 3 pieces: jacket with snaps and detachable snap hood, double bib reversible pant with elastic suspenders</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy-duty .45 mm FR treated PVC/polyester/PVC </li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3 </li><li class="extra-info"> 100% waterproof</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-5XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813252309036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.75</s:price>
+      <s:sku>SA SUI V3510160-2XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813248081964</id>
+    <published>2019-05-11T12:41:01-04:00</published>
+    <updated>2019-05-11T12:41:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v3010460-3xl"/>
+    <title>Pioneer V3010460-3XL  - Supported Pvc 3 Piece Rain Suit V3010460-3XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v3010460-3xl-supported-pvc-3-piece-rain-suit-v3010460-3xl-12748957220908.jpg?v=1575380614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            17.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Supported PVC 3-Piece Rain Suit</h4> <li class="extra-info">3 pieces: jacket, detachable hood and bib pant</li><li class="extra-info"> .35 mm PVC/polyester/PVC</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Jacket: vented back and underarms, 2 large front cargo pockets, zipper plus snap storm placket, welded seams, corduroy collar, detachable hood, embroidery access zipper</li><li class="extra-info"> Bib pant: adjustable waist and suspenders, snap fly access</li><li class="extra-info"> 577B - packed in hangable bag</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3 pieces: jacket, detachable hood and bib pant </li><li class="extra-info"> .35 mm PVC/polyester/PVC </li><li class="extra-info"> 100% waterproof and windproof</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-6XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813248081964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.90</s:price>
+      <s:sku>SA SUI V3010460-3XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813247983660</id>
+    <published>2019-05-11T12:40:57-04:00</published>
+    <updated>2019-05-11T12:40:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v3010461-3xl"/>
+    <title>Pioneer V3010461-3XL  - Supported Pvc 3 Piece Rain Suit V3010461-3XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v3010461-3xl-supported-pvc-3-piece-rain-suit-v3010461-3xl-12748957188140.jpg?v=1575380237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            19.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Supported PVC 3-Piece Rain Suit</h4> <li class="extra-info">3 pieces: jacket, detachable hood and bib pant</li><li class="extra-info"> .35 mm PVC/polyester/PVC</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Jacket: vented back and underarms, 2 large front cargo pockets, zipper plus snap storm placket, welded seams, corduroy collar, detachable hood, embroidery access zipper</li><li class="extra-info"> Bib pant: adjustable waist and suspenders, snap fly access</li><li class="extra-info"> 577B - packed in hangable bag</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3 pieces: jacket, detachable hood and bib pant </li><li class="extra-info"> .35 mm PVC/polyester/PVC </li><li class="extra-info"> 100% waterproof and windproof</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813247983660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.61</s:price>
+      <s:sku>SA SUI V3010461-3XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813247623212</id>
+    <published>2019-05-11T12:40:44-04:00</published>
+    <updated>2019-05-11T12:40:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080170-3xl"/>
+    <title>Pioneer V1080170-3XL  - Lightweight Waterproof Suit V1080170-3XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080170-3xl-lightweight-waterproof-suit-v1080170-3xl-12748955484204.jpg?v=1575386998"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lightweight Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch</li><li class="extra-info"> 100% waterproof polyester/PVC</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Jacket: back vents, adjustable hem, 2 large front cargo pockets</li><li class="extra-info"> Hood folds and zips into collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch </li><li class="extra-info"> 100% waterproof polyester/PVC </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813247623212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SA SUI V1080170-3XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813247590444</id>
+    <published>2019-05-11T12:40:44-04:00</published>
+    <updated>2019-05-11T12:40:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080150-3xl"/>
+    <title>Pioneer V1080150-3XL  - Lightweight Waterproof Suit V1080150-3XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080150-3xl-lightweight-waterproof-suit-v1080150-3xl-12748955516972.jpg?v=1575412642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lightweight Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch</li><li class="extra-info"> 100% waterproof polyester/PVC</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Jacket: back vents, adjustable hem, 2 large front cargo pockets</li><li class="extra-info"> Hood folds and zips into collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch </li><li class="extra-info"> 100% waterproof polyester/PVC </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813247590444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SA SUI V1080150-3XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813247557676</id>
+    <published>2019-05-11T12:40:44-04:00</published>
+    <updated>2019-05-11T12:40:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080160-3xl"/>
+    <title>Pioneer V1080160-3XL  - Lightweight Waterproof Suit V1080160-3XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080160-3xl-lightweight-waterproof-suit-v1080160-3xl-12748955418668.jpg?v=1575412554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lightweight Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch</li><li class="extra-info"> 100% waterproof polyester/PVC</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Jacket: back vents, adjustable hem, 2 large front cargo pockets</li><li class="extra-info"> Hood folds and zips into collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch </li><li class="extra-info"> 100% waterproof polyester/PVC </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813247557676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SA SUI V1080160-3XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813247492140</id>
+    <published>2019-05-11T12:40:40-04:00</published>
+    <updated>2019-05-11T12:40:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080260-3xl"/>
+    <title>Pioneer V1080260-3XL  - Tough 210D Oxford Poly/Pvc Waterproof Suit V1080260-3XL</title>
+    <s:type>Waterproof Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/waterproof-suits-pioneer-v1080260-3xl-tough-210d-oxford-poly-pvc-waterproof-suit-v1080260-3xl-12748955385900.jpg?v=1575386479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Waterproof Suits<br>
+        <strong>Price: </strong>
+            61.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tough 210D Oxford Poly/PVC Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch</li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Full back vent for working comfort</li><li class="extra-info"> Jacket: 2 lower flap pockets, drawstring with toggle on hem, half mesh lined back, full front zipper, hood folds into collar</li><li class="extra-info"> Bib pant: elastic suspenders, metal buckles, snaps on leg hems to fit snug to boots</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Waterproof Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch </li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813247492140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.34</s:price>
+      <s:sku>SA SUI V1080260-3XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813247459372</id>
+    <published>2019-05-11T12:40:40-04:00</published>
+    <updated>2019-05-11T12:40:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080250-3xl"/>
+    <title>Pioneer V1080250-3XL  - Tough 210D Oxford Poly/Pvc Waterproof Suit V1080250-3XL</title>
+    <s:type>Waterproof Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/waterproof-suits-pioneer-v1080250-3xl-tough-210d-oxford-poly-pvc-waterproof-suit-v1080250-3xl-12748955451436.jpg?v=1575386741"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Waterproof Suits<br>
+        <strong>Price: </strong>
+            61.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tough 210D Oxford Poly/PVC Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch</li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Full back vent for working comfort</li><li class="extra-info"> Jacket: 2 lower flap pockets, drawstring with toggle on hem, half mesh lined back, full front zipper, hood folds into collar</li><li class="extra-info"> Bib pant: elastic suspenders, metal buckles, snaps on leg hems to fit snug to boots</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Waterproof Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into zippered storage pouch </li><li class="extra-info"> Extra tough 100% waterproof 210 denier oxford polyester with PVC backing </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813247459372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">61.34</s:price>
+      <s:sku>SA SUI V1080250-3XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813244706860</id>
+    <published>2019-05-11T12:39:25-04:00</published>
+    <updated>2019-05-11T12:39:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v2243950-3xl"/>
+    <title>Ranpro Pioneer V2243950-3XL  - Element Fr Pvc 3 Piece Suit V2243950-3XL</title>
+    <s:type>Suits</s:type>
+    <s:vendor>Ranpro</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/suits-ranpro-pioneer-v2243950-3xl-element-fr-pvc-3-piece-suit-v2243950-3xl-12748953124908.jpg?v=1575330250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ranpro<br>
+        <strong>Type: </strong>Suits<br>
+        <strong>Price: </strong>
+            117.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Element FR  PVC 3-Piece Suit</h4> <li class="extra-info">13 oz/yd² PVC on polyester</li><li class="extra-info"> Material and all components meet CGSB 155.20, 2000 Type 3</li><li class="extra-info"> CSA Z96 striping package featuring retroreflective striping</li><li class="extra-info"> Jacket is CSA Z96-09 Class 2 Level 2, jacket and pants are Class 3 when worn together</li><li class="extra-info"> Oil resistant</li><li class="extra-info"> Extremely durable and comfortable</li><li class="extra-info"> Remains flexible in cold conditions</li><li class="extra-info"> Permanently welded seams</li><li class="extra-info"> Good tear and snag resistance</li><li class="extra-info"> Generous styling fits over work clothes JACKET:</li><li class="extra-info"> Dolman sleeve design</li><li class="extra-info"> Stand-up collar with durable snaps to attach hood</li><li class="extra-info"> Concealed nylon snap front closure</li><li class="extra-info"> Inner storm flap</li><li class="extra-info"> Two snap adjustments at cuffs</li><li class="extra-info"> Unique wideweld cuff design for added durability HOOD:</li><li class="extra-info"> Fits easily over hard hat</li><li class="extra-info"> Attaches to jacket with plastic snaps</li><li class="extra-info"> Detachable to prevent entanglement while working</li><li class="extra-info"> Drawstring with cord locks for best fit PANT:</li><li class="extra-info"> Single bib design</li><li class="extra-info"> Double-layer top for durability</li><li class="extra-info"> Elastic waist back</li><li class="extra-info"> Adjustable elastic suspenders with spreader bar and nylon slides provide support and comfort</li><li class="extra-info"> Two snap adjustments at cuffs for best fit</li><li class="extra-info"> Unique wideweld cuff design for added durability</li><li class="extra-info"> Roomy legs to easily put on boots</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ranpro</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">13 oz/yd² PVC on polyester </li><li class="extra-info"> Material and all components meet CGSB 155.20, 2000 Type 3 </li><li class="extra-info"> CSA Z96 striping package featuring retroreflective striping </li><li class="extra-info"> Jacket is CSA Z96-09 Class 2 Level 2, jacket and pants are Class 3 when worn together</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>Line_Pioneer</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813244706860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">117.77</s:price>
+      <s:sku>SA SUI V2243950-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813243691052</id>
+    <published>2019-05-11T12:38:51-04:00</published>
+    <updated>2019-05-11T12:38:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v3510360-3xl"/>
+    <title>Pioneer V3510360-3XL  - Flame Resistant PVC Rain Suit V3510360-3XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v3510360-3xl-flame-resistant-pvc-rain-suit-v3510360-3xl-12748951683116.jpg?v=1575353618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            21.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Flame Resistant PVC Rain Suit</h4> <li class="extra-info">.35 mm FR treated PVC/poly/PVC</li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3</li><li class="extra-info"> 100% waterproof</li><li class="extra-info"> 2 patch pockets</li><li class="extra-info"> 3 pieces: jacket with zip, snap front placket and detachable snap hood</li><li class="extra-info"> bib pant with self fabric suspenders</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">.35 mm FR treated PVC/poly/PVC </li><li class="extra-info"> Meets CGSB 155.20-2000 Type 3 </li><li class="extra-info"> 100% waterproof</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-6XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813243691052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.56</s:price>
+      <s:sku>SA SUI V3510360-3XL</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813240283180</id>
+    <published>2019-05-11T12:37:19-04:00</published>
+    <updated>2019-05-11T12:37:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v3010461-4xl"/>
+    <title>Pioneer V3010461-4XL  - Supported Pvc 3 Piece Rain Suit V3010461-4XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v3010461-4xl-supported-pvc-3-piece-rain-suit-v3010461-4xl-12748948963372.jpg?v=1575380123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            19.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Supported PVC 3-Piece Rain Suit</h4> <li class="extra-info">3 pieces: jacket, detachable hood and bib pant</li><li class="extra-info"> .35 mm PVC/polyester/PVC</li><li class="extra-info"> 100% waterproof and windproof</li><li class="extra-info"> Jacket: vented back and underarms, 2 large front cargo pockets, zipper plus snap storm placket, welded seams, corduroy collar, detachable hood, embroidery access zipper</li><li class="extra-info"> Bib pant: adjustable waist and suspenders, snap fly access</li><li class="extra-info"> 577B - packed in hangable bag</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3 pieces: jacket, detachable hood and bib pant </li><li class="extra-info"> .35 mm PVC/polyester/PVC </li><li class="extra-info"> 100% waterproof and windproof</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> S-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813240283180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.61</s:price>
+      <s:sku>SA SUI V3010461-4XL</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813239627820</id>
+    <published>2019-05-11T12:37:01-04:00</published>
+    <updated>2019-05-11T12:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1080170-4xl"/>
+    <title>Pioneer V1080170-4XL  - Lightweight Waterproof Suit V1080170-4XL</title>
+    <s:type>Rain Suits</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rain-suits-pioneer-v1080170-4xl-lightweight-waterproof-suit-v1080170-4xl-12748948275244.jpg?v=1575386981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Rain Suits<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lightweight Waterproof Suit</h4> <li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch</li><li class="extra-info"> 100% waterproof polyester/PVC</li><li class="extra-info"> CSA Z96-15 Class 1 Level 2</li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><li class="extra-info"> StarTech  reflective tape</li><li class="extra-info"> Taped and heat sealed seams</li><li class="extra-info"> Jacket: back vents, adjustable hem, 2 large front cargo pockets</li><li class="extra-info"> Hood folds and zips into collar</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rain Suits</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2 pieces: hooded jacket and bib pant, fold into storage pouch </li><li class="extra-info"> 100% waterproof polyester/PVC </li><li class="extra-info"> CSA Z96-15 Class 1 Level 2 </li><li class="extra-info"> ANSI/ISEA 107-15 Class 1 Type O</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> XS-4XL</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA SUI</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813239627820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SA SUI V1080170-4XL</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+</feed>

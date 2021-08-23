@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/wipes-rags.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2020-02-08T02:09:34-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4516498210860</id>
+    <published>2020-02-08T02:09:34-05:00</published>
+    <updated>2020-02-08T02:09:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/wipeco-bx-25c"/>
+    <title>Wipeco BX-25C  - Wiping Cloths Recycled Colored T-Shirt Wipers 25 Lbs</title>
+    <s:type></s:type>
+    <s:vendor>Wipeco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wipeco-bx-25c-wiping-cloths-recycled-colored-t-shirt-wipers-25-lbs-14210884894764.jpg?v=1629199161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wipeco<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Soft, low in lint, high in cotton content for excellent absorbency</li><li class="extra-info">
+Made from pure t-shirts, this efficient multipurpose wiper replaces the need for shop towels or paper disposables.
+Ideal for all applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Wipeco</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4516498210860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.64</s:price>
+      <s:sku>SH WIP BX 25</s:sku>
+      <s:grams>22679</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254983225388</id>
+    <published>2019-10-16T00:05:07-04:00</published>
+    <updated>2019-10-16T00:05:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-39016"/>
+    <title>3M 39016  - 3M Microfibre Detail Cloth Clip Strip, 39016, 12 x 14 in 39016 7000142695</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-39016-3m-microfibre-detail-cloth-clip-strip-39016-12-x-14-in-39016-7000142695-13120443285548.jpg?v=1580206529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            123.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Microfibre Detail Cloth Clip Strip, 39016, 12 x 14 in</h4> <li class="extra-info">3M™ Microfibre Detail Cloth Clip Strip is a high performance detailing cloth designed for your vehicle.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Won't scratch or streak delicate automotive surfaces</li><li class="extra-info"> Ideal for paint, chrome, glass, dashboards and more</li><li class="extra-info"> Helps to remove residues including waxes, polishes, glazes and fingerprints</li><li class="extra-info"> High performance and super-soft</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254983225388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">123.12</s:price>
+      <s:sku>SH WIP 39016</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254983192620</id>
+    <published>2019-10-16T00:05:07-04:00</published>
+    <updated>2019-10-16T00:05:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-05-00017"/>
+    <title>3M 05-00017  - 3M Lint Free Cloths 05-00017 7000058068</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-05-00017-3m-lint-free-cloths-05-00017-7000058068-13120443252780.jpg?v=1580188859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Lint Free Cloths</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254983192620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.06</s:price>
+      <s:sku>SH WIP 05-00017</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254956552236</id>
+    <published>2019-10-15T23:04:38-04:00</published>
+    <updated>2019-10-15T23:04:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-03192-10132na"/>
+    <title>3M 03192-10132NA  - Tack Cloth 10132Na Single Ply 17 Inch x 36 Inch 7000126150</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-03192-10132na-tack-cloth-10132na-single-ply-17-inch-x-36-inch-7000126150-13966755463212.jpg?v=1628187575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Tack Cloth, 10132NA, single-ply, 17 in x 36 in (431.8 mm x 914.4 mm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254956552236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.48</s:price>
+      <s:sku>SH WIP 10132NA</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933057580</id>
+    <published>2019-10-15T22:25:55-04:00</published>
+    <updated>2019-10-15T22:25:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pn06017"/>
+    <title>3M PN06017  - 06017 Detailing Cloth Yellow 50/1 7100100889</title>
+    <s:type>Detailing Cloth</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detailing-cloth-3m-pn06017-06017-detailing-cloth-yellow-50-1-7100100889-13986772287532.jpg?v=1627455655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Detailing Cloth<br>
+        <strong>Price: </strong>
+            225.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">06017 Detailng Cloth,YELLOW, 50/1</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Vietnam</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detailing Cloth</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933057580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.43</s:price>
+      <s:sku>SH WIP PN06017</s:sku>
+      <s:grams>2472</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813414641708</id>
+    <published>2019-05-11T15:04:50-04:00</published>
+    <updated>2019-05-11T15:04:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54b083"/>
+    <title>Walter 54B083  - Marking Pads-Pkg/20 54B083</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54b083-marking-pads-pkg-20-54b083-13937489215532.jpg?v=1580468583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Standard Kit</h4> <li class="extra-info">SURFOX marking kit use a fast and simple electrochemical process that permanently marks stainless steel surfaces</li><li class="extra-info">The marking wand plugs directly in the SURFOX machine and is used with specially made permanent or disposable stencils.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Standard Surfox Marking Kit</li><h2>Product Information</h2><li class="extra-info">Compatible with permanent and disposable stencils</li><li class="extra-info"> Includes SURFOX-M marking electrolyte solution</li><li class="extra-info"> 100ml and SURFOX-E etching electrolyte solution 100ml</li><li class="extra-info"> For marking of company logos, barcodes, QR codes, serial numbers, text and other information on stainless steel surfaces</li><li class="extra-info"> For marking on AC mode</li><li class="extra-info">  available on every SURFOX machines</li><li class="extra-info"> For etching on DC mode</li><li class="extra-info"> available on every SURFOX machines For Marking/Etching of stainless steel</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813414641708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.71</s:price>
+      <s:sku>SH WIP 54B083</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813414543404</id>
+    <published>2019-05-11T15:04:49-04:00</published>
+    <updated>2019-05-11T15:04:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54b090"/>
+    <title>Walter 54B090  - Orange Powercloth / Pkg 10 54B090</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54b090-orange-powercloth-pkg-10-54b090-13937489346604.jpg?v=1580468649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Powercloth</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Surfox Powercloth (10 per package)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813414543404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.70</s:price>
+      <s:sku>SH WIP 54B090</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122125578284</id>
+    <published>2018-08-03T17:30:43-04:00</published>
+    <updated>2018-08-03T17:30:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sb07910"/>
+    <title>3M SB07910  - Cloth 07910 Tackpad 60 Per Box 175mm 7100093970</title>
+    <s:type>Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pads-3m-sb07910-cloth-07910-tackpad-60-per-box-175mm-7100093970-13950958207020.jpg?v=1629196284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Pads<br>
+        <strong>Price: </strong>
+            1.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Tack Pad, 175 mm x 235 mm, PN07910</h4> <li class="extra-info">The 3M Tack Pad has been developed especially for the automotive aftermarket to remove dirt, lint, dust and sanding particles prior to spraying primers, base coat or clear coat paints</li><li class="extra-info">Based on 3M’s non-woven technology, the pad’s tacky surface picks up dust and the three-dimensional web inside absorbs dust particles</li><li class="extra-info">Use it on metal, plastic, fiberglass or wood.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Tacky pad thoroughly removes surface dust particles to provide a perfectly clean surface prior to paint or primer</li><li class="extra-info">Three-dimensional design draws dust into the pad for total dust collection without leaving drag marks behind</li><li class="extra-info">Conformable pad gets into grooves and contours of the workpiece for complete coverage</li><li class="extra-info">Specialized coating reduces adhesive transfer to hands or workpiece</li><li class="extra-info">Unique design assists in removing light nibs</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122125578284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.57</s:price>
+      <s:sku>SH WIP 7910 0 175MM</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121808711724</id>
+    <published>2018-08-03T15:37:01-04:00</published>
+    <updated>2018-08-03T15:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pn06020"/>
+    <title>3M PN06020  - 06020 Auto Detailing Cloth Blue 6/6 7100100898</title>
+    <s:type>Detailing Cloth</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detailing-cloth-3m-pn06020-06020-auto-detailing-cloth-blue-6-6-7100100898-31597103054997.jpg?v=1628234787"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Detailing Cloth<br>
+        <strong>Price: </strong>
+            25.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">06020 Auto Detailng Cloth Blue,6/6</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Vietnam</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detailing Cloth</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121808711724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.70</s:price>
+      <s:sku>SH WIP PN06020</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121780629548</id>
+    <published>2018-08-03T15:20:55-04:00</published>
+    <updated>2018-08-03T15:20:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pn06016"/>
+    <title>3M PN06016  - 06016 Detailing Cloth Yellow 6/Pack 7100032033</title>
+    <s:type>Detailing Cloth</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/detailing-cloth-3m-pn06016-06016-detailing-cloth-yellow-6-pack-7100032033-12795205943340.jpg?v=1580329653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Detailing Cloth<br>
+        <strong>Price: </strong>
+            13.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">06016 Detailing Cloth Yellow, 6/pack</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Vietnam</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Detailing Cloth</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121780629548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.52</s:price>
+      <s:sku>SH WIP PN06016</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121732591660</id>
+    <published>2018-08-03T14:54:45-04:00</published>
+    <updated>2018-08-03T14:54:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-hpc-2011-blu"/>
+    <title>3M Scotch-Brite HPC-2011-BLU  - Scotch-Britehigh Performance Cleaning Cloth Blue 32 cm x 36 cm 50 Pac 7000122661</title>
+    <s:type>Cleaning Cloths</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cleaning-cloths-3m-scotch-brite-hpc-2011-blu-scotch-britehigh-performance-cleaning-cloth-blue-32-cm-x-36-cm-50-pac-7000122661-31583310381205.jpg?v=1628341656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Cleaning Cloths<br>
+        <strong>Price: </strong>
+            227.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-BriteHigh Performance Cleaning Cloth, HPC-2011-BLU, Blue, 32 cm x 36 cm, 50 Packs/Case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Brite</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Vietnam</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cleaning Cloths</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Scotch-Brite</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121732591660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">227.23</s:price>
+      <s:sku>SH WIP HPC-2011-BLU</s:sku>
+      <s:grams>2006</s:grams>
+    </s:variant>
+  </entry>
+</feed>

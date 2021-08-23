@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/bench-pedestal-grinding-wheels.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T11:32:14-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813085618220</id>
+    <published>2019-05-11T11:32:14-04:00</published>
+    <updated>2019-05-11T11:32:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc675c"/>
+    <title>JET GC675C  - 6 X 3/4 X 1 Gc60 Bench Grinding Wheel 522406</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc675c-6-x-3-4-x-1-gc60-bench-grinding-wheel-522406-12748555255852.jpg?v=1579526766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 3/4 x 1 GC60 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813085618220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522406</s:sku>
+      <s:grams>630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813085290540</id>
+    <published>2019-05-11T11:32:08-04:00</published>
+    <updated>2019-05-11T11:32:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc675f"/>
+    <title>JET GC675F  - 6 X 3/4 X 1 Gc120 Bench Grinding Wheel 522409</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc675f-6-x-3-4-x-1-gc120-bench-grinding-wheel-522409-12748554731564.jpg?v=1579526846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 3/4 x 1 GC120 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813085290540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522409</s:sku>
+      <s:grams>640</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813084864556</id>
+    <published>2019-05-11T11:31:53-04:00</published>
+    <updated>2019-05-11T11:31:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc675m"/>
+    <title>JET GC675M  - 6 X 3/4 X 1 Gc80 Bench Grinding Wheel 522407</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc675m-6-x-3-4-x-1-gc80-bench-grinding-wheel-522407-12748552470572.jpg?v=1579526799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 3/4 x 1 GC80 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_3/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813084864556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522407</s:sku>
+      <s:grams>659</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813081653292</id>
+    <published>2019-05-11T11:30:50-04:00</published>
+    <updated>2019-05-11T11:30:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-wa675f"/>
+    <title>JET WA675F  - 6 X 3/4 X 1 Wa60 Bench Grinding Wheel 522502</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-wa675f-6-x-3-4-x-1-wa60-bench-grinding-wheel-522502-12748546015276.jpg?v=1579581784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            33.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 3/4 x 1 WA60 Bench Grinding Wheel</h4> <li class="extra-info">These wheels are made from high quality white aluminum oxide grains that are sharper and cooler cutting than regular aluminum oxide grains</li><li class="extra-info"> Ideal for grinding drill bits and other hardened steel and alloy cutting tools where over-heating will affect temper</li><li class="extra-info"> All wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5/32 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These wheels are made from high quality white aluminum oxide grains that are sharper and cooler cutting than regular aluminum oxide grains</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_5/32 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813081653292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.63</s:price>
+      <s:sku>BA BPW 522502</s:sku>
+      <s:grams>733</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813080014892</id>
+    <published>2019-05-11T11:30:03-04:00</published>
+    <updated>2019-05-11T11:30:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a675m"/>
+    <title>JET A675M  - 6 X 3/4 X 1 A46 Bench Grinding Wheel 522164</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a675m-6-x-3-4-x-1-a46-bench-grinding-wheel-522164-12748542378028.jpg?v=1579490794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 3/4 x 1 A46 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">46</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">13mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>Grit_46</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_13mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813080014892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>BA BPW 522164</s:sku>
+      <s:grams>784</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813079326764</id>
+    <published>2019-05-11T11:29:42-04:00</published>
+    <updated>2019-05-11T11:29:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a675f"/>
+    <title>JET A675F  - 6 X 3/4 X 1 A60 Bench Grinding Wheel 522165</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a675f-6-x-3-4-x-1-a60-bench-grinding-wheel-522165-12748539723820.jpg?v=1579490646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 3/4 x 1 A60 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">12mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813079326764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>BA BPW 522165</s:sku>
+      <s:grams>820</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813079097388</id>
+    <published>2019-05-11T11:29:37-04:00</published>
+    <updated>2019-05-11T11:29:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a675c"/>
+    <title>JET A675C  - 6 X 3/4 X 1 A36 Bench Grinding Wheel 522163</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a675c-6-x-3-4-x-1-a36-bench-grinding-wheel-522163-12748538937388.jpg?v=1579490612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 3/4 x 1 A36 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">36</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">12mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813079097388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.00</s:price>
+      <s:sku>BA BPW 522163</s:sku>
+      <s:grams>823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813078147116</id>
+    <published>2019-05-11T11:29:25-04:00</published>
+    <updated>2019-05-11T11:29:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc610c"/>
+    <title>JET GC610C  - 6 X 1 X 1 Gc60 Bench Grinding Wheel 522411</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc610c-6-x-1-x-1-gc60-bench-grinding-wheel-522411-12748537954348.jpg?v=1579526732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            52.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1 x 1 GC60 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_3/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813078147116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.42</s:price>
+      <s:sku>BA BPW 522411</s:sku>
+      <s:grams>844</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813077688364</id>
+    <published>2019-05-11T11:29:17-04:00</published>
+    <updated>2019-05-11T11:29:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc610m"/>
+    <title>JET GC610M  - 6 X 1 X 1 Gc80 Bench Grinding Wheel 522412</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc610m-6-x-1-x-1-gc80-bench-grinding-wheel-522412-12748536447020.jpg?v=1579526643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            52.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1 x 1 GC80 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_3/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813077688364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.42</s:price>
+      <s:sku>BA BPW 522412</s:sku>
+      <s:grams>858</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813077164076</id>
+    <published>2019-05-11T11:28:56-04:00</published>
+    <updated>2019-05-11T11:28:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc610f"/>
+    <title>JET GC610F  - 6 X 1 X 1 Gc120 Bench Grinding Wheel 522414</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc610f-6-x-1-x-1-gc120-bench-grinding-wheel-522414-12748532514860.jpg?v=1579526612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            52.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1 x 1 GC120 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_3/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813077164076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.42</s:price>
+      <s:sku>BA BPW 522414</s:sku>
+      <s:grams>874</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813073100844</id>
+    <published>2019-05-11T11:27:23-04:00</published>
+    <updated>2019-05-11T11:27:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a610ef"/>
+    <title>JET A610EF  - 6 X 1 X 1 A80 Bench Grinding Wheel 522176</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a610ef-6-x-1-x-1-a80-bench-grinding-wheel-522176-12748519735340.jpg?v=1579490525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            30.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1 x 1 A80 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Very  Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">12mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Very  Fine</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813073100844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.29</s:price>
+      <s:sku>BA BPW 522176</s:sku>
+      <s:grams>1005</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813073035308</id>
+    <published>2019-05-11T11:27:23-04:00</published>
+    <updated>2019-05-11T11:27:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a610f"/>
+    <title>JET A610F  - 6 X 1 X 1 A60 Bench Grinding Wheel 522175</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a610f-6-x-1-x-1-a60-bench-grinding-wheel-522175-12748519669804.jpg?v=1579490401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            30.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1 x 1 A60 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_11mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813073035308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.29</s:price>
+      <s:sku>BA BPW 522175</s:sku>
+      <s:grams>1008</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813072642092</id>
+    <published>2019-05-11T11:27:12-04:00</published>
+    <updated>2019-05-11T11:27:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a610c"/>
+    <title>JET A610C  - 6 X 1 X 1 A36 Bench Grinding Wheel 522173</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a610c-6-x-1-x-1-a36-bench-grinding-wheel-522173-12748518424620.jpg?v=1579490491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            30.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1 x 1 A36 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">36</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_11mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813072642092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.29</s:price>
+      <s:sku>BA BPW 522173</s:sku>
+      <s:grams>1038</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813072511020</id>
+    <published>2019-05-11T11:27:09-04:00</published>
+    <updated>2019-05-11T11:27:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a610m"/>
+    <title>JET A610M  - 6 X 1 X 1 A46 Bench Grinding Wheel (General Purpose) 522174</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a610m-6-x-1-x-1-a46-bench-grinding-wheel-general-purpose-522174-12748518391852.jpg?v=1579490558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            30.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1 x 1 A46 Bench Grinding Wheel (General Purpose)</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">46</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">4138</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 4,138 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>Grit_46</s:tag>
+    <s:tag>RPM_4138</s:tag>
+    <s:tag>Size_11mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813072511020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.29</s:price>
+      <s:sku>BA BPW 522174</s:sku>
+      <s:grams>1038</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813066743852</id>
+    <published>2019-05-11T11:24:50-04:00</published>
+    <updated>2019-05-11T11:24:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a710f"/>
+    <title>JET A710F  - 7 X 1 X 1 A60 Bench Grinding Wheel 522225</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a710f-7-x-1-x-1-a60-bench-grinding-wheel-522225-12748502368300.jpg?v=1579490761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7 x 1 x 1 A60 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11/32 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_11/32 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813066743852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522225</s:sku>
+      <s:grams>1389</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813066448940</id>
+    <published>2019-05-11T11:24:44-04:00</published>
+    <updated>2019-05-11T11:24:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a875f"/>
+    <title>JET A875F  - 8 X 3/4 X 1 A60 Bench Grinding Wheel 522265</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a875f-8-x-3-4-x-1-a60-bench-grinding-wheel-522265-12748502335532.jpg?v=1579477531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 3/4 x 1 A60 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11/32 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_11/32 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813066448940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522265</s:sku>
+      <s:grams>1392</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813066317868</id>
+    <published>2019-05-11T11:24:36-04:00</published>
+    <updated>2019-05-11T11:24:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a710m"/>
+    <title>JET A710M  - 7 X 1 X 1 A46 Bench Grinding Wheel 522224</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a710m-7-x-1-x-1-a46-bench-grinding-wheel-522224-12748501450796.jpg?v=1579490728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7 x 1 x 1 A46 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">46</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11/32 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>Grit_46</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_11/32 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813066317868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522224</s:sku>
+      <s:grams>1408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813065728044</id>
+    <published>2019-05-11T11:24:22-04:00</published>
+    <updated>2019-05-11T11:24:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a875m"/>
+    <title>JET A875M  - 8 X 3/4 X 1 A46 Bench Grinding Wheel 522264</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a875m-8-x-3-4-x-1-a46-bench-grinding-wheel-522264-12748499451948.jpg?v=1579477471"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 3/4 x 1 A46 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">46</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>Grit_46</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_11/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813065728044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522264</s:sku>
+      <s:grams>1448</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813064417324</id>
+    <published>2019-05-11T11:24:03-04:00</published>
+    <updated>2019-05-11T11:24:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc810f"/>
+    <title>JET GC810F  - 8 X 1 X 1 Gc120 Bench Grinding Wheel 522439</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc810f-8-x-1-x-1-gc120-bench-grinding-wheel-522439-12748497551404.jpg?v=1579526970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            79.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 1 x 1 GC120 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813064417324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.83</s:price>
+      <s:sku>BA BPW 522439</s:sku>
+      <s:grams>1489</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813063729196</id>
+    <published>2019-05-11T11:23:52-04:00</published>
+    <updated>2019-05-11T11:23:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a875c"/>
+    <title>JET A875C  - 8 X 3/4 X 1 A36 Bench Grinding Wheel 522263</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a875c-8-x-3-4-x-1-a36-bench-grinding-wheel-522263-12748494929964.jpg?v=1579477439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            43.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 3/4 x 1 A36 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">36</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">10mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>Grit_36</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_10mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813063729196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.32</s:price>
+      <s:sku>BA BPW 522263</s:sku>
+      <s:grams>1503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813062877228</id>
+    <published>2019-05-11T11:23:26-04:00</published>
+    <updated>2019-05-11T11:23:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc810m"/>
+    <title>JET GC810M  - 8 X 1 X 1 Gc80 Bench Grinding Wheel 522437</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc810m-8-x-1-x-1-gc80-bench-grinding-wheel-522437-12748491391020.jpg?v=1579527002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            79.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 1 x 1 GC80 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813062877228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.83</s:price>
+      <s:sku>BA BPW 522437</s:sku>
+      <s:grams>1570</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813062713388</id>
+    <published>2019-05-11T11:23:20-04:00</published>
+    <updated>2019-05-11T11:23:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-gc810c"/>
+    <title>JET GC810C  - 8 X 1 X 1 Gc60 Bench Grinding Wheel 522436</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-gc810c-8-x-1-x-1-gc60-bench-grinding-wheel-522436-12748490702892.jpg?v=1579526880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            79.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 1 x 1 GC60 Bench Grinding Wheel</h4> <li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><li class="extra-info"> Ideal for grinding tungsten carbide</li><li class="extra-info"> All 6" and 8" wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">13mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For grinding carbide and non-ferrous tools on bench grinders and pedestal grinders</li><li class="extra-info"> Made from high quality sharp silicon carbide grain</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_13mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813062713388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.83</s:price>
+      <s:sku>BA BPW 522436</s:sku>
+      <s:grams>1576</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813061566508</id>
+    <published>2019-05-11T11:22:48-04:00</published>
+    <updated>2019-05-11T11:22:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-wa810f"/>
+    <title>JET WA810F  - 8 X 1 X 1 Wa60 Bench Grinding Wheel 522514</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-wa810f-8-x-1-x-1-wa60-bench-grinding-wheel-522514-12748487098412.jpg?v=1579581969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            63.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 1 x 1 WA60 Bench Grinding Wheel</h4> <li class="extra-info">These wheels are made from high quality white aluminum oxide grains that are sharper and cooler cutting than regular aluminum oxide grains</li><li class="extra-info"> Ideal for grinding drill bits and other hardened steel and alloy cutting tools where over-heating will affect temper</li><li class="extra-info"> All wheels are supplied with telescoping bushings from 1" through 1/2"</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These wheels are made from high quality white aluminum oxide grains that are sharper and cooler cutting than regular aluminum oxide grains</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_5/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813061566508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.86</s:price>
+      <s:sku>BA BPW 522514</s:sku>
+      <s:grams>1705</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813059469356</id>
+    <published>2019-05-11T11:22:06-04:00</published>
+    <updated>2019-05-11T11:22:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a810f"/>
+    <title>JET A810F  - 8 X 1 X 1 A60 Bench Grinding Wheel (General Purpose) 522275</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a810f-8-x-1-x-1-a60-bench-grinding-wheel-general-purpose-522275-12748483199020.jpg?v=1579490886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            47.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 1 x 1 A60 Bench Grinding Wheel (General Purpose)</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">10mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_10mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813059469356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.90</s:price>
+      <s:sku>BA BPW 522275</s:sku>
+      <s:grams>1806</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813059436588</id>
+    <published>2019-05-11T11:22:06-04:00</published>
+    <updated>2019-05-11T11:22:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-a810m"/>
+    <title>JET A810M  - 8 X 1 X 1 A46 Bench Grinding Wheel 522274</title>
+    <s:type>Grinding Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinding-wheels-jet-a810m-8-x-1-x-1-a46-bench-grinding-wheel-522274-12748483002412.jpg?v=1579490853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Grinding Wheels<br>
+        <strong>Price: </strong>
+            47.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 x 1 x 1 A46 Bench Grinding Wheel</h4> <li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><li class="extra-info"> All 6", 7", and 8" wheels are supplied with telescoping bushings from 1" through 1/2" to fit most bench grinders</li><li class="extra-info"> Please refer to 599033 and 599045 for information on bushings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">46</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinding Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">3600</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">10mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For general purpose grinding of steel on bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Speed : 3,600 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA BPW</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>Grit_46</s:tag>
+    <s:tag>RPM_3600</s:tag>
+    <s:tag>Size_10mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813059436588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.90</s:price>
+      <s:sku>BA BPW 522274</s:sku>
+      <s:grams>1849</s:grams>
+    </s:variant>
+  </entry>
+</feed>

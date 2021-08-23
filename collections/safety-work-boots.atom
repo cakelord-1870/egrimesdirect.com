@@ -1,0 +1,3524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/safety-work-boots.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-12T15:17:04-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074951212</id>
+    <published>2019-12-12T15:17:04-05:00</published>
+    <updated>2019-12-12T15:17:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/insulated-safety-pu-boots-composite-toe-midsole-in-green-z090gg"/>
+    <title>Insulated Safety PU Boots Composite Toe &amp; Midsole in Green -  Thermolite Bekina Z090GG</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Bekina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-insulated-safety-pu-boots-composite-toe-midsole-in-green-thermolite-bekina-z090gg-13448405418028.png?v=1579660294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bekina<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            134.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bekina Steplite XCi Green PU Boot - CSA Z195-14 Grade # 1 Composite Toe &amp; Midsole</h4> <li class="extra-info">Thermal insulation good up to -50 °C / -58 °F</li><li class="extra-info"> 15” tall</li><li class="extra-info"> Ergonomic sole design for easy walking</li><li class="extra-info"> Anti-bacterial and abrasion-resistant lining</li><li class="extra-info"> Extra wide toe, vamp and shaft for a more comfortable fit</li><li class="extra-info"> Shock-resistant heel and anti-slip, self-cleaning sole</li><li class="extra-info"> Ergonomic, shock-absorbing, washable footbeds</li><li class="extra-info"> Resistant to mineral, manure, vegetable and animal oil or fats, blood and various chemical cleaning products</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Bekina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Thermolite</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Fish and meat processing Cattle breeding, poultry, pig and fish farming Vegetable and fruit farming Dairy farms Breweries</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Anti-Bacterial_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Thermolite</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>6</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-6</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>8</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-8</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>9</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-9</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>7</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-7</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>10</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-10</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>11</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-11</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>12</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-12</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>13</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-13</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074951212</id>
+      <title>14</title>
+      <s:price currency="CAD">134.34</s:price>
+      <s:sku>SS FOO Z090GG-14</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074918444</id>
+    <published>2019-12-12T15:17:03-05:00</published>
+    <updated>2019-12-12T15:17:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/waterproof-safety-boots-with-composite-toe-midsole-in-black-red-xc90br"/>
+    <title>Waterproof Safety Boots with Composite Toe &amp; Midsole in Black/Red -  StepliteXCi Bekina XC90BR</title>
+    <s:type>Composite Toe Boots</s:type>
+    <s:vendor>Bekina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/composite-toe-boots-waterproof-safety-boots-with-composite-toe-midsole-in-black-red-steplitexci-bekina-xc90br-13448405352492.png?v=1579660414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bekina<br>
+        <strong>Type: </strong>Composite Toe Boots<br>
+        <strong>Price: </strong>
+            119.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">CSA Z195-14 Grade 1 composite toe cap and midsole; CSA Omega - Electric Shock Resistant 18kV</h4> <li class="extra-info">Foamed PU waterproof construction</li><li class="extra-info"> Thermal insulation good up to -40°C / -40°F</li><li class="extra-info"> Enhanced comfort: wider fitting</li><li class="extra-info"> Anti-bacterial and abrasion-resistant lining</li><li class="extra-info"> Kick-off spur for quick removal</li><li class="extra-info"> Aggressive winter anti-clogging soles for added slip resistance</li><li class="extra-info"> Shock-absorbent heel</li><li class="extra-info"> Cut-off line to make shorter boot from 15" to 11.5"</li><li class="extra-info"> Lightweight, comfortable, and flexible</li><li class="extra-info"> Ergonomic, shock-absorbing, washable footbeds Resistant to mineral, manure, vegetable and animal oil or fats, blood and various chemical cleaning products</li><li class="extra-info"> Light as a feather: 40% lighter than rubber or PVC</li><li class="extra-info"> Thermo-insulating: cool in summer, warm in winter</li><li class="extra-info"> Resistant to mineral, animal, and vegetable oil and fats, blood, disinfectants, manure, solvents, motor oil, and petroleum based chemicals.</li>[/shortdesc]   <h2>Technical Specifications</h2><h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Bekina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">StepliteXCi</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black/Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Composite Toe Boots</td>
+</tr>
+</table><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Aggressive winter anti-clogging soles for added slip resistance</td></tr>
+<tr class="egrimes"><td class="egrimes">CSA Z195-14 Grade 1 composite toe cap and midsole CSA Omega - Electric Shock Resistant 18kV</td></tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Fish and meat processing Cattle breeding, poultry, pig and fish farming Vegetable and fruit farming Dairy farms Breweries</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Anti-Bacterial_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Color_Black/Red</s:tag>
+    <s:tag>Line_StepliteXCi</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Petroleum and Solvent Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>Waterproof_Yes</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>4</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-4</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>5</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-5</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>6</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-6</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>7</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-7</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>8</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-8</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>9</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-9</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>10</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-10</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>12</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-12</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>14</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-14</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074918444</id>
+      <title>15</title>
+      <s:price currency="CAD">119.73</s:price>
+      <s:sku>SS FOO XC90BR-15</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074852908</id>
+    <published>2019-12-12T15:17:02-05:00</published>
+    <updated>2019-12-12T15:17:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/waterproof-pu-safety-boots-with-composite-toe-midsole-in-white-blue-x290wb"/>
+    <title>Waterproof PU Safety Boots with Composite Toe &amp; Midsole in White/Blue -  StepliteX Bekina X290WB</title>
+    <s:type>Composite Toe Boots</s:type>
+    <s:vendor>Bekina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/composite-toe-boots-waterproof-pu-safety-boots-with-composite-toe-midsole-in-white-blue-steplitex-bekina-x290wb-13448405319724.png?v=1579660172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bekina<br>
+        <strong>Type: </strong>Composite Toe Boots<br>
+        <strong>Price: </strong>
+            97.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bekina Steplite X White PU Boot - CSA Z195-14 Grade # 1 Composite Toe &amp; Midsole</h4> <li class="extra-info">Foamed PU waterproof construction</li><li class="extra-info"> Long-lasting, tough-wearing</li><li class="extra-info"> PU remains flexible at -30°C / -22°F</li><li class="extra-info"> Enhanced comfort: wider fitting</li><li class="extra-info"> Anti-bacterial and abrasion-resistant lining</li><li class="extra-info"> Kick-off spur for quick removal</li><li class="extra-info"> Anti-clogging sole for added slip resistance</li>[/shortdesc]   <h2>Technical Specifications</h2><h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Bekina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">StepliteX</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White/Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Composite Toe Boots</td>
+</tr>
+</table><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">CSA Z195-14 Grade 1 composite toe cap and midsole CSA Omega - Electric Short Resistant 18kV</td></tr>
+<tr class="egrimes"><td class="egrimes">CSA Z195-14 Class #1 Composite toe and midsole CSA Omega - Electric Short Resistant 18kV</td></tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Fish and meat processing Cattle breeding, poultry, pig and fish farming Vegetable and fruit farming Dairy farms Breweries</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Anti-Bacterial_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Color_White/Blue</s:tag>
+    <s:tag>Line_StepliteX</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>Waterproof_Yes</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>4</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-4</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>5</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-5</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>6</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-6</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>7</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-7</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>8</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-8</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>9</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-9</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>10</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-10</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>11</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-11</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>12</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-12</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>13</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-13</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074852908</id>
+      <title>14</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290WB-14</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074721836</id>
+    <published>2019-12-12T15:16:57-05:00</published>
+    <updated>2019-12-12T15:16:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/waterproof-pu-safety-boots-with-composite-toe-midsole-in-green-x290gb"/>
+    <title>Waterproof PU Safety Boots with Composite Toe &amp; Midsole in Green -  StepliteX Bekina X290GB</title>
+    <s:type>Composite Toe Boots</s:type>
+    <s:vendor>Bekina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/composite-toe-boots-waterproof-pu-safety-boots-with-composite-toe-midsole-in-green-steplitex-bekina-x290gb-13448404959276.png?v=1579660085"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bekina<br>
+        <strong>Type: </strong>Composite Toe Boots<br>
+        <strong>Price: </strong>
+            97.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bekina Steplite X Green PU Boot - CSA Z195-14 Grade # 1 Composite Toe &amp; Midsole</h4> <li class="extra-info">Foamed PU waterproof construction</li><li class="extra-info"> Long-lasting, tough-wearing</li><li class="extra-info"> PU remains flexible at -30°C / -22°F</li><li class="extra-info"> Enhanced comfort: wider fitting</li><li class="extra-info"> Anti-bacterial and abrasion-resistant lining</li><li class="extra-info"> Kick-off spur for quick removal</li><li class="extra-info"> Anti-clogging sole for added slip resistance</li>[/shortdesc]   <h2>Technical Specifications</h2><h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Bekina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">StepliteX</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Composite Toe Boots</td>
+</tr>
+</table><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Long-lasting, tough-wearing PU remains flexible at -30°C / -22°F Anti-clogging sole for added slip resistance</td></tr>
+<tr class="egrimes"><td class="egrimes">CSA Z195-14 Grade 1 composite toe cap and midsole CSA Omega - Electric Short Resistant 18kV</td></tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Fish and meat processing Cattle breeding, poultry, pig and fish farming Vegetable and fruit farming Dairy farms Breweries</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Anti-Bacterial_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_StepliteX</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>Waterproof_Yes</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>4</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-4</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>5</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-5</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>6</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-6</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>7</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-7</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>8</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-8</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>9</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-9</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>10</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-10</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>11</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-11</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>12</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-12</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>13</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-13</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074721836</id>
+      <title>15</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290GB-15</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074656300</id>
+    <published>2019-12-12T15:16:54-05:00</published>
+    <updated>2019-12-12T15:16:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/waterproof-safety-pu-boots-with-composite-toe-midsole-in-blue-x290bb"/>
+    <title>Waterproof Safety PU Boots with Composite Toe &amp; Midsole in Blue -  StepliteX Bekina X290BB</title>
+    <s:type>Composite Toe Boots</s:type>
+    <s:vendor>Bekina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/composite-toe-boots-waterproof-safety-pu-boots-with-composite-toe-midsole-in-blue-steplitex-bekina-x290bb-13448404795436.png?v=1579660051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bekina<br>
+        <strong>Type: </strong>Composite Toe Boots<br>
+        <strong>Price: </strong>
+            97.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bekina Steplite X Blue PU Boot - CSA Z195-14 Grade # 1 Composite Toe &amp; Midsole</h4> <li class="extra-info">Foamed PU waterproof construction</li><li class="extra-info"> Long-lasting, tough-wearing</li><li class="extra-info"> PU remains flexible at -30°C / -22°F</li><li class="extra-info"> Enhanced comfort: wider fitting</li><li class="extra-info"> Anti-bacterial and abrasion-resistant lining</li><li class="extra-info"> Kick-off spur for quick removal</li><li class="extra-info"> Anti-clogging sole for added slip resistance</li>[/shortdesc]   <h2>Technical Specifications</h2><h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Bekina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">StepliteX</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Composite Toe Boots</td>
+</tr>
+</table><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Long-lasting, tough-wearing PU remains flexible at -30°C / -22°F Anti-clogging sole for added slip resistance</td></tr>
+<tr class="egrimes"><td class="egrimes">CSA Z195-14 Grade 1 composite toe cap and midsole CSA Omega - Electric Short Resistant 18kV</td></tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Fish and meat processing Cattle breeding, poultry, pig and fish farming Vegetable and fruit farming Dairy farms Breweries</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Anti-Bacterial_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>Line_StepliteX</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>Waterproof_Yes</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>4</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-4</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>5</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-5</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>6</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-6</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>7</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-7</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>8</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-8</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>9</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-9</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>10</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-10</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>11</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-11</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>12</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-12</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>13</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-13</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>14</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-14</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074656300</id>
+      <title>15</title>
+      <s:price currency="CAD">97.10</s:price>
+      <s:sku>SS FOO X290BB-15</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074590764</id>
+    <published>2019-12-12T15:16:52-05:00</published>
+    <updated>2019-12-12T15:16:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/waterproof-pu-boots-in-green-with-soft-toe-x210gb"/>
+    <title>Waterproof PU Boots in Green with Soft Toe -  StepliteX Bekina X210GB</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Bekina</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-waterproof-pu-boots-in-green-with-soft-toe-steplitex-bekina-x210gb-13448404893740.png?v=1579660138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bekina<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            80.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bekina Steplite X Green PU Boot - Soft Toe</h4> <li class="extra-info">Foamed PU waterproof construction with soft toe</li><li class="extra-info"> Long-lasting, tough-wearing</li><li class="extra-info"> PU remains flexible at -30°C / -22°F</li><li class="extra-info"> Enhanced comfort: wider fitting</li><li class="extra-info"> Anti-bacterial and abrasion-resistant lining</li><li class="extra-info"> Kick-off spur for quick removal</li><li class="extra-info"> Anti-clogging sole for added slip resistance</li>[/shortdesc]   <h2>Technical Specifications</h2><h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Bekina</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">StepliteX</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Long-lasting, tough-wearing PU remains flexible at -30°C / -22°F Anti-clogging sole for added slip resistance</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Fish and meat processing Horticulture Vegetable and fruit farming Sugar plants Dairy farms Breweries</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Anti-Bacterial_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_StepliteX</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>Waterproof_Yes</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>4</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-4</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>5</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-5</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>6</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-6</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>7</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-7</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>8</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-8</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>9</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-9</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>10</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-10</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>11</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-11</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>15</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-15</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074590764</id>
+      <title>14</title>
+      <s:price currency="CAD">80.31</s:price>
+      <s:sku>SS FOO X210GB-14</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074525228</id>
+    <published>2019-12-12T15:16:50-05:00</published>
+    <updated>2019-12-12T15:16:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-chainsaw-boots-with-kevlar-nomex-lining-vw91"/>
+    <title>Flame-resistant Chainsaw Boots with Kevlar Nomex Lining -  Firefighter Viking VW91</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-flame-resistant-chainsaw-boots-with-kevlar-nomex-lining-firefighter-viking-vw91-13448404926508.png?v=1579660260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            173.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Firefighter Chainsaw Boot - Lug Sole, Snug Fit, Kevlar Nomex Lining</h4> <li class="extra-info">Extra comfort non-woven para/meta aramid FR lining excellent flame resistant property</li><li class="extra-info"> 16 Inch tall</li><li class="extra-info"> Snug-fit design and ergonomic insole, plus the optional felt insole to adjust fit</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Flame retardant rubber upper</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Firefighter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Regular and Auxillary Firefighters Forest fire workers Motor vehicle accidents around dangerous flammable liquids</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Firefighter</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_10.5</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_11.5</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_4.5</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_5.5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_6.5</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_7.5</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_8.5</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Size_9.5</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>4</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-4</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>4.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-4.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>5.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-5.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>6</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>6.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-6.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>7</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>7.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-7.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>8</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>8.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-8.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>9</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>9.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-9.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>10</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>10.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-10.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>11</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>11.5</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-11.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>12</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>13</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074525228</id>
+      <title>15</title>
+      <s:price currency="CAD">173.76</s:price>
+      <s:sku>SS FOO VW91-15</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074492460</id>
+    <published>2019-12-12T15:16:48-05:00</published>
+    <updated>2019-12-12T15:16:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/flame-resistant-rubber-boots-with-felt-linin-in-black-yellow-vw90"/>
+    <title>Flame-resistant Rubber Boots with Felt Linin in Black/Yellow -  Firefighter Viking VW90</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-flame-resistant-rubber-boots-with-felt-linin-in-black-yellow-firefighter-viking-vw90-13448404664364.png?v=1579660017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            140.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Firefighter Felt-Lined Boots</h4> <li class="extra-info">Chemical resistant tested as per EN 13832-1:2006</li><li class="extra-info"> 14" tall</li><li class="extra-info"> Snug Fit design and ergonomic orthotic insole</li><li class="extra-info"> Flame retardant rubber upper with grey felt lining</li><li class="extra-info"> Highly chemical-resistant rubber upper</li><li class="extra-info"> Vamp and leg lined with felt lining material for comfort and thermal insulation</li><li class="extra-info"> Reinforced backstay for heel/tendon protection</li><li class="extra-info"> Steel mid sole for footstep protection against penetration</li><li class="extra-info"> Abrasion-, oil-, chemical-, slip-resistant, and heat-retardant chloroprene rubber lug sole</li><li class="extra-info"> Safety reflective patch on the side of the boot</li><li class="extra-info"> Heavy-duty rubber pull straps</li><li class="extra-info"> Ultra flexible: Exceeds 305,000 Flex Rating</li><li class="extra-info"> Compatible with ice studs</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Firefighter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black/Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Regular and Auxillary Firefighters Forest fire workers General fire rescue</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Color_Black/Yellow</s:tag>
+    <s:tag>Line_Firefighter</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_10.5</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_11.5</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_8.5</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Size_9.5</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>5</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>6</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>7</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>8</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>8.5</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-8.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>9</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>9.5</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-9.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>10</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>10.5</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-10.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>11</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>11.5</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-11.5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>12</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>13</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074492460</id>
+      <title>14</title>
+      <s:price currency="CAD">140.18</s:price>
+      <s:sku>SS FOO VW90-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074459692</id>
+    <published>2019-12-12T15:16:48-05:00</published>
+    <updated>2019-12-12T15:16:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultimate-construction-boots-15-inch-vw88"/>
+    <title>Ultimate Construction Boots - 15 Inch -  Viking VW88</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-ultimate-construction-boots-15-inch-viking-vw88-13448404566060.png?v=1579659899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            110.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Ultimate Construction Boot - Lug Sole; Snug Fit</h4> <li class="extra-info">SBR blended NR upper with cotton canvas lining</li><li class="extra-info"> Highly chemical-resistant rubber upper 30% concentration</li><li class="extra-info"> Sodium Cyanide resistant &gt;480 minutes</li><li class="extra-info"> Circular saw cut resistance</li><li class="extra-info"> 15 Inch in height, 3 Inch nylon cuff with adjustable toggle to keep debris out</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Forestry Steel Oil and Gas Industry Root Cutting Waste &amp; Recycling Facilities Wood / Concrete Cutting Sandblasting Plasterwork Open Pit / Excavation Sites Masonry Road Construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>6</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>7</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>8</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>9</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>10</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>11</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>12</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074459692</id>
+      <title>14</title>
+      <s:price currency="CAD">110.97</s:price>
+      <s:sku>SS FOO VW88-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074295852</id>
+    <published>2019-12-12T15:16:45-05:00</published>
+    <updated>2019-12-12T15:16:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/heavy-duty-knee-boots-15-inch-vw8-3"/>
+    <title>Heavy Duty Knee Boots - 15 Inch -  Journeyman Viking VW8-3</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-heavy-duty-knee-boots-15-inch-journeyman-viking-vw8-3-13448404500524.png?v=1579659932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            94.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Journeyman Heavy Duty Knee Boot - 15 Inch, Lug Sole</h4> <li class="extra-info">SBR blended NR upper with cotton canvas lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Abrasion-, oil-, chemical-, heat-, and slip-resistant, SBR blended</li><li class="extra-info"> NR outsole</li><li class="extra-info"> Self-cleaning lug sole</li><li class="extra-info"> Ultra flexible: Exceeds 305,000 Flex Rating</li><li class="extra-info"> Compatible with ice stud</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Construction workers Utility &amp; maintenance workers General labourers Field engineers Electricians</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>5</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>6</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>7</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>8</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>9</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>11</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>13</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>14</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074295852</id>
+      <title>15</title>
+      <s:price currency="CAD">94.91</s:price>
+      <s:sku>SS FOO VW8-3-15</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074197548</id>
+    <published>2019-12-12T15:16:44-05:00</published>
+    <updated>2019-12-12T15:16:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/leather-forestry-boots-with-caulked-sole-vw79"/>
+    <title>Leather Forestry Boots with Caulked Sole -  Black Tusk Viking VW79</title>
+    <s:type>Steel Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/steel-toe-boots-leather-forestry-boots-with-caulked-sole-black-tusk-viking-vw79-13448404434988.png?v=1579659843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Steel Toe Boots<br>
+        <strong>Price: </strong>
+            226.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Black Tusk Leather Upper/Rubber Bottom Forestry Boot -Caulked Sole</h4> <li class="extra-info">Leather top, rubber bottom, and cotton canvas lining</li><li class="extra-info"> Achilles tendon, ankle and metatarsal protection</li><li class="extra-info"> -Abrasion-, oil-, chemical-, and slip-resistant</li><li class="extra-info"> NBR lug sole</li><li class="extra-info"> Compatible with ice studs-CSA Z195-14 / ASTM F2413-11</li><li class="extra-info"> Grade 1 Steel toe and plate</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Black Tusk</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Steel Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Loggers Professional Arborist Harvesters Log quality inspectors Seeder and planters</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Black Tusk</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>6</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>7</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>9</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>10</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>11</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>12</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>13</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074197548</id>
+      <title>14</title>
+      <s:price currency="CAD">226.33</s:price>
+      <s:sku>SS FOO VW79-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074132012</id>
+    <published>2019-12-12T15:16:42-05:00</published>
+    <updated>2019-12-12T15:16:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/safety-boots-with-grade-3-chainsaw-protection-and-steel-toe-vw78"/>
+    <title>Safety Boots with Grade 3 Chainsaw Protection and Steel Toe -  Black Tusk Viking VW78</title>
+    <s:type>Steel Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/steel-toe-boots-safety-boots-with-grade-3-chainsaw-protection-and-steel-toe-black-tusk-viking-vw78-13448403550252.png?v=1579657417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Steel Toe Boots<br>
+        <strong>Price: </strong>
+            208.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Black Tusk CSA Green Tree and CE Grade 3 Chainsaw Protection Leather Upper/Rubber Bottom Boot</h4> <li class="extra-info">Leather top, rubber bottom, and cotton canvas lining</li><li class="extra-info"> Achilles tendon, ankle and metatarsal protection</li><li class="extra-info"> -Abrasion-, oil-, chemical-, and slip-resistant</li><li class="extra-info"> NBR lug sole</li><li class="extra-info"> Compatible with ice studs-CSA Z195-14 / ASTM F2413-11</li><li class="extra-info"> Grade 1 Steel toe and plate</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Black Tusk</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Steel Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Loggers Professional Arborist Harvesters Log quality inspectors Seeder and planters</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Black Tusk</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>5</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>6</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>7</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>8</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>9</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>10</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>11</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>12</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074132012</id>
+      <title>13</title>
+      <s:price currency="CAD">208.81</s:price>
+      <s:sku>SS FOO VW78-1-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367074066476</id>
+    <published>2019-12-12T15:16:41-05:00</published>
+    <updated>2019-12-12T15:16:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/leather-forestry-boots-vw76"/>
+    <title>Leather Forestry Boots -  Ericsen Viking VW76</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-leather-forestry-boots-ericsen-viking-vw76-13448403583020.jpg?v=1579657384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            179.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Ericsen Leather Upper/Rubber Bottom Forestry Boot - Lug Sole</h4> <li class="extra-info">Leather top, rubber bottom, and cotton canvas lining</li><li class="extra-info"> Abrasion-, oil-, chemical-, and slip-resistant</li><li class="extra-info"> NBR lug sole</li><li class="extra-info"> Reinforced heel area</li><li class="extra-info"> Ballistic nylon cut-resistant protection in shin and toe area</li><li class="extra-info"> Compatible with ice studs-CSA Z195-14 / ASTM F2413-11</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ericsen</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Professional Arborist Harvesters Log quality inspectors Seeders and planters Plant maintenance managers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Ericsen</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>6</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>7</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>8</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>9</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>10</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>11</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>12</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>13</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367074066476</id>
+      <title>14</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>SS FOO VW76-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073837100</id>
+    <published>2019-12-12T15:16:37-05:00</published>
+    <updated>2019-12-12T15:16:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/leather-winter-boots-with-removable-foam-liner-vw75-3"/>
+    <title>Leather Winter Boots with Removable Foam Liner -  Viking VW75-3</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-leather-winter-boots-with-removable-foam-liner-viking-vw75-3-13448403517484.png?v=1579657293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            194.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Leather Winter Boot w/ Removable Foam Liner - Leather Upper/Rubber Bottom - lug Sole, Reinforced Heel Area</h4> <li class="extra-info">Removable foam liner provides warmth for up to -70°C/-100°F</li><li class="extra-info"> Durable, handcrafted 100% water-resistant full cow grain leather upper and lace up design for maximum comfort and a tighter fit to prevent from ankle roll and foot fatigue</li><li class="extra-info"> Oil-, chemical-, fuel- resistant</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Construction workers in the winter Winter Harvesters Log quality inspectors working in cold weather Road workers in the winter Chairlift operators General industrial winter saftey footwear Forestry workers in the North</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Petroleum and Solvent Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073837100</id>
+      <title>7</title>
+      <s:price currency="CAD">194.20</s:price>
+      <s:sku>SS FOO VW75-3-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073837100</id>
+      <title>8</title>
+      <s:price currency="CAD">194.20</s:price>
+      <s:sku>SS FOO VW75-3-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073837100</id>
+      <title>9</title>
+      <s:price currency="CAD">194.20</s:price>
+      <s:sku>SS FOO VW75-3-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073837100</id>
+      <title>10</title>
+      <s:price currency="CAD">194.20</s:price>
+      <s:sku>SS FOO VW75-3-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073837100</id>
+      <title>11</title>
+      <s:price currency="CAD">194.20</s:price>
+      <s:sku>SS FOO VW75-3-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073837100</id>
+      <title>12</title>
+      <s:price currency="CAD">194.20</s:price>
+      <s:sku>SS FOO VW75-3-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073837100</id>
+      <title>13</title>
+      <s:price currency="CAD">194.20</s:price>
+      <s:sku>SS FOO VW75-3-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073804332</id>
+    <published>2019-12-12T15:16:37-05:00</published>
+    <updated>2019-12-12T15:16:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/safety-boots-with-grade-3-chainsaw-protection-and-caulked-sole-vw69-1"/>
+    <title>Safety Boots with Grade 3 Chainsaw Protection and Caulked Sole -  Timberwolf Viking VW69-1</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-safety-boots-with-grade-3-chainsaw-protection-and-caulked-sole-timberwolf-viking-vw69-1-13448403484716.png?v=1579654619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            197.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Timberwolf CSA Green Tree and CE Grade 3 Chainsaw Protection Professional Chainsaw boot- Caulked Sole</h4> <li class="extra-info">SBR blended NR upper with cotton canvas lining</li><li class="extra-info"> High impact, abrasion-, chemical-, and oil-resistant</li><li class="extra-info"> NBR lug sole</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Achilles tendon, ankle protection</li><li class="extra-info"> Rubber lace collar with safety reflective stripe</li><li class="extra-info"> Ultra flexible</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Timberwolf</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Professional Arborist Harvesters Log quality inspectors Seeders and planters Plant maintenance managers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Timberwolf</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>5</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>6</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>7</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>8</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>9</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>10</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>11</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>12</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>13</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>14</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073804332</id>
+      <title>15</title>
+      <s:price currency="CAD">197.12</s:price>
+      <s:sku>SS FOO VW69-1-15</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073738796</id>
+    <published>2019-12-12T15:16:35-05:00</published>
+    <updated>2019-12-12T15:16:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/safety-boots-grade-3-chainsaw-protection-and-lug-sole-vw68-1"/>
+    <title>Safety Boots - Grade 3 Chainsaw Protection and Lug Sole -  Timberwolf Viking VW68-1</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-safety-boots-grade-3-chainsaw-protection-and-lug-sole-timberwolf-viking-vw68-1-13448403386412.png?v=1579654652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            150.40 - 176.94
+            <a href="https://egrimesdirect.com/products/safety-boots-grade-3-chainsaw-protection-and-lug-sole-vw68-1">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Timberwolf CSA Green Tree and CE Grade 3 Chainsaw Protection, Professional Chainsaw boot, Lug Sole</h4> <li class="extra-info">SBR blended NR upper with cotton canvas lining</li><li class="extra-info"> High impact, abrasion-, chemical-, and oil-resistant</li><li class="extra-info"> NBR lug sole</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Achilles tendon, ankle protection</li><li class="extra-info"> Rubber lace collar with safety reflective stripe</li><li class="extra-info"> Ultra flexible</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Timberwolf</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Professional Arborist Harvesters Log quality inspectors Seeders and planters Plant maintenance managers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Timberwolf</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>5</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>6</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>7</title>
+      <s:price currency="CAD">176.94</s:price>
+      <s:sku>SS FOO VW68-1-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>8</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>9</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>10</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>11</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>12</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>13</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW68-1-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>14</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073738796</id>
+      <title>15</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW68-1-15</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073706028</id>
+    <published>2019-12-12T15:16:35-05:00</published>
+    <updated>2019-12-12T15:16:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/safety-boots-grade-3-chainsaw-protection-with-caulked-sole-vw59-1"/>
+    <title>Safety Boots - Grade 3 Chainsaw Protection with Caulked Sole -  Bushwacker Viking VW59-1</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-safety-boots-grade-3-chainsaw-protection-with-caulked-sole-bushwacker-viking-vw59-1-13448403353644.png?v=1579654738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            192.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Bushwhacker CSA Green Tree and CE Grade 3 Chainsaw Protection Boot- Caulked Sole</h4> <li class="extra-info">Snug Fit design and ergonomic insole</li><li class="extra-info"> SBR blended NR upper with cotton canvas lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Nylon cuff to seal out debris and dust</li><li class="extra-info"> Abrasion-, chemical-, and oil-resistant NBR lug sole</li><li class="extra-info"> Air-cushioned heel with achilles tendon</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Bushwacker</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange/Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Clearing Saw Operators Brush Cutters Scarifier Operators Forestry Crew Persons Forestry Conservation Workers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Color_Orange/Black</s:tag>
+    <s:tag>Line_Bushwacker</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>4</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-4</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>5</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>6</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>7</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>8</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>9</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>10</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>11</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>12</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>13</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073706028</id>
+      <title>14</title>
+      <s:price currency="CAD">192.74</s:price>
+      <s:sku>SS FOO VW59-1-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073443884</id>
+    <published>2019-12-12T15:16:30-05:00</published>
+    <updated>2019-12-12T15:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/safety-boots-with-grade-3-chainsaw-protection-and-steel-toe-vw58-1"/>
+    <title>Safety Boots with Grade 3 Chainsaw Protection and Steel Toe -  Bushwacker Viking VW58-1</title>
+    <s:type>Steel Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/steel-toe-boots-safety-boots-with-grade-3-chainsaw-protection-and-steel-toe-bushwacker-viking-vw58-1-13448403255340.png?v=1579654500"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Steel Toe Boots<br>
+        <strong>Price: </strong>
+            147.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Bushwhacker CSA Green Tree and CE Grade 3 Chainsaw Protection Boot - Steel Toe &amp; Plate</h4> <li class="extra-info">Snug Fit design and ergonomic insole</li><li class="extra-info"> SBR blended NR upper with cotton canvas lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Nylon cuff to seal out debris and dust</li><li class="extra-info"> Abrasion-, chemical-, and oil-resistant NBR lug sole</li><li class="extra-info"> Air-cushioned heel with achilles tendon</li>[/shortdesc]   <h2>Technical Specifications</h2><h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Bushwacker</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Steel Toe Boots</td>
+</tr>
+</table><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">CSA Omega – Electric shock resistant 18kV CSA Z195-14 “Green Fir Tree” chainsaw protection - Chainsaw Protection (Highest Class - Class 3: 28m/sec chainsaw speed as per EN ISO 17249: 2013) CSA Z195-14 / ASTM F2413-11 Grade 1 Steel toe and plate</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Professional Arborist Harvesters Log quality inspectors Seeders and planters Construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Bushwacker</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_4</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>4</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-4</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>5</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>6</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>7</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>8</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>9</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>10</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>11</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>12</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>13</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>14</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073443884</id>
+      <title>15</title>
+      <s:price currency="CAD">147.48</s:price>
+      <s:sku>SS FOO VW58-1-15</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073411116</id>
+    <published>2019-12-12T15:16:30-05:00</published>
+    <updated>2019-12-12T15:16:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/winter-safety-boots-with-grade-3-chainsaw-protection-and-steel-toe-vw58-3"/>
+    <title>Winter Safety Boots with Grade 3 Chainsaw Protection and Steel Toe -  Bushwacker Viking VW58-3</title>
+    <s:type>Steel Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/steel-toe-boots-winter-safety-boots-with-grade-3-chainsaw-protection-and-steel-toe-bushwacker-viking-vw58-3-13448403222572.png?v=1579654566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Steel Toe Boots<br>
+        <strong>Price: </strong>
+            156.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Winter Bushwhacker CSA Green Tree and CE Grade 3 Chainsaw Protection Boot w/Liner Grade #1 Steel Toe &amp; Plate</h4> <li class="extra-info">Made of SBR blended NR for maximum chemical protection</li><li class="extra-info"> High impact, abrasion-, chemical-, and oil-resistant</li><li class="extra-info"> NBR lug sole</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Removable foam liner provides warmth for up to -70°C/-100°F</li><li class="extra-info"> Air-cushioned heel</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Bushwacker</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Steel Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Construction Professional arborist Harvesters Log quality inspectors Forestry conservation workers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Cold Temp Rated_Yes</s:tag>
+    <s:tag>Line_Bushwacker</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>6</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>7</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>8</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>10</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>11</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>12</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>13</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073411116</id>
+      <title>14</title>
+      <s:price currency="CAD">156.24</s:price>
+      <s:sku>SS FOO VW58-3-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073345580</id>
+    <published>2019-12-12T15:16:28-05:00</published>
+    <updated>2019-12-12T15:16:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/spiked-lace-up-boots-with-steel-toe-and-caulked-sole-vw57"/>
+    <title>Spiked Lace-up Boots with Steel Toe and Caulked Sole -  Forester Viking VW57</title>
+    <s:type>Steel Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/steel-toe-boots-spiked-lace-up-boots-with-steel-toe-and-caulked-sole-forester-viking-vw57-13448403189804.png?v=1579654532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Steel Toe Boots<br>
+        <strong>Price: </strong>
+            160.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Spiked Forester Lace Up Boot - Caulked Sole - CSA Z195-14/ASTM F2413-11 Grade # 1 Steel Toe</h4> <li class="extra-info">SBR blended NR rubber boots with polyester lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Polyester flap behind laces</li><li class="extra-info"> Reinforced heel and instep</li><li class="extra-info"> SBR blended NR caulked sole</li><li class="extra-info"> Used for forestry, surveying, and roofing</li><li class="extra-info"> Ultra flexible: Exceeds 305,000 Flex Rating</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Forester</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Steel Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Timber rafting Loggers Professional Arborist Harvesters Log quality inspectors Seeder and planters Plant maintenance managers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Forester</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>5</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>6</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>7</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>8</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>9</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>10</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>11</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>12</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073345580</id>
+      <title>13</title>
+      <s:price currency="CAD">160.62</s:price>
+      <s:sku>SS FOO VW57-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073312812</id>
+    <published>2019-12-12T15:16:28-05:00</published>
+    <updated>2019-12-12T15:16:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/spiked-lace-up-boots-with-soft-toe-vw56"/>
+    <title>Spiked Lace-up Boots with Soft Toe -  Forester Viking VW56</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-spiked-lace-up-boots-with-soft-toe-forester-viking-vw56-13448403124268.png?v=1579654326"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            150.40 - 187.24
+            <a href="https://egrimesdirect.com/products/spiked-lace-up-boots-with-soft-toe-vw56">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Spiked Forester Lace Up Boot - Caulked Sole - Soft Toe</h4> <li class="extra-info">SBR blended NR rubber boots with polyester lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Polyester flap behind laces</li><li class="extra-info"> Reinforced heel and instep</li><li class="extra-info"> SBR blended NR caulked sole</li><li class="extra-info"> Used for forestry, surveying, and roofing</li><li class="extra-info"> Ultra flexible: Exceeds 305,000 Flex Rating</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Forester</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange/Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Timber rafting Loggers Professional Arborist Harvesters Log quality inspectors Seeder and planters Plant maintenance managers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Color_Orange/Black</s:tag>
+    <s:tag>Line_Forester</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>6</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW56-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>7</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW56-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>8</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW56-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>9</title>
+      <s:price currency="CAD">187.24</s:price>
+      <s:sku>SS FOO VW56-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>10</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW56-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>11</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW56-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>12</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW56-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073312812</id>
+      <title>13</title>
+      <s:price currency="CAD">150.40</s:price>
+      <s:sku>SS FOO VW56-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073116204</id>
+    <published>2019-12-12T15:16:24-05:00</published>
+    <updated>2019-12-12T15:16:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/lace-up-work-boots-vw53-1"/>
+    <title>Lace-up Work Boots -  Met Guard Viking VW53-1</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-lace-up-work-boots-met-guard-viking-vw53-1-13448402960428.png?v=1579654414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            124.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Firewall™ Met Guard Boot -Lace Up, Lug Sole Boot</h4> <li class="extra-info">NBR blended NR upper with polyester lining</li><li class="extra-info"> Highly chemical-resistant rubber upper</li><li class="extra-info"> Reinforced heel and instep</li><li class="extra-info"> Self-cleaning NBR lug sole</li><li class="extra-info"> Fire retardant upper provides flame and thermal protection</li><li class="extra-info"> Abrasion-, oil-, chemical-, slip-, and heat-resistant choloroprene lug sole</li><li class="extra-info"> Sole resistant to 300˚C/572˚F hot contact</li><li class="extra-info"> Ultra flexible: Exceeds 305,000 Flex Rating</li><li class="extra-info"> Compatible with ice studs</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Met Guard</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange/Navy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Meets CGSB 155.20 Hydrocarbon Flash Fire Protection</li><li class="extra-info"> Thermal Protective Protection (TPP) with the spacer 58 cal/cm² and TPP without spacer 58.8 cal/cm²</li><li class="extra-info"> CSA Z195-14 / ASTM F2413-11 Grade 1 Steel toe and plate CSA M / ASTM Mt/75 Metatarsal protection</li><li class="extra-info"> CSA </li><h2>Suggested Application</h2><li class="extra-info">Building construction Forestry Steel Rebar Well Drilling Demolition Sandblasting Bitumen work Cement Masonry Road Construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Color_Orange/Navy</s:tag>
+    <s:tag>Line_Met Guard</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073116204</id>
+      <title>6</title>
+      <s:price currency="CAD">124.12</s:price>
+      <s:sku>SS FOO VW53-1-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073116204</id>
+      <title>7</title>
+      <s:price currency="CAD">124.12</s:price>
+      <s:sku>SS FOO VW53-1-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073116204</id>
+      <title>8</title>
+      <s:price currency="CAD">124.12</s:price>
+      <s:sku>SS FOO VW53-1-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073116204</id>
+      <title>9</title>
+      <s:price currency="CAD">124.12</s:price>
+      <s:sku>SS FOO VW53-1-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073116204</id>
+      <title>10</title>
+      <s:price currency="CAD">124.12</s:price>
+      <s:sku>SS FOO VW53-1-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073116204</id>
+      <title>11</title>
+      <s:price currency="CAD">124.12</s:price>
+      <s:sku>SS FOO VW53-1-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073116204</id>
+      <title>13</title>
+      <s:price currency="CAD">124.12</s:price>
+      <s:sku>SS FOO VW53-1-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367073083436</id>
+    <published>2019-12-12T15:16:23-05:00</published>
+    <updated>2019-12-12T15:16:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/lace-up-work-boots-vw53"/>
+    <title>Lace-up Work Boots -  Viking VW53</title>
+    <s:type>Plain Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plain-toe-boots-lace-up-work-boots-viking-vw53-13448402993196.png?v=1579654381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Plain Toe Boots<br>
+        <strong>Price: </strong>
+            112.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Work Boot - Lug Sole, Lace Up</h4> <li class="extra-info">SBR blended NR upper with polyester lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Polyester flap behind laces</li><li class="extra-info"> Self-cleaning lug sole</li><li class="extra-info"> Reinforced heel and instep</li><li class="extra-info"> Abrasion-, oil- chemical-, heat-, and slip resistant</li><li class="extra-info"> SBR blended NR outsole</li><li class="extra-info"> Used for construction</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plain Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Building construction Forestry Steel Rebar Well Drilling Demolition Sandblasting Bitumen work Cement Masonry Road Construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073083436</id>
+      <title>6</title>
+      <s:price currency="CAD">112.43</s:price>
+      <s:sku>SS FOO VW53-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073083436</id>
+      <title>7</title>
+      <s:price currency="CAD">112.43</s:price>
+      <s:sku>SS FOO VW53-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073083436</id>
+      <title>8</title>
+      <s:price currency="CAD">112.43</s:price>
+      <s:sku>SS FOO VW53-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073083436</id>
+      <title>9</title>
+      <s:price currency="CAD">112.43</s:price>
+      <s:sku>SS FOO VW53-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073083436</id>
+      <title>10</title>
+      <s:price currency="CAD">112.43</s:price>
+      <s:sku>SS FOO VW53-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073083436</id>
+      <title>11</title>
+      <s:price currency="CAD">112.43</s:price>
+      <s:sku>SS FOO VW53-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367073083436</id>
+      <title>13</title>
+      <s:price currency="CAD">112.43</s:price>
+      <s:sku>SS FOO VW53-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367072952364</id>
+    <published>2019-12-12T15:16:22-05:00</published>
+    <updated>2019-12-12T15:16:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/chemical-resistant-safety-boots-with-steel-toe-14-inch-tall-vw49"/>
+    <title>Chemical Resistant Safety Boots with Steel Toe - 14 Inch Tall -  Miner 49er Viking VW49</title>
+    <s:type>Steel Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/steel-toe-boots-chemical-resistant-safety-boots-with-steel-toe-14-inch-tall-miner-49er-viking-vw49-13448402501676.png?v=1579654260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Steel Toe Boots<br>
+        <strong>Price: </strong>
+            121.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Miner 49er Boot - 14”, Lug Sole, Classic Fit - CSA Z195-14/ASTM F2413-11 Grade # 1 Steel Toe &amp; Plate</h4> <li class="extra-info">SBR blended NR upper with cotton canvas lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Oil-, chemical-, abrasion-, heat-, slip-resistant, and air cushioned NBR lug sole</li><li class="extra-info"> 30% concentration Sodium Cyanide resistant &gt;480 minutes</li><li class="extra-info"> Achilles tendon and ankle protection</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Miner 49er</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Steel Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Underground mining Excavation sites Construction sites Open pit mining Masonry Demolition</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Miner 49er</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_15</s:tag>
+    <s:tag>Size_5</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>5</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>6</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>7</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>8</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>9</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>11</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>12</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>13</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>14</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072952364</id>
+      <title>15</title>
+      <s:price currency="CAD">121.19</s:price>
+      <s:sku>SS FOO VW49-15</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4367072919596</id>
+    <published>2019-12-12T15:16:22-05:00</published>
+    <updated>2019-12-12T15:16:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tall-safety-boots-with-steel-toe-16-inch-vw49t"/>
+    <title>Tall Safety Boots with Steel Toe - 16 Inch -  Miner 49er Viking VW49T</title>
+    <s:type>Steel Toe Boots</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/steel-toe-boots-tall-safety-boots-with-steel-toe-16-inch-miner-49er-viking-vw49t-13448402436140.png?v=1579654173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Steel Toe Boots<br>
+        <strong>Price: </strong>
+            125.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Miner 49er Tall Boot - 16 Inch, Lug Sole, Classic Fit - CSA Z195-14/ASTM F2413-11 Grade # 1 Steel Toe &amp; Plate</h4> <li class="extra-info">SBR blended</li><li class="extra-info"> NR upper with cotton canvas lining</li><li class="extra-info"> Highly chemical resistant rubber upper</li><li class="extra-info"> Oil-, chemical-, abrasion-, heat-, slip-resistant, and air cushioned NBR lug sole</li><li class="extra-info"> 30% concentration Sodium Cyanide resistant &gt;480 minutes</li><li class="extra-info"> Achilles tendon and ankle protection</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Miner 49er</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Abrasion Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Oil Resistant </td>
+<td class="egrimes">Yes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Steel Toe Boots</td>
+</tr>
+</table><h2>Suggested Application</h2><li class="extra-info">Underground mining Excavation sites Construction sites Open pit mining Masonry Demolition</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Abrasion Resistant_Yes</s:tag>
+    <s:tag>Chemical Resistant_Yes</s:tag>
+    <s:tag>Line_Miner 49er</s:tag>
+    <s:tag>Oil Resistant_Yes</s:tag>
+    <s:tag>Size_10</s:tag>
+    <s:tag>Size_11</s:tag>
+    <s:tag>Size_12</s:tag>
+    <s:tag>Size_13</s:tag>
+    <s:tag>Size_14</s:tag>
+    <s:tag>Size_6</s:tag>
+    <s:tag>Size_7</s:tag>
+    <s:tag>Size_8</s:tag>
+    <s:tag>Size_9</s:tag>
+    <s:tag>Slip Resistant_Yes</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS FOO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>6</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-6</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>7</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-7</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>8</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-8</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>9</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-9</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>10</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-10</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>11</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-11</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>12</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-12</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>13</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-13</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4367072919596</id>
+      <title>14</title>
+      <s:price currency="CAD">125.58</s:price>
+      <s:sku>SS FOO VW49T-14</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/brake-components.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:06:44-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813177040940</id>
+    <published>2019-05-11T12:06:44-04:00</published>
+    <updated>2019-05-11T12:06:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120b"/>
+    <title>JET H1120B  - Double Flare Adapter 1/4 Inch H1120B</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120b-double-flare-adapter-1-4-inch-h1120b-12748806160428.jpg?v=1579528198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 1/4 Inch</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813177040940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1120B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813177008172</id>
+    <published>2019-05-11T12:06:43-04:00</published>
+    <updated>2019-05-11T12:06:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120a"/>
+    <title>JET H1120A  - Double Flare Adapter 3/16 Inch H1120A</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120a-double-flare-adapter-3-16-inch-h1120a-12748806094892.jpg?v=1579528165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 3/16 Inch</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">PH0</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>Size_PH0</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813177008172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1120A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813176942636</id>
+    <published>2019-05-11T12:06:40-04:00</published>
+    <updated>2019-05-11T12:06:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1121a"/>
+    <title>JET H1121A  - Double Flare Adapter 4.75mm H1121A</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1121a-double-flare-adapter-4-75mm-h1121a-12748806193196.jpg?v=1579528559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 4.75mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813176942636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1121A</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813176909868</id>
+    <published>2019-05-11T12:06:40-04:00</published>
+    <updated>2019-05-11T12:06:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120c"/>
+    <title>JET H1120C  - Double Flare Adapter 5/16 Inch H1120C</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120c-double-flare-adapter-5-16-inch-h1120c-12748806127660.jpg?v=1579528231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 5/16 Inch</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813176909868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1120C</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813176877100</id>
+    <published>2019-05-11T12:06:40-04:00</published>
+    <updated>2019-05-11T12:06:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1121b"/>
+    <title>JET H1121B  - Double Flare Adapter 5mm H1121B</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1121b-double-flare-adapter-5mm-h1121b-12748806062124.jpg?v=1579528678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 5mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813176877100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1121B</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813176418348</id>
+    <published>2019-05-11T12:06:31-04:00</published>
+    <updated>2019-05-11T12:06:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1121c"/>
+    <title>JET H1121C  - Double Flare Adapter 6mm H1121C</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1121c-double-flare-adapter-6mm-h1121c-12748805406764.jpg?v=1579528807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 6mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813176418348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1121C</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813176287276</id>
+    <published>2019-05-11T12:06:27-04:00</published>
+    <updated>2019-05-11T12:06:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1121d"/>
+    <title>JET H1121D  - Double Flare Adapter 8mm H1121D</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1121d-double-flare-adapter-8mm-h1121d-12748804227116.jpg?v=1579487043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 8mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813176287276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1121D</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813176254508</id>
+    <published>2019-05-11T12:06:27-04:00</published>
+    <updated>2019-05-11T12:06:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120d"/>
+    <title>JET H1120D  - Double Flare Adapter 3/8 Inch H1120D</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120d-double-flare-adapter-3-8-inch-h1120d-12748804784172.jpg?v=1579528318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 3/8 Inch</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813176254508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1120D</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813169930284</id>
+    <published>2019-05-11T12:04:09-04:00</published>
+    <updated>2019-05-11T12:04:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120j"/>
+    <title>JET H1120J  - Double Flare Adapter 7/16 Inch H1120J</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120j-double-flare-adapter-7-16-inch-h1120j-12748791054380.jpg?v=1579528527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            10.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 7/16 Inch</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813169930284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.09</s:price>
+      <s:sku>FM BRK H1120J</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813169831980</id>
+    <published>2019-05-11T12:04:06-04:00</published>
+    <updated>2019-05-11T12:04:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1502a"/>
+    <title>JET H1502A  - Adapter 4.75 Mm H1502A</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1502a-adapter-4-75-mm-h1502a-12748790497324.jpg?v=1579508416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            10.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Adaptor - 4.75mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813169831980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.46</s:price>
+      <s:sku>FM BRK H1502A</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813169799212</id>
+    <published>2019-05-11T12:04:05-04:00</published>
+    <updated>2019-05-11T12:04:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1121e"/>
+    <title>JET H1121E  - Double Flare Adapter 10Mm H1121E</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1121e-double-flare-adapter-10mm-h1121e-12748791087148.jpg?v=1579487202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 10mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813169799212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.49</s:price>
+      <s:sku>FM BRK H1121E</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813168652332</id>
+    <published>2019-05-11T12:03:31-04:00</published>
+    <updated>2019-05-11T12:03:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1502b"/>
+    <title>JET H1502B  - Adapter 6.0 Mm H1502B</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1502b-adapter-6-0-mm-h1502b-12748784271404.jpg?v=1579508383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            10.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Adaptor - 6.0mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813168652332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.46</s:price>
+      <s:sku>FM BRK H1502B</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813168488492</id>
+    <published>2019-05-11T12:03:28-04:00</published>
+    <updated>2019-05-11T12:03:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1502d"/>
+    <title>JET H1502D  - Adapter 10.0 Mm H1502D</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1502d-adapter-10-0-mm-h1502d-12748784664620.jpg?v=1579508449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            10.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Adaptor - 10.0mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">29mm</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>Size_29mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813168488492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.32</s:price>
+      <s:sku>FM BRK H1502D</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813168226348</id>
+    <published>2019-05-11T12:03:19-04:00</published>
+    <updated>2019-05-11T12:03:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1502c"/>
+    <title>JET H1502C  - Adapter 8.0 Mm H1502C</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1502c-adapter-8-0-mm-h1502c-12748782633004.jpg?v=1579508614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            10.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Adaptor - 8.0mm</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813168226348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.46</s:price>
+      <s:sku>FM BRK H1502C</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813163540524</id>
+    <published>2019-05-11T12:01:31-04:00</published>
+    <updated>2019-05-11T12:01:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120e"/>
+    <title>JET H1120E  - Double Flare Adapter 1/2 Inch H1120E</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120e-double-flare-adapter-1-2-inch-h1120e-12748768739372.jpg?v=1579528286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            11.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 1/2 Inch</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813163540524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.44</s:price>
+      <s:sku>FM BRK H1120E</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813157642284</id>
+    <published>2019-05-11T11:59:23-04:00</published>
+    <updated>2019-05-11T11:59:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120h"/>
+    <title>JET H1120H  - Wingnut For H1120 H1121 &amp; H1502 H1120H</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120h-wingnut-for-h1120-h1121-h1502-h1120h-12748751372332.jpg?v=1579528469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            9.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Wingnut for H1120, H1121, and H1502</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813157642284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.53</s:price>
+      <s:sku>FM BRK H1120H</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813153415212</id>
+    <published>2019-05-11T11:57:47-04:00</published>
+    <updated>2019-05-11T11:57:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1502g"/>
+    <title>JET H1502G  - Reamer For H1502 H1502G</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1502g-reamer-for-h1502-h1502g-12748740460588.jpg?v=1579508680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            41.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Reamer for H1502</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813153415212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.52</s:price>
+      <s:sku>FM BRK H1502G</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813145649196</id>
+    <published>2019-05-11T11:55:03-04:00</published>
+    <updated>2019-05-11T11:55:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1502h"/>
+    <title>JET H1502H  - Wrench For H1502 H1502H</title>
+    <s:type>Wrenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wrenches-jet-h1502h-wrench-for-h1502-h1502h-12748721520684.jpg?v=1579508739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Wrenches<br>
+        <strong>Price: </strong>
+            14.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Wrench for H1502</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wrenches</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813145649196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.01</s:price>
+      <s:sku>FM BRK H1502H</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813142798380</id>
+    <published>2019-05-11T11:53:54-04:00</published>
+    <updated>2019-05-11T11:53:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120k"/>
+    <title>JET H1120K  - Double Flare Adapter 5/8 Inch H1120K</title>
+    <s:type>Flaring Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flaring-tools-jet-h1120k-double-flare-adapter-5-8-inch-h1120k-12748711788588.jpg?v=1579528646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Flaring Tools<br>
+        <strong>Price: </strong>
+            10.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Flare Adaptor - 5/8 Inch</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flaring Tools</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813142798380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.83</s:price>
+      <s:sku>FM BRK H1120K</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813139685420</id>
+    <published>2019-05-11T11:52:46-04:00</published>
+    <updated>2019-05-11T11:52:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3070"/>
+    <title>JET H3070  - Rear Disc Brake Piston Tool H3070</title>
+    <s:type>Brake Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brake-tools-jet-h3070-rear-disc-brake-piston-tool-h3070-12748705792044.jpg?v=1579512837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Brake Tools<br>
+        <strong>Price: </strong>
+            28.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Rear Disc Brake Caliper Tool</h4> <li class="extra-info">Designed to rotate and depress piston into caliper on rear disc brake applications</li><li class="extra-info"> Allows replacement of brake pads without adjusting parking brake</li><li class="extra-info"> Cube design provides 5 pin configurations to fit most applications</li><li class="extra-info"> Use with 3/8" drive hand tools only</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brake Tools</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Allows replacement of brake pads without adjusting parking brake</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813139685420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.91</s:price>
+      <s:sku>FM BRK H3070</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813131395116</id>
+    <published>2019-05-11T11:49:44-04:00</published>
+    <updated>2019-05-11T11:49:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1107"/>
+    <title>JET H1107  - Brake Adjusting Tool Short H1107</title>
+    <s:type>Brake Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brake-tools-jet-h1107-brake-adjusting-tool-short-h1107-12748686688300.jpg?v=1579527995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Brake Tools<br>
+        <strong>Price: </strong>
+            19.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Brake Adjusting Tool</h4> <li class="extra-info">Ground and tapered for easy access to most applications</li><li class="extra-info"> Shorter length accesses tight spaces found on today's automobiles</li><li class="extra-info"> Plated for corrosion resistance</li><li class="extra-info"> 1/2" wide blade</li><li class="extra-info"> 7" overall length</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brake Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">7" overall length</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>Size_9mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813131395116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.24</s:price>
+      <s:sku>FM BRK H1107</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813124153388</id>
+    <published>2019-05-11T11:46:54-04:00</published>
+    <updated>2019-05-11T11:46:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1085"/>
+    <title>JET H1085  - Brake Adjusting Tool Universal H1085</title>
+    <s:type>Brake Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brake-tools-jet-h1085-brake-adjusting-tool-universal-h1085-12748669747244.jpg?v=1579527755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Brake Tools<br>
+        <strong>Price: </strong>
+            20.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Universal Brake Adjusting Tool</h4> <li class="extra-info">Ground and tapered for easy access to most applications</li><li class="extra-info"> Plated for corrosion resistance</li><li class="extra-info"> 5/8" wide blade</li><li class="extra-info"> 9" overall length</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brake Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">9" overall length</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>Size_9mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813124153388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.88</s:price>
+      <s:sku>FM BRK H1085</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813106950188</id>
+    <published>2019-05-11T11:40:22-04:00</published>
+    <updated>2019-05-11T11:40:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1278"/>
+    <title>JET H1278  - Tube Bender Heavy Duty H1278</title>
+    <s:type>Tube Benders</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tube-benders-jet-h1278-tube-bender-heavy-duty-h1278-12748619612204.jpg?v=1579487915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Tube Benders<br>
+        <strong>Price: </strong>
+            32.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tube Bender - Heavy Duty</h4> <li class="extra-info">Bend thin wall tubing 360° with this heavy duty bender</li><li class="extra-info"> For use in automotive, plumbing, heating, refrigeration and marine applications</li><li class="extra-info"> Range: 1/8" - 1/2" O.D</li><li class="extra-info">tubing</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tube Benders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813106950188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.13</s:price>
+      <s:sku>FM BRK H1278</s:sku>
+      <s:grams>270</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813102559276</id>
+    <published>2019-05-11T11:38:48-04:00</published>
+    <updated>2019-05-11T11:38:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1502f"/>
+    <title>JET H1502F  - Yoke &amp; Bolt Assembly For H1502 H1502F</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-h1502f-yoke-bolt-assembly-for-h1502-h1502f-12748603621420.jpg?v=1579508495"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            43.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Yoke and Bolt Assembly for H1502</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-1/4 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>Size_1-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813102559276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.06</s:price>
+      <s:sku>FM BRK H1502F</s:sku>
+      <s:grams>320</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813102231596</id>
+    <published>2019-05-11T11:38:40-04:00</published>
+    <updated>2019-05-11T11:38:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1120g"/>
+    <title>JET H1120G  - Yoke Assembly H1120G</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-h1120g-yoke-assembly-h1120g-12748602343468.jpg?v=1579528437"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            52.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Yoke Assembly</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM BRK</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813102231596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.63</s:price>
+      <s:sku>FM BRK H1120G</s:sku>
+      <s:grams>330</s:grams>
+    </s:variant>
+  </entry>
+</feed>

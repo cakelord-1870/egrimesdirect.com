@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/emergency-industry.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2020-06-04T14:14:32-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524696213</id>
+    <published>2020-06-04T14:14:32-04:00</published>
+    <updated>2020-06-04T14:14:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-000861-01"/>
+    <title>Zoll Medical Electrode Pedi Padz (6 per Case) 8000-000861-01</title>
+    <s:type>Electrode Pedi Padz</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Electrode Pedi Padz<br>
+        <strong>Price: </strong>
+            178.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Electrode Pedi Padz</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524696213</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">178.44</s:price>
+      <s:sku>ES DEF 8000-000861-01</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524597909</id>
+    <published>2020-06-04T14:14:31-04:00</published>
+    <updated>2020-06-04T14:14:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0738"/>
+    <title>Zoll Medical Standard Metal Wall Cabinet with Strobe Light 8000-0738</title>
+    <s:type>Wall Cabinet</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wall-cabinet-zoll-medical-standard-metal-wall-cabinet-with-strobe-light-8000-0738-17282675245205.jpg?v=1591303652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Wall Cabinet<br>
+        <strong>Price: </strong>
+            316.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The Zoll Standard Wall Cabinet (#8000-0738) includes an audible alarm and strobe light.</li><li class="extra-info"> Warranty: 90 Days.</li><li class="extra-info"> The Zoll Standard Wall Cabinet is a surface mounted cabinet which is used to house the Zoll AED Plus model defibrillator.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wall Cabinet</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Door-activated alarm.</li><li class="extra-info"> Flashing strobe light activated during rescue.</li><li class="extra-info"> Sturdy metal construction.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524597909</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">316.75</s:price>
+      <s:sku>ES DEF 8000-0738</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524565141</id>
+    <published>2020-06-04T14:14:31-04:00</published>
+    <updated>2020-06-04T14:14:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0825"/>
+    <title>Zoll Medical First Aid Sign AED Plus Aed Automated External Defibrillator (8-1/2 Inch X 11 Inch) 8000-0825</title>
+    <s:type>Wall Sign</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wall-sign-zoll-medical-first-aid-sign-aed-plus-aed-automated-external-defibrillator-8-1-2-inch-x-11-inch-8000-0825-17282675769493.jpg?v=1591302017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Wall Sign<br>
+        <strong>Price: </strong>
+            15.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">One Flush and One 3D Wall Sign</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wall Sign</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524565141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.21</s:price>
+      <s:sku>ES DEF 8000-0825</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524532373</id>
+    <published>2020-06-04T14:14:31-04:00</published>
+    <updated>2020-06-04T14:14:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-22600010101011260"/>
+    <title>Zoll Medical AED Plus Fully Automatic (French) 22600010101011260</title>
+    <s:type>AED</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-zoll-medical-aed-plus-fully-automatic-french-22600010101011260-17282676326549.jpg?v=1591301983"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED<br>
+        <strong>Price: </strong>
+            1695.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">When sudden cardiac arrest occurs, the fact is that only half of the victims will need a shock</li><li class="extra-info">But all will require cardiopulmonary resuscitation (CPR).</li><li class="extra-info"> You need an automated external defibrillator (AED) that helps you all the time</li><li class="extra-info">The ZOLL® AED Plus® can actually see when you are doing CPR and help you do it well.</li><li class="extra-info"> The AED Plus features Real CPR Help®, a unique CPR feedback tool that is able to monitor CPR quality and provide real-time feedback for depth and rate of chest compressions</li><li class="extra-info">Audio and visual prompts help you to rescue with a confidence and clarity unmatched by any other AED.</li>[/shortdesc][additional]<embed src="https://www.zoll.com/-/media/public-site/products/aed-plus/9656-0156-05_aed_plus_brochure_erc_a4.ashx?la=en-au&amp;hash=E10CE994F650C4FE2C54513213BD019E98478B16" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED</td>
+</tr>
+</table>   <h2>Technical Specifications</h2>
+<table class="egrimes">
+<tr class="egrimes"><td class="egrimes">ZOLL Fully Automatic AED Plus (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> Set of ZOLL CPR-D padz (8900-0800-01) (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> Lithium Batteries- set of 10 (8000-0807-01) (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> ZOLL AED Plus Soft carry case (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> ZOLL AED Plus Operator's Guide &amp; AED Plus Administrator's Guide</td></tr>
+<tr class="egrimes"><td class="egrimes"> Rescue Kit: includes gloves, scissors, razor, barrier mask, wet/dry wipe (10</td></tr>
+</table>
+<h2>Product Information</h2>
+<li class="extra-info">Costs significantly less to maintain than almost any other AED.</li>
+<li class="extra-info"> Real CPR Help® provides real-time feedback for depth and rate of chest compressions during CPR</li>
+<li class="extra-info">The AED Plus® is the ONLY AED that can SEE what you’re doing during CPR and provide audio and text prompts (PUSH HARDER and GOOD COMPRESSIONS) and a visible bar gauge on the display screen for each compression in real time</li>
+<li class="extra-info">Real CPR Help does MORE than “CPR coaching.” Other CPR coaches are BLIND, and cannot SEE your CPR</li>
+<li class="extra-info"> Once installed, the AED Plus has the LOWEST Total Cost of Ownership</li>
+<li class="extra-info">There is nothing to replace or buy for five years because the CPR-D-padz® and batteries last FIVE years, if not used</li>
+<li class="extra-info">In ten years you will replace pads and batteries only once for a total cost of $244, an average annual cost of $24.40</li>
+<li class="extra-info">And the logistics are simple</li>
+<li class="extra-info">Avoid the headache of tracking and replacing pads and batteries every other year.</li>
+<li class="extra-info"> Powered by 10 Lithium batteries</li>
+<li class="extra-info">The Lithium 123A batteries can be purchased at any retail camera store.</li>
+<li class="extra-info"> Best Ingress Protection rating for dust and water</li>
+<li class="extra-info">The AED Plus has an ingress protection (IP) rating of IP55 for dust and water</li>
+<li class="extra-info">No other major manufacturer’s AED has a higher rating</li>
+<li class="extra-info">This enables placement in ideal locations, allowing quick access to an AED for emergencies that may occur outdoors, near water and moisture, or in dusty environments full of small airborne particles.</li>
+<li class="extra-info"> The First and Only Full-Rescue AED</li>
+<h2>Suggested Application</h2>
+<li class="extra-info">Our ZOLL® AED Plus® includes a LCD screen at no additional cost showing voice prompt messages, device advisory messages, elapsed time, shock count and chest compression graph.</li>
+<li class="extra-info"> ZOLL®’s AED Plus® is the only AED that features Real CPR Help a tool that can actually see your chest compressions and guide you to the correct rate and depth during CPR</li>
+<li class="extra-info">No other AED provides Real CPR Help.</li>
+<li class="extra-info"> New AHA guidelines compliant.</li>
+<li class="extra-info"> One Electrode is Easier than Two: The CPR-D padz is a one-piece, pre-connected pair of electrodes with Real CPR Help</li>
+<li class="extra-info">By using CPR hand placement as the landmark, it is easy to place the CPR-D padz on the victim quickly</li>
+<li class="extra-info">Traditional 2 piece Stat padz II electrodes are also available.</li>
+<li class="extra-info"> Consumer Batteries for Convenience and Savings: the AED Plus is the only AED to use inexpensive, consumer lithium batteries that are easy to replace and last five years in stand-by mode.</li>
+<li class="extra-info"> A picture is worth a thousand words</li>
+<li class="extra-info">The AED Plus’ unique graphical interface – pictures combined with text displays and voice prompts – helps rescuers every step of the way.</li>
+<li class="extra-info"> Waveform: Rectilinear Biphasic</li>
+<li class="extra-info">Only biphasic waveform cleared by the FDA to be labeled as clinically superior to monophasic waveforms for the conversion of ventricular fibrillation in high-impedance patients</li>
+<li class="extra-info">It allows the AED Plus to deliver more current than any other AED when it matters most.</li>
+<li class="extra-info"> Escalating, low energy waveform: Automatic pre-programmed selection (120J, 150J, 200J) Fast Shock Charge Time: less than 10 seconds with new batteries. ZOLL’s CPR-D padz with 5 year shelf life &amp; consumer grade lithium batteries significantly reduce the cost of AED ownership.</li>
+<li class="extra-info"> Automatic Self Tests</li>
+<li class="extra-info"> 5 Year AED Warranty! (7 year warranty if registered online after purchase!)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524532373</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1695.32</s:price>
+      <s:sku>HQ ADD 22600010101011260</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524434069</id>
+    <published>2020-06-04T14:14:30-04:00</published>
+    <updated>2020-06-04T14:14:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0860-01"/>
+    <title>Zoll Medical AED Non-Rechargeable Lithium Battery Pack 8000-0860-01</title>
+    <s:type>Battery Pack</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/battery-pack-zoll-medical-aed-non-rechargeable-lithium-battery-pack-8000-0860-01-17282674884757.jpg?v=1591303598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Battery Pack<br>
+        <strong>Price: </strong>
+            221.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Battery Pack</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524434069</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">221.83</s:price>
+      <s:sku>ES DEF 8000-0860-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524302997</id>
+    <published>2020-06-04T14:14:29-04:00</published>
+    <updated>2020-06-04T14:14:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-000925"/>
+    <title>Zoll Medical AED Simulator 8000-000925</title>
+    <s:type>AED Simulator</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-simulator-zoll-medical-aed-simulator-8000-000925-17282674983061.jpg?v=1591302093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED Simulator<br>
+        <strong>Price: </strong>
+            400.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Designed to be used with AED 3, AED Plus, and/or AED Pro.</li><li class="extra-info"> Generate either shockable or non-shockable heart rhythms for various rescue scenarios.</li><li class="extra-info"> Includes 9-volt battery.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED Simulator</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524302997</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">400.37</s:price>
+      <s:sku>ES DEF 8000-000925</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524270229</id>
+    <published>2020-06-04T14:14:29-04:00</published>
+    <updated>2020-06-04T14:14:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-22600710702011060"/>
+    <title>Zoll Medical Fully Automatic AED Plus 22600710702011060</title>
+    <s:type>AED</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-zoll-medical-fully-automatic-aed-plus-22600710702011060-17282675277973.jpg?v=1591302050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED<br>
+        <strong>Price: </strong>
+            1695.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">When the Fully Automatic AED Plus® detects a shockable heart rhythm, it delivers the shock on its own</li><li class="extra-info">No one needs to push a button</li><li class="extra-info">Once the Fully Automatic AED Plus prompts “Don’t Touch Patient,” and the heart analysis begins, if a shock is needed, it will be delivered automatically after a brief verbal countdown.  Like all ZOLL AEDs, the Fully Automatic AED Plus features Real CPR Help®</li><li class="extra-info">This revolutionary technology gives you real-time feedback for both depth and rate of chest compressions, helping you provide the best CPR possible in a rescue</li><li class="extra-info">Audio and visual prompts guide you to rescue with a confidence and clarity unmatched by any other AED. Not pushing hard enough? It will tell you when to “Push Harder.”</li><li class="extra-info"> Not pushing fast enough? A metronome will lead you to the right rate.</li><li class="extra-info"> Pushing hard and fast? You will hear “Good Compressions.”</li>[/shortdesc][additional]<embed src="https://api.zoll.com/-/media/brochures/aed_plus_brochure_pp0361.ashx?la=en&amp;hash=D6A81CB8B2B6F6617F0AEE09C26CD09371CACA04" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED</td>
+</tr>
+</table>   <h2>Extra Product Information</h2>
+<li class="extra-info">Real CPR Help provides real-time CPR feedback on the rate and depth of chest compressions</li>
+<li class="extra-info"> Audio prompts and visual icons complement the American Heart Association’s Chain of Survival</li>
+<li class="extra-info"> Easy-to-place, one-piece CPR-D-padz® electrodes with a 5-year shelf life</li>
+<li class="extra-info"> Fully automatic feature available — unit will deliver a shock on its own when a shockable heart rhythm is detected</li>
+<li class="extra-info"> Rugged design with an IP (ingress protection) rating of IP55 for dust and water</li>
+<li class="extra-info"> Can withstand conditions like extreme temperature, altitude, vibration, and shock</li>
+<li class="extra-info"> Off-the-shelf lithium batteries (Duracell 123a) with a 5-year battery life</li>
+<li class="extra-info"> Intelligent pediatric capability: Pedi-padz® pediatric electrodes can be purchased separately for children up to 8 years old or weighing less than 55 pounds</li>
+<li class="extra-info"> Automatic self-testing helps ensure a state of readiness</li>
+<li class="extra-info"> Soft carry case for easy travel</li>
+<li class="extra-info"> 5-year warranty (7-year warranty with online registration)</li>
+<h2>Product Information</h2>
+<li class="extra-info">Your AED needs to be ready to use at a moment's notice</li>
+<li class="extra-info">The AED Plus defibrillator can withstand many environmental conditions and has an automatic self-test capability, so you can be sure it's ready for the rescue</li>
+<li class="extra-info">And an industry-leading five-year shelf life for batteries and pads means fewer replacements, less maintenance, and a low total cost of ownership.</li>
+<li class="extra-info"> Lives are not saved by AEDs alone</li>
+<li class="extra-info">People save lives — using AEDs</li>
+<li class="extra-info">Real CPR Help guides you in delivering high-quality CPR</li>
+<li class="extra-info">Integrated, real-time feedback provides visual and audio prompts to "Push Harder" or confirms when you are doing "Good Compressions," keeping you on track to administer potentially life-saving CPR.</li>
+<li class="extra-info"> In addition to step-by-step audio prompts, Real CPR Help technology includes a compression depth indicator that provides real-time visual guidance to help you deliver the best possible CPR.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524270229</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1695.32</s:price>
+      <s:sku>HQ ADD 22600710702011060</s:sku>
+      <s:grams>9071</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524204693</id>
+    <published>2020-06-04T14:14:29-04:00</published>
+    <updated>2020-06-04T14:14:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0817"/>
+    <title>Zoll Medical Surface Wall Mounting AED Cabinet 8000-0817</title>
+    <s:type></s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/zoll-medical-surface-wall-mounting-aed-cabinet-8000-0817-17282674196629.jpg?v=1591302223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            441.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Designed to hold AED Plus® (on a bracket without carry case) and one spare set of electrodes</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524204693</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">441.22</s:price>
+      <s:sku>ES DEF 8000-0817</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524139157</id>
+    <published>2020-06-04T14:14:28-04:00</published>
+    <updated>2020-06-04T14:14:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0809-01"/>
+    <title>Zoll Medical Wall Mounting Bracket 8000-0809-01</title>
+    <s:type>Mounting Bracket</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mounting-bracket-zoll-medical-wall-mounting-bracket-8000-0809-01-17282672623765.jpg?v=1591302484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Mounting Bracket<br>
+        <strong>Price: </strong>
+            89.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">For use with the Zoll® AED Plus® without the soft case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mounting Bracket</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524139157</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.94</s:price>
+      <s:sku>ES DEF 8000-0809-01</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524106389</id>
+    <published>2020-06-04T14:14:28-04:00</published>
+    <updated>2020-06-04T14:14:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-001250"/>
+    <title>Zoll Medical AED-3 Carry Case 8000-001250</title>
+    <s:type>AED Carry Case</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-carry-case-zoll-medical-aed-3-carry-case-8000-001250-17282673574037.jpg?v=1591303566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED Carry Case<br>
+        <strong>Price: </strong>
+            187.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">This carry case has been designed exclusively to fit the new ‘ZOLL AED 3’ defibrillator, allowing you to take your life-saving defibrillator with you, wherever you go.  By purchasing a carry case, you are not only providing further protection for your life-saving defibrillator but making it easily transportable, allowing you to deliver vital treatment wherever you are.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED Carry Case</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">By keeping your life-saving AED in a carry case, along with other essential accessories, you will have all the life-saving equipment needed to assist in a cardiac emergency stored in one place for simple and easy accessibility.  A carry case is a great addition to your AED accessories as it provides extra protection for your life-saving device</li><li class="extra-info">By taking your AED out and about with you, you can be confident in your ability to provide life-saving care wherever you go, whether that is a busy shopping center or a sports center.  With the ability to take your life-saving device on the go, more people will be protected against the effects of cardiac arrest and you’ll be able to react to the medical emergency quickly and efficiently.</li><h2>Product Information</h2><li class="extra-info">Striking, bright green colour similar to the ZOLL AED 3 defibrillator device Carry handle at the top of the case</li><li class="extra-info"> Over-the-shoulder strap</li><li class="extra-info"> Status indicator window to ensure your AED is in working order</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524106389</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">187.64</s:price>
+      <s:sku>ES DEF 8000-001250</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524073621</id>
+    <published>2020-06-04T14:14:28-04:00</published>
+    <updated>2020-06-04T14:14:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-001266"/>
+    <title>Zoll Medical AED Wall Mount Bracket 8000-001266</title>
+    <s:type>Wall Bracket</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wall-bracket-zoll-medical-aed-wall-mount-bracket-8000-001266-17282674163861.jpg?v=1591302257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Wall Bracket<br>
+        <strong>Price: </strong>
+            93.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Holds the Zoll® AED 3™ alone or in its carry case</li><li class="extra-info"> Labeled with the green ILCOR AED symbol</li><li class="extra-info"> Includes: Mounting hardware, Consumable tracking card, Wall-mount template, Installation instructions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wall Bracket</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524073621</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.85</s:price>
+      <s:sku>ES DEF 8000-001266</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287524008085</id>
+    <published>2020-06-04T14:14:28-04:00</published>
+    <updated>2020-06-04T14:14:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8501-001102-06"/>
+    <title>Zoll Medical AED 3 Fully-automatic Kit 8501-001102-06</title>
+    <s:type>AED Kit</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-kit-zoll-medical-aed-3-fully-automatic-kit-8501-001102-06-17282673737877.jpg?v=1591302289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED Kit<br>
+        <strong>Price: </strong>
+            2056.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Zoll® Real CPR Help® offers rescuers unparalleled technology with integrated, real-time CPR feedback on BOTH depth and rate of compressions</li><li class="extra-info"> Zoll® Real CPR Help® can measure rescuer compressions and guides rescuers to the Canadian Heart and Stroke Foundation's recommended 2" depth of compressions with voice and text prompts, in real-time, to "press harder" and follows with "good compressions" when the rescuer reaches the required depth</li><li class="extra-info"> Both pads and batteries include a 5 year shelf life offering a low cost of ownership as well as simplified AED program management (less replacement cycles)</li><li class="extra-info"> Fully automatic device delivers shock automatically as needed</li><li class="extra-info"> The original language configuration of the unit can be changed to deliver English or French prompts by accessing the Supervisor set-up menu</li><li class="extra-info"> Integrated pediatric rescue with the use of universal CPR Uni-Padz™ for both adult and pediatric rescues</li><li class="extra-info"> Larger screen offers dynamic rescue images in full colour for enhanced rescuer support along with voice prompts, text prompts and metronome</li><li class="extra-info"> 8 year device warranty (6 years + 2 years after product registration)</li><li class="extra-info"> Zoll's Biphasic Therapy escalating energy shocks through the rescue</li><li class="extra-info"> Defaults to weekly and monthly self-tests, can be configured to daily</li><li class="extra-info"> WiFi enabled to easily monitor and manage AED readiness, transfer case data post-event</li><li class="extra-info"> IP55 rating for protection against dust and water</li><li class="extra-info"> Includes: Zoll® AED 3™, Zoll® CPR Uni-Padz™ universal electrodes for adult or pediatric rescue (5 year shelf life), AED 3™ battery pack (5 year shelf life), Fast response rescue kit, Manuals</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED Kit</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287524008085</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2056.47</s:price>
+      <s:sku>ES DEF 8501-001102-06</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523811477</id>
+    <published>2020-06-04T14:14:27-04:00</published>
+    <updated>2020-06-04T14:14:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0855"/>
+    <title>Zoll Medical Standard Metal Wall Cabinet 8000-0855</title>
+    <s:type>Medical Cabinet</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/medical-cabinet-zoll-medical-standard-metal-wall-cabinet-8000-0855-17282672230549.png?v=1591303532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Medical Cabinet<br>
+        <strong>Price: </strong>
+            275.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">9-inch Standard Wall Cabinet</h4> <li class="extra-info">Visibility of your AED Plus is essential so that it is easy to find in an emergency situation</li><li class="extra-info">The 9-inch alarmed wall cabinet holds the AED Plus in a carry case with an extra set of electrodes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Medical Cabinet</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">17.5 x 17.5 x 9 inches (44.45 x 44.45 x 22.86 centimeters)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523811477</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">275.23</s:price>
+      <s:sku>ES DEF 8000-0855</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523778709</id>
+    <published>2020-06-04T14:14:27-04:00</published>
+    <updated>2020-06-04T14:14:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-22600010102011060"/>
+    <title>Zoll Medical AED Plus with AED Cover - Deployment Package 22600010102011060</title>
+    <s:type>AED</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-zoll-medical-zoll-aed-plus-with-aed-cover-deployment-package-22600010102011060-17282670821525.jpg?v=1591302575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED<br>
+        <strong>Price: </strong>
+            1695.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">WHAT CPR DOES 1</li><li class="extra-info">Evacuates blood from a distended heart</li><li class="extra-info">When a victim collapses, the arteries stop moving blood, but the veins continue delivering blood to the heart over the next 4 to 5 minutes, as the heart becomes distended (filled with blood but not pumping)</li><li class="extra-info">Even if the heart is in ventricular fibrillation (VF), it needs CPR to evacuate the blood it has filled up with before a shock can be effective. 2</li><li class="extra-info">Moves oxygenated blood to the BRAIN</li><li class="extra-info">Helps reduce brain damage, keeps victim alive longer, and leads to improved quality of life if victim survives</li><li class="extra-info"> 3</li><li class="extra-info">Moves oxygenated blood to the HEART</li><li class="extra-info">(Most important part of CPR!) Resuscitation requires TWO THINGS: [1] shocking the heart and [2] delivering blood to the heart.  AN AED THAT HELPS YOU PERFORM HIGH-QUALITY CPR Only ZOLL’s AED Plus is equipped with Real CPR Help® technology</li><li class="extra-info">A sensor in the pads that attach to the patient lets the AED see each chest compression and lets you know how you’re doing</li><li class="extra-info">It guides you, with prompts and a real-time bar gauge, to the recommended depth and rate of compressions</li><li class="extra-info">“Whenever defibrillation is attempted, rescuers must coordinate high-quality CPR with defibrillation.” – 2010 AHA Guidelines, p</li><li class="extra-info">S712  How It Works • Our one-piece CPR-D-padz®, which contains a pair of electrodes, senses and reports the motion of the chest compressions to the AED Plus. • Audio and text prompts relay compression quality. • The compression depth bar gauge lets you see the depth of each compression in real time. • The adaptive metronome detects compression rate and guides you to at least 100 per minute.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes"><tr class="egrimes"><td class="egrimes">MEASURING CHEST COMPRESSION WITH REAL CPR HELP The force required to depress the chest during CPR varies with the patient’s size and build. The standard measure of chest compression quality, however, is not force but depth. The Real CPR Help® technology in ZOLL’s CPR-D-padz® includes a hand-placement locator, an accelerometer, electronics, and a processing algorithm that work together to measure vertical displacement in space as each compression occurs.  ONE SIZE FITS ALL ZOLL’s one-piece electrode design accounts for anatomical variation. Based on extensive human data, CPR-D-padz meet the anthropometric chest characteristics of 99% of the population. If needed, the lower (apex) electrode can be separated and adjusted to accommodate the remaining 1% of the population.  SIMPLIFIED PLACEMENT Affixing two separate electrode pads to the patient’s bare chest can be confusing to a lay rescuer. ZOLL’s CPR-D-padz simplify this step by guiding placement of the red crosshairs at the center of the imaginary line connecting the patient’s nipples. Once in place, the hand-locator and the two electrode pads fall naturally into optimal position for both defibrillation and CPR.  FIVE-YEAR SHELF LIFE All AED electrodes transmit defibrillating electricity into the patient via metal in close contact with a salt-infused gel that is positioned between the metal and the skin. Over time, however, the salt in the gel will corrode the metal and eventually compromise electrode functionality. ZOLL’s novel electrode design includes a sacrificial element that prevents significant corrosion for five years, which is unmatched in the market today.</td></tr></table><h2>Extra Product Information</h2><li class="extra-info">The major benefit of the AED Plus? The best possible support for a rescuer who is trying to save a life</li><li class="extra-info">The best AED is not one that is simple</li><li class="extra-info">It’s the AED that provides the best support during the rescue. About CPR </li><li class="extra-info"> Research shows1 that HALF of all rescues begin with a heart analysis that tells the rescuer “NO SHOCK ADVISED.” Once you hear this, CPR is the only hope for this victim</li><li class="extra-info">If you do high-quality CPR, you may get to push the shock button</li><li class="extra-info">Key Question: Will your AED help you do CPR? Will it provide the best help for CPR? If it’s not from ZOLL, it’s BLIND and cannot really help you.</li><li class="extra-info">  ZOLL believes that an AED that works needs to PROVIDE A SHOCK and SUPPORT CPR</li><li class="extra-info">AEDs that can’t SEE your CPR, can’t really help</li><li class="extra-info">They don’t really support CPR, and they WON’T WORK when it’s time to do CPR.</li><li class="extra-info"> When is high-quality CPR needed most? Right after a shock has been delivered! The most important thing CPR does is deliver oxygenated blood to the HEART</li><li class="extra-info">A heart that has just been shocked but is not receiving blood from CPR may not make it</li><li class="extra-info">Shocking without CPR is like trying to start a car with a good battery, but no gas in the tank. Once you turn the key, it needs GAS! In a rescue, once the shock is delivered, CPR provides the gas.</li><li class="extra-info"> The AHA’s 2010 Guidelines (pg</li><li class="extra-info">S706) show that the chances of survival for a collapsed victim who gets no CPR decreases at 10% per minute</li><li class="extra-info">After 10 minutes, without CPR chances for survival are at zero</li><li class="extra-info">But with high-quality CPR (at least 100 compressions per minute and at least two inches deep) chances of survival decrease at 4% per minute</li><li class="extra-info">After 10 minutes of high-quality CPR, chances of survival are still 60%.</li><h2>Product Information</h2><li class="extra-info">Real CPR Help® provides real-time feedback for depth and rate of chest compressions during CPR</li><li class="extra-info">The AED Plus® is the ONLY AED that can SEE what you’re doing during CPR and provide audio and text prompts (PUSH HARDER and GOOD COMPRESSIONS) and a visible bar gauge on the display screen for each compression in real time</li><li class="extra-info">Real CPR Help does MORE than “CPR coaching.” Other CPR coaches are BLIND, and cannot SEE your CPR.</li><li class="extra-info">  Once installed, the AED Plus has the LOWEST Total Cost of Ownership</li><li class="extra-info">There is nothing to replace or buy for five years because the CPR-D-padz® and batteries last FIVE years, if not used</li><li class="extra-info">In ten years you will replace pads and batteries only once for a total cost of $244, an average annual cost of $24.40</li><li class="extra-info">And the logistics are simple</li><li class="extra-info">Avoid the headache of tracking and replacing pads and batteries every other year.</li><li class="extra-info"> Powered by 10 Lithium batteries</li><li class="extra-info">The Lithium 123A batteries can be purchased at any retail camera store.</li><li class="extra-info"> Best Ingress Protection rating for dust and water</li><li class="extra-info">The AED Plus has an ingress protection (IP) rating of IP55 for dust and water</li><li class="extra-info">No other major manufacturer’s AED has a higher rating</li><li class="extra-info">This enables placement in ideal locations, allowing quick access to an AED for emergencies that may occur outdoors, near water and moisture, or in dusty environments full of small airborne particles.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523778709</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1695.32</s:price>
+      <s:sku>HQ ADD 22600010102011060</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523745941</id>
+    <published>2020-06-04T14:14:27-04:00</published>
+    <updated>2020-06-04T14:14:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0837-01"/>
+    <title>Zoll Medical Large Pelican Case with cut-outs 8000-0837-01</title>
+    <s:type>Pelican Case</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pelican-case-zoll-medical-large-pelican-case-with-cut-outs-8000-0837-01-17282672722069.jpg?v=1591302334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Pelican Case<br>
+        <strong>Price: </strong>
+            302.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Stores AED Plus®, CPR-D-Padz®, Pedi-Padz® II, and a sleeve of 10 lithium batteries</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pelican Case</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523745941</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">302.91</s:price>
+      <s:sku>ES DEF 8000-0837-01</s:sku>
+      <s:grams>9071</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523713173</id>
+    <published>2020-06-04T14:14:26-04:00</published>
+    <updated>2020-06-04T14:14:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0814"/>
+    <title>Zoll Medical Recessed Mount Wall Cabinet 8000-0814</title>
+    <s:type>Wall Cabinet</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wall-cabinet-zoll-medical-recessed-mount-wall-cabinet-8000-0814-17282671575189.jpg?v=1591302453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Wall Cabinet<br>
+        <strong>Price: </strong>
+            441.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">This 7" deep alarmed wall cabinet holds the AED Plus® device (without a carrying case) and one spare set of electrodes</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wall Cabinet</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523713173</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">441.20</s:price>
+      <s:sku>ES DEF 8000-0814</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523614869</id>
+    <published>2020-06-04T14:14:25-04:00</published>
+    <updated>2020-06-04T14:14:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0807-01"/>
+    <title>Zoll Medical Type 123 Lithium Batteries (10 per Sleeve) 8000-0807-01</title>
+    <s:type></s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/zoll-medical-type-123-lithium-batteries-10-per-sleeve-8000-0807-01-17282670723221.jpg?v=1591302608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            109.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Sleeve of 10 lithium batteries</li><li class="extra-info"> Typical capacity of 5 years, 225 shocks, or 13 hours continuous monitoring</li><li class="extra-info"> End of battery life is depicted by a red X, indicating approximately 9 remaining shocks</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523614869</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.18</s:price>
+      <s:sku>ES DEF 8000-0807-01</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523582101</id>
+    <published>2020-06-04T14:14:25-04:00</published>
+    <updated>2020-06-04T14:14:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-001256"/>
+    <title>Zoll Medical Standard Metal Wall Cabinet for AED 3 8000-001256</title>
+    <s:type>Wall Cabinet</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wall-cabinet-zoll-medical-standard-metal-wall-cabinet-for-aed-3-8000-001256-17282672296085.jpg?v=1591302517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Wall Cabinet<br>
+        <strong>Price: </strong>
+            418.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Includes an ILCOR AED label set and installation instructions</li><li class="extra-info"> Easy installation</li><li class="extra-info"> Keep your defibrillator secure and accessible for medical emergencies</li><li class="extra-info"> Battery operated alarm (9-volt battery included)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wall Cabinet</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523582101</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">418.94</s:price>
+      <s:sku>ES DEF 8000-001256</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523549333</id>
+    <published>2020-06-04T14:14:25-04:00</published>
+    <updated>2020-06-04T14:14:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-22600710701011260"/>
+    <title>Zoll Medical Zoll AED Plus Fully Automatic 22600710701011260</title>
+    <s:type>AED</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-zoll-medical-zoll-aed-plus-fully-automatic-22600710701011260-17282669740181.jpg?v=1591302806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED<br>
+        <strong>Price: </strong>
+            1695.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">When sudden cardiac arrest occurs, the fact is that only half of the victims will need a shock</li><li class="extra-info">But all will require cardiopulmonary resuscitation (CPR).</li><li class="extra-info"> You need an automated external defibrillator (AED) that helps you all the time</li><li class="extra-info">The ZOLL® AED Plus® can actually see when you are doing CPR and help you do it well.</li><li class="extra-info"> The AED Plus features Real CPR Help®, a unique CPR feedback tool that is able to monitor CPR quality and provide real-time feedback for depth and rate of chest compressions</li><li class="extra-info">Audio and visual prompts help you to rescue with a confidence and clarity unmatched by any other AED.</li>[/shortdesc][additional]<embed src="https://www.zoll.com/-/media/public-site/products/aed-plus/9656-0156-05_aed_plus_brochure_erc_a4.ashx?la=en-au&amp;hash=E10CE994F650C4FE2C54513213BD019E98478B16" type="application/pdf" width="100%" height="600px">[/additional]<h2> Product Information </h2>
+<table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED</td>
+</tr>
+</table>   <h2>Technical Specifications</h2>
+<table class="egrimes">
+<tr class="egrimes"><td class="egrimes">ZOLL Fully Automatic AED Plus (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> Set of ZOLL CPR-D padz (8900-0800-01) (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> Lithium Batteries- set of 10 (8000-0807-01) (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> ZOLL AED Plus Soft carry case (1)</td></tr>
+<tr class="egrimes"><td class="egrimes"> ZOLL AED Plus Operator's Guide &amp; AED Plus Administrator's Guide</td></tr>
+<tr class="egrimes"><td class="egrimes"> Rescue Kit: includes gloves, scissors, razor, barrier mask, wet/dry wipe (10</td></tr>
+</table>
+<h2>Product Information</h2>
+<li class="extra-info">Costs significantly less to maintain than almost any other AED.</li>
+<li class="extra-info"> Real CPR Help® provides real-time feedback for depth and rate of chest compressions during CPR</li>
+<li class="extra-info">The AED Plus® is the ONLY AED that can SEE what you’re doing during CPR and provide audio and text prompts (PUSH HARDER and GOOD COMPRESSIONS) and a visible bar gauge on the display screen for each compression in real time</li>
+<li class="extra-info">Real CPR Help does MORE than “CPR coaching.” Other CPR coaches are BLIND, and cannot SEE your CPR</li>
+<li class="extra-info"> Once installed, the AED Plus has the LOWEST Total Cost of Ownership</li>
+<li class="extra-info">There is nothing to replace or buy for five years because the CPR-D-padz® and batteries last FIVE years, if not used</li>
+<li class="extra-info">In ten years you will replace pads and batteries only once for a total cost of $244, an average annual cost of $24.40</li>
+<li class="extra-info">And the logistics are simple</li>
+<li class="extra-info">Avoid the headache of tracking and replacing pads and batteries every other year.</li>
+<li class="extra-info"> Powered by 10 Lithium batteries</li>
+<li class="extra-info">The Lithium 123A batteries can be purchased at any retail camera store.</li>
+<li class="extra-info"> Best Ingress Protection rating for dust and water</li>
+<li class="extra-info">The AED Plus has an ingress protection (IP) rating of IP55 for dust and water</li>
+<li class="extra-info">No other major manufacturer’s AED has a higher rating</li>
+<li class="extra-info">This enables placement in ideal locations, allowing quick access to an AED for emergencies that may occur outdoors, near water and moisture, or in dusty environments full of small airborne particles.</li>
+<li class="extra-info"> The First and Only Full-Rescue AED</li>
+<h2>Suggested Application</h2>
+<li class="extra-info">Our ZOLL® AED Plus® includes a LCD screen at no additional cost showing voice prompt messages, device advisory messages, elapsed time, shock count and chest compression graph.</li>
+<li class="extra-info"> ZOLL®’s AED Plus® is the only AED that features Real CPR Help a tool that can actually see your chest compressions and guide you to the correct rate and depth during CPR</li>
+<li class="extra-info">No other AED provides Real CPR Help.</li>
+<li class="extra-info"> New AHA guidelines compliant.</li>
+<li class="extra-info"> One Electrode is Easier than Two: The CPR-D padz is a one-piece, pre-connected pair of electrodes with Real CPR Help</li>
+<li class="extra-info">By using CPR hand placement as the landmark, it is easy to place the CPR-D padz on the victim quickly</li>
+<li class="extra-info">Traditional 2 piece Stat padz II electrodes are also available.</li>
+<li class="extra-info"> Consumer Batteries for Convenience and Savings: the AED Plus is the only AED to use inexpensive, consumer lithium batteries that are easy to replace and last five years in stand-by mode.</li>
+<li class="extra-info"> A picture is worth a thousand words</li>
+<li class="extra-info">The AED Plus’ unique graphical interface – pictures combined with text displays and voice prompts – helps rescuers every step of the way.</li>
+<li class="extra-info"> Waveform: Rectilinear Biphasic</li>
+<li class="extra-info">Only biphasic waveform cleared by the FDA to be labeled as clinically superior to monophasic waveforms for the conversion of ventricular fibrillation in high-impedance patients</li>
+<li class="extra-info">It allows the AED Plus to deliver more current than any other AED when it matters most.</li>
+<li class="extra-info"> Escalating, low energy waveform: Automatic pre-programmed selection (120J, 150J, 200J) Fast Shock Charge Time: less than 10 seconds with new batteries. ZOLL’s CPR-D padz with 5 year shelf life &amp; consumer grade lithium batteries significantly reduce the cost of AED ownership.</li>
+<li class="extra-info"> Automatic Self Tests</li>
+<li class="extra-info"> 5 Year AED Warranty! (7 year warranty if registered online after purchase!)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523549333</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1695.32</s:price>
+      <s:sku>HQ ADD 22600710701011260</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523516565</id>
+    <published>2020-06-04T14:14:25-04:00</published>
+    <updated>2020-06-04T14:14:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8501-001102-26"/>
+    <title>Zoll Medical AED 3 Fully-automatic Kit (French) 8501-001102-26</title>
+    <s:type>AED Kit</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/aed-kit-zoll-medical-aed-3-fully-automatic-kit-french-8501-001102-26-17282671181973.jpg?v=1591303447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>AED Kit<br>
+        <strong>Price: </strong>
+            2056.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Zoll® Real CPR Help® offers rescuers unparalleled technology with integrated, real-time CPR feedback on BOTH depth and rate of compressions</li><li class="extra-info"> Zoll® Real CPR Help® can measure rescuer compressions and guides rescuers to the Canadian Heart and Stroke Foundation's recommended 2" depth of compressions with voice and text prompts, in real-time, to "press harder" and follows with "good compressions" when the rescuer reaches the required depth</li><li class="extra-info"> Both pads and batteries include a 5 year shelf life offering a low cost of ownership as well as simplified AED program management (less replacement cycles)</li><li class="extra-info"> Fully automatic device delivers shock automatically as needed</li><li class="extra-info"> The original language configuration of the unit can be changed to deliver English or French prompts by accessing the Supervisor set-up menu</li><li class="extra-info"> Integrated pediatric rescue with the use of universal CPR Uni-Padz™ for both adult and pediatric rescues</li><li class="extra-info"> Larger screen offers dynamic rescue images in full colour for enhanced rescuer support along with voice prompts, text prompts and metronome</li><li class="extra-info"> 8 year device warranty (6 years + 2 years after product registration)</li><li class="extra-info"> Zoll's Biphasic Therapy escalating energy shocks through the rescue</li><li class="extra-info"> Defaults to weekly and monthly self-tests, can be configured to daily</li><li class="extra-info"> WiFi enabled to easily monitor and manage AED readiness, transfer case data post-event</li><li class="extra-info"> IP55 rating for protection against dust and water</li><li class="extra-info"> Includes: Zoll® AED 3™, Zoll® CPR Uni-Padz™ universal electrodes for adult or pediatric rescue (5 year shelf life), AED 3™ battery pack (5 year shelf life), Fast response rescue kit, Manuals</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">AED Kit</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523516565</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2056.47</s:price>
+      <s:sku>ES DEF 8501-001102-26</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523451029</id>
+    <published>2020-06-04T14:14:24-04:00</published>
+    <updated>2020-06-04T14:14:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8900-0803-01"/>
+    <title>Zoll Medical Replacement Adhesive Gels for CPR-D-PADZ Training Electrode (5 Pairs) 8900-0803-01</title>
+    <s:type>Replacement Adhesive Gel</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-adhesive-gel-zoll-medical-replacement-adhesive-gels-for-cpr-d-padz-training-electrode-5-pairs-8900-0803-01-17282668527765.jpg?v=1591302840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Replacement Adhesive Gel<br>
+        <strong>Price: </strong>
+            42.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">For use with Zoll item 8900-0804-01</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Adhesive Gel</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523451029</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.97</s:price>
+      <s:sku>ES DEF 8900-0803-01</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523418261</id>
+    <published>2020-06-04T14:14:24-04:00</published>
+    <updated>2020-06-04T14:14:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0802-01"/>
+    <title>Zoll Medical Replacement Soft Case 8000-0802-01</title>
+    <s:type>Carry Case</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/zoll-medical-replacement-soft-case-8000-0802-01-17282668494997.jpg?v=1591303412"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Carry Case<br>
+        <strong>Price: </strong>
+            145.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523418261</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">145.25</s:price>
+      <s:sku>ES DEF 8000-0802-01</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523352725</id>
+    <published>2020-06-04T14:14:24-04:00</published>
+    <updated>2020-06-04T14:14:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8900-0807-01"/>
+    <title>Zoll Medical Accessory Kit Shears, Disposable Prep Razor, Bio-barrier Face Shield, Antimicrobial Wipe, Dry Towel AED Plus, CPR-D Electrode Pads 8900-0807-01</title>
+    <s:type>Accessory Kit</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessory-kit-zoll-medical-accessory-kit-shears-disposable-prep-razor-bio-barrier-face-shield-antimicrobial-wipe-dry-towel-aed-plus-cpr-d-electrode-pads-8900-0807-01-17282669838485.jpg?v=1591302725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Accessory Kit<br>
+        <strong>Price: </strong>
+            26.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessory Kit</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523352725</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.01</s:price>
+      <s:sku>ES DEF 8900-0807-01</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523254421</id>
+    <published>2020-06-04T14:14:23-04:00</published>
+    <updated>2020-06-04T14:14:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8900-0801-01"/>
+    <title>Zoll Medical Multi-Function Electrode Pad Stat Padz (Adult) 8900-0801-01</title>
+    <s:type></s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/zoll-medical-multi-function-electrode-pad-stat-padz-adult-8900-0801-01-17282666004629.jpg?v=1591303309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            81.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Multi-Function Electrodes</li><li class="extra-info"> 1 Ea (24 Mo Shelf Life)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523254421</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">81.62</s:price>
+      <s:sku>ES DEF 8900-0801-01</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5287523221653</id>
+    <published>2020-06-04T14:14:23-04:00</published>
+    <updated>2020-06-04T14:14:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/zoll-medical-8000-0811"/>
+    <title>Zoll Medical Flush Mount Wall Cabinet 8000-0811</title>
+    <s:type>Wall Cabinet</s:type>
+    <s:vendor>Zoll Medical</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wall-cabinet-zoll-medical-flush-mount-wall-cabinet-8000-0811-17282669412501.jpg?v=1591302693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Zoll Medical<br>
+        <strong>Type: </strong>Wall Cabinet<br>
+        <strong>Price: </strong>
+            442.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Zoll Medical</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wall Cabinet</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES DEF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5287523221653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">442.25</s:price>
+      <s:sku>ES DEF 8000-0811</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+</feed>

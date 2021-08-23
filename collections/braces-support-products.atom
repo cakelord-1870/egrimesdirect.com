@@ -1,0 +1,1506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/braces-support-products.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:14:54-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254998659116</id>
+    <published>2019-10-16T00:14:54-04:00</published>
+    <updated>2019-10-16T00:14:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144688"/>
+    <title>3M 144688  - Tensor Platinum Knee 7000122767</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-144688-tensor-platinum-knee-7000122767-13120472285228.jpg?v=1580185291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Platinum Knee Stabilizer, grey, medium</h4> <li class="extra-info">The Tensor™ Platinum Knee Stabilizer is designed to soothe and comfort your injured knee with moderate-stabilizing support</li><li class="extra-info">Made from a breathable, 4-way stretch knit for a comfortable, custom fit that reduces slipping, even during rigorous activities</li><li class="extra-info">The patella gel ring provides cushioning comfort and targeted compression to help you stay in the game.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High-performance knee stabilizer with breathable, four-way stretch knit</li><li class="extra-info"> Comfortable, non-slip fit</li><li class="extra-info"> Patella gel ring provides targeted compression</li><li class="extra-info"> Extra-length for greater calf and thigh compression</li><li class="extra-info"> Low-profile, sleek design</li><li class="extra-info"> Easy to pull on and off</li><li class="extra-info"> Helps reduce swelling and provide stability</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254998659116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.75</s:price>
+      <s:sku>ES BRC 144688</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254998364204</id>
+    <published>2019-10-16T00:14:39-04:00</published>
+    <updated>2019-10-16T00:14:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-207247-ca-tensor"/>
+    <title>3M 207247-CA-TENSOR  - Tensor Neoprene Knee Support, Black, One Size 207247-Ca-Tensor 7100077905</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-207247-ca-tensor-tensor-neoprene-knee-support-black-one-size-207247-ca-tensor-7100077905-13120472055852.jpg?v=1580195610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Neoprene Knee Support, black, one size</h4> <li class="extra-info">Return to your favorite activities in comfort with the Tensor Neoprene Knee Support</li><li class="extra-info">The breathable woven knee support delivers firm, even compression</li><li class="extra-info">The easy-to-wear sleeve ensures proper fit so no one will even notice you're on the road to recovery.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Neoprene blend material allows excess heat and moisture to escape to keep you cooler and drier</li><li class="extra-info">Antimicrobial treatment reduces odour</li><li class="extra-info">Antimicrobial treatment reduces odour</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254998364204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.36</s:price>
+      <s:sku>ES BRC 207247-CA-TENSOR</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930206764</id>
+    <published>2019-10-15T22:23:40-04:00</published>
+    <updated>2019-10-15T22:23:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144694"/>
+    <title>3M Tensor 144694  - Tensor Women Slim Silhouette Ankle Support Blue S/M 7000122896</title>
+    <s:type>Ankle Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ankle-support-3m-tensor-144694-tensor-women-slim-silhouette-ankle-support-blue-s-m-7000122896-13120342884396.jpg?v=1578804593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Ankle Support<br>
+        <strong>Price: </strong>
+            21.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Women Slim Silhouette Ankle Support, light blue, small/medium</h4> <li class="extra-info">Constructed with soft, stretchy materials, the Tensor™ Women Slim Silhouette Ankle Support delivers the support you need to keep up with your active lifestyle</li><li class="extra-info">The adjustable strap lets you customize your fit, and the breathable design keeps the air flowing when things start to heat up at the gym, studio or in the great outdoors</li><li class="extra-info">This convenient ankle brace wraps around your ankle for easy on and off, and the sleek construction fits comfortably inside your shoes</li><li class="extra-info">Contours to the natural curves of your ankle to provide the support that keeps you on pace, doing what you love.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ankle Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Contoured fit designed specifically for women</li><li class="extra-info"> Made of soft, breathable materials</li><li class="extra-info"> Easily fits into shoe</li><li class="extra-info"> Soft, breathable materials</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930206764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.23</s:price>
+      <s:sku>ES BRC 144694</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930173996</id>
+    <published>2019-10-15T22:23:38-04:00</published>
+    <updated>2019-10-15T22:23:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-200290"/>
+    <title>3M Tensor 200290  - Tensor Knee Brace With Dual Side 7000143732</title>
+    <s:type>Knee Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/knee-support-3m-tensor-200290-tensor-knee-brace-with-dual-side-7000143732-13120342818860.jpg?v=1578804800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Knee Support<br>
+        <strong>Price: </strong>
+            28.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Knee Brace with Dual Side Stabilizers, black, one size</h4> <li class="extra-info">For extra stabilization while you bend, jump or climb, use the Tensor™ Knee Brace with Dual Side Stabilizers</li><li class="extra-info">This knee brace features the extra comfort and stability you need for a win every time you step out.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Knee Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dual side stabilizers provide extra stability</li><li class="extra-info"> Features a 3-strap system for adjustable compression and a custom it</li><li class="extra-info"> Antimicrobial treatment reduces odour</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930173996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.04</s:price>
+      <s:sku>ES BRC 200290</s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930141228</id>
+    <published>2019-10-15T22:23:32-04:00</published>
+    <updated>2019-10-15T22:23:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-207306-c"/>
+    <title>3M Tensor 207306-C  - Tensor Wrap Around Wrist Support 7000143735</title>
+    <s:type>Wrist Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wrist-support-3m-tensor-207306-c-tensor-wrap-around-wrist-support-7000143735-13120342622252.jpg?v=1578804836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wrist Support<br>
+        <strong>Price: </strong>
+            10.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Wrap Around Wrist Support</h4> <li class="extra-info">TENSOR - Canada’s leading health support Brand</li><li class="extra-info"> depend on us to help you feel good and perform at your very best during work, life or play.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wrist Support</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Lightweight and breathable material</li><li class="extra-info"> Helps protect tender wrists</li><li class="extra-info"> Fits discreetly under clothing</li><li class="extra-info"> Dual-strap design for custom level of suppport</li><li class="extra-info"> Helps limit wrist motion and protect tender wrists</li><h2>Suggested Application</h2><li class="extra-info">Provides Support to Stiff Weak or Injured Wrists</li><li class="extra-info">Wear During Activities which lead to Discomfort</li><li class="extra-info">Arthritis</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930141228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.87</s:price>
+      <s:sku>ES BRC 207306-C</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930108460</id>
+    <published>2019-10-15T22:23:29-04:00</published>
+    <updated>2019-10-15T22:23:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-207744"/>
+    <title>3M Tensor 207744  - Tensor Adju 7000143730</title>
+    <s:type>Back Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/back-support-3m-tensor-207744-tensor-adju-7000143730-13120342458412.jpg?v=1578804919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Back Support<br>
+        <strong>Price: </strong>
+            30.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Back Brace, black, adjustable</h4> <li class="extra-info">Put in a hard day's work or a game well played with a Tensor™ Back Brace</li><li class="extra-info">The adjustable brace supports your lumbar and abdominal area with a comfortable, custom fit every time.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Back Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Lightweight, low-profile design is comfortable to wear while still providing support</li><li class="extra-info"> Mesh panels allow for excess heat and moisture to escape</li><li class="extra-info"> Odour resistant</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930108460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.30</s:price>
+      <s:sku>ES BRC 207744</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930075692</id>
+    <published>2019-10-15T22:23:29-04:00</published>
+    <updated>2019-10-15T22:23:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-207863-t"/>
+    <title>3M Tensor 207863-T  - Tensor Tennis Elbow Brace Black One Size 7000143577</title>
+    <s:type>Elbow Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/elbow-support-3m-tensor-207863-t-tensor-tennis-elbow-brace-black-one-size-7000143577-13120342589484.jpg?v=1578804867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Elbow Support<br>
+        <strong>Price: </strong>
+            15.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Tennis Elbow Brace, black, one size</h4> <li class="extra-info">The advantage is all yours with the Tensor™ Tennis Elbow Support</li><li class="extra-info">It provides optimal support for tennis injuries and assures proper fit and comfort before, during and after the big game.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Elbow Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Adjustable for a custom fit</li><li class="extra-info"> Provides support so you can keep moving</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930075692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.84</s:price>
+      <s:sku>ES BRC 207863-T</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929944620</id>
+    <published>2019-10-15T22:23:01-04:00</published>
+    <updated>2019-10-15T22:23:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-487237-t"/>
+    <title>3M Tensor 487237-T  - Tensor Knee Brace With Open Patella One Size 7000143585</title>
+    <s:type>Knee Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/knee-support-3m-tensor-487237-t-tensor-knee-brace-with-open-patella-one-size-7000143585-13120339607596.jpg?v=1578805350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Knee Support<br>
+        <strong>Price: </strong>
+            22.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Knee Brace With Open Patella, black, one size</h4> <li class="extra-info">The Tensor Knee Brace is designed in comfortable neoprene to provide optimal support</li><li class="extra-info">Run, jump, lift and enjoy</li><li class="extra-info">We've got you covered.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Knee Support</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Open patella knee brace for maximum performance and comfort</li><li class="extra-info">Three-strap design provides stability to inner and outer areas of the knee</li><li class="extra-info">Neoprene blend material retains body heat</li><li class="extra-info">Adjustable design for proper fit with minimal slipping and bunching</li><li class="extra-info">Open patella for proper tracking of kneecap</li><li class="extra-info">Designed for proper fit with minimal slipping and bunching</li><li class="extra-info">Adjustable for custom fit</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929944620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.24</s:price>
+      <s:sku>ES BRC 487237-T</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254929911852</id>
+    <published>2019-10-15T22:22:57-04:00</published>
+    <updated>2019-10-15T22:22:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dsp-bs-sport10sdk"/>
+    <title>3M Tensor DSP-BS-SPORT10SDK  - Tensor Sport Half Sidekick Display10Pcs 7100029323</title>
+    <s:type>Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/support-3m-tensor-dsp-bs-sport10sdk-tensor-sport-half-sidekick-display10pcs-7100029323-13120339476524.jpg?v=1578805318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Support<br>
+        <strong>Price: </strong>
+            322.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">TENSOR SPORT HALF SIDEKICK DISPLAY,10PCS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Singapore</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Support</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254929911852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">322.27</s:price>
+      <s:sku>ES BRC DSP-BS-SPORT10SDK</s:sku>
+      <s:grams>6890</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813308604460</id>
+    <published>2019-05-11T13:30:45-04:00</published>
+    <updated>2019-05-11T13:30:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-209300"/>
+    <title>3M Tensor 209300  - Custom Dial Elbow Strap 209300-Black-One Size 7000148364</title>
+    <s:type>Elbow Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/elbow-support-3m-tensor-209300-custom-dial-elbow-strap-209300-black-one-size-7000148364-13120342491180.jpg?v=1578805285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Elbow Support<br>
+        <strong>Price: </strong>
+            35.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Custom Dial Elbow Strap, 209300</h4> <li class="extra-info">You are an athlete, you live for competition, it’s about playing the game – not playing with a weakness</li><li class="extra-info">Stay in the game with Tensor Sport Products</li><li class="extra-info">Maximum performance and comfort for those who love sports and other high-intensity pursuits.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Elbow Support</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Suggested Use:</li><h2>Product Information</h2><li class="extra-info">Delivers focused pressure to help relieve symptoms of Tennis Elbow, Golfer’s Elbow or Little League Elbow</li><li class="extra-info">Pin-point pressure on affected tendon without increasing pressure </li><li class="extra-info">around the entire joint</li><li class="extra-info">Soothing gel pad conforms to shape of arm for cushioning support and comfort</li><li class="extra-info">Helps reduce pain and elbow strain</li><li class="extra-info">Dial allows pressure to be easily increased or decreased</li><li class="extra-info">Dial allows you to tighten or loosen pressure on demand without having to adjust strap</li><h2>Suggested Application</h2><li class="extra-info">Tennis Elbow</li><li class="extra-info">Golfer's Elbow</li><li class="extra-info">Little League Elbow</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813308604460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.01</s:price>
+      <s:sku>ES BRC 209300</s:sku>
+      <s:grams>89</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813302640684</id>
+    <published>2019-05-11T13:23:52-04:00</published>
+    <updated>2019-05-11T13:23:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144698"/>
+    <title>Tensor 144698  - Comfortable Adjustable Night Foot Support (Blue) 7000122773</title>
+    <s:type>Foot Support</s:type>
+    <s:vendor>Tensor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foot-support-tensor-144698-comfortable-adjustable-night-foot-support-blue-7000122773-13201150869548.jpg?v=1575069571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tensor<br>
+        <strong>Type: </strong>Foot Support<br>
+        <strong>Price: </strong>
+            42.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Night Comfortable Foot Support, 144698, blue, adjustable</h4> <li class="extra-info">Tensor Night Products provide a comfortable fit to help reduce symptoms throughout the night, designed for comfortable support while you sleep with cushioning beads and soft, flexible edges.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foot Support</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tensor brand is Canada’s leading health support brand - depend on us to help you feel good and perform at your very best during work, life or play.</li><h2>Product Information</h2><li class="extra-info">Helps relieve and protect, even as you sleep</li><li class="extra-info">Comfortably holds foot at recommended therapeutic angle throughout the night</li><li class="extra-info">Breathable, moisture-releasing straps are durable and soft</li><li class="extra-info">Comfortable, low profile support for a good night’s sleep</li><h2>Suggested Application</h2><li class="extra-info">Holds the foot in the recommended therapeutic position all night for those suffering from Planta Fasciitis</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813302640684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.98</s:price>
+      <s:sku>ES BRC 144698</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130999852</id>
+    <published>2019-03-16T01:56:33-04:00</published>
+    <updated>2019-03-16T01:56:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144690-ca-tensor"/>
+    <title>3M Tensor 144690-CA-TENSOR  - 144690 Elbow Spprt Adj Tensor 7100107437</title>
+    <s:type>Elbow Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/elbow-support-3m-tensor-144690-ca-tensor-144690-elbow-spprt-adj-tensor-7100107437-12795219869740.jpg?v=1578804442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Elbow Support<br>
+        <strong>Price: </strong>
+            27.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Platinum Elbow Support, grey, one size</h4> <li class="extra-info">Low profile and super flexible, the Tensor™ Platinum Elbow Support delivers the support you need without the bulk</li><li class="extra-info">Adjustable features let you achieve a customized fit, and the breathable fabric helps keep you comfortable when you're going all out at the gym and on the court</li><li class="extra-info">This elbow brace features a pull-on style for ease of use, and the sleek construction fits comfortably under clothing.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Elbow Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Allows for full range of movement and contours to bend of elbow without bunching or slipping</li><li class="extra-info"> Designed for a proper fit and even compression</li><li class="extra-info"> Made from breathable, lightweight materials</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130999852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.06</s:price>
+      <s:sku>ES BRC 144690-CA-TENSOR</s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130967084</id>
+    <published>2019-03-16T01:56:33-04:00</published>
+    <updated>2019-03-16T01:56:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144368"/>
+    <title>3M Life Brand 144368  - 14436 Self-Adhering 4 in 7100039168</title>
+    <s:type>Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/support-3m-life-brand-144368-14436-self-adhering-4-in-7100039168-12795028733996.jpg?v=1580060610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Support<br>
+        <strong>Price: </strong>
+            5.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">144368 LIFE BRAND SELF ADHERING - 4 IN</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Life Brand</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Support</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Life Brand</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130967084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.96</s:price>
+      <s:sku>ES BRC 144368</s:sku>
+      <s:grams>122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130934316</id>
+    <published>2019-03-16T01:56:33-04:00</published>
+    <updated>2019-03-16T01:56:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144367"/>
+    <title>3M Life Brand 144367  - 14436 Self-Adhering 3 in 7100039169</title>
+    <s:type>Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/support-3m-life-brand-144367-14436-self-adhering-3-in-7100039169-12795028963372.jpg?v=1580330457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Support<br>
+        <strong>Price: </strong>
+            5.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">144367 LIFE BRAND SELF ADHERING - 3 IN</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Life Brand</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Support</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Life Brand</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130934316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.25</s:price>
+      <s:sku>ES BRC 144367</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130901548</id>
+    <published>2019-03-16T01:56:32-04:00</published>
+    <updated>2019-03-16T01:56:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144687"/>
+    <title>3M Tensor 144687  - Tensor Platinum Knee 7000122766</title>
+    <s:type>Knee Stabilizer</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/knee-stabilizer-3m-tensor-144687-tensor-platinum-knee-7000122766-12795111702572.jpg?v=1578804475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Knee Stabilizer<br>
+        <strong>Price: </strong>
+            40.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Platinum Knee Stabilizer, grey, large</h4> <li class="extra-info">The Tensor™ Platinum Knee Stabilizer is designed to soothe and comfort your injured knee with moderate-stabilizing support</li><li class="extra-info">Made from a breathable, 4-way stretch knit for a comfortable, custom fit that reduces slipping, even during rigorous activities</li><li class="extra-info">The patella gel ring provides cushioning comfort and targeted compression to help you stay in the game.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Knee Stabilizer</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High-performance knee stabilizer with breathable, four-way stretch knit</li><li class="extra-info"> Comfortable, non-slip fit</li><li class="extra-info"> Patella gel ring provides targeted compression</li><li class="extra-info"> Extra-length for greater calf and thigh compression</li><li class="extra-info"> Low-profile, sleek design</li><li class="extra-info"> Easy to pull on and off</li><li class="extra-info"> Helps reduce swelling and provide stability</li><h2>Suggested Application</h2><li class="extra-info">Can be used on left or right knee</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130901548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.84</s:price>
+      <s:sku>ES BRC 144687</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130803244</id>
+    <published>2019-03-16T01:56:29-04:00</published>
+    <updated>2019-03-16T01:56:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144691"/>
+    <title>3M Tensor 144691  - Tensor Women Slim Silhouette Wrist Support Left Hand One Size 7100104359</title>
+    <s:type>Wrist Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wrist-support-3m-tensor-144691-tensor-women-slim-silhouette-wrist-support-left-hand-one-size-7100104359-12795094073388.jpg?v=1578804563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wrist Support<br>
+        <strong>Price: </strong>
+            28.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Women Slim Silhouette Wrist Support, left wrist, light blue, one size</h4> <li class="extra-info">Designed with women in mind, the Tensor™ Women Slim Silhouette Wrist Support provides rigid support to help relieve the symptoms of Carpal Tunnel syndrome</li><li class="extra-info">The breathable fabric offers moderate support and the low profile fits under clothing</li><li class="extra-info">The palmar gel pad provides cushioned comfort and the ergonomic design allows you to move naturally as you type, text and write</li><li class="extra-info">Carpal Tunnel syndrome can affect your quality of life¬–so be proactive from the moment symptoms strike with the support of the Tensor™ Women Slim Silhouette Wrist Support.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wrist Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Contoured fit designed specifically for women</li><li class="extra-info"> Designed to provide support to help relieve symptoms of carpal tunnel</li><li class="extra-info"> Low-profile, sleek design</li><li class="extra-info"> Made of soft, breathable materials</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130803244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.51</s:price>
+      <s:sku>ES BRC 144691</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130737708</id>
+    <published>2019-03-16T01:56:26-04:00</published>
+    <updated>2019-03-16T01:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144696-ca-tensor"/>
+    <title>3M Tensor 144696-CA-TENSOR  - 144696 Platinum Ankle Support Adj Tensor 7100105017</title>
+    <s:type>Ankle Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ankle-support-3m-tensor-144696-ca-tensor-144696-platinum-ankle-support-adj-tensor-7100105017-12795219345452.jpg?v=1578804677"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Ankle Support<br>
+        <strong>Price: </strong>
+            27.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Platinum Ankle Support, black, one size</h4> <li class="extra-info">The Tensor™ Platinum Ankle Support is crafted from a soft, breathable material blend that delivers comfortable support</li><li class="extra-info">The wraparound design is easy to use and adjustable features let you customize your fit</li><li class="extra-info">Reach for the Tensor™ Platinum Ankle Support to give you the support you need to stay in the game.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ankle Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Made of high performance breathable materials</li><li class="extra-info"> Adjustable straps for a personalized fit</li><li class="extra-info"> Odour-resistant</li><li class="extra-info"> Provides compression and support for stiff, weak, or injured ankles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130737708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.06</s:price>
+      <s:sku>ES BRC 144696-CA-TENSOR</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130704940</id>
+    <published>2019-03-16T01:56:26-04:00</published>
+    <updated>2019-03-16T01:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-203966-ca-tensor"/>
+    <title>3M Tensor 203966-CA-TENSOR  - Tensor Wrist Support Adjustable 7100077904</title>
+    <s:type>Wrist Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wrist-support-3m-tensor-203966-ca-tensor-tensor-wrist-support-adjustable-7100077904-13120342720556.jpg?v=1578804711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wrist Support<br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Wrist Support, black, one size</h4> <li class="extra-info">Tensor Wrist Support provides compression and helps support the wrist joint, with an over-the-thumb design that promotes proper fit.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wrist Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Compression and support for the wrist joint</li><li class="extra-info">Fits left or right wrist</li><li class="extra-info">Neoprene blend material retains body heat</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130704940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>ES BRC 203966-CA-TENSOR</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130672172</id>
+    <published>2019-03-16T01:56:26-04:00</published>
+    <updated>2019-03-16T01:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144693"/>
+    <title>3M Tensor 144693  - Tensor Night Comfortable Wrist Support Blue Adju 7100044230</title>
+    <s:type>Wrist Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wrist-support-3m-tensor-144693-tensor-night-comfortable-wrist-support-blue-adju-7100044230-12795114291244.jpg?v=1578804627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wrist Support<br>
+        <strong>Price: </strong>
+            33.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Night Comfortable Wrist Support, blue, one size</h4> <li class="extra-info">The Tensor™ Night Comfortable Wrist Support provides comfortable support and protection during the night for those who suffer from carpal tunnel syndrome, or have injured or weak wrists.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wrist Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Helps reduce symptoms of carpal tunnel throughout the night</li><li class="extra-info"> Cushioning beads support ideal neutral hand position during rest</li><li class="extra-info"> Adjustable palmar splint optimizes wrist support</li><li class="extra-info"> Breathable, moisture-releasing materials are soft, durable, and not made with natural rubber latex</li><li class="extra-info"> Inner sleeve slide-on design allows for effortless application</li><li class="extra-info"> Recloseable fasteners for an adjustable fit</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130672172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.33</s:price>
+      <s:sku>ES BRC 144693</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130639404</id>
+    <published>2019-03-16T01:56:26-04:00</published>
+    <updated>2019-03-16T01:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-144692"/>
+    <title>3M 144692  - Womens Slimwrist Spprt Rgt Adj 7100104358</title>
+    <s:type>Wrist Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wrist-support-3m-144692-womens-slimwrist-spprt-rgt-adj-7100104358-12795145617452.jpg?v=1580192730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wrist Support<br>
+        <strong>Price: </strong>
+            28.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Women Slim Silhouette Wrist Support, right wrist, light blue, one size</h4> <li class="extra-info">Designed with women in mind, the Tensor™ Women Slim Silhouette Wrist Support provides rigid support to help relieve the symptoms of Carpal Tunnel syndrome</li><li class="extra-info">The breathable fabric offers moderate support and the low profile fits under clothing</li><li class="extra-info">The palmar gel pad provides cushioned comfort and the ergonomic design allows you to move naturally as you type, text and write</li><li class="extra-info">Carpal Tunnel syndrome can affect your quality of life¬–so be proactive from the moment symptoms strike with the support of the Tensor™ Women Slim Silhouette Wrist Support.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wrist Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Contoured fit designed specifically for women</li><li class="extra-info"> Designed to provide support to help relieve symptoms of carpal tunnel</li><li class="extra-info"> Low-profile, sleek design</li><li class="extra-info"> Made of soft, breathable materials</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130639404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.51</s:price>
+      <s:sku>ES BRC 144692</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130508332</id>
+    <published>2019-03-16T01:56:23-04:00</published>
+    <updated>2019-03-16T01:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-209605-ca-tensor"/>
+    <title>3M 209605-CA-TENSOR  - 209605 Tenso Deluxe Ankle 7100103056</title>
+    <s:type>Ankle Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ankle-support-3m-209605-ca-tensor-209605-tenso-deluxe-ankle-7100103056-12795200471084.jpg?v=1580181332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Ankle Support<br>
+        <strong>Price: </strong>
+            17.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Deluxe Ankle Stabilizer, black, one size</h4> <li class="extra-info">Injury got you down? Get back up with a Tensor™ Deluxe Ankle Brace</li><li class="extra-info">The adjustable ankle brace provides optimal support with a comfortable fit every time.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ankle Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Reinforced side stabilizer helps limit lateral motion</li><li class="extra-info"> Adjustable for a custom fit</li><li class="extra-info"> Breathable materials allow heat and moisture to escape</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130508332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.95</s:price>
+      <s:sku>ES BRC 209605-CA-TENSOR</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130541100</id>
+    <published>2019-03-16T01:56:22-04:00</published>
+    <updated>2019-03-16T01:56:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-207867-t"/>
+    <title>3M Tensor 207867-T  - 20786 Self-Adhering 2 in 7100038670</title>
+    <s:type>Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/support-3m-tensor-207867-t-20786-self-adhering-2-in-7100038670-12795056586796.jpg?v=1578804952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Support<br>
+        <strong>Price: </strong>
+            6.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Self-Adhering Elastic Bandage, tan, 2 in (5 cm)</h4> <li class="extra-info">We're always here when you need proven support</li><li class="extra-info">Tensor™ Self-Adhering Elastic Bandages need no clips or fasteners and are designed to provide comfortable support for extended periods of time</li><li class="extra-info">So you can come back and enjoy all of your activities.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tensor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Provides localized compression</li><li class="extra-info"> No pins or clips needed -- bandage adheres to itself</li><li class="extra-info"> Retains elasticity, even after washing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>Line_Tensor</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130541100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.71</s:price>
+      <s:sku>ES BRC 207867-T</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130475564</id>
+    <published>2019-03-16T01:56:22-04:00</published>
+    <updated>2019-03-16T01:56:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-209623-ca-tensor"/>
+    <title>3M 209623-CA-TENSOR  - 209623 Splint Wrist Brace 7100101077</title>
+    <s:type>Wrist Support</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wrist-support-3m-209623-ca-tensor-209623-splint-wrist-brace-7100101077-12795088011308.jpg?v=1580181300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wrist Support<br>
+        <strong>Price: </strong>
+            25.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tensor Splint Wrist Brace, grey, one size</h4> <li class="extra-info">The Tensor™ Splint Wrist Brace is reversible to fit either your left or right hand, and is adjustable for easy use</li><li class="extra-info">The wrist brace provides comfortable stability to your wrist without slowing you down.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wrist Support</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Made from breathable, soft materials</li><li class="extra-info"> Low cut, ergonomic shape allows for free hand movement</li><li class="extra-info"> For left or right wrist</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130475564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.09</s:price>
+      <s:sku>ES BRC 209623-CA-TENSOR</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130442796</id>
+    <published>2019-03-16T01:56:20-04:00</published>
+    <updated>2019-03-16T01:56:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-45842enfr"/>
+    <title>3M 45842ENFR  - Delux Thmb Stblzr Lxl 7100112033</title>
+    <s:type>Thumb Stabilizers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thumb-stabilizers-3m-45842enfr-delux-thmb-stblzr-lxl-7100112033-12795098824748.jpg?v=1580215776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thumb Stabilizers<br>
+        <strong>Price: </strong>
+            27.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Futuro Deluxe Thumb Stabilizer, Large/Extra-Large</h4> <li class="extra-info">Provides comfortable protection and firm support for weak, aching or sore thumbs</li><li class="extra-info">It is also ideal for those experiencing arthritic symptoms or degenerative joint disease of the thumb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thumb Stabilizers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Two stabilizers for stability of lower thumb joints</li><li class="extra-info"> Open design allows free movement of hand and other fingers, and natural hand alignment</li><li class="extra-info"> Use on right or left hand</li><li class="extra-info"> Not made with natural rubber latex</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130442796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.37</s:price>
+      <s:sku>ES BRC 45842ENFR</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737130410028</id>
+    <published>2019-03-16T01:56:20-04:00</published>
+    <updated>2019-03-16T01:56:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-45841enfr"/>
+    <title>3M 45841ENFR  - Delux Thmb Stblzr S-M 7100112028</title>
+    <s:type>Thumb Stabilizers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thumb-stabilizers-3m-45841enfr-delux-thmb-stblzr-s-m-7100112028-12795219968044.jpg?v=1580164290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Thumb Stabilizers<br>
+        <strong>Price: </strong>
+            28.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Futuro Deluxe Thumb Stabilizer, Small/Medium</h4> <li class="extra-info">Provides comfortable protection and firm support for weak, aching or sore thumbs</li><li class="extra-info">It is also ideal for those experiencing arthritic symptoms or degenerative joint disease of the thumb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thumb Stabilizers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Two stabilizers for stability of lower thumb joints</li><li class="extra-info"> Open design allows free movement of hand and other fingers, and natural hand alignment</li><li class="extra-info"> Use on right or left hand</li><li class="extra-info"> Not made with natural rubber latex</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES BRC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737130410028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.19</s:price>
+      <s:sku>ES BRC 45841ENFR</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+</feed>

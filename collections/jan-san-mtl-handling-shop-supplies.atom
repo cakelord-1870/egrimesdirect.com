@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/jan-san-mtl-handling-shop-supplies.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2020-06-26T15:55:18-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/5376967573653</id>
+    <published>2020-06-26T15:55:18-04:00</published>
+    <updated>2020-06-26T15:55:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gelax-gelax-4l"/>
+    <title>Gelax Gelax 4L  ~  Hand Sanitizer Gel (4 Litre jug)</title>
+    <s:type>Gel Hand Sanitizer</s:type>
+    <s:vendor>Gelax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/gel-hand-sanitizer-gelax-gelax-4l-hand-sanitizer-gel-4-litre-jug-17622211788949.jpg?v=1593201934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelax<br>
+        <strong>Type: </strong>Gel Hand Sanitizer<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ethyl alcohol 70%</li><li class="extra-info"> Medical Grade</li><li class="extra-info"> Made in Canada</li><li class="extra-info"> Approved by Health Canada</li><li class="extra-info"> Ingredients: Ethanol, Glycerin, Carbomer</li>[/shortdesc]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS HNC</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5376967573653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku>JS HNC GEL4L</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5376967442581</id>
+    <published>2020-06-26T15:55:17-04:00</published>
+    <updated>2020-06-26T15:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gelax-gelax-500ml"/>
+    <title>Gelax Gelax 500ml  ~  Hand Sanitizer Gel (500 ml)</title>
+    <s:type>Gel Hand Sanitizer</s:type>
+    <s:vendor>Gelax</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/gel-hand-sanitizer-gelax-gelax-500ml-hand-sanitizer-gel-500-ml-17622211723413.jpg?v=1593201812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gelax<br>
+        <strong>Type: </strong>Gel Hand Sanitizer<br>
+        <strong>Price: </strong>
+            8.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ethyl alcohol 70%</li><li class="extra-info"> Medical Grade</li><li class="extra-info"> Made in Canada</li><li class="extra-info"> Approved by Health Canada</li><li class="extra-info"> Ingredients: Ethanol, Glycerin, Carbomer</li>[/shortdesc]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CIS</s:tag>
+    <s:tag>JS</s:tag>
+    <s:tag>JS HNC</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5376967442581</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.95</s:price>
+      <s:sku>JS HNC 51446</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5373885546645</id>
+    <published>2020-06-25T15:43:25-04:00</published>
+    <updated>2020-06-25T15:43:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/spray-nine-c26822"/>
+    <title>Spray Nine C26822  ~  Spray Nine Heavy-Duty Cleaner and Disinfectant (650 ml)  Kills Viruses!</title>
+    <s:type>Heavy Duty Cleaner</s:type>
+    <s:vendor>Spray Nine</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/heavy-duty-cleaner-spray-nine-c26822-spray-nine-heavy-duty-cleaner-and-degreaser-650-ml-17622209921173.png?v=1593626752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Spray Nine<br>
+        <strong>Type: </strong>Heavy Duty Cleaner<br>
+        <strong>Price: </strong>
+            5.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[shortdesc]</p>
+<div style="background-color: #78c327; border-radius: 15px; box-shadow: 5px 10px 15px #888888;">
+<p style="font-size: 2.5em; text-align: center; color: white;"><strong>IN STOCK NOW</strong></p>
+</div>
+<li class="extra-info">Tough on Grease and Grime</li>
+<li class="extra-info">Kills Viruses in 30 sec.</li>
+<li class="extra-info">Kills Bacteria in 45 sec.</li>
+<li class="extra-info">Biodegradable</li>
+<p><span style="font-size: 1.4em;">Easy removal of Grease, Carbon Soils, Dirt &amp; Mud, Scuff Marks, Carpet Stains, Ink, Mold &amp; Mildew, Yellowing, Brake Dust, Tar, Road grime, Soot &amp; Ash, Oils and Bug Splatter.</span></p>
+<p>Spray Nine's incredible dirt-busting power tackles the toughest cleaning jobs other products can't touch.  Spray nine cuts through stubborn grease, grime and hard-to -remove soils.  Spray Nine kills viruses and bacteria.  cleans and disinfects hard non-porous surfaces such as: counter tops, floors, walls, siding, ceramics, patio furniture, BBQ's, sporting equipment, motors, fiberglass, vinyl, rubber, plastic, metal and more.<br></p>
+<a href="https://egrimesdirect.com/pages/covid-19-supplies">
+<p style="text-decoration: none; padding: 5px; font-size: 1.5em; text-align: center; color: white; background-color: #197bbd; text-transform: uppercase; font-weight: 600;">For Covid-19 related products <span style="color: black; text-decoration: underline;"> click here! </span></p>
+</a>
+<p style="font-size: 1.3em;">[/shortdesc] [additional]</p>
+<h2>Contact Time Required to Kill Viruses, Bacteria and Fungus</h2>
+<embed height="600px" width="100%" type="application/pdf" src="https://cdn.shopify.com/s/files/1/2737/7978/files/Contact_Time_Required_to_Kill_Viruses_Bacteria_and_Fungus.pdf?v=1593625875"> [/additional]
+<p><a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html">Product listed on Health Canada. To check, click here! (DIN 02160331)</a></p>
+<a href="https://www.canada.ca/en/health-canada/services/drugs-health-products/disinfectants/covid-19/list.html"> </a> <img src="https://cdn.shopify.com/s/files/1/2737/7978/files/Sptay_nine_health_canada_480x480.png?v=1593624812" alt="">
+<p> </p>
+<p><strong>Spray Nine Kills:</strong> H1N1 Swine Flu Virus, Influenza A2 Virus, Common Flu A2 Virus, Avian Flu H3N3 Virus, Salmonella Choleraesuis, Escherichia coli (E.coli), Hepatitis C Virus, Rhinovirus Type 37, Norwalk Virus,  Herpes Simplex I and II, Poliovirus Type I, Rotavirus, MRSA, Streptococcus pyogenes, Shigella dysenteriae </p>
+<div style="overflow: hidden; position: relative;">
+<div style="overflow: hidden; position: relative;">
+<iframe width="800" height="443" type="text/html" src="https://www.youtube.com/embed/ouszVcZAIRY?autoplay=0&amp;fs=1&amp;iv_load_policy=3&amp;showinfo=0&amp;rel=0&amp;cc_load_policy=0&amp;start=0&amp;end=0" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+<div style="position: absolute; bottom: 10px; left: 0; right: 0; margin-left: auto; margin-right: auto; color: #000; text-align: center;"><small style="line-height: 1.8; font-size: 0px; background: #fff;"> <a href="https://brlogen.com/">brlogen</a> </small></div>
+</div>
+</div>
+<style><!--
+.newst{position:relative;text-align:right;height:420px;width:520px;} #gmap_canvas img{max-width:none!important;background:none!important}
+--></style>
+<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>Disinfectant</s:tag>
+    <s:tag>JS</s:tag>
+    <s:tag>JS CLE</s:tag>
+    <s:tag>Volume_650 ml</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5373885546645</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.95</s:price>
+      <s:sku>HQ ADD C26822</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5210645233708</id>
+    <published>2020-05-11T11:42:12-04:00</published>
+    <updated>2020-05-11T11:42:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/antibacterial-hand-soap-flip-top-bottle-450-ml"/>
+    <title>Skip The Germs Antibacterial Hand Soap Flip Top Bottle (450 ml)</title>
+    <s:type>Hand Soap</s:type>
+    <s:vendor>Skip The Germs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hand-sanitizer-450-ml-antibacterial-hand-soap-flip-top-bottle-450-ml-16296706900012.jpg?v=1589221261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skip The Germs<br>
+        <strong>Type: </strong>Hand Soap<br>
+        <strong>Price: </strong>
+            5.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[shortdesc]</p>
+<div style="background-color: #78c327; border-radius: 15px; box-shadow: 5px 10px 15px #888888;">
+<p style="font-size: 2.5em; text-align: center; color: white;"><strong>IN STOCK NOW</strong></p>
+</div>
+<p>Benzalkonium Chloride is a Health Canada and FDA approved, wide spectrum antibacterial compound that is an effective sanitizing agent. Benzalkonium Chloride works by killing microorganisms and inhibiting their future growth and for this reason, it has become the main ingredient approved for use in the most effective alcohol-free hand sanitizers and wipes.</p>
+<p>Benzalkonium Chloride sanitizers provide an array of benefits. First, they are just as effective in killing germs as alcohol-based sanitizer, while being much easier on the hands. Another benefit is the extended protection that Benzalkonium Chloride provides. Unlike alcohol-based products, Benzalkonium Chloride based products kill bacteria and continue to provide protection well after the solution has dried.</p>
+<p>Benzalkonium Chloride based sanitizers also pose much less threat in cases of accidental ingestion and are low fire hazard making them ideal for household consumption.</p>
+<ul>
+<li>Health Canada/FDA Approved</li>
+<li><span>Kills harmful bacteria and moistens hands</span></li>
+</ul>
+<p><strong>Manufacturer Part Number:  54369-003-1</strong></p>
+<p class="First"><strong><span class="Bold">Warnings</span>:</strong></p>
+<ul>
+<li><span class="Bold">For external use only</span></li>
+<li>
+<span class="Bold">When using this product,</span><span> </span>avoid contact with eyes. If contact occurs, rinse with water</li>
+<li>
+<span class="Bold">Stop use and ask a doctor if</span><span> </span>irritation develops</li>
+<li>Keep out of reach of children. If swallowed, call a poison control centre or get medical help right away</li>
+<li>
+<span class="Bold">Do not use if</span><span> </span>you are allergic to any of these ingredients</li>
+</ul>
+<p>[/shortdesc]</p>
+<h2><strong>Product Information:</strong></h2>
+<p><strong>Active Ingredients:</strong></p>
+<p><span>Benzalkonium Chloride  0.13% Purpose - Antimicrobial</span></p>
+<p> </p>
+<p><strong>Inactive Ingredients:</strong></p>
+<p><span>Aqua/Water, Sodium Laureth Sulfate, Cocamidopropyl Betaine, Sodium Chloride, Decyl Glucoside, Glyceryn, Citric acid, Tetrasodium EDTA, Methylchloroisothiazolinone and Methylisothiazolinone, CI 19140, CI 42090, Parfum</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CIS</s:tag>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>JS</s:tag>
+    <s:tag>JS HNC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5210645233708</id>
+      <title>450 ml</title>
+      <s:price currency="CAD">5.52</s:price>
+      <s:sku>GG36000-15oz-EA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5210544504876</id>
+    <published>2020-05-11T10:51:56-04:00</published>
+    <updated>2020-05-11T10:51:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/antibacterial-alcohol-free-hand-sanitizing-moisturizing-lotion-flip-top-bottle-450-ml"/>
+    <title>Skip The Germs Alcohol-Free, Antibacterial, Hand-Sanitizing Lotion - Flip Top Bottle</title>
+    <s:type>Hand Sanitizer</s:type>
+    <s:vendor>Skip The Germs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hand-sanitizer-450-ml-alcohol-free-antibacterial-hand-sanitizing-moisturizing-lotion-flip-top-bottle-450-ml-16296106950700.jpg?v=1589221049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skip The Germs<br>
+        <strong>Type: </strong>Hand Sanitizer<br>
+        <strong>Price: </strong>
+            8.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[shortdesc]</p>
+<div style="background-color: #78c327; border-radius: 15px; box-shadow: 5px 10px 15px #888888;">
+<p style="font-size: 2.5em; text-align: center; color: white;"><strong>IN STOCK NOW</strong></p>
+</div>
+<span style="color: #ff2a00; font-size: 1.4em;"></span>
+<p>Benzalkonium Chloride is a Health Canada and FDA approved, wide spectrum antibacterial compound that is an effective sanitizing agent. Benzalkonium Chloride works by killing microorganisms and inhibiting their future growth and for this reason, it has become the main ingredient approved for use in the most effective alcohol-free hand sanitizers and wipes.</p>
+<p>Benzalkonium Chloride sanitizers provide an array of benefits. First, they are just as effective in killing germs as alcohol-based sanitizer, while being much easier on the hands. Another benefit is the extended protection that Benzalkonium Chloride provides. Unlike alcohol-based products, Benzalkonium Chloride based products kill bacteria and continue to provide protection well after the solution has dried.</p>
+<p>Benzalkonium Chloride based sanitizers also pose much less threat in cases of accidental ingestion and are low fire hazard making them ideal for household consumption.</p>
+<p>Alcohol based sanitizers, while effective in killing germs, also dry out your hands from essential oils your skin requires. In fact, regular use of alcohol based sanitizers will dry out your hands to the point where skin will crack and provide an easy route of entry for any pathogens. </p>
+<p>The addition of moisturizing agents to the formula ensures your hands not only remain soft and supple, but also ensures lasting protection on your hands.  </p>
+<ul>
+<li>Health Canada/FDA Approved<br>
+</li>
+<li>Benzalkonium Chloride</li>
+<li><span>Kills harmful bacteria and moistens hands</span></li>
+</ul>
+<p><strong>Manufacturer Part Number:  5439-001-007</strong></p>
+<p><strong>Warnings:</strong></p>
+<ul>
+<li><span class="Bold">For external use only</span></li>
+</ul>
+<ul>
+<li>
+<span class="Bold">When using this product,</span><span> </span>do not use in or near the eyes. In case of contact, rinse eyes thoroughly with water</li>
+</ul>
+<ul>
+<li>
+<span class="Bold">Stop use and ask a doctor if</span><span> </span>irritation or rash appears and lasts</li>
+</ul>
+<ul>
+<li>
+<span class="Bold">Keep out of reach of children.</span><span> </span>If swallowed, get medical help or contact a Poison Control Center right away</li>
+</ul>
+<p>[/shortdesc]</p>
+<h2> Product Information:</h2>
+<p> </p>
+<p><strong>Active Ingredients:</strong></p>
+<p><span>Benzalkonium Chloride  0.1% Purpose - Antimicrobial</span></p>
+<p><strong>Inactive Ingredients:</strong></p>
+<p><span>Aqua /Water, Glyceryl Stearate (and) PEG 100 Stearate , Olea Europaea (Olive) Fruit Oil , Caprylic Capric Triglycerides , Glycerin , Cetyl alcohol , Olea Europaea (Olive) Oil Sodium Polyacrylate (and) C13 14 Isoparaffin (and) Laureth 7, Allantoin , Disodium EDTA, Dimethicone , Aloe Barbadensis Leaf Juice, Tocopheryl Acetate ,Butylated Hydrxytoluene , Lavandula Angustifolia , Matricaria Recutita Chamomile ) Extract , Silk Amino Acids ,Panthenol</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CIS</s:tag>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>JS</s:tag>
+    <s:tag>JS HNC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5210544504876</id>
+      <title>450 ml</title>
+      <s:price currency="CAD">8.33</s:price>
+      <s:sku>JS HNC GG36000-15OZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124475437100</id>
+    <published>2020-05-01T14:51:34-04:00</published>
+    <updated>2020-05-01T14:51:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-be-10-3"/>
+    <title>3M Breathe Easy BE-10-3  - Breathe Easy Hood White Regular 7000005591</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-be-10-3-breathe-easy-hood-white-regular-7000005591-12746897653804.jpg?v=1580270973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            139.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy Hood, BE-10-3, white, regular</h4> <li class="extra-info">3M Breathe Easy Hood BE-10-3 is a lightweight, comfortable respirator hood that helps provide respiratory protection for a wide range of applications</li><li class="extra-info">It is intended for use with 3M Air-Mate Powered Air Purifying Respirators Systems, Breathe Easy PAPR Systems and 3M Supplied Air Hood Systems BE-Series.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Powered Air Purifying Respirators are motorized systems powered by a battery pack which draw air through a filter or cartridge to provide respiratory protection to the wearer</li><li class="extra-info">The blower unit can be mounted on the waist, face, or head, depending on the sy</li><h2>Product Information</h2><li class="extra-info">Lightweight</li><li class="extra-info">Comfortable</li><li class="extra-info">Can be used for a variety of applications</li><li class="extra-info">Constant flow of air can provide cooling for the worker, resulting in greater comfort for the wearer</li><li class="extra-info">Loose-fitting headgear options provide respiratory protection without the need for a tight faceseal or fit testing</li><li class="extra-info">Battery-powered blower pulls the air through the filter resulting in no additional breathing resistance to the wearer</li><h2>Suggested Application</h2><li class="extra-info">Double bib hood</li><li class="extra-info">US OSHA APF of 1000</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124475437100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.10</s:price>
+      <s:sku>SH PRT BE-10-3</s:sku>
+      <s:grams>675</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122244362284</id>
+    <published>2020-05-01T14:51:32-04:00</published>
+    <updated>2020-05-01T14:51:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-be-10l-3"/>
+    <title>3M Breathe Easy BE-10L-3  - Breathe Easy Large Hood 522-02-17R03 White Large Case Of 3 7000126370</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-be-10l-3-breathe-easy-large-hood-522-02-17r03-white-large-case-of-3-7000126370-12746897686572.jpg?v=1580271091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            168.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy Large Hood, BE-10L-3, 522-02-17R03, white, large</h4> <li class="extra-info">3M Breathe Easy Hood BE-10L-3 is a lightweight, comfortable respirator hood that helps provide respiratory protection for a wide range of applications</li><li class="extra-info">It is intended for use with 3M Air-Mate Powered Air Purifying Respirators Systems, Breathe Easy PAPR Systems and 3M Supplied Air Hood Systems BE-Series.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Powered Air Purifying Respirators (PAPRs) are motorized systems powered by a battery pack which draw air through a filter or cartridge to help provide respiratory protection to the wearer</li><li class="extra-info">The blower unit can be mounted on the waist, face, or head, depend</li><h2>Product Information</h2><li class="extra-info">Lightweight</li><li class="extra-info">Comfortable</li><li class="extra-info">Can be used for a variety of applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122244362284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">168.11</s:price>
+      <s:sku>SH PRT BE-10L-3</s:sku>
+      <s:grams>851</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122211725356</id>
+    <published>2020-05-01T14:51:29-04:00</published>
+    <updated>2020-05-01T14:51:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-be-12l-3"/>
+    <title>3M Breathe Easy BE-12L-3  - Breathe Easy Head Cover White Large 7000131724</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-be-12l-3-breathe-easy-head-cover-white-large-7000131724-12746897391660.jpg?v=1580271125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            124.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy Head Cover, BE-12L-3, white, large</h4> <li class="extra-info">3M Breathe Easy Head Cover BE-12L-3 is a lightweight, comfortable head cover that helps provide protection for a range of applications</li><li class="extra-info">The head cover is intended for use with 3M Air-Mate Powered Air Purifying Respirators Systems and Breathe Easy Powered Air Purifying Respirators Systems.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">This lightweight respirator head cover helps provide respiratory protection for a wide range of applications</li><li class="extra-info">Used with 3M Air-Mate and Breathe Easy Powered Air Purifying Respirators (PAPR).</li><h2>Product Information</h2><li class="extra-info">Lightweight</li><li class="extra-info">Comfortable</li><li class="extra-info">Can be used for a variety of applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122211725356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">124.63</s:price>
+      <s:sku>SH PRT BE-12L-3</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121840955436</id>
+    <published>2020-05-01T14:51:27-04:00</published>
+    <updated>2020-05-01T14:51:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-be-12l-50"/>
+    <title>3M Breathe Easy BE-12L-50  - Breathe Easy Head Cover 522-02-01R50 White Large 7000126369</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-be-12l-50-breathe-easy-head-cover-522-02-01r50-white-large-7000126369-12746897489964.jpg?v=1580113028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            1765.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy Head Cover, BE-12L-50, 522-02-01R50, white, large</h4> <li class="extra-info">3M Breathe Easy Head Cover BE-12L-50 is a lightweight, comfortable head cover that helps provide protection for a range of applications</li><li class="extra-info">The head cover is intended for use with 3M Air-Mate Powered Air Purifying Respirators Systems and Breathe Easy Powered Air Purifying Respirator Systems.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Lightweight</li><li class="extra-info">Comfortable</li><li class="extra-info">Can be used for a variety of applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121840955436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1765.51</s:price>
+      <s:sku>SH PRT BE-12L-50</s:sku>
+      <s:grams>6395</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736477179948</id>
+    <published>2020-04-17T14:05:00-04:00</published>
+    <updated>2020-04-17T14:05:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-450-00-01r12"/>
+    <title>3M Breathe Easy 450-00-01R12  - Breathe Easy High Efficiency P3 Particulate Cartridge Black 7000131700</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-450-00-01r12-breathe-easy-high-efficiency-p3-particulate-cartridge-black-7000131700-12746931830828.jpg?v=1580270817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            335.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy High Efficiency P3 Particulate Cartridge, 450-00-01R12, black</h4> <li class="extra-info">3M™ Breathe Easy High Efficiency Cartridge P3 is used with 3M™ Breathe Easy Powered Air Purifying Respirator systems and helps to provide high efficiency respiratory protection in environments containing particulates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Powered Air Purifying Respirators are motorized systems powered by a battery pack which draw air through a filter or cartridge to provide respiratory protection to the wearer</li><li class="extra-info">The blower unit can be mounted on the waist, face, or head, depending on the sy</li><h2>Product Information</h2><li class="extra-info">NIOSH approved</li><li class="extra-info"> Constant flow of air can provide cooling for the worker, resulting in greater comfort for the wearer</li><li class="extra-info"> Loose-fitting headgear options provide respiratory protection without the need for a tight faceseal or fit testing</li><li class="extra-info"> Battery-powered blower pulls the air through the filter resulting in no additional breathing resistance to the wearer</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736477179948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">335.38</s:price>
+      <s:sku>SH PRT 450-00-01R12</s:sku>
+      <s:grams>1628</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145003474988</id>
+    <published>2020-04-17T13:38:13-04:00</published>
+    <updated>2020-04-17T13:38:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-be-10-20"/>
+    <title>3M Breathe Easy BE-10-20  - Breathe Easy Hood 522-01-11R20 White Regular 7000126367</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-be-10-20-breathe-easy-hood-522-01-11r20-white-regular-7000126367-12746897883180.jpg?v=1580271058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            841.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy Hood, BE-10-20, 522-01-11R20, white, regular</h4> <li class="extra-info">3M™ Breathe Easy Hood BE-10-20 is a lightweight, comfortable respirator hood that helps provide respiratory protection for a wide range of applications</li><li class="extra-info">It is intended for use with 3M™ Air-Mate™ Powered Air Purifying Respirators Systems, Breathe Easy PAPR Systems and 3M™ Supplied Air Hood Systems BE-Series.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Powered Air Purifying Respirators are motorized systems powered by a battery pack which draw air through a filter or cartridge to help provide respiratory protection to the wearer</li><li class="extra-info">The blower unit can be mounted on the waist, face, or head, depending on t</li><h2>Product Information</h2><li class="extra-info">Lightweight</li><li class="extra-info"> Comfortable</li><li class="extra-info"> Can be used for a variety of applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145003474988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">841.32</s:price>
+      <s:sku>SH PRT BE-10-20</s:sku>
+      <s:grams>5615</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122211561516</id>
+    <published>2020-04-17T13:38:10-04:00</published>
+    <updated>2020-04-17T13:38:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-be-12-3"/>
+    <title>3M Breathe Easy BE-12-3  - Breathe Easy Head Cover White Regular 7000131723</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-be-12-3-breathe-easy-head-cover-white-regular-7000131723-12746897719340.jpg?v=1580271174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            42.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy Head Cover, BE-12-3, white, regular</h4> <li class="extra-info">3M™ Breathe Easy Head Cover BE-12-3 is a lightweight, comfortable head cover that helps provide protection for a range of applications</li><li class="extra-info">The head cover is intended for use with 3M™ Air-Mate™ Powered Air Purifying Respirators Systems and Breathe Easy Powered Air Purifying Respirators Systems.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">This lightweight respirator head cover helps provide respiratory protection for a wide range of applications</li><li class="extra-info">Used with 3M™ Air-Mate™ and Breathe Easy™ Powered Air Purifying Respirators (PAPR).</li><h2>Product Information</h2><li class="extra-info">Lightweight</li><li class="extra-info"> Comfortable</li><li class="extra-info"> Can be used for a variety of applications</li><li class="extra-info"> Constant flow of air can provide cooling for the worker, resulting in greater comfort for the wearer</li><li class="extra-info"> Loose-fitting headgear options provide respiratory protection without the need for a tight faceseal or fit testing</li><li class="extra-info"> Battery-powered blower pulls the air through the filter resulting in no additional breathing resistance to the wearer</li><li class="extra-info"> is a registered trademark of DuPont, and any use of such marks is under license.</li><h2>Suggested Application</h2><li class="extra-info">Head cover</li><li class="extra-info">Design allows use of stethoscope</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122211561516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.36</s:price>
+      <s:sku>SH PRT BE-12-3</s:sku>
+      <s:grams>86</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121625964588</id>
+    <published>2020-04-17T13:38:08-04:00</published>
+    <updated>2020-04-17T13:38:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-be-12-50"/>
+    <title>3M Breathe Easy BE-12-50  - Breathe Easy Head Cover White 7000126368</title>
+    <s:type>Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-3m-breathe-easy-be-12-50-breathe-easy-head-cover-white-7000126368-12746897424428.jpg?v=1580271207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            1799.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Breathe Easy Head Cover, BE-12-50, white</h4> <li class="extra-info">3M™ Breathe Easy BE-12-50 Head Cover is designed for use with 3M™ Air-Mate™ and Breathe Easy Powered Air Purifying Respirator Systems</li><li class="extra-info">This is a lightweight head cover that provides protection for a range of applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Breathe Easy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Lightweight</li><li class="extra-info"> Designed for use with 3M™ Air-Mate™ and Breathe Easy™ Powered Air Purifying Respirator Systems</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Breathe Easy</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121625964588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1799.95</s:price>
+      <s:sku>SH PRT BE-12-50</s:sku>
+      <s:grams>5982</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4516498210860</id>
+    <published>2020-02-08T02:09:34-05:00</published>
+    <updated>2020-02-08T02:09:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/wipeco-bx-25c"/>
+    <title>Wipeco BX-25C  - Wiping Cloths Recycled Colored T-Shirt Wipers 25 Lbs</title>
+    <s:type></s:type>
+    <s:vendor>Wipeco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wipeco-bx-25c-wiping-cloths-recycled-colored-t-shirt-wipers-25-lbs-14210884894764.jpg?v=1629199161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wipeco<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Soft, low in lint, high in cotton content for excellent absorbency</li><li class="extra-info">
+Made from pure t-shirts, this efficient multipurpose wiper replaces the need for shop towels or paper disposables.
+Ideal for all applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Wipeco</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH WIP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4516498210860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.64</s:price>
+      <s:sku>SH WIP BX 25</s:sku>
+      <s:grams>22679</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812679295020</id>
+    <published>2019-12-04T10:30:58-05:00</published>
+    <updated>2019-12-04T10:30:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-93515"/>
+    <title>Gray 93515  - Pro+ Series Utility Cart With 3 Drawers</title>
+    <s:type>Chests</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chests-gray-93515-pro-series-utility-cart-with-3-drawers-12747688050732.png?v=1579264676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Chests<br>
+        <strong>Price: </strong>
+            662.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Heavy-duty 100 lbs</li><li class="extra-info">bearing slides standard on all drawers.</li><li class="extra-info"> Tubular key and steel double hook engagement mechanism provides excellent security and protection.</li><li class="extra-info"> High gloss, scratch and corrosion resistant powder coat paint finish.</li><li class="extra-info"> Drawer liners included.All drawers feature “rolled in” edges which provide added strength and stiffness.
+Overall Dimensions: 19'' L x 30'' W x 36'' H</li><li class="extra-info"> Weight: 120 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chests</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812679295020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">662.95</s:price>
+      <s:sku>MH DOL 93515</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813277081644</id>
+    <published>2019-12-04T10:30:56-05:00</published>
+    <updated>2019-12-04T10:30:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-10690"/>
+    <title>Dynabrade 10690  - Filter/Regulator/Lubricator Frl40 1/2 Inch Nptassembly</title>
+    <s:type>Parts</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-dynabrade-10690-filter-regulator-lubricator-frl40-1-2-inch-nptassembly-12782422622252.png?v=1579008388"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Parts<br>
+        <strong>Price: </strong>
+            427.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Filter/Regulator/Lubricator, FRL40, 1/2 Inch NPTAssy.</li><li class="extra-info"> Not Compatible w/10681</li><li class="extra-info"> Use air preparation devices, such as Filter-Regulator-Lubricators (FRL Units) are an excellent means of keeping your air supply in top condition, as well as enabling your tools and equipment to operate at their peak performance</li><li class="extra-info">Unit has modular connections with
+mounting brackets for easy installation.</li><li class="extra-info"> 1/2 Inch NPT Inlet/Outlet Ports</li><li class="extra-info">Also included are bushings (2) to
+reduce the 1/2 Inch NPT openings of the Filter-Regulator-Lubricator to 3/8 Inch NPT.</li><li class="extra-info"> Filter: Five-micron filter element is standard</li><li class="extra-info">Manually rotate drain plug to discharge contaminants.</li><li class="extra-info"> Regulator: Compensation built into unit responds faster to changes in incoming pressure and flow</li><li class="extra-info">Built-in dual PSIG|Bar pressure dial gauge.</li><li class="extra-info"> Lubricator: Built-in check valve permits tool to be filled with oil without having to turn off air pressure</li><li class="extra-info">Adjustable oil drop to meter amount of oil into air system.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813277081644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">427.16</s:price>
+      <s:sku>SH PRT 10690</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035129900</id>
+    <published>2019-12-04T10:30:47-05:00</published>
+    <updated>2019-12-04T10:30:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-16hld"/>
+    <title>3M F-ESC-16HLD  - 3M Easy Scrub Pad Holder, F-ESC-16HLD, 40.6 cm (16 in) F-ESC-16HLD 7000131233</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-esc-16hld-3m-easy-scrub-pad-holder-f-esc-16hld-40-6-cm-16-in-f-esc-16hld-7000131233-13120527368236.jpg?v=1580080446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Pad Holder, F-ESC-16HLD, 40.6 cm (16 in)</h4> <li class="extra-info">3M™ Easy Scrub Pad Holder is used for fast, efficient and lightweight cleaning</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Easy to clean</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035129900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.47</s:price>
+      <s:sku>JS MOP F-ESC-16HLD</s:sku>
+      <s:grams>444</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035097132</id>
+    <published>2019-12-04T10:30:47-05:00</published>
+    <updated>2019-12-04T10:30:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-trayfd-1000"/>
+    <title>3M TRAYFD-1000  - 3M Tray Feed Assembly For LS1000, TRAYFD-1000 7000131617</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-trayfd-1000-3m-tray-feed-assembly-for-ls1000-trayfd-1000-7000131617-13120527269932.jpg?v=1578825953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Tray Feed Assembly For LS1000, TRAYFD-1000</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035097132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.80</s:price>
+      <s:sku>SH PRT TRAYFD-1000</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035752492</id>
+    <published>2019-12-04T10:30:39-05:00</published>
+    <updated>2019-12-04T10:30:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-71603"/>
+    <title>3M 71603  - 3M Scotchcal Low Friction Sleeve 71603, White, 5/Set 71603 7000130062</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-71603-3m-scotchcal-low-friction-sleeve-71603-white-5-set-71603-7000130062-13120528089132.jpg?v=1580228650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotchcal(TM) Low Friction Sleeve 71603, White, 5/Set</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035752492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.43</s:price>
+      <s:sku>SH PRT 71603</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035949100</id>
+    <published>2019-12-04T10:30:36-05:00</published>
+    <updated>2019-12-04T10:30:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-scw568-24x150"/>
+    <title>3M SCW568-24X150  - 3M Liner Paper (24 in x 150 yd) 7000129364</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-scw568-24x150-3m-liner-paper-scw568n-pack-only-24-in-x-150-yd-scw568-24x150-7000129364-13120528187436.jpg?v=1578764873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            159.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Liner Paper SCW568N, Pack Only, 24 in x 150 yd</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035949100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">159.70</s:price>
+      <s:sku>SH PRT SCW568-24X150</s:sku>
+      <s:grams>19051</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037423660</id>
+    <published>2019-12-04T10:30:21-05:00</published>
+    <updated>2019-12-04T10:30:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dp16"/>
+    <title>3M DP16  - 3M Scotch-Brite Driving Pad , 16 in , White, 5/case DP16 7000126477</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-dp16-3m-scotch-brite-driving-pad-16-in-white-5-case-dp16-7000126477-13120529367084.jpg?v=1580093216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Brite Driving Pad DP16 , 16 in , White, 5/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037423660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.53</s:price>
+      <s:sku>SH PRT DP16</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037816876</id>
+    <published>2019-12-04T10:30:13-05:00</published>
+    <updated>2019-12-04T10:30:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-10119na"/>
+    <title>3M 10119NA  - 10119NA Synthetic Steel Wool Pads Super Fine 7000126181</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-10119na-10119na-synthetic-steel-wool-pads-super-fine-7000126181-13120529727532.jpg?v=1580186133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">10119NA 3M Synthetic Steel Wool Pads Super Fine</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH STW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037816876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.53</s:price>
+      <s:sku>SH STW 10119NA</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037947948</id>
+    <published>2019-12-04T10:30:11-05:00</published>
+    <updated>2019-12-04T10:30:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-10120na"/>
+    <title>3M 10120NA  - Synthetic Steel Wool Pads Extra Fine 10120Na 7000126149</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-10120na-10120na-synthetic-steel-wool-pads-extra-fine-7000126149-13120529858604.jpg?v=1580192648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">10120NA 3M Synthetic Steel Wool Pads Extra Fine</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH STW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037947948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.53</s:price>
+      <s:sku>SH STW 10120NA</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039291436</id>
+    <published>2019-12-04T10:29:53-05:00</published>
+    <updated>2019-12-04T10:29:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-710679"/>
+    <title>3M STA-710679  - Standard Abrasives Rubber Sanding Drum 710679, 2 in x 2 in x 1/4 in, 1 per case STA-710679 7000121793</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-710679-standard-abrasives-rubber-sanding-drum-710679-2-in-x-2-in-x-1-4-in-1-per-case-sta-710679-7000121793-13808952246316.jpg?v=1627483265"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Rubber Sanding Drum 710679, 2 in x 2 in x 1/4 in, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039291436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.93</s:price>
+      <s:sku>SH PRT STA-710679</s:sku>
+      <s:grams>2122</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039389740</id>
+    <published>2019-12-04T10:29:51-05:00</published>
+    <updated>2019-12-04T10:29:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-704431"/>
+    <title>3M STA-704431  - Standard Abrasives Rubber Sanding Drum 704431, 1-1/2 in x 1 in x 1/4 in, 1 per case STA-704431 7000121767</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-704431-standard-abrasives-rubber-sanding-drum-704431-1-1-2-in-x-1-in-x-1-4-in-1-per-case-sta-704431-7000121767-13809535516716.jpg?v=1628180210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Rubber Sanding Drum 704431, 1-1/2 in x 1 in x 1/4 in, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PRT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039389740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.93</s:price>
+      <s:sku>SH PRT STA-704431</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+</feed>

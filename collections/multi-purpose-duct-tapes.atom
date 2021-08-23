@@ -1,0 +1,1773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/multi-purpose-duct-tapes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:34:14-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028150316</id>
+    <published>2019-10-16T00:34:14-04:00</published>
+    <updated>2019-10-16T00:34:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5151-18x36"/>
+    <title>3M 5151-18X36  - 5151, 18 in x 36 Yd 5151-18x36 7100006659</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-5151-18x36-5151-18-in-x-36-yd-5151-18x36-7100006659-13179533918252.jpg?v=1580212323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1301.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5151, 18 IN X 36 YD</h4> <li class="extra-info">Formed from a light brown woven glass cloth backing impregnated with PTFE (polytetrafluoroethylene), 3M™ General Purpose PTFE Glass Cloth Tape 5151 provides a slick surface on process machinery</li><li class="extra-info">This tape offers an extremely low coefficient of friction which, in combination with a pressure-sensitive silicone adhesive, creates a non-stick surface that performs at elevated temperatures.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Glass cloth reinforced backing provides greater tensile strength and resistance to tears and punctures than typical PTFE film backed tapes</li><li class="extra-info"> Silicone adhesive offers high temperature performance and long aging</li><li class="extra-info"> Provides a non-stick, low friction surface on heat sealing and packaging equipment</li><li class="extra-info"> Performs under a wide range of temperatures, including up to 500°F/260°C</li><li class="extra-info"> Very low moisture absorption allows the tape to perform in many humid environments</li><li class="extra-info"> Excellent chemical resistance enables tape to withstand challenging applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028150316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1301.87</s:price>
+      <s:sku>TA DUC 5151-18X36</s:sku>
+      <s:grams>5556</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255023398956</id>
+    <published>2019-10-16T00:31:16-04:00</published>
+    <updated>2019-10-16T00:31:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-361-1-1-2x60"/>
+    <title>3M 361-1-1/2X60  - 361 Mcs 1 1/2 x 60 Yd Bulk 361-1-1/2x60 7100040610</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-361-1-1-2x60-361-mcs-1-1-2-x-60-yd-bulk-361-1-1-2x60-7100040610-13968316629036.jpg?v=1628012457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            153.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">361 MCS 1 1/2 X 60 YD BULK</h4> <li class="extra-info">Constructed with a woven fibreglass backing, 3M™ Glass Cloth Tape 361 features a pressure sensitive silicone adhesive for applications requiring high-temperature resistance, high adhesion and clean removal</li><li class="extra-info">It is often used for high temperature applications such as sealing ducts and as a back-up strip for submerged arc welding.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Strong abrasion-resistant backing provides strength for bundling, harnessing, and protection applications requiring high tensile strength</li><li class="extra-info"> Silicone adhesive provides good holding power and clean removal across a wide range of temperatures</li><li class="extra-info"> Withstands temperatures from -65°F/-54°C to 450°F/232°C and intermittent temperatures up to 550°F/288°C or higher, depending on the type and duration of the heat source</li><li class="extra-info"> Can be certified to meet FAR 25.853 (a) Appendix F Part I (a) (1) (ii), flame resistant specification.</li><li class="extra-info"> Used for permanent sealing of high temperature ducts or chambers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255023398956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">153.23</s:price>
+      <s:sku>TA DUC 361-1-1/2X60</s:sku>
+      <s:grams>521</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981161004</id>
+    <published>2019-10-16T00:03:46-04:00</published>
+    <updated>2019-10-16T00:03:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1130-af-12"/>
+    <title>3M 1130-AF-12  - 1130-Af-12 Multi-Use Duct Tape 1 7100140756</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-1130-af-12-1130-af-12-multi-use-duct-tape-1-7100140756-13966206500908.jpg?v=1628002731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1130-AF-12 MULTI-USE DUCT TAPE 12RLS/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981161004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.76</s:price>
+      <s:sku>TA DUC 1130-AF-12</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981128236</id>
+    <published>2019-10-16T00:03:44-04:00</published>
+    <updated>2019-10-16T00:03:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1500-g027"/>
+    <title>3M Venture 1500-G027  - Cloth Duct Tape 1500 in Black (48 mm x 55 m) 7100043778</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-venture-1500-g027-cloth-duct-tape-1500-in-black-48-mm-x-55-m-7100043778-13966253260844.jpg?v=1628004524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            10.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1500-G027 CLOTH DUCT BK 2INX60YD</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Venture</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Venture</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981128236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.36</s:price>
+      <s:sku>TA DUC 1500-G027</s:sku>
+      <s:grams>739</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254981095468</id>
+    <published>2019-10-16T00:03:43-04:00</published>
+    <updated>2019-10-16T00:03:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2000-2x50"/>
+    <title>3M Scotch 2000-2X50  - Electrician&apos;s Duct Tape 2000 in Grey (6 mil x 2 Inch x 150 ft) 7000031684</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-scotch-2000-2x50-electrician-s-duct-tape-2000-in-grey-6-mil-x-2-inch-x-150-ft-7000031684-13968117956652.jpg?v=1628005296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Electrician's Duct Tape, 2000, grey, 6 mil (0.15 mm), 2 in x 150 ft (50 mm x 46 m)</h4> <li class="extra-info">Scotch® Electrician’s Duct Tape 2000 is a water-resistant duct tape with a polyvinyl chloride (PVC) backing and a rubber adhesive</li><li class="extra-info">It is designed to be an electrician’s utility tape for holding and bundling applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">150 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">6.0 mil</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Easy tear and application</li><li class="extra-info"> Does not absorb water</li><li class="extra-info"> Clean removal with minimal residue</li><li class="extra-info"> Not recommended for sealing air ducts</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Gray</s:tag>
+    <s:tag>Length_150 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Thickness_6.0 mil</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254981095468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.64</s:price>
+      <s:sku>TA DUC 2000-2X50</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254923259948</id>
+    <published>2019-10-15T22:13:05-04:00</published>
+    <updated>2019-10-15T22:13:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1145-af"/>
+    <title>3M Scotch 1145-AF  - Scotch Multi-Use Duct Tape Grey 1.88 Inch x 45yds 7000137280</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-scotch-1145-af-scotch-multi-use-duct-tape-grey-1-88-inch-x-45yds-7000137280-13120322666540.jpg?v=1580043900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            5.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Multi-Use Duct Tape, 1145-AF, grey, 1.88 in x 45 yd</h4> <li class="extra-info">Scotch Multi-Use Duct Tape is designed with exceptional combinations of strength, weatherability and thickness to work within a wide variety of applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">45yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1.88 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Scotch® Multi-Use Duct Tape is a midgrade, all-purpose duct tape that works great for a variety of applications in and around the home, shop and jobsite</li><li class="extra-info">The multi-use duct tape works great for tasks such as bundling and securing, general repairs and patc</li><h2>Product Information</h2><li class="extra-info">Durable</li><li class="extra-info">Easy to use</li><li class="extra-info">Waterproof backing</li><li class="extra-info">Tears easily for a stress-free application</li><li class="extra-info">Adheres well to curved surfaces</li><h2>Suggested Application</h2><li class="extra-info">Bundling and securing</li><li class="extra-info">Repairs, patching and protecting</li><li class="extra-info">Sealing boxes for storage, mailing and shipping</li><li class="extra-info">For general indoor use</li><li class="extra-info">For temporary applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Length_45yds</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_1.88 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254923259948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.55</s:price>
+      <s:sku>TA DUC 1145-AF</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254923227180</id>
+    <published>2019-10-15T22:13:04-04:00</published>
+    <updated>2019-10-15T22:13:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1500-g028"/>
+    <title>3M Venture 1500-G028  - Cloth Duct Tape 1500 in Silver (48 mm x 55 m) 7100043836</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-venture-1500-g028-venture-tape-cloth-duct-tape-1500-silver-48mm-x-55m-7100043836-13120322601004.jpg?v=1578842486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1500-G028 CLOTH DUCT SL 2INX60YD</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Venture</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Venture</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254923227180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>TA DUC 1500-G028</s:sku>
+      <s:grams>739</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254923161644</id>
+    <published>2019-10-15T22:13:02-04:00</published>
+    <updated>2019-10-15T22:13:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1500-g063"/>
+    <title>3M Venture 1500-G063  - Cloth Duct Tape 1500 in White (48 mm x 55 m) 7100043871</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-venture-1500-g063-cloth-duct-tape-1500-in-white-48-mm-x-55-m-7100043871-13813276147756.jpg?v=1628003975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            10.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1500-G063 CLOTH DUCT WT 2INX60YD</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Venture</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Venture</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254923161644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.42</s:price>
+      <s:sku>TA DUC 1500-G063</s:sku>
+      <s:grams>739</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253760782380</id>
+    <published>2019-10-15T13:25:40-04:00</published>
+    <updated>2019-10-15T13:25:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-6837"/>
+    <title>3M 6837  - Dust Control Spray 06837 1 Gallon (3.8 L) 7000120435</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-6837-dust-control-spray-06837-1-gallon-3-8-l-7000120435-13119610093612.jpg?v=1580218739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            79.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Dust Control Spray, 06837, 1 gallon (3.8 L)</h4> <li class="extra-info">3M™ Dust Control Spray, 06837, is a water-based formula that attracts and traps dust and dirt commonly found on paint booth and body shop floors</li><li class="extra-info">The spray minimizes the need to use water to wash down floors, minimizing slippage, rusting of booth walls, unwanted humidity and degradation of booth coatings.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0u1mxte5Y_9MvViI17zHvu07Y9ztSSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Booth Masking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Fast and easy application</li><li class="extra-info"> Use in place of water to help reduce booth corrosion</li><li class="extra-info"> Can also be applied to body shop floors to hold down sanding dust</li><li class="extra-info"> Enough to cover eight average paint booth floors, about 2,000 sq</li><li class="extra-info">ft</li><li class="extra-info">(185 sq</li><li class="extra-info">m)</li><h2>Suggested Application</h2><li class="extra-info">Designed to attract and hold down dust commonly found on paint booth and body shop floors</li><li class="extra-info">Can also be applied to floors throughout the body shop to hold down primer and sanding dust particles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253760782380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.75</s:price>
+      <s:sku>TA DUC 6837</s:sku>
+      <s:grams>3692</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4002576760876</id>
+    <published>2019-08-26T08:41:20-04:00</published>
+    <updated>2019-08-26T08:41:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/shurtape-pc622bl-3-inchx60yds"/>
+    <title>Shurtape PC622BL 3 InchX60YDS  - Duct Tape PC622 Black 3 InchX 60yds</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>Shurtape</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-shurtape-pc622bl-3-inchx60yds-duct-tape-pc622-black-3-inchx-60yds-12117905965100.png?v=1575193588"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Shurtape<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            27.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Shurtape</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Shurtape</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">60yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_60yds</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4002576760876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.69</s:price>
+      <s:sku>TA DUC PC622BL 3X60YDS</s:sku>
+      <s:grams>963</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813300707372</id>
+    <published>2019-05-11T13:21:16-04:00</published>
+    <updated>2019-05-11T13:21:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-3x50"/>
+    <title>3M 3903-3X50  - Vinyl Duct Tape 3903 Grey 3 in x 50 Yards 6.3 mil 7000124785</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-3x50-vinyl-duct-tape-3903-grey-3-in-x-50-yards-6-3-mil-7000124785-12749079183404.jpg?v=1580206779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            12.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, grey, 3 in x 50 yd 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813300707372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.30</s:price>
+      <s:sku>TA DUC 3903-3X50</s:sku>
+      <s:grams>708</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812400767020</id>
+    <published>2019-05-11T04:54:38-04:00</published>
+    <updated>2019-05-11T04:54:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-2x50-blk"/>
+    <title>3M 3903-2X50-BLK  - Vinyl Duct Tape 3903 Black 2 in X 50 Yards 6.3 mil 24 Per Case 7000029087</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-2x50-blk-vinyl-duct-tape-3903-black-2-in-x-50-yards-6-3-mil-24-per-case-7000029087-12746935074860.jpg?v=1580206618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, black, 2 in x 50 yd, 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812400767020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.21</s:price>
+      <s:sku>TA DUC 3903-2X50-BLK</s:sku>
+      <s:grams>516</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812400472108</id>
+    <published>2019-05-11T04:54:33-04:00</published>
+    <updated>2019-05-11T04:54:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-2x50-grn"/>
+    <title>3M 3903-2X50-GRN  - Vinyl Duct Tape 3903 Green 2 in X 50 Yards 6.3 mil 24 Per Case 7000124782</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-2x50-grn-vinyl-duct-tape-3903-green-2-in-x-50-yards-6-3-mil-24-per-case-7000124782-12746934681644.jpg?v=1580173770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, green, 2 in x 50 yd, 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812400472108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.21</s:price>
+      <s:sku>TA DUC 3903-2X50-GRN</s:sku>
+      <s:grams>503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812400439340</id>
+    <published>2019-05-11T04:54:33-04:00</published>
+    <updated>2019-05-11T04:54:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-2x50-blu"/>
+    <title>3M 3903-2X50-BLU  - 2 Inch x 50 Yards Blue Vinyl Duct Tape 3903 6.3 mil thick 7000124781</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-2x50-blu-2-inch-x-50-yards-blue-vinyl-duct-tape-3903-6-3-mil-thick-7000124781-13968832725036.jpg?v=1628013526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, blue, 2 in x 50 yd, 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812400439340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.21</s:price>
+      <s:sku>TA DUC 3903-2X50-BLU</s:sku>
+      <s:grams>516</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812400275500</id>
+    <published>2019-05-11T04:54:27-04:00</published>
+    <updated>2019-05-11T04:54:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-2x50-red"/>
+    <title>3M 3903-2X50-RED  - Vinyl Duct Tape 3903 Red 2 in X 50 Yards 6.3 mil 24 Per Case 7000124783</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-2x50-red-vinyl-duct-tape-3903-red-2-in-x-50-yards-6-3-mil-24-per-case-7000124783-12746934779948.jpg?v=1580173653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, red, 2 in x 50 yd, 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812400275500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.21</s:price>
+      <s:sku>TA DUC 3903-2X50-RED</s:sku>
+      <s:grams>503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812400209964</id>
+    <published>2019-05-11T04:54:27-04:00</published>
+    <updated>2019-05-11T04:54:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-2x50-wht"/>
+    <title>3M 3903-2X50-WHT  - Vinyl Duct Tape 3903 White 2 in X 50 Yards 6.3 mil 24 Per Case 7000049580</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-2x50-wht-vinyl-duct-tape-3903-white-2-in-x-50-yards-6-3-mil-24-per-case-7000049580-13964567445548.jpg?v=1628013162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, white, 2 in x 50 yd, 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812400209964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.21</s:price>
+      <s:sku>TA DUC 3903-2X50-WHT</s:sku>
+      <s:grams>516</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812400177196</id>
+    <published>2019-05-11T04:54:27-04:00</published>
+    <updated>2019-05-11T04:54:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-2x50-gry"/>
+    <title>3M 3903-2X50-GRY  - Vinyl Duct Tape 3903 Gray 2 in X 50 Yards 6.3 mil 24 Per Case 7000049579</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-2x50-gry-vinyl-duct-tape-3903-gray-2-in-x-50-yards-6-3-mil-24-per-case-7000049579-12746934747180.jpg?v=1580206650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, gray, 2 in x 50 yd, 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812400177196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.21</s:price>
+      <s:sku>TA DUC 3903-2X50-GRY</s:sku>
+      <s:grams>516</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812399882284</id>
+    <published>2019-05-11T04:54:22-04:00</published>
+    <updated>2019-05-11T04:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-3x50-wht"/>
+    <title>3M 3903-3X50-WHT  - Vinyl Duct Tape 3903 White 3 in X 50 Yards 6.3 mil 18 Per Case Bulk 7000124780</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-3x50-wht-vinyl-duct-tape-3903-white-3-in-x-50-yards-6-3-mil-18-per-case-bulk-7000124780-14006274523180.jpg?v=1628195862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            12.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, white, 3 in x 50 yd 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_White</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812399882284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.30</s:price>
+      <s:sku>TA DUC 3903-3X50-WHT</s:sku>
+      <s:grams>708</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812399915052</id>
+    <published>2019-05-11T04:54:21-04:00</published>
+    <updated>2019-05-11T04:54:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-2x50-ylw"/>
+    <title>3M 3903-2X50-YLW  - Vinyl Duct Tape 3903 Yellow 2 in X 50 Yards 6.3 mil 24 Per Case 7000124784</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-2x50-ylw-vinyl-duct-tape-3903-yellow-2-in-x-50-yards-6-3-mil-24-per-case-7000124784-13964560597036.jpg?v=1628013878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            8.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, yellow, 2 in x 50 yd, 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812399915052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.21</s:price>
+      <s:sku>TA DUC 3903-2X50-YLW</s:sku>
+      <s:grams>516</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812399849516</id>
+    <published>2019-05-11T04:54:21-04:00</published>
+    <updated>2019-05-11T04:54:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-49x50-blk"/>
+    <title>3M 3903-49X50-BLK  - Vinyl Duct Tape 3903 Black 49 in X 50 Yards 6.3 mil 2 Per Case Bulk 7000124786</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-49x50-blk-vinyl-duct-tape-3903-black-49-in-x-50-yards-6-3-mil-2-per-case-bulk-7000124786-13968840982572.jpg?v=1628013879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            200.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape, 3903, black, 49 in x 50 yd 6.3 mil</h4> <li class="extra-info">3M Vinyl Duct Tape 3903 is a general purpose duct tape made from a hand tearable embossed vinyl backing coated with a rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M Vinyl Duct Tape 3903 has an embossed vinyl backing that is easy to tear and conforms well to irregular surfaces</li><li class="extra-info">It features a rubber adhesive that sticks well to many substrates and unwinds easily off the roll.</li><h2>Product Information</h2><li class="extra-info">Available in seven colours for colour coding and marking</li><li class="extra-info">Transfer-resistant</li><li class="extra-info">Natural rubber adhesive for good instant adhesion</li><h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812399849516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.95</s:price>
+      <s:sku>TA DUC 3903-49X50-BLK</s:sku>
+      <s:grams>12337</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737122676780</id>
+    <published>2019-03-16T01:53:26-04:00</published>
+    <updated>2019-03-16T01:53:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2929-48x45-7m"/>
+    <title>3M 2929-48X45.7M  - General Purpose Duct Tape 2929 in Silver (48 mm x 50 Yards) 7000029030</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-2929-48x45-7m-general-use-duct-tape-2929-silver-48mm-x-45-7m-7000029030-12749092454444.jpg?v=1580195013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            5.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M General Use Duct Tape, 2929, silver, 48 mm x 45.7 m, 24 per case</h4> <li class="extra-info">3M™ General Use Duct Tape 2929 is a utility grade, conformable cloth duct tape made with polyethylene film over cloth scrim and rubber adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">50yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ General Use Duct Tape 2929 resists moisture prolonging the tape bond in moist or humid environments</li><li class="extra-info">The rubber adhesive sticks well to many surfaces and is easy to tear by hand</li><li class="extra-info">Individual roll wrap for easy identification</li><li class="extra-info">Typical physical and perfo</li><h2>Product Information</h2><li class="extra-info">Medium adhesion</li><li class="extra-info"> Moisture resistant</li><h2>Suggested Application</h2><li class="extra-info">Transportation, automotive, commercial vehicle, RV, bus and truck</li><li class="extra-info">Sealing, holding, bundling and identifying</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Length_50yds</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737122676780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.69</s:price>
+      <s:sku>TA DUC 2929-48X45.7M</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736479604780</id>
+    <published>2019-03-15T18:31:01-04:00</published>
+    <updated>2019-03-15T18:31:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3900-48x54-8-slv"/>
+    <title>3M 3900-48X54.8-SLV  - Multi-Purpose Duct Tape 3900 Silver 48mm x 54.8m 7100029108</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3900-48x54-8-slv-multi-purpose-duct-tape-3900-silver-48mm-x-54-8m-7100029108-13968808214572.jpg?v=1628013163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            12.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Multi-Purpose Duct Tape, 3900, silver, 48 mm x 54.8 m</h4> <li class="extra-info">3M™ Multi-Purpose Duct Tape 3900 is an industrial-strength tape that gives you a variety of colours for identification, contrast, decoration, bundling, sealing, holding, protecting and other tough jobs</li><li class="extra-info">It is also used to colour code bundles of pipes and conduit, call attention to temporary repairs, secure carpet and wiring to floors and provide attractive seals on coloured surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">54.8m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">With one of the lowest profiles of all of our polyethylene duct tapes, 3M™ Multi-Purpose Duct Tape 3900 is ideal for low-bulk bundling of wires to be pulled through conduit</li><li class="extra-info">The natural rubber adhesive gives you instant stick and long-term hold, even on i</li><h2>Product Information</h2><li class="extra-info">Water-resistant backing seals and protects against humidity and moisture</li><li class="extra-info"> High tensile strength cloth scrim</li><h2>Suggested Application</h2><li class="extra-info">General shop and temporary repair activities</li><li class="extra-info">Sealing, holding, protecting, bundling, colour coding</li><li class="extra-info">Applications requiring moisture resistance</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Length_54.8m</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736479604780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.71</s:price>
+      <s:sku>TA DUC 3900-48X54.8-SLV</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736479506476</id>
+    <published>2019-03-15T18:30:57-04:00</published>
+    <updated>2019-03-15T18:30:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3900-48x54-8-ylw"/>
+    <title>3M 3900-48X54.8-YLW  - Multi-Purpose Duct Tape 3900 Yellow 48mm x 54.8m 7000124007</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3900-48x54-8-ylw-multi-purpose-duct-tape-3900-yellow-48mm-x-54-8m-7000124007-12782299709484.jpg?v=1580173922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            12.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Multi-Purpose Duct Tape, 3900, yellow, 48 mm x 54.8 m</h4> <li class="extra-info">3M™ Multi-Purpose Duct Tape 3900 is an industrial-strength tape that gives you a variety of colours for identification, contrast, decoration, bundling, sealing, holding, protecting and other tough jobs</li><li class="extra-info">It is also used to colour code bundles of pipes and conduit, call attention to temporary repairs, secure carpet and wiring to floors and provide attractive seals on coloured surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">54.8m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">With one of the lowest profiles of all of our polyethylene duct tapes, 3M™ Multi-Purpose Duct Tape 3900 is ideal for low-bulk bundling of wires to be pulled through conduit</li><li class="extra-info">The natural rubber adhesive gives you instant stick and long-term hold, even on i</li><h2>Product Information</h2><li class="extra-info">Water-resistant backing seals and protects against humidity and moisture</li><li class="extra-info"> High tensile strength cloth scrim</li><h2>Suggested Application</h2><li class="extra-info">General shop and temporary repair activities</li><li class="extra-info">Sealing, holding, protecting, bundling, colour coding</li><li class="extra-info">Applications requiring moisture resistance</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Length_54.8m</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736479506476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.71</s:price>
+      <s:sku>TA DUC 3900-48X54.8-YLW</s:sku>
+      <s:grams>625</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736471642156</id>
+    <published>2019-03-15T18:26:30-04:00</published>
+    <updated>2019-03-15T18:26:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-6969-2x60-slv"/>
+    <title>3M 6969-2X60-SLV  - Extra Heavy Duty Duct Tape 6969 Silver 2 Inch x 60 Yards 10.7mil 7000136806</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-6969-2x60-slv-extra-heavy-duty-duct-tape-6969-silver-2-inch-x-60yds-10-7mil-7000136806-12746915840044.jpg?v=1580237250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            19.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Extra Heavy Duty Duct Tape, 6969, silver, 2 in x 60 yd, 10.7 mil</h4> <li class="extra-info">3M™ Extra Heavy Duty Duct Tape 6969 is an industrial strength duct tape that is abrasion and moisture resistant.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Silver</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">24yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Extra Heavy Duty Duct Tape 6969 offers industrial strength backing, easy tear, abrasion resistance and tack-free edges</li><li class="extra-info">The tape consists of polyethylene film over a dense cloth scrim with a rubber adhesive, which adheres aggressively to most surfaces</li><h2>Product Information</h2><li class="extra-info">Aggressive adhesive for good quick stick to many surfaces</li><li class="extra-info"> Conformable backing that tears easily by hand</li><h2>Suggested Application</h2><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer manufacturing and woodworking</li><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping, s</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Silver</s:tag>
+    <s:tag>Length_24yds</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736471642156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.68</s:price>
+      <s:sku>TA DUC 6969-2X60-SLV</s:sku>
+      <s:grams>790</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1183507972140</id>
+    <published>2018-08-27T09:12:43-04:00</published>
+    <updated>2018-08-27T09:12:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3903-49x50-ylw"/>
+    <title>3M 3903-49X50-YLW  - Vinyl Duct Tape 3903 Yellow 49 Inch x 50 7000124787</title>
+    <s:type>Duct Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duct-tapes-3m-3903-49x50-ylw-vinyl-duct-tape-3903-yellow-49-inch-x-50-7000124787-13964547817516.jpg?v=1628013713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Duct Tapes<br>
+        <strong>Price: </strong>
+            200.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Vinyl Duct Tape 3903</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Non-Paint</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">50yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">49 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duct Tapes</td>
+</tr>
+</table>   <h2>Suggested Application</h2><li class="extra-info">Sealing, holding, bundling, reinforcing, identifying, tabbing, wrapping cords, splicing and protecting</li><li class="extra-info">Transportation, aerospace, automotive, commercial vehicle, RV, bus, truck, ship yards, military, metal working, furniture, electronics, solar, trailer m</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Length_50yds</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA DUC</s:tag>
+    <s:tag>Width_49 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1183507972140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.95</s:price>
+      <s:sku>TA DUC 3903-49X50-YLW</s:sku>
+      <s:grams>12337</s:grams>
+    </s:variant>
+  </entry>
+</feed>

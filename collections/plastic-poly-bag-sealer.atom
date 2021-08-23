@@ -1,0 +1,1408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/plastic-poly-bag-sealer.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:16:06-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255000592428</id>
+    <published>2019-10-16T00:16:06-04:00</published>
+    <updated>2019-10-16T00:16:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8000af"/>
+    <title>3M 8000AF  - 3M-Matic Case Sealer With Accuglide 3 Taping Head Type 11800, 1 Per Crate 8000Af 7100153243</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8000af-3m-matic-case-sealer-with-accuglide-3-taping-head-type-11800-1-per-crate-8000af-7100153243-13120473825324.jpg?v=1580237337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22470.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M-Matic(TM) Case Sealer 8000af with 3M(TM) AccuGlide(TM) 3 Taping Head Type 11800, 1 per crate</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255000592428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22470.41</s:price>
+      <s:sku>PA BAG 8000AF</s:sku>
+      <s:grams>417304</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933614636</id>
+    <published>2019-10-15T22:27:06-04:00</published>
+    <updated>2019-10-15T22:27:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100053930"/>
+    <title>3M 7100053930  - STAINLESS STEEL CASTER INTRO SERIES 4P/C 7100053930</title>
+    <s:type>Casters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-3m-7100053930-stainless-steel-caster-intro-series-4p-c-7100053930-13120353992748.jpg?v=1580153016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            596.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">STAINLESS STEEL CASTER INTRO SERIES 4P/C</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933614636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">596.12</s:price>
+      <s:sku>PA BAG 7100053930</s:sku>
+      <s:grams>3492</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933581868</id>
+    <published>2019-10-15T22:27:00-04:00</published>
+    <updated>2019-10-15T22:27:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100084943"/>
+    <title>3M Accuglide 7100084943  - Accuglide Nph Upper Taping Head 3in 1/Cv 7100084943</title>
+    <s:type>Packaging - Heads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-heads-3m-accuglide-7100084943-accuglide-nph-upper-taping-head-3in-1-cv-7100084943-13120353599532.jpg?v=1580262362"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging - Heads<br>
+        <strong>Price: </strong>
+            4479.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">AccuGlide NPH Upper Taping Head 3in 1/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Accuglide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging - Heads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Accuglide</s:tag>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933581868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4479.22</s:price>
+      <s:sku>PA BAG 7100084943</s:sku>
+      <s:grams>5697</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813311127596</id>
+    <published>2019-05-11T13:33:50-04:00</published>
+    <updated>2019-05-11T13:33:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-nph-2u"/>
+    <title>3M Accuglide NPH-2U  - AccuGlide NPH Upper Taping Head 2 in 1 Per Box 7000124865</title>
+    <s:type>Packaging - Heads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-heads-3m-accuglide-nph-2u-accuglide-nph-upper-taping-head-2-in-1-per-box-7000124865-12749113655340.jpg?v=1580262657"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging - Heads<br>
+        <strong>Price: </strong>
+            4865.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) AccuGlide(TM) NPH Upper Taping Head, 2 in, 1 per box</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Accuglide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging - Heads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Accuglide</s:tag>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813311127596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4865.37</s:price>
+      <s:sku>PA BAG NPH-2U</s:sku>
+      <s:grams>5896</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737135357996</id>
+    <published>2019-03-16T01:58:47-04:00</published>
+    <updated>2019-03-16T01:58:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000a3"/>
+    <title>3M 7000A3  - Pro Case Sealer With 3 Inch Ag3 Tape Head 7100031941</title>
+    <s:type>Case Sealer Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/case-sealer-tapes-3m-7000a3-pro-case-sealer-with-3-inch-ag3-tape-head-7100031941-12782304985132.jpg?v=1580231738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Case Sealer Tapes<br>
+        <strong>Price: </strong>
+            13091.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7000a3 Pro Case Sealer w/3 Inch AG3 TapeHead</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Case Sealer Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737135357996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13091.74</s:price>
+      <s:sku>PA BAG 7000A3</s:sku>
+      <s:grams>192776</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737135325228</id>
+    <published>2019-03-16T01:58:47-04:00</published>
+    <updated>2019-03-16T01:58:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000a-7000r-convey"/>
+    <title>3M 7000A/7000R-CONVEY  - 7000a/7000r Pro Infeed/Exit Conveyor 7100023771</title>
+    <s:type>Packaging Bags</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-bags-3m-7000a-7000r-convey-7000a-7000r-pro-infeed-exit-conveyor-7100023771-12749115457580.jpg?v=1580231611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Bags<br>
+        <strong>Price: </strong>
+            551.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7000a/7000r Pro Infeed/Exit Conveyor</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Bags</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737135325228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">551.64</s:price>
+      <s:sku>PA BAG 7000A/7000R-CONVEY</s:sku>
+      <s:grams>13154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737135292460</id>
+    <published>2019-03-16T01:58:47-04:00</published>
+    <updated>2019-03-16T01:58:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000a"/>
+    <title>3M 7000A  - Pro Case Sealer With 2 Inch Ag3 Tape Head 7100023746</title>
+    <s:type>Case Sealer Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/case-sealer-tapes-3m-7000a-pro-case-sealer-with-2-inch-ag3-tape-head-7100023746-12782305083436.jpg?v=1580231526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Case Sealer Tapes<br>
+        <strong>Price: </strong>
+            12587.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7000a Pro Case Sealer w/2 Inch AG3 TapeHead</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Case Sealer Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737135292460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12587.20</s:price>
+      <s:sku>PA BAG 7000A</s:sku>
+      <s:grams>192776</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737135259692</id>
+    <published>2019-03-16T01:58:47-04:00</published>
+    <updated>2019-03-16T01:58:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000r3"/>
+    <title>3M 7000R3  - Pro Case Sealer With 3 Inch Ag3 Tape Head 7100023747</title>
+    <s:type>Case Sealer Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/case-sealer-tapes-3m-7000r3-pro-case-sealer-with-3-inch-ag3-tape-head-7100023747-12782305017900.jpg?v=1580231770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Case Sealer Tapes<br>
+        <strong>Price: </strong>
+            18844.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7000r3 Pro Case Sealer w/3 Inch AG3 TapeHead</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Case Sealer Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737135259692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18844.70</s:price>
+      <s:sku>PA BAG 7000R3</s:sku>
+      <s:grams>217724</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737135063084</id>
+    <published>2019-03-16T01:58:42-04:00</published>
+    <updated>2019-03-16T01:58:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100068105"/>
+    <title>3M 7100068105  - High Speed Taping Head Lower 3 Inch 1/Cv 7100068105</title>
+    <s:type>Packaging Bags</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-bags-3m-7100068105-high-speed-taping-head-lower-3-inch-1-cv-7100068105-12749114966060.jpg?v=1580228172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Bags<br>
+        <strong>Price: </strong>
+            2751.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">HIGH SPEED TAPING HEAD LOWER 3 INCH 1/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Bags</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737135063084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2751.22</s:price>
+      <s:sku>PA BAG 7100068105</s:sku>
+      <s:grams>15875</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134997548</id>
+    <published>2019-03-16T01:58:35-04:00</published>
+    <updated>2019-03-16T01:58:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-a20"/>
+    <title>3M A20  - 3M-Matic Adju 7000049240</title>
+    <s:type>Packaging Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-sealers-3m-a20-3m-matic-adju-7000049240-12782305116204.jpg?v=1580136776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Sealers<br>
+        <strong>Price: </strong>
+            5349.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M-Matic Adjustable Case Sealer, a20</h4> <li class="extra-info">This 3M-Matic™ Adjustable Case Sealer a20 dependably seals uniform cases</li><li class="extra-info">Includes 3M™ AccuGlide™ Taping Head 2+ for low impact application of tape 36mm to 48mm wide.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Sealers</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">This 3M-Matic™ Adjustable Case Sealer a20 seals a broad range of carton sizes from 6inch width to 21.5inch width and 3.5inch high to 21.5inch high</li><li class="extra-info">This sealer is ideal for operations currently taping boxes by hand</li><li class="extra-info">It is easily adjustable to handle multi</li><h2>Product Information</h2><li class="extra-info">Easily adjustable to handle multiple box sizes</li><li class="extra-info"> Bottom belt drive for positive box conveying</li><li class="extra-info"> Ideal for operations currently taping boxes by hand</li><li class="extra-info"> Seals a broad range of carton sizes from 6inch width to 21.5inch width and 3.5inch high to 21.5inch high</li><h2>Suggested Application</h2><li class="extra-info">Food and beverage, paper and print, distribution centers, pharmaceutical and general industrial</li><li class="extra-info">Semi-automatic case sealing</li><li class="extra-info">Ideal for operations currently taping boxes by hand</li><li class="extra-info">Seals a broad range of carton sizes from 6 inch width to 21.5 inch width and 3.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134997548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5349.04</s:price>
+      <s:sku>PA BAG A20</s:sku>
+      <s:grams>175000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134932012</id>
+    <published>2019-03-16T01:58:34-04:00</published>
+    <updated>2019-03-16T01:58:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-800asb"/>
+    <title>3M 800ASB  - Case Sealer T.29600 7000056823</title>
+    <s:type>Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sealers-3m-800asb-case-sealer-t-29600-7000056823-12782304755756.jpg?v=1580237525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sealers<br>
+        <strong>Price: </strong>
+            12008.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">800ASB CASE SEALER T.29600</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sealers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134932012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12008.41</s:price>
+      <s:sku>PA BAG 800ASB</s:sku>
+      <s:grams>187605</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121739964460</id>
+    <published>2018-08-23T13:54:01-04:00</published>
+    <updated>2018-08-23T13:54:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-200a3"/>
+    <title>3M 200A3  - -Matic Case Sealer With Accuglide 3 Taping Head 7000124660</title>
+    <s:type>Packaging Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-sealers-3m-200a3-matic-case-sealer-with-accuglide-3-taping-head-7000124660-13968143646764.jpg?v=1627745602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Sealers<br>
+        <strong>Price: </strong>
+            9662.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M-Matic(TM) Case Sealer 200a3 With 3M(TM) AccuGlide(TM) 3 Taping Head</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Sealers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121739964460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9662.33</s:price>
+      <s:sku>PA BAG 200A3</s:sku>
+      <s:grams>145149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121739898924</id>
+    <published>2018-08-23T13:54:01-04:00</published>
+    <updated>2018-08-23T13:54:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-200a"/>
+    <title>3M 200A  - -Matic Case Sealer With Accuglide 3 Taping Head 7000124659</title>
+    <s:type>Packaging Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-sealers-3m-200a-matic-case-sealer-with-accuglide-3-taping-head-7000124659-13968139911212.jpg?v=1627745789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Sealers<br>
+        <strong>Price: </strong>
+            9083.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M-Matic Case Sealer, 200a, With 3M AccuGlide 3 Taping Head</h4> <li class="extra-info">This 3M-Matic™ Case Sealer 200a is an adjustable bottom belt drive case sealer to dependably seal uniform size cases.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Sealers</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">This 3M-Matic™ Case Sealer 200a seals top and bottom of box in a broad range of carton sizes from 6 inch width to 21.5 inch width and 4.75 inch high to 24.5 inch high</li><li class="extra-info">This product provides a rugged construction with a 16-gauge welded steel frame and epox</li><h2>Product Information</h2><li class="extra-info">Rugged construction with 16-gauge welded steel frame</li><li class="extra-info"> Epoxy paint finish</li><li class="extra-info"> Consistent quality tape application up to 40 cases per minute</li><li class="extra-info"> Easily adjustable to handle uniform box sizes</li><li class="extra-info"> Seals top and bottom of box in a broad range of carton sizes from 6 inch width to 21.5 inch width</li><h2>Suggested Application</h2><li class="extra-info">Food and beverage, paper and print, distribution centers, pharmaceutical and general industrial</li><li class="extra-info">Case sealing, box sealer, taper, adjustable case sealer</li><li class="extra-info">Seals top and bottom of box in a broad range of carton sizes from 6 inch width to 21.5 inch width and 4</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121739898924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9083.14</s:price>
+      <s:sku>PA BAG 200A</s:sku>
+      <s:grams>155582</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145151029292</id>
+    <published>2018-08-13T23:14:50-04:00</published>
+    <updated>2018-08-13T23:14:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-p-400"/>
+    <title>3M Scotch P-400  - Scotch Bag Sealer P400 1/2 in 7000005395</title>
+    <s:type>Bag Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bag-sealers-3m-scotch-p-400-scotch-bag-sealer-p400-1-2-in-7000005395-12794814922796.jpg?v=1580036255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Bag Sealers<br>
+        <strong>Price: </strong>
+            285.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Bag Sealer P400, 1/2 in, 6 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bag Sealers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145151029292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">285.75</s:price>
+      <s:sku>PA BAG P-400</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121801863212</id>
+    <published>2018-08-03T15:34:08-04:00</published>
+    <updated>2018-08-03T15:34:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100084024"/>
+    <title>3M 7100084024  - Hb-901 Filament Black T29900 Pn 06994 7100084024</title>
+    <s:type>Packaging Bags</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-bags-3m-7100084024-hb-901-filament-black-t29900-pn-06994-7100084024-12749114834988.jpg?v=1580228139"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Bags<br>
+        <strong>Price: </strong>
+            13.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">HB-901 FILAMENT BLACK T29900 PN 06994</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Bags</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121801863212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.23</s:price>
+      <s:sku>PA BAG 7100084024</s:sku>
+      <s:grams>107</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121799307308</id>
+    <published>2018-08-03T15:32:29-04:00</published>
+    <updated>2018-08-03T15:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-700cf"/>
+    <title>3M 700CF  - Case Sealer &amp; Former 2+ Tp Head 7100077435</title>
+    <s:type>Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sealers-3m-700cf-case-sealer-former-2-tp-head-7100077435-31600901914773.jpg?v=1628223949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sealers<br>
+        <strong>Price: </strong>
+            14114.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">700CF CASE SEALER AND FORMER 2+ TP HEAD</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sealers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121799307308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14114.82</s:price>
+      <s:sku>PA BAG 700CF</s:sku>
+      <s:grams>249929</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121797046316</id>
+    <published>2018-08-03T15:30:59-04:00</published>
+    <updated>2018-08-03T15:30:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-acc-sst-lth-2"/>
+    <title>3M Accuglide ACC-SST-LTH-2  - 2+ SST Lower Taping Head 2 Inch 7100068199</title>
+    <s:type>Packaging - Heads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-heads-3m-accuglide-acc-sst-lth-2-2-sst-lower-taping-head-2-inch-7100068199-31574925443221.jpg?v=1628353345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging - Heads<br>
+        <strong>Price: </strong>
+            3891.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2+ ACCUGLIDE SST LOWER TAPING HEAD 2IN</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Accuglide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging - Heads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Accuglide</s:tag>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121797046316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3891.05</s:price>
+      <s:sku>PA BAG ACC-SST-LTH-2</s:sku>
+      <s:grams>8981</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121793769516</id>
+    <published>2018-08-03T15:29:02-04:00</published>
+    <updated>2018-08-03T15:29:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100057894"/>
+    <title>3M 7100057894  - As19 Caster Kit Attachment Type 19100 7100057894</title>
+    <s:type>Casters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/casters-3m-7100057894-as19-caster-kit-attachment-type-19100-7100057894-12749115031596.jpg?v=1580227925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Casters<br>
+        <strong>Price: </strong>
+            270.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">AS19 CASTER KIT ATTACHMENT TYPE 19100</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Casters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121793769516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">270.42</s:price>
+      <s:sku>PA BAG 7100057894</s:sku>
+      <s:grams>3120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121793736748</id>
+    <published>2018-08-03T15:29:01-04:00</published>
+    <updated>2018-08-03T15:29:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100057550"/>
+    <title>3M 7100057550  - infeed / Exit Conveyor SST intro Series 7100057550</title>
+    <s:type>Packaging Bags</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-bags-3m-7100057550-infeed-exit-conveyor-sst-intro-series-7100057550-31568655941781.jpg?v=1628356251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Bags<br>
+        <strong>Price: </strong>
+            1349.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">INFEED/EXIT CONVEYOR SST INTRO SERIES</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Bags</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121793736748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1349.66</s:price>
+      <s:sku>PA BAG 7100057550</s:sku>
+      <s:grams>12972</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121776730156</id>
+    <published>2018-08-03T15:19:28-04:00</published>
+    <updated>2018-08-03T15:19:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100023772"/>
+    <title>3M 7100023772  - 8000A/8000A3 Pro infeed / Exit Conveyor 7100023772</title>
+    <s:type>Packaging Bags</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-bags-3m-7100023772-8000a-8000a3-pro-infeed-exit-conveyor-7100023772-31572490748053.jpg?v=1628354790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Bags<br>
+        <strong>Price: </strong>
+            608.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8000a/8000a3 Pro Infeed/Exit Conveyor</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Bags</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121776730156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">608.17</s:price>
+      <s:sku>PA BAG 7100023772</s:sku>
+      <s:grams>15467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121776664620</id>
+    <published>2018-08-03T15:19:28-04:00</published>
+    <updated>2018-08-03T15:19:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7100023749"/>
+    <title>3M 7100023749  - 8000A3 Pro Case Sealer With 3 Inch Ag3 Tape Head 7100023749</title>
+    <s:type>Case Sealer Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/case-sealer-tapes-3m-7100023749-8000a3-pro-case-sealer-with-3-inch-ag3-tape-head-7100023749-31572527480981.jpg?v=1628354786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Case Sealer Tapes<br>
+        <strong>Price: </strong>
+            13533.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8000a3 Pro Case Sealer w/3 Inch AG3 TapeHead</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Case Sealer Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121776664620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13533.48</s:price>
+      <s:sku>PA BAG 7100023749</s:sku>
+      <s:grams>205023</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121757790252</id>
+    <published>2018-08-03T15:08:44-04:00</published>
+    <updated>2018-08-03T15:08:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ag-hst-2l"/>
+    <title>3M Accuglide AG-HST-2L  - Accuglide Hst Lower Taping Head 2 in 1 Per Box 7000131135</title>
+    <s:type>Packaging - Heads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-heads-3m-accuglide-ag-hst-2l-accuglide-hst-lower-taping-head-2-in-1-per-box-7000131135-12782273331244.jpg?v=1580121658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging - Heads<br>
+        <strong>Price: </strong>
+            5736.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M AccuGlide High Speed Taping Head, 2 in, 1 per box</h4> <li class="extra-info">The 3M™ AccuGlide™ HST Lower Taping Head applies 48 mm wide C-clips of tape at case speeds of up to 150 ft/min.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Accuglide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging - Heads</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ AccuGlide™ HST Lower Taping Head provides a precision shaft and ball bushing slide insure precise application</li><li class="extra-info">The heads can be mounted for upper and lower or right- and left-side applications and the cases are securely and precisely sealed</li><li class="extra-info">This </li><h2>Product Information</h2><li class="extra-info">High speed tape application</li><li class="extra-info"> Designed for competitive high speed conversion</li><li class="extra-info"> Consistent quality tape application</li><li class="extra-info"> Precision shaft and ball bushing slide insure precise application</li><li class="extra-info"> Can be mounted for upper and lower or right- and left-side applications</li><li class="extra-info"> Cases are securely and precisely sealed</li><h2>Suggested Application</h2><li class="extra-info">Food and beverage, general industrial, apparel, clothing, paper, print, ecommerce, retail, distribution, personal care and cosmetics</li><li class="extra-info">Sealing boxes, applying tape, case sealing, box closure and taping</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Accuglide</s:tag>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121757790252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5736.88</s:price>
+      <s:sku>PA BAG AG-HST-2L</s:sku>
+      <s:grams>14315</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121740029996</id>
+    <published>2018-08-03T14:58:25-04:00</published>
+    <updated>2018-08-03T14:58:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000124737"/>
+    <title>3M 7000124737  - -Matic T-Table Attachment For A8 &amp; A80-3 7000124737</title>
+    <s:type>Packaging</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-3m-7000124737-matic-t-table-attachment-for-a8-a80-3-7000124737-31583422873749.jpg?v=1628341479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging<br>
+        <strong>Price: </strong>
+            2755.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M-Matic(TM) T-table Attachment for a80 and a80-3, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121740029996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2755.31</s:price>
+      <s:sku>PA BAG 7000124737</s:sku>
+      <s:grams>36291</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121739997228</id>
+    <published>2018-08-03T14:58:24-04:00</published>
+    <updated>2018-08-03T14:58:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-a20s"/>
+    <title>3M A20S  - 3M-Matic Adju 7000124707</title>
+    <s:type>Packaging Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-sealers-3m-a20s-3m-matic-adju-7000124707-12749114605612.jpg?v=1580135820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging Sealers<br>
+        <strong>Price: </strong>
+            15238.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M-Matic(TM) Adjustable Stainless Steel Case Sealer a20-s</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging Sealers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121739997228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15238.54</s:price>
+      <s:sku>PA BAG A20S</s:sku>
+      <s:grams>174632</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121739276332</id>
+    <published>2018-08-03T14:58:04-04:00</published>
+    <updated>2018-08-03T14:58:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-70-0064-3000-6"/>
+    <title>3M 70-0064-3000-6  - -Matic Top Compression Rollers For A20 A70 A8 1 Per Box 7000124307</title>
+    <s:type>Packaging</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/packaging-3m-70-0064-3000-6-matic-top-compression-rollers-for-a20-a70-a8-1-per-box-7000124307-31582860738709.jpg?v=1628344351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Packaging<br>
+        <strong>Price: </strong>
+            320.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M-Matic(TM) Top Compression Rollers for a20, a70, a80 1 per box</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Packaging</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PA</s:tag>
+    <s:tag>PA BAG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121739276332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">320.62</s:price>
+      <s:sku>PA BAG 70-0064-3000-6</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+</feed>

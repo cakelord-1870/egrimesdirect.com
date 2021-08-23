@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-scalers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:31:34-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232929324</id>
+    <published>2019-12-04T10:31:34-05:00</published>
+    <updated>2019-12-04T10:31:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-30336"/>
+    <title>Dynabrade Dynascaler 30336  - Dynascaler Surface Preparation Tool Hand-Held .7 Hp Straight-Line 3400 Rpm Rear Exhaust With 2 Inch Wide Hub</title>
+    <s:type>Scalers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/scalers-dynabrade-dynascaler-30336-dynascaler-surface-preparation-tool-hand-held-7-hp-straight-line-3400-rpm-rear-exhaust-with-2-inch-wide-hub-12746744135724.jpg?v=1579130997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Scalers<br>
+        <strong>Price: </strong>
+            3445.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dynascaler Surface Preparation Tool, Hand-Held</li><li class="extra-info"> .7 hp, Straight-Line, 3,400 RPM, Rear Exhaust, 2 Inch (51 mm) W Roto Peen</li><li class="extra-info"> All models use optional DynaPeen</li><li class="extra-info">'bonded shot' flap assemblies</li><li class="extra-info">Ideal for removing rust, oxide, scale, old paint and tough coatings from most surfaces.</li><li class="extra-info"> Steel dowel pin (keepers) system allows easy flap loading and unloading</li><li class="extra-info">Four-position top handle adjusts for operator comfort.</li><li class="extra-info"> Each model is for 2 Inch wide work on flat surfaces.</li><li class="extra-info"> Ideal for removal of floor paint/coatings and for
+scarifying concrete.</li><li class="extra-info"> Vacuum port accepts 1-1/2 Inch diameter cuff.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Dynascaler</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">43.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/4 Inch NPT</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Exhaust Type </td>
+<td class="egrimes">Rear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">4-2/3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose ID </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.7</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Scalers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">2400</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_43.0</s:tag>
+    <s:tag>Air Thread_1/4 Inch NPT</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT SCA</s:tag>
+    <s:tag>Exhaust Type_Rear</s:tag>
+    <s:tag>Height_4-2/3 Inch</s:tag>
+    <s:tag>Hose ID_3/8 Inch</s:tag>
+    <s:tag>HP_0.7</s:tag>
+    <s:tag>Line_Dynascaler</s:tag>
+    <s:tag>RPM_2400</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232929324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3445.84</s:price>
+      <s:sku>AT SCA 30336</s:sku>
+      <s:grams>3900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232503340</id>
+    <published>2019-12-04T10:31:34-05:00</published>
+    <updated>2019-12-04T10:31:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-30337"/>
+    <title>Dynabrade Dynascaler 30337  - Dynascaler Surface Preparation Tool Hand-Held .7 Hp Right Angle 1950 Rpm Rear Exhaust With 2 Inch Wide Hub</title>
+    <s:type>Scalers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/scalers-dynabrade-dynascaler-30337-dynascaler-surface-preparation-tool-hand-held-7-hp-right-angle-1950-rpm-rear-exhaust-with-2-inch-wide-hub-12746743808044.jpg?v=1579131031"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Scalers<br>
+        <strong>Price: </strong>
+            4547.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dynascaler Surface Preparation Tool, Hand-Held</li><li class="extra-info"> .7 hp, Right Angle, 1,950 RPM, Rear Exhaust, 2 Inch (51 mm) W</li><li class="extra-info"> All models use optional DynaPeen</li><li class="extra-info">'bonded shot' flap assemblies</li><li class="extra-info">Ideal for removing rust, oxide, scale, old paint and tough coatings from most surfaces.</li><li class="extra-info"> Steel dowel pin (keepers) system allows easy flap loading and unloading</li><li class="extra-info">Four-position top handle adjusts for operator comfort.</li><li class="extra-info"> Each model is for 2 Inch wide work on flat surfaces.</li><li class="extra-info"> Ideal for removal of floor paint/coatings and for
+scarifying concrete.</li><li class="extra-info"> Vacuum port accepts 1-1/2 Inch diameter cuff.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Dynascaler</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">58.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">3/8 Inch NPT</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Exhaust Type </td>
+<td class="egrimes">Front</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose ID </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">1.2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Scalers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">1950</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_58.0</s:tag>
+    <s:tag>Air Thread_3/8 Inch NPT</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT SCA</s:tag>
+    <s:tag>Exhaust Type_Front</s:tag>
+    <s:tag>Height_7 Inch</s:tag>
+    <s:tag>Hose ID_1/2 Inch</s:tag>
+    <s:tag>HP_1.2</s:tag>
+    <s:tag>Line_Dynascaler</s:tag>
+    <s:tag>RPM_1950</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232503340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4547.13</s:price>
+      <s:sku>AT SCA 30337</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812318191660</id>
+    <published>2019-12-04T10:31:04-05:00</published>
+    <updated>2019-12-04T10:31:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-31600"/>
+    <title>Dynabrade Dynascaler 31600  - Dynascaler Surface Preparation Tool Floor 4 Hp Straight-Line 1650 Rpm Rear Exhaust With 3 Inch Wide Hub</title>
+    <s:type>Scalers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/scalers-dynabrade-dynascaler-31600-dynascaler-surface-preparation-tool-floor-4-hp-straight-line-1650-rpm-rear-exhaust-with-3-inch-wide-hub-12782441857068.png?v=1579131121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Scalers<br>
+        <strong>Price: </strong>
+            6352.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dynascaler Surface Preparation Tool, Floor</li><li class="extra-info"> 4 hp, Straight-Line, 1,650 RPM, Rear Exhaust, 3 Inch (76 mm) with Roto Peen Hub</li><li class="extra-info"> All models use optional DynaPeen</li><li class="extra-info">'bonded shot' flap assemblies</li><li class="extra-info">Ideal for removing rust, oxide, scale, old paint and tough coatings from most surfaces.</li><li class="extra-info"> Each model has 20-slot hub for optional DynaPeen Inchbonded shot Inch flaps.</li><li class="extra-info"> Adjustable edge guide assures straight-line descaling</li><li class="extra-info">(Not recommended for use without edge guide.)</li><li class="extra-info"> Ideal for removal of floor paint/coatings and for
+scarifying concrete.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Dynascaler</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">9.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Exhaust Type </td>
+<td class="egrimes">Rear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose ID </td>
+<td class="egrimes">1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Scalers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">1650</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_9.0</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT SCA</s:tag>
+    <s:tag>Exhaust Type_Rear</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Hose ID_1/4 Inch</s:tag>
+    <s:tag>Line_Dynascaler</s:tag>
+    <s:tag>RPM_1650</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812318191660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6352.85</s:price>
+      <s:sku>AT SCA 31600</s:sku>
+      <s:grams>26761</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812233551916</id>
+    <published>2019-05-11T02:18:54-04:00</published>
+    <updated>2019-05-11T02:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-30304"/>
+    <title>Dynabrade Dynascaler 30304  - Dynascaler Surface Preparation Tool Hand-Held .7 Hp Straight-Line 2400 Rpm Rear Exhaust With 2 Inch Wide Hub</title>
+    <s:type>Scalers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/scalers-dynabrade-dynascaler-30304-dynascaler-surface-preparation-tool-hand-held-7-hp-straight-line-2400-rpm-rear-exhaust-with-2-inch-wide-hub-12782441496620.png?v=1579130964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Scalers<br>
+        <strong>Price: </strong>
+            2784.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dynascaler Surface Preparation Tool, Hand-Held</li><li class="extra-info"> .7 hp, Straight-Line, 2,400 RPM, Rear Exhaust, 2 Inch (51 mm) W Roto Peen Hub</li><li class="extra-info"> All models use optional DynaPeen</li><li class="extra-info">'bonded shot' flap assemblies</li><li class="extra-info">Ideal for removing rust, oxide, scale, old paint and tough coatings from most surfaces.</li><li class="extra-info"> Each model has 20-slot hub for optional DynaPeen Inchbonded shot Inch flaps.</li><li class="extra-info"> Adjustable edge guide assures straight-line descaling</li><li class="extra-info">(Not recommended for use without edge guide.)</li><li class="extra-info"> Steel dowel pin (keepers) system allows easy flap loading and unloading</li><li class="extra-info">Four-position top handle adjusts for operator comfort.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Dynascaler</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">43.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/4 Inch NPT</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Exhaust Type </td>
+<td class="egrimes">Rear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3-1/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose ID </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.7</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Scalers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">2400</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_43.0</s:tag>
+    <s:tag>Air Thread_1/4 Inch NPT</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT SCA</s:tag>
+    <s:tag>Exhaust Type_Rear</s:tag>
+    <s:tag>Height_3-1/8 Inch</s:tag>
+    <s:tag>Hose ID_3/8 Inch</s:tag>
+    <s:tag>HP_0.7</s:tag>
+    <s:tag>Line_Dynascaler</s:tag>
+    <s:tag>RPM_2400</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812233551916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2784.79</s:price>
+      <s:sku>AT SCA 30304</s:sku>
+      <s:grams>3538</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812226244652</id>
+    <published>2019-05-11T02:11:26-04:00</published>
+    <updated>2019-05-11T02:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-30200"/>
+    <title>Dynabrade Dynascaler 30200  - Dynascaler Surface Preparation Tool Over-Under .7 Hp Straight-Line 2100 Rpm Rear Exhaust With 1 Inch Wide Hub</title>
+    <s:type>Scalers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/scalers-dynabrade-dynascaler-30200-dynascaler-surface-preparation-tool-over-under-7-hp-straight-line-2100-rpm-rear-exhaust-with-1-inch-wide-hub-12746740432940.jpg?v=1579130727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Scalers<br>
+        <strong>Price: </strong>
+            106.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dynascaler Surface Preparation Tool, Over-Under</li><li class="extra-info"> .7 hp, Straight-Line, 2,100 RPM, Rear Exhaust, 1 Inch (25 mm) W Roto Peen</li><li class="extra-info"> All models use optional DynaPeen</li><li class="extra-info">'bonded shot' flap assemblies</li><li class="extra-info">Ideal for removing rust, oxide, scale, old paint and tough coatings from most surfaces.</li><li class="extra-info"> Mechanically fractures scale and coatings, with negligible removal of base metal.</li><li class="extra-info"> Over-under simultaneous removal of scale, from top and bottom of girder webplates prior to welding.</li><li class="extra-info"> Top and bottom unit each use optional 1 Inch wide DynaPeen</li><li class="extra-info">'bonded shot' flap assemblies</li><li class="extra-info">Top unit easily detaches to permit portable 'touch up' descaling.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Dynascaler</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Scalers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">2100</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT SCA</s:tag>
+    <s:tag>Line_Dynascaler</s:tag>
+    <s:tag>RPM_2100</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812226244652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.07</s:price>
+      <s:sku>AT SCA 30200</s:sku>
+      <s:grams>18143</s:grams>
+    </s:variant>
+  </entry>
+</feed>

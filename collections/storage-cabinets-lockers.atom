@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/storage-cabinets-lockers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-09-02T14:49:39-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4029436690476</id>
+    <published>2019-09-02T14:49:39-04:00</published>
+    <updated>2019-09-02T14:49:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069209"/>
+    <title>Dynamic D069209  - Tools 52 Inch Industrial Cart With 12 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069209-tools-52-inch-industrial-cart-with-12-drawers-12168505032748.png?v=1579160635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2710.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4029436690476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2710.42</s:price>
+      <s:sku>MH STO D069209</s:sku>
+      <s:grams>213188</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813356838956</id>
+    <published>2019-05-11T14:15:37-04:00</published>
+    <updated>2019-05-11T14:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069203"/>
+    <title>Dynamic D069203  - Tools 42 Inch Roller Cabinet With 12 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069203-tools-42-inch-roller-cabinet-with-12-drawers-12749225001004.png?v=1579160068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1551.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813356838956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1551.48</s:price>
+      <s:sku>MH STO D069203</s:sku>
+      <s:grams>99790</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813356773420</id>
+    <published>2019-05-11T14:15:37-04:00</published>
+    <updated>2019-05-11T14:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069204"/>
+    <title>Dynamic D069204  - Tools 42 Inch Top Chest With 8 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069204-tools-42-inch-top-chest-with-8-drawers-12749224902700.png?v=1579160125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            956.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813356773420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">956.69</s:price>
+      <s:sku>MH STO D069204</s:sku>
+      <s:grams>58513</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813356740652</id>
+    <published>2019-05-11T14:15:37-04:00</published>
+    <updated>2019-05-11T14:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069207"/>
+    <title>Dynamic D069207  - Tools 36 Inch Roller Cabinet With 8 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069207-tools-36-inch-roller-cabinet-with-8-drawers-12749224968236.png?v=1579160487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1188.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813356740652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1188.04</s:price>
+      <s:sku>MH STO D069207</s:sku>
+      <s:grams>88450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813043544108</id>
+    <published>2019-05-11T11:15:45-04:00</published>
+    <updated>2019-05-11T11:15:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jbts4824"/>
+    <title>JET JBTS4824  - 48 Inch X 24 Inch Jobsite Tool Storage Box Super Heavy Duty 842481</title>
+    <s:type>Job Site Tool Storage</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/job-site-tool-storage-jet-jbts4824-48-inch-x-24-inch-jobsite-tool-storage-box-super-heavy-duty-842481-12748432703532.jpg?v=1579522645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Job Site Tool Storage<br>
+        <strong>Price: </strong>
+            634.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">48 Inch x 24 Inch Jobsite Tool Storage Box - Super Heavy Duty</h4> <li class="extra-info">Super Heavy Duty 16 gauge steel body and lid for maximum security</li><li class="extra-info"> Dual recessed lock housings prevent use of bolt cutters or blades to cut locks</li><li class="extra-info"> Staked and welded piano hinge prevents hinge pin from being driven out</li><li class="extra-info"> Cord pass-through with rubber grommet allows secure overnight charging of power tools</li><li class="extra-info"> Overlapping lid prevents leaks and features full width reinforcing bolster for added strength</li><li class="extra-info"> Finger groove in lid for easy opening even with gloves</li><li class="extra-info"> Heavy duty gas shocks keep lid open</li><li class="extra-info"> 12 gauge 4-way skids allow forklift access from front, back, and both sides for increased transportation options</li><li class="extra-info"> Skids are predrilled to accept optional 6" x 2" heavy duty casters</li><li class="extra-info"> High visibility orange powder coat for superior corrosion resistance</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48-1/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Job Site Tool Storage</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">48-1/8" w x 24-1/8" d x 28-3/8" h (without wheels)</li><li class="extra-info"> Super Heavy Duty 16 gauge steel body and lid for maximum security</li><h2>Product Information</h2><li class="extra-info">Height (without Wheels) : 28-3/8 Inch</li><li class="extra-info"> Accessory : 900901</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>Width_48-1/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813043544108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">634.49</s:price>
+      <s:sku>MH STO 842481</s:sku>
+      <s:grams>8581</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813003010092</id>
+    <published>2019-05-11T10:48:33-04:00</published>
+    <updated>2019-05-11T10:48:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-tmc2708"/>
+    <title>JET TMC2708  - 28 Inch 7 Drawer Treasure Series Tool Chest 842754</title>
+    <s:type>Chests &amp; Roller Cabinets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chests-roller-cabinets-jet-tmc2708-28-inch-7-drawer-treasure-series-tool-chest-842754-12748350095404.jpg?v=1579575423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chests &amp; Roller Cabinets<br>
+        <strong>Price: </strong>
+            1026.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">28 Inch 7 Drawer Treasure Series Tool Chest</h4> <li class="extra-info">Unique styling stands out in any garage or shop!</li><li class="extra-info"> Safe-Lock system prevents drawers from accidentally opening when moving tool box *</li><li class="extra-info"> Drop down trays on chest and flip up trays on cabinet provide plenty of work space</li><li class="extra-info"> Full width aluminum drawer pulls feature Safe Lock latches to prevent drawers opening when moving tool box *</li><li class="extra-info"> Ball bearing drawer slides with Auto Close feature ensure drawers are completely closed before locking</li><li class="extra-info"> Recessed handles on both sides do not protrude outside of tool box dimensions – easy to park and move!</li><li class="extra-info"> Heavy duty style castors rated to 1,900 lbs total capacity for heavy loads</li><li class="extra-info"> All drawers complete with drawer liners</li><li class="extra-info"> 5/8" MDF work surface included with roller cabinets *</li><li class="extra-info"> Secure rear lock mechanism</li><li class="extra-info"> Sand finish powder coat paint resists scratches, chemicals, and fingerprints</li><li class="extra-info"> A JET Exclusive!</li><li class="extra-info"> Roller cabinet and chest sold separately</li><li class="extra-info"> * Not available on 27" models</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chests &amp; Roller Cabinets</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Unique styling stands out in any garage or shop!</li><li class="extra-info"> Drop down trays on chest and flip up trays on cabinet provide plenty of work space</li><li class="extra-info"> Full width aluminum drawer pulls feature Safe Lock latches to prevent drawers opening when moving tool box *</li><li class="extra-info"> Ball bearin</li><h2>Product Information</h2><li class="extra-info">2 Drawers (W x D x H) : 22-3/8 Inch x 15-5/8 Inch x 2-7/8 Inch</li><li class="extra-info"> 5 Drawers (W x D x H) : 22-3/8 Inch x 15-5/8 Inch x 2-7/8 Inch</li><li class="extra-info"> Total Dimensions (W x D x H) : 31-5/16 Inch x 18-7/8 Inch x 21-1/2 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Load Per Drawer : 100 lb (45.3 kg)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813003010092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1026.88</s:price>
+      <s:sku>MH STO 842754</s:sku>
+      <s:grams>48534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813002747948</id>
+    <published>2019-05-11T10:48:29-04:00</published>
+    <updated>2019-05-11T10:48:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-ts4208"/>
+    <title>JET TS4208  - 41 Inch X 18 Inch 8 Drawer Treasure Series Tool Chest 842762</title>
+    <s:type>Chests &amp; Roller Cabinets</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chests-roller-cabinets-jet-ts4208-41-inch-x-18-inch-8-drawer-treasure-series-tool-chest-842762-12748350029868.jpg?v=1579579384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chests &amp; Roller Cabinets<br>
+        <strong>Price: </strong>
+            1351.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">41 Inch x 18 Inch 8 Drawer Treasure Series Tool Chest</h4> <li class="extra-info">Unique styling stands out in any garage or shop!</li><li class="extra-info"> Safe-Lock system prevents drawers from accidentally opening when moving tool box *</li><li class="extra-info"> Drop down trays on chest and flip up trays on cabinet provide plenty of work space</li><li class="extra-info"> Full width aluminum drawer pulls feature Safe Lock latches to prevent drawers opening when moving tool box *</li><li class="extra-info"> Ball bearing drawer slides with Auto Close feature ensure drawers are completely closed before locking</li><li class="extra-info"> Recessed handles on both sides do not protrude outside of tool box dimensions – easy to park and move!</li><li class="extra-info"> Heavy duty style castors rated to 1,900 lbs total capacity for heavy loads</li><li class="extra-info"> All drawers complete with drawer liners</li><li class="extra-info"> 5/8" MDF work surface included with roller cabinets *</li><li class="extra-info"> Secure rear lock mechanism</li><li class="extra-info"> Sand finish powder coat paint resists scratches, chemicals, and fingerprints</li><li class="extra-info"> A JET Exclusive!</li><li class="extra-info"> Roller cabinet and chest sold separately</li><li class="extra-info"> * Not available on 27" models</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chests &amp; Roller Cabinets</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Unique styling stands out in any garage or shop!</li><li class="extra-info"> Drop down trays on chest and flip up trays on cabinet provide plenty of work space</li><li class="extra-info"> Full width aluminum drawer pulls feature Safe Lock latches to prevent drawers opening when moving tool box *</li><li class="extra-info"> Ball bearin</li><h2>Product Information</h2><li class="extra-info">4 Drawers (W x D x H) : 22-7/16 Inch x 15-5/8 Inch x 2-15/16 Inch</li><li class="extra-info"> 4 Drawers (W x D x H) : 12-3/16 Inch x 15-5/8 Inch x 2-15/16 Inch</li><li class="extra-info"> Total Dimensions (W x D x H) : 45-3/4 Inch x 18-15/16 Inch x 21-5/16 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813002747948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1351.56</s:price>
+      <s:sku>MH STO 842762</s:sku>
+      <s:grams>62595</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812715175980</id>
+    <published>2019-05-11T08:56:26-04:00</published>
+    <updated>2019-05-11T08:56:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-97972"/>
+    <title>Gray 97972  - C-Chanel 12 Inch For 9</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-gray-97972-c-chanel-12-inch-for-97106-tools-13391002828844.jpg?v=1575024392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            1.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812715175980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.91</s:price>
+      <s:sku>AC STO 97972</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812715143212</id>
+    <published>2019-05-11T08:56:23-04:00</published>
+    <updated>2019-05-11T08:56:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-97971"/>
+    <title>Gray 97971  - C-Chanel 8 Inch For 9</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-gray-97971-c-chanel-8-inch-for-97102-9710-tools-13391002763308.jpg?v=1575024501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            1.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812715143212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.74</s:price>
+      <s:sku>AC STO 97971</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812715110444</id>
+    <published>2019-05-11T08:56:22-04:00</published>
+    <updated>2019-05-11T08:56:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-97973"/>
+    <title>Gray 97973  - C-Chanel 15 Inch For 97211 / 971</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-gray-97973-c-chanel-15-inch-for-97211-971-13391002861612.jpg?v=1575024484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812715110444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.10</s:price>
+      <s:sku>AC STO 97973</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812701216812</id>
+    <published>2019-05-11T08:51:07-04:00</published>
+    <updated>2019-05-11T08:51:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-999043"/>
+    <title>Gray 999043  - Drawer Liner 99210</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-999043-drawer-liner-10-pieces-99210-13391018524716.jpg?v=1575018318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            21.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812701216812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku>AC STO 999043</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812701151276</id>
+    <published>2019-05-11T08:51:06-04:00</published>
+    <updated>2019-05-11T08:51:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993025"/>
+    <title>Gray 993025  - Drawer Liner 93120</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993025-drawer-liner-12-pieces-93120-tools-13391012659244.jpg?v=1575021018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            17.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812701151276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.14</s:price>
+      <s:sku>AC STO 993025</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812701118508</id>
+    <published>2019-05-11T08:51:03-04:00</published>
+    <updated>2019-05-11T08:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993031"/>
+    <title>Gray 993031  - Drawer Liner 93270</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993031-drawer-liner-12-pieces-93270-13391013314604.jpg?v=1575020896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            19.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812701118508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.14</s:price>
+      <s:sku>AC STO 993031</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812701085740</id>
+    <published>2019-05-11T08:51:03-04:00</published>
+    <updated>2019-05-11T08:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-999063"/>
+    <title>Gray 999063  - Drawer Liner 99113Sb</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-999063-drawer-liner-13-pieces-99113sb-tools-13391019802668.jpg?v=1575017767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            62.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812701085740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.13</s:price>
+      <s:sku>AC STO 999063</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812701052972</id>
+    <published>2019-05-11T08:51:03-04:00</published>
+    <updated>2019-05-11T08:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993027"/>
+    <title>Gray 993027  - Drawer Liner 93212</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993027-drawer-liner-12-pieces-93212-13391012954156.jpg?v=1575020761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            27.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812701052972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.47</s:price>
+      <s:sku>AC STO 993027</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812701020204</id>
+    <published>2019-05-11T08:51:03-04:00</published>
+    <updated>2019-05-11T08:51:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993029"/>
+    <title>Gray 993029  - Drawer Liner 93215</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993029-drawer-liner-15-pieces-93215-tools-13391013019692.jpg?v=1575020914"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            31.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812701020204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.63</s:price>
+      <s:sku>AC STO 993029</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700987436</id>
+    <published>2019-05-11T08:51:00-04:00</published>
+    <updated>2019-05-11T08:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993026"/>
+    <title>Gray 993026  - Drawer Liner 93503</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993026-drawer-liner-3-pieces-93503-13391012855852.jpg?v=1575021154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            9.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700987436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.15</s:price>
+      <s:sku>AC STO 993026</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700954668</id>
+    <published>2019-05-11T08:51:00-04:00</published>
+    <updated>2019-05-11T08:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-999046"/>
+    <title>Gray 999046  - Drawer Liner 97502B</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-999046-drawer-liner-3-pieces-97502b-13391018754092.jpg?v=1575018245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            12.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700954668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.91</s:price>
+      <s:sku>AC STO 999046</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700921900</id>
+    <published>2019-05-11T08:51:00-04:00</published>
+    <updated>2019-05-11T08:51:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-999047"/>
+    <title>Gray 999047  - Drawer Liner 9</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-999047-drawer-liner-4-pieces-97103b-13391018917932.jpg?v=1575018217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            8.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700921900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.22</s:price>
+      <s:sku>AC STO 999047</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700856364</id>
+    <published>2019-05-11T08:50:57-04:00</published>
+    <updated>2019-05-11T08:50:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993033"/>
+    <title>Gray 993033  - Drawer Liner 93204</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993033-drawer-liner-4-pieces-93204-13391013380140.jpg?v=1575020674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            11.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700856364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.64</s:price>
+      <s:sku>AC STO 993033</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700889132</id>
+    <published>2019-05-11T08:50:56-04:00</published>
+    <updated>2019-05-11T08:50:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-999040"/>
+    <title>Gray 999040  - Drawer Liner 99206S</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-999040-drawer-liner-5-pieces-99206s-13391018262572.jpg?v=1575018363"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            23.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700889132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.72</s:price>
+      <s:sku>AC STO 999040</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700823596</id>
+    <published>2019-05-11T08:50:56-04:00</published>
+    <updated>2019-05-11T08:50:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-999039"/>
+    <title>Gray 999039  - Drawer Liner 99105S</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-999039-drawer-liner-5-pieces-99105s-13391018197036.jpg?v=1575018514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700823596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>AC STO 999039</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700790828</id>
+    <published>2019-05-11T08:50:53-04:00</published>
+    <updated>2019-05-11T08:50:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993021"/>
+    <title>Gray 993021  - Drawer Liner 93106</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993021-drawer-liner-6-pieces-93106-13391012102188.jpg?v=1575021273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            14.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700790828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.83</s:price>
+      <s:sku>AC STO 993021</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700758060</id>
+    <published>2019-05-11T08:50:53-04:00</published>
+    <updated>2019-05-11T08:50:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-999037"/>
+    <title>Gray 999037  - Drawer Liner 99806S</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-999037-drawer-liner-6-pieces-99806s-tools-13391017967660.jpg?v=1575018498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            13.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700758060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.85</s:price>
+      <s:sku>AC STO 999037</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812700725292</id>
+    <published>2019-05-11T08:50:53-04:00</published>
+    <updated>2019-05-11T08:50:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-993030"/>
+    <title>Gray 993030  - Drawer Liner 93250</title>
+    <s:type>Drawer Liners</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drawer-liners-gray-993030-drawer-liner-5-pieces-93250-13391013216300.jpg?v=1575020779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Drawer Liners<br>
+        <strong>Price: </strong>
+            14.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drawer Liners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812700725292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.14</s:price>
+      <s:sku>AC STO 993030</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

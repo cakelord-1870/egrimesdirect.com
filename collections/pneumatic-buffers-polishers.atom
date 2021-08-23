@@ -1,0 +1,1426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-buffers-polishers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:31:26-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255023628332</id>
+    <published>2019-10-16T00:31:26-04:00</published>
+    <updated>2019-10-16T00:31:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28333"/>
+    <title>3M AB28333  - 3M Buffer 28333, 3 in Diameter, 1 per case AB28333 7100036729</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28333-3m-buffer-28333-3-in-diameter-1-per-case-ab28333-7100036729-13120515801132.jpg?v=1580253898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            630.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Buffer 28333, 3 in Diameter, 1 per case</h4> <li class="extra-info">3M Buffers PNs 28333 and 28769 are designed for use in automotive manufacturing (AOEM) paint shop applications for buffing or polishing medium-size defects on clear coat, powder coat, acrylic, solid surface, and polyurethane</li><li class="extra-info">Both tools feature a powerful yet quiet 0.26 HP precision-balanced air-powered motor and numerous ergonomic features for expert handling and comfort during prolonged use.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Lightweight pneumatic tools excel at buffing and polishing on clear coat and powder coat</li><li class="extra-info"> Low-profile lightweight design and quiet operation enhance operator control and comfort</li><li class="extra-info"> Use with 3M Finesse-it Polishes and Foam Buffing Pads for a uniform finish on today's paints (polishes and pads sold separately)</li><li class="extra-info"> Available in two handed (PN 28333) or palm (PN 28769) versions</li><li class="extra-info"> Optimized for 3.25”, 3.5”, and 3.75” foam buff pads</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255023628332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">630.10</s:price>
+      <s:sku>AT BUF AB28333</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017467948</id>
+    <published>2019-10-16T00:27:15-04:00</published>
+    <updated>2019-10-16T00:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28869"/>
+    <title>3M AB28869  - 28869 Finesse-It Buff Pad, Green 3-1/4in Ab28869 7100082540</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28869-28869-finesse-it-buff-pad-green-3-1-4in-ab28869-7100082540-13120508133420.jpg?v=1580124812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">28869 Finesse-it Buff Pad, Green 3-1/4in</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017467948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.26</s:price>
+      <s:sku>AC BUF AB28869</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255017435180</id>
+    <published>2019-10-16T00:27:15-04:00</published>
+    <updated>2019-10-16T00:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28871"/>
+    <title>3M AB28871  - 3M Finesse-it Buffing Pad 28871, 5-1/4 in, Green Foam, 10 per inner, 50 per case AB28871 7100082542</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28871-3m-finesse-it-buffing-pad-28871-5-1-4-in-green-foam-10-per-inner-50-per-case-ab28871-7100082542-13120508100652.jpg?v=1580254381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Finesse-it(TM) Buffing Pad 28871, 5-1/4 in, Green Foam, 10 per inner, 50 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255017435180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.91</s:price>
+      <s:sku>AC BUF AB28871</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016583212</id>
+    <published>2019-10-16T00:26:34-04:00</published>
+    <updated>2019-10-16T00:26:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28878-3-1-4"/>
+    <title>3M AB28878-3-1/4  - 28878 Finesse-It Buff Pad, Grey,3-1/4 in Ab28878-3-1/4 7100085948</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28878-3-1-4-28878-finesse-it-buff-pad-grey-3-1-4-in-ab28878-3-1-4-7100085948-13120506298412.jpg?v=1580124696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">28878 Finesse-it Buff Pad, Grey,3-1/4 in</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0v4Y_9N8_Gmv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016583212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>AC BUF AB28878-3-1/4</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255016550444</id>
+    <published>2019-10-16T00:26:29-04:00</published>
+    <updated>2019-10-16T00:26:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28878-3-3-4"/>
+    <title>3M AB28878-3-3/4  - 28878 Finesse-It Buff Pad, Grey,3-3/4 in Ab28878-3-3/4 7100085949</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28878-3-3-4-28878-finesse-it-buff-pad-grey-3-3-4-in-ab28878-3-3-4-7100085949-13120506265644.jpg?v=1580124663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">28878 Finesse-it Buff Pad, Grey,3-3/4 in</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255016550444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>AC BUF AB28878-3-3/4</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254997086252</id>
+    <published>2019-10-16T00:13:46-04:00</published>
+    <updated>2019-10-16T00:13:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28873"/>
+    <title>3M AB28873  - 3M Finesse-it Buffing Pad - Gray Foam AB28873 7100085944</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28873-3m-finesse-it-buffing-pad-gray-foam-ab28873-7100085944-13120471203884.jpg?v=1580254332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254997086252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.43</s:price>
+      <s:sku>AC BUF AB28873</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254956388396</id>
+    <published>2019-10-15T23:04:37-04:00</published>
+    <updated>2019-10-15T23:04:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-33283"/>
+    <title>3M 33283  - Wool Polishing Pad 9 in (22.86 cm) 7100044594</title>
+    <s:type>Wool Polishing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wool-polishing-pads-3m-33283-wool-polishing-pad-9-in-22-86-cm-7100044594-13120394264620.jpg?v=1580199784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wool Polishing Pads<br>
+        <strong>Price: </strong>
+            16.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Wool Polishing Pad, 33283, 9 in (22.86 cm)</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Panama</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wool Polishing Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254956388396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.54</s:price>
+      <s:sku>AC BUF 33283</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254956159020</id>
+    <published>2019-10-15T23:04:28-04:00</published>
+    <updated>2019-10-15T23:04:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pn05704"/>
+    <title>3M PN05704  - Wool Compounding Pad 7100015405</title>
+    <s:type>Wool Polishing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wool-polishing-pads-3m-pn05704-wool-compounding-pad-7100015405-13120393478188.jpg?v=1580329772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wool Polishing Pads<br>
+        <strong>Price: </strong>
+            56.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Wool Compounding Pad</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Panama</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wool Polishing Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254956159020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.34</s:price>
+      <s:sku>AC BUF PN05704</s:sku>
+      <s:grams>322</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253779722284</id>
+    <published>2019-10-15T14:08:21-04:00</published>
+    <updated>2019-10-15T14:08:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab05726"/>
+    <title>3M Perfect-it AB05726  - Perfect-It Hookit Foam Polishing Pad 05726 Waffle Face 3 in 7000028367</title>
+    <s:type>Foam Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foam-pads-3m-perfect-it-ab05726-perfect-it-hookit-foam-polishing-pad-05726-waffle-face-3-in-7000028367-13119661932588.jpg?v=1580066372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Foam Pads<br>
+        <strong>Price: </strong>
+            4.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Perfect-it(TM) Hookit(TM) Foam Polishing Pad 05726, Waffle Face, 3 in, 10 per inner 40 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0v4Y_9N8_Gmv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foam Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253779722284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.55</s:price>
+      <s:sku>AC BUF AB05726</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253759209516</id>
+    <published>2019-10-15T13:23:37-04:00</published>
+    <updated>2019-10-15T13:23:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-28363"/>
+    <title>3M 28363  - Polisher 2836 2.95 in (7.4 cm) 7000045263</title>
+    <s:type>Buffers &amp; Polishers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/buffers-polishers-3m-28363-polisher-2836-2-95-in-7-4-cm-7000045263-13119607373868.jpg?v=1580187844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Buffers &amp; Polishers<br>
+        <strong>Price: </strong>
+            501.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Polisher, 28363, 2.95 in (7.49 cm)</h4> <li class="extra-info">The 3M™ Polisher, 28363, is used as part of the 3M™ Perfect-It™ Denibbing System for high-quality buffing and polishing.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2.9 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Italy</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Buffers &amp; Polishers</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Air powered polisher</li><li class="extra-info"> No smearing</li><li class="extra-info"> One step buffing on most paint systems</li><li class="extra-info"> High gloss finish</li><h2>Suggested Application</h2><li class="extra-info">Paint prep, corrosion removal</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT BUF</s:tag>
+    <s:tag>Diameter_2.9 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253759209516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">501.70</s:price>
+      <s:sku>AT BUF 28363</s:sku>
+      <s:grams>1065</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253743677484</id>
+    <published>2019-10-15T12:51:24-04:00</published>
+    <updated>2019-10-15T12:51:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab85103"/>
+    <title>3M Finesse-It AB85103  - Finesse-It Natural Buffing Pad 85103 3 in Black 7000000612</title>
+    <s:type>Buffing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/buffing-pads-3m-finesse-it-ab85103-finesse-it-natural-buffing-pad-85103-3-in-black-7000000612-13119587221548.jpg?v=1580297849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Buffing Pads<br>
+        <strong>Price: </strong>
+            13.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Finesse-it Natural Buffing Pad 85103, 3 in Black, 10 per inner 50 per case</h4> <li class="extra-info">3M Finesse-it Natural Buffing Pad is made with select lamb’s wool hide, trimmed to 20 mm length to offer a more aggressive cut than longer-fiber pads</li><li class="extra-info">The natural hide holds each fiber individually, which minimizes lint discharge</li><li class="extra-info">The dense pile surface holds the polish for even, consistent material distribution while minimizing splatter and jumping.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0vl82e4xtvmv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Finesse-It</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Buffing Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Provides the most aggressive cutting action in the Finesse-it line for fast removal of sanding scratches in conjunction with 3MFinesse-it polishes</li><li class="extra-info"> Dense natural pile conforms to contours for even finishing</li><li class="extra-info"> Aggressive cut quickly removes oxidation and scratches with less heat buildup</li><li class="extra-info"> 3M Hookit attachment system holds pad securely and provides quick disc/pad change-out</li><li class="extra-info"> Pads combine with buffers, random orbital tools, and variable speed polishers to produce desired final finish</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Finesse-It</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253743677484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.59</s:price>
+      <s:sku>AC BUF AB85103</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253742858284</id>
+    <published>2019-10-15T12:50:06-04:00</published>
+    <updated>2019-10-15T12:50:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab02648"/>
+    <title>3M Finesse-It AB02648  - Finesse-It Buffing Pad 0264 Orange 3 1/4 in 7000000636</title>
+    <s:type>Buffing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/buffing-pads-3m-finesse-it-ab02648-finesse-it-buffing-pad-0264-orange-3-1-4-in-7000000636-13119586926636.jpg?v=1580297339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Buffing Pads<br>
+        <strong>Price: </strong>
+            7.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Finesse-it Buffing Pad, 02648, orange, 3 1/4 in</h4> <li class="extra-info">The 3M Finesse-it Buffing Pad 02648 has a waffle face that helps to provide efficient finishing action</li><li class="extra-info">It is designed to be used with the 3M Finesse-it Trizact Paint Defect Repair System for AOEM clear coats</li><li class="extra-info">This product also includes the 3M Hookit Attachment System with white loop.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0v4Y_9N8_Gmv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Finesse-It</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Buffing Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Provides soft, smooth surface for applying 3M™ Finesse-it™ Polishes</li><li class="extra-info"> Pads combine with buffers, random orbital tools, and variable speed polishers to produce desired final finish</li><li class="extra-info"> Repairs coatings without repainting</li><li class="extra-info"> 3M™ Hookit™ Attachment System holds pad securely and provides quick pad change-out</li><li class="extra-info"> Operates as an effective buffing pad for cars</li><h2>Suggested Application</h2><li class="extra-info">For use with the 3M™ Finesse-it™ Trizact™ Paint Defect Repair System for AOEM clear coats</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Finesse-It</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253742858284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.56</s:price>
+      <s:sku>AC BUF AB38549</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253741809708</id>
+    <published>2019-10-15T12:48:37-04:00</published>
+    <updated>2019-10-15T12:48:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab81471"/>
+    <title>3M Finesse-It AB81471  - Finesse-It Natural Buffing Pad 81471 5 1/4 in 7000000580</title>
+    <s:type>Buffing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/buffing-pads-3m-finesse-it-ab81471-finesse-it-natural-buffing-pad-81471-5-1-4-in-7000000580-13119586664492.jpg?v=1580297641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Buffing Pads<br>
+        <strong>Price: </strong>
+            14.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Finesse-it Natural Buffing Pad, 81471, 5 1/4 in</h4> <li class="extra-info">The 3M™ Finesse-it™ Natural Buffing Pad is made from hand-selected, natural coloured lamb's wool hide and trimmed to a 0.79 in (20 mm) length</li><li class="extra-info">It is designed for use with 3M™ Finesse-it™ Polishes and includes the 3M™ Hookit™ Attachment System.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0vl82e4xtvmv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Finesse-It</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Buffing Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Made from hand-selected, natural coloured lamb's wool</li><li class="extra-info"> Includes the 3M™ Hookit™ Attachment System</li><li class="extra-info"> Designed for applying 3M™ Finesse-it™ Finishing Material or Finesse-it™ Final Finish</li><li class="extra-info"> Effective for metal polishing</li><h2>Suggested Application</h2><li class="extra-info">Designed for use with 3M™ Finesse-it™ Polishes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Finesse-It</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253741809708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.88</s:price>
+      <s:sku>AC BUF AB81471</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253741744172</id>
+    <published>2019-10-15T12:48:29-04:00</published>
+    <updated>2019-10-15T12:48:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab85084"/>
+    <title>3M Finesse-It AB85084  - Finesse-It Knit Ii Buffing Pad 8508 3 in x 15/16 in Pile Height 7000045701</title>
+    <s:type>Buffing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/buffing-pads-3m-finesse-it-ab85084-finesse-it-knit-ii-buffing-pad-8508-3-in-x-15-16-in-pile-height-7000045701-13119586598956.jpg?v=1580297726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Buffing Pads<br>
+        <strong>Price: </strong>
+            12.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Finesse-it Knit II Buffing Pad, 85084, 3 in x 15/16 in, pile height</h4> <li class="extra-info">The 3M™ Finesse-it™ Knit II Buffing Pad is made from wool fibres and is designed for applying 3M™ Finesse-it™ Finishing Material or 3M™ Finesse-it™ Final Finish</li><li class="extra-info">The pad is pre-washed to reduce loose fibres and it includes the 3M™ Hookit™ Attachment System.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNql82el8tZov70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Finesse-It</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Buffing Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Made from wood fibres</li><li class="extra-info"> Includes the Hookit Attachment system</li><li class="extra-info"> Pre-washed reduces loose fibers for clean operation</li><li class="extra-info"> 3M Hookit attachment system holds pad securely and provides quick disc/pad change-out</li><li class="extra-info"> Pads combine with buffers, random orbital tools, and variable speed polishers to produce desired final finish</li><h2>Suggested Application</h2><li class="extra-info">Designed for applying Finesse-it finishing material or Finesse-it final finish</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Finesse-It</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253741744172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.35</s:price>
+      <s:sku>AC BUF AB85084</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813345763372</id>
+    <published>2019-05-11T14:12:06-04:00</published>
+    <updated>2019-05-11T14:12:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-33291"/>
+    <title>3M Perfect-it 33291  - Perfect-It 1 Foam Finishing Pad 8 Inch (203.2 mm) 33291</title>
+    <s:type>Foam Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foam-pads-3m-perfect-it-33291-perfect-it-1-foam-finishing-pad-8-inch-203-2-mm-33291-12749211435052.jpg?v=1580321103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Foam Pads<br>
+        <strong>Price: </strong>
+            40.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Perfect-it 1 Foam Finishing Pad, 33291, 8 in (203.2 mm)</h4> <li class="extra-info">3M Perfect-it 1 Foam Finishing Pad, 33291, is a high performance paint finishing pad to be used with 3M Perfect-it 1 Finishing Material (sold separately) to remove fine 5000 grit scratches</li><li class="extra-info">The pad and finishing material combination cuts like a compound, but handles and finishes like a polish, allowing you to eliminate traditional pads while still leaving a high gloss finish.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foam Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quick connect design</li><li class="extra-info">Cuts like a compound, finishes like a polish</li><li class="extra-info">Convoluted foam face design absorbs material for even distribution and less sling</li><li class="extra-info">Blue coloured pad corresponds with compatible blue coloured finishing liquid</li><h2>Suggested Application</h2><li class="extra-info">Use to remove fine 5000 grit sand scratches</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813345763372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.79</s:price>
+      <s:sku>AC BUF 33291</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813345730604</id>
+    <published>2019-05-11T14:12:06-04:00</published>
+    <updated>2019-05-11T14:12:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-33287"/>
+    <title>3M Perfect-it 33287  - Perfect-It Wool Compounding Pad 6 Inch Quick Connect 6 Per Case 33287</title>
+    <s:type>Wool Polishing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wool-polishing-pads-3m-perfect-it-33287-perfect-it-wool-compounding-pad-6-inch-quick-connect-6-per-case-33287-12749211303980.jpg?v=1580321136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wool Polishing Pads<br>
+        <strong>Price: </strong>
+            27.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Perfect-It(TM) Wool Compounding Pad, 33287, 6 in, Quick Connect, 6 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wool Polishing Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813345730604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.20</s:price>
+      <s:sku>AC BUF 33287</s:sku>
+      <s:grams>377</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813345665068</id>
+    <published>2019-05-11T14:12:01-04:00</published>
+    <updated>2019-05-11T14:12:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5719"/>
+    <title>3M Perfect-it 5719  - Perfect-It Wool Compound Pad 9 Inch- 6 Per Case 05719</title>
+    <s:type>Wool Polishing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wool-polishing-pads-3m-perfect-it-5719-perfect-it-wool-compound-pad-9-inch-6-per-case-05719-12749211205676.jpg?v=1580321336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wool Polishing Pads<br>
+        <strong>Price: </strong>
+            30.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Perfect-It(TM) Wool Compound Pad, 05719, 9 in, 6 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wool Polishing Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813345665068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.22</s:price>
+      <s:sku>AC BUF 5719</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812488028204</id>
+    <published>2019-05-11T06:09:47-04:00</published>
+    <updated>2019-05-11T06:09:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-95257"/>
+    <title>Sait 95257  - 7 X 5/8-11 Super Soft Foam Pad</title>
+    <s:type>Foam Pads</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foam-pads-sait-95257-7-x-5-8-11-super-soft-foam-pad-12748992217132.png?v=1579273592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Foam Pads<br>
+        <strong>Price: </strong>
+            1.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">For use with buffing discs Available in 5 Inch &amp; 7 Inch with 5/8-11 thread 7 Inch Super Soft Foad Pad</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foam Pads</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For use with buffing discs Available in 5 Inch &amp; 7 Inch with 5/8-11 thread 7 Inch Super Soft Foad Pad</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812488028204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.53</s:price>
+      <s:sku>AC BUF 95257</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812487995436</id>
+    <published>2019-05-11T06:09:47-04:00</published>
+    <updated>2019-05-11T06:09:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-95255"/>
+    <title>Sait 95255  - 5 X 5/8-11 Super Soft Foam Pad 95255</title>
+    <s:type>Foam Pads</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foam-pads-sait-95255-5-x-5-8-11-super-soft-foam-pad-95255-13391086845996.jpg?v=1574982575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Foam Pads<br>
+        <strong>Price: </strong>
+            39.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foam Pads</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For use with buffing discs Available in 5 Inch &amp; 7 Inch with 5/8-11 thread 5 Inch Super Soft Foad Pad</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812487995436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.71</s:price>
+      <s:sku>AC BUF 95255</s:sku>
+      <s:grams>88</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812474003500</id>
+    <published>2019-05-11T06:00:49-04:00</published>
+    <updated>2019-05-11T06:00:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5713"/>
+    <title>3M Hookit 5713  - Hookit Polishing Pad 05713 9 Inch (22.86 cm) 7000021275</title>
+    <s:type>Backup Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/backup-pads-3m-hookit-5713-hookit-polishing-pad-05713-9-inch-22-86-cm-7000021275-12747138957356.jpg?v=1580069250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Backup Pads<br>
+        <strong>Price: </strong>
+            37.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Polishing Pad, 05713, 9 in (22.86 cm)</h4> <li class="extra-info">3M Polishing Pad, 05713, is a single-sided, wool polishing pad that is used to refine small scratches and swirl marks in paint surface defects, leaving a fine finish</li><li class="extra-info">The pad is intended for use with 3M Machine Polishes and 3M Hookit Back Up Pads, 05717, and 05718.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Hookit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Backup Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">3M Hookit Attachment System holds pad securely and provides quick pad change-out</li><li class="extra-info">Single-sided</li><li class="extra-info">Constructed of untwisted blended wool</li><li class="extra-info">Designed to produce a high gloss finish</li><h2>Suggested Application</h2><li class="extra-info">Use to remove swirl marks in automotive paint finishes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Hookit</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812474003500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.45</s:price>
+      <s:sku>AC BUF 5713</s:sku>
+      <s:grams>234</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812467417132</id>
+    <published>2019-05-11T05:55:33-04:00</published>
+    <updated>2019-05-11T05:55:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5706"/>
+    <title>3M Perfect-it 5706  - Perfect-It Foam Compounding Pad 05706 8 Inch (20.32 cm) 7000045511</title>
+    <s:type>Foam Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foam-pads-3m-perfect-it-5706-perfect-it-foam-compounding-pad-05706-8-inch-20-32-cm-7000045511-12747124932652.jpg?v=1580066608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Foam Pads<br>
+        <strong>Price: </strong>
+            32.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Perfect-It Foam Compounding Pad, 05706, 8 in (20.32 cm)</h4> <li class="extra-info">3M Perfect-It Foam Compounding Pad, 05706, is a high performance, double-sided foam compounding pad that features a quick connect attachment</li><li class="extra-info">The pad is intended for use with 3M Quick Connect Adaptor, 05752, and is used to refine P1200 or finer sand scratches</li><li class="extra-info">The foam pad can also be used with 3M Perfect-It Rubbing Compound, 39060, 06085, and 06086.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foam Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quick connect design</li><li class="extra-info">Double-sided</li><li class="extra-info">Use with 3M Rubbing Compounds for optimal performance</li><li class="extra-info">Quick and easy to attach pads to polishers</li><h2>Suggested Application</h2><li class="extra-info">Use to remove fine sand scratches</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812467417132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.88</s:price>
+      <s:sku>AC BUF 5706</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812467318828</id>
+    <published>2019-05-11T05:55:27-04:00</published>
+    <updated>2019-05-11T05:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5708"/>
+    <title>3M Perfect-it 5708  - Perfect-It Ultrafine Foam Polishing Pad 05708 8 Inch (20.32 cm) 7000045513</title>
+    <s:type>Foam Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foam-pads-3m-perfect-it-5708-perfect-it-ultrafine-foam-polishing-pad-05708-8-inch-20-32-cm-7000045513-12747124834348.jpg?v=1580321217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Foam Pads<br>
+        <strong>Price: </strong>
+            38.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Perfect-It Ultrafine Foam Polishing Pad, 05708, 8 in (203.2 mm)</h4> <li class="extra-info">3M Perfect-It Ultrafine Foam Polishing Pad, 05708, is a high performance, single-sided foam polishing pad that helps to eliminate swirl marks on painted surfaces, including dark coloured vehicles</li><li class="extra-info">The pad is designed to be used with 3M Perfect-It Ultrafine Machine Polish and 3M Quick Release Applicator, 05752.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foam Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quick connect design</li><li class="extra-info">Leaves a high gloss finish</li><li class="extra-info">Great with dark coloured automotive paints</li><h2>Suggested Application</h2><li class="extra-info">Use to polish paint on automotive surfaces</li><li class="extra-info">Can also be used to remove swirl marks</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812467318828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.89</s:price>
+      <s:sku>AC BUF 5708</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812467286060</id>
+    <published>2019-05-11T05:55:27-04:00</published>
+    <updated>2019-05-11T05:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pn05753"/>
+    <title>3M Perfect-it PN05753  - Perfect-It Wool Compounding Pad 05753 9 Inch (22.86 cm) 7000119967</title>
+    <s:type>Wool Polishing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wool-polishing-pads-3m-perfect-it-pn05753-perfect-it-wool-compounding-pad-05753-9-inch-22-86-cm-7000119967-12747124801580.jpg?v=1580066251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wool Polishing Pads<br>
+        <strong>Price: </strong>
+            62.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Perfect-It Wool Compounding Pad, 05753, 9 in (22.86 cm)</h4> <li class="extra-info">3M Perfect-It Wool Compounding Pad, 05753, is a high performance, double-sided, wool compounding pad designed to refine P1200 and finer sand scratches and other paint surface defects</li><li class="extra-info">It features a quick connect design and is intended for use with 3M Compounds and 3M Quick Release Applicator, 05752.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wool Polishing Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quick connect design</li><li class="extra-info">Excellent for all paints and clears</li><li class="extra-info">Untwisted construction</li><li class="extra-info">Delivers an aggressive cut and smooth finish</li><li class="extra-info">Consistent results</li><h2>Suggested Application</h2><li class="extra-info">Use for auto body compounding and buffing applications</li><li class="extra-info">Used on paints, clears and composite surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812467286060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.85</s:price>
+      <s:sku>AC BUF PN05753</s:sku>
+      <s:grams>102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812467220524</id>
+    <published>2019-05-11T05:55:27-04:00</published>
+    <updated>2019-05-11T05:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5754"/>
+    <title>3M Perfect-it 5754  - Perfect-It Wool Polishing Pad 05754 9 Inch (22.86 cm) 7000120170</title>
+    <s:type>Wool Polishing Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wool-polishing-pads-3m-perfect-it-5754-perfect-it-wool-polishing-pad-05754-9-inch-22-86-cm-7000120170-12747124670508.jpg?v=1580321467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Wool Polishing Pads<br>
+        <strong>Price: </strong>
+            46.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Perfect-It Wool Polishing Pad, 05754, 9 in (22.86 cm)</h4> <li class="extra-info">3M Perfect-It Wool Polishing Pad, 05754, is a high performance, double-sided blonded wool polishing pad that works to remove compound swirl marks and fine paint surface defects</li><li class="extra-info">The pad is intended for use with 3M Machine Polishes and 3M Quick Connect Adaptor, 05752.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wool Polishing Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Convenient quick connect design</li><li class="extra-info">Double-sided</li><li class="extra-info">Quickly and easily attaches to polishers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812467220524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.34</s:price>
+      <s:sku>AC BUF 5754</s:sku>
+      <s:grams>449</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812464205868</id>
+    <published>2019-05-11T05:53:04-04:00</published>
+    <updated>2019-05-11T05:53:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-33271"/>
+    <title>3M 33271  - Quick Connect Adapter 14 mm 7000042712</title>
+    <s:type>Backup Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/backup-pads-3m-33271-quick-connect-adapter-14-mm-7000042712-12747118641196.jpg?v=1580199816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Backup Pads<br>
+        <strong>Price: </strong>
+            57.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Quick Connect Adaptor, 33271, 14 mm</h4> <li class="extra-info">3M Quick Connect Adaptor, 33271, is part of the 3M Perfect-It III Quick Connect System that helps to change double-sided buffing pads in an instant</li><li class="extra-info">Easy pad changes and durable adaptor construction means worry-free paint rectification when used with 3M Perfect-It III Compounds and Polishes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Backup Pads</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Durable</li><li class="extra-info">Helps to quickly change out buffer pads</li><li class="extra-info">When buffing at sharp angles or when applying pressure, the adaptor holds the pad securely and only releases the pad when the adaptor sleeve is pulled back</li><h2>Suggested Application</h2><li class="extra-info">Part of the 3M™ Perfect-It™ Quick Connect System</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC BUF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812464205868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.18</s:price>
+      <s:sku>AC BUF 33271</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+</feed>

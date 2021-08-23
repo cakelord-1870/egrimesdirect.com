@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/cleaning-application-brushes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-04-09T15:18:26-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769045426220</id>
+    <published>2019-04-09T15:18:26-04:00</published>
+    <updated>2019-04-09T15:18:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00501"/>
+    <title>Sait 00501  - 3/8 Inch Acid Brush</title>
+    <s:type>Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brushes-sait-00501-3-8-inch-acid-brush-12747372331052.jpg?v=1575318514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Brushes<br>
+        <strong>Price: </strong>
+            0.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Machine trimmed and crimped to specification</li><li class="extra-info"> Quality horsehair bristles</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brushes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Machine trimmed and crimped to specification</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Width_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW CLB</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769045426220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.19</s:price>
+      <s:sku>WW CLB 00501</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769044803628</id>
+    <published>2019-04-09T15:18:14-04:00</published>
+    <updated>2019-04-09T15:18:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00503"/>
+    <title>Sait 00503  - 9/16 Inch Acid Brush</title>
+    <s:type>Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brushes-sait-00503-9-16-inch-acid-brush-12747371610156.jpg?v=1575318498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Brushes<br>
+        <strong>Price: </strong>
+            0.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Machine trimmed and crimped to specification</li><li class="extra-info"> Quality horsehair bristles</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">9/16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brushes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Machine trimmed and crimped to specification</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Width_9/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW CLB</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769044803628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.33</s:price>
+      <s:sku>WW CLB 00503</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769044770860</id>
+    <published>2019-04-09T15:18:14-04:00</published>
+    <updated>2019-04-09T15:18:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00502"/>
+    <title>Sait 00502  - 7/16 Inch Acid Brush</title>
+    <s:type>Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brushes-sait-00502-7-16-inch-acid-brush-12747371741228.jpg?v=1575318482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Brushes<br>
+        <strong>Price: </strong>
+            0.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Machine trimmed and crimped to specification</li><li class="extra-info"> Quality horsehair bristles</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">7/16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brushes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Machine trimmed and crimped to specification</li><h2>Product Information</h2><li class="extra-info">Quality horsehair bristles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Width_7/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW CLB</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769044770860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.23</s:price>
+      <s:sku>WW CLB 00502</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1769010954284</id>
+    <published>2019-04-09T14:55:35-04:00</published>
+    <updated>2019-04-09T14:55:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-00510"/>
+    <title>Sait 00510  - Metal Chip Brush</title>
+    <s:type>Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brushes-sait-00510-metal-chip-brush-12747287035948.jpg?v=1575318312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Brushes<br>
+        <strong>Price: </strong>
+            3.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">For cleaning metal chips from work surfaces</li><li class="extra-info"> Durable, long lasting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brushes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For cleaning metal chips from work surfaces</li><h2>Product Information</h2><li class="extra-info">Durable, long lasting</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW CLB</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1769010954284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.52</s:price>
+      <s:sku>WW CLB 00510</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121562066988</id>
+    <published>2018-08-03T13:38:31-04:00</published>
+    <updated>2018-08-03T13:38:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13b260"/>
+    <title>Walter 13B260  - 6 Inch Knot Twist Bench Grinder Brush</title>
+    <s:type>Brushes</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brushes-walter-13b260-6-inch-knot-twist-bench-grinder-brush-13386077405228.jpg?v=1627828644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Brushes<br>
+        <strong>Price: </strong>
+            41.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bench wheel brush with knot-twisted wires</h4> <li class="extra-info">These brushes are made from industrial quality wire, perfectly balanced for smooth operation and long life</li><li class="extra-info">They are most commonly used to remove paint, rust and corrosion or for light deburring and cleaning jobs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">5/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">9000</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">.0118 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Materials</li><li class="extra-info"> Steel</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_5/8 Inch</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>RPM_9000</s:tag>
+    <s:tag>Thickness_.0118 Inch</s:tag>
+    <s:tag>Width_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW CLB</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121562066988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.08</s:price>
+      <s:sku>WW CLB 13B260</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121562034220</id>
+    <published>2018-08-03T13:38:30-04:00</published>
+    <updated>2018-08-03T13:38:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13b280"/>
+    <title>Walter 13B280  - 8 Inch Knot Twist Bench Grinder Brush</title>
+    <s:type>Brushes</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brushes-walter-13b280-8-inch-knot-twist-bench-grinder-brush-31589409161365.jpg?v=1628336969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Brushes<br>
+        <strong>Price: </strong>
+            48.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bench wheel brush with knot-twisted wires</h4> <li class="extra-info">These brushes are made from industrial quality wire, perfectly balanced for smooth operation and long life</li><li class="extra-info">They are most commonly used to remove paint, rust and corrosion or for light deburring and cleaning jobs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Arbor </td>
+<td class="egrimes">5/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">9000</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">.0118 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For bench and pedestal grinders</li><h2>Product Information</h2><li class="extra-info">Materials</li><li class="extra-info"> Steel</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Arbor_5/8 Inch</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>RPM_9000</s:tag>
+    <s:tag>Thickness_.0118 Inch</s:tag>
+    <s:tag>Width_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW CLB</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121562034220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.68</s:price>
+      <s:sku>WW CLB 13B280</s:sku>
+      <s:grams>435</s:grams>
+    </s:variant>
+  </entry>
+</feed>

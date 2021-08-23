@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/cordless-digital-measuring.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T08:47:12-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812691386412</id>
+    <published>2019-05-11T08:47:12-04:00</published>
+    <updated>2019-05-11T08:47:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87384"/>
+    <title>Gray 87384  - Infrared Thermometer With Laser</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87384-infrared-thermometer-with-laser-12747704369196.png?v=1579255761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            253.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812691386412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">253.82</s:price>
+      <s:sku>CL DIG 87384</s:sku>
+      <s:grams>317</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812691353644</id>
+    <published>2019-05-11T08:47:12-04:00</published>
+    <updated>2019-05-11T08:47:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87380"/>
+    <title>Gray 87380  - Infrared Thermometer No Laser</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87380-infrared-thermometer-no-laser-12747704139820.png?v=1579255676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            182.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812691353644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">182.74</s:price>
+      <s:sku>CL DIG 87380</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812691320876</id>
+    <published>2019-05-11T08:47:11-04:00</published>
+    <updated>2019-05-11T08:47:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87381"/>
+    <title>Gray 87381  - Infrared Thermometer With Case &amp;</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87381-infrared-thermometer-with-case-12747704500268.png?v=1579255643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            225.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812691320876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.86</s:price>
+      <s:sku>CL DIG 87381</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812670251052</id>
+    <published>2019-05-11T08:39:11-04:00</published>
+    <updated>2019-05-11T08:39:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87364"/>
+    <title>Gray 87364  - Thermometer Heavy Duty</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87364-thermometer-heavy-duty-12747672125484.png?v=1579255554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            302.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812670251052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">302.09</s:price>
+      <s:sku>CL DIG 87364</s:sku>
+      <s:grams>521</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812670119980</id>
+    <published>2019-05-11T08:39:07-04:00</published>
+    <updated>2019-05-11T08:39:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87310"/>
+    <title>Gray 87310  - Thermometer Pocket Digital</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87310-thermometer-pocket-digital-12747671961644.png?v=1579255520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            41.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812670119980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.32</s:price>
+      <s:sku>CL DIG 87310</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812659830828</id>
+    <published>2019-05-11T08:35:06-04:00</published>
+    <updated>2019-05-11T08:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87315c"/>
+    <title>Gray 87315C  - Thermometer Pocket Digital</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87315c-thermometer-pocket-digital-12747653611564.png?v=1579255469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            42.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812659830828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.56</s:price>
+      <s:sku>CL DIG 87315C</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812645117996</id>
+    <published>2019-05-11T08:29:31-04:00</published>
+    <updated>2019-05-11T08:29:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-a301"/>
+    <title>Gray A301  - Temperature Adaptor</title>
+    <s:type>Adapters</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adapters-gray-a301-temperature-adaptor-12747623235628.png?v=1579261201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Adapters<br>
+        <strong>Price: </strong>
+            129.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adapters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812645117996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.55</s:price>
+      <s:sku>CL DIG A301</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812613267500</id>
+    <published>2019-05-11T08:17:21-04:00</published>
+    <updated>2019-05-11T08:17:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-rayst80xb"/>
+    <title>Gray RAYST80XB  - Infrared Thermometer -32 To 7</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-rayst80xb-infrared-thermometer-32-to-7-12747557339180.png?v=1579359320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            1213.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812613267500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1213.16</s:price>
+      <s:sku>CL DIG RAYST80XB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

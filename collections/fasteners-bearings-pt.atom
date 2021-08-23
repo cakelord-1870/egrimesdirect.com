@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/fasteners-bearings-pt.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:24-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037227052</id>
+    <published>2019-12-04T10:30:24-05:00</published>
+    <updated>2019-12-04T10:30:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj6105-blk"/>
+    <title>3M SJ6105-BLK  - 3M Bumpon Protective Products SJ6105 Black, 1000 per case SJ6105-BLK 7000126513</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj6105-blk-3m-bumpon-protective-products-sj6105-black-1000-per-case-sj6105-blk-7000126513-13120529104940.jpg?v=1578774675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ6105 Black, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037227052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.80</s:price>
+      <s:sku>FA BMP SJ6105-BLK</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037685804</id>
+    <published>2019-12-04T10:30:16-05:00</published>
+    <updated>2019-12-04T10:30:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj6144-blk"/>
+    <title>3M SJ6144-BLK  - 3M Bumpon Protective Product SJ6144 Black, 2600 per case SJ6144-BLK 7000126210</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj6144-blk-3m-bumpon-protective-product-sj6144-black-2600-per-case-sj6144-blk-7000126210-13120529629228.jpg?v=1578774593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Product SJ6144 Black, 2600 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037685804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.18</s:price>
+      <s:sku>FA BMP SJ6144-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038079020</id>
+    <published>2019-12-04T10:30:09-05:00</published>
+    <updated>2019-12-04T10:30:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5508-blk"/>
+    <title>3M SJ5508-BLK  - A black self-adhesive rubber bumper used as feet, stops and spacers. The flat top shape provides increased load bearing capacity and better wear resistance. 3000 Per Case 7000126008</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5508-blk-a-black-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-flat-top-shape-provides-increased-load-bearing-capacity-and-better-wear-resistance-3000-per-case-7.jpg?v=1578774435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5508 Black, 3000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038079020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.09</s:price>
+      <s:sku>FA BMP SJ5508-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255044894764</id>
+    <published>2019-12-04T10:28:48-05:00</published>
+    <updated>2019-12-04T10:28:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab30636"/>
+    <title>3M AB30636  - 3M Ball Bearing, 0636, 2 shields, 6 mm x 19 mm x 6 mm AB30636 7000119394</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab30636-3m-ball-bearing-0636-2-shields-6-mm-x-19-mm-x-6-mm-ab30636-7000119394-13120539525164.jpg?v=1580254858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Ball Bearing, 0636, 2 shields, 6 mm x 19 mm x 6 mm</h4> <li class="extra-info">Genuine 3M™ File Belt Sander Replacement Parts keep your 3M™ File Belt Sander in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy, using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255044894764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.03</s:price>
+      <s:sku>PT BBE AB30636</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255045025836</id>
+    <published>2019-12-04T10:28:47-05:00</published>
+    <updated>2019-12-04T10:28:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am19385"/>
+    <title>3M AM19385  - 3M Ball Bearing, 30627, 2 shields, 10 mm x 26 mm x 8 mm AM19385 7000119385</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am19385-3m-ball-bearing-30627-2-shields-10-mm-x-26-mm-x-8-mm-am19385-7000119385-13120539918380.jpg?v=1580279818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Ball Bearing, 30627, 2 shields, 10 mm x 26 mm x 8 mm</h4> <li class="extra-info">Genuine 3M™ File Belt Sander Replacement Parts keep your 3M™ File Belt Sander in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy, using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255045025836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.87</s:price>
+      <s:sku>PT BBE AM19385</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255045353516</id>
+    <published>2019-12-04T10:28:43-05:00</published>
+    <updated>2019-12-04T10:28:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28313"/>
+    <title>3M AB28313  - 3M Spindle Bearing, A0150 AB28313 7000119287</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28313-3m-spindle-bearing-a0150-ab28313-7000119287-13179535392812.jpg?v=1580126135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Spindle Bearing, A0150</h4> <li class="extra-info">3M™ Random Orbital Sander Replacement Parts keep your 3M™ Random Orbital Sander running strong</li><li class="extra-info">Refer to your owner’s manual for detailed parts list and tool schematic to identify the part you need.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Japan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> High quality replacement parts designed by 3M for your 3M Random Orbital Sander</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255045353516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.97</s:price>
+      <s:sku>PT BBE AB28313</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255045386284</id>
+    <published>2019-12-04T10:28:42-05:00</published>
+    <updated>2019-12-04T10:28:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-aba0149"/>
+    <title>3M ABA0149  - 3M Spindle Bearing, A0149 ABA0149 7000119286</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-aba0149-3m-spindle-bearing-a0149-aba0149-7000119286-13179537588268.jpg?v=1580261615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Spindle Bearing, A0149</h4> <li class="extra-info">3M™ Random Orbital Sander Replacement Parts keep your 3M™ Random Orbital Sander running strong</li><li class="extra-info">Refer to your owner’s manual for detailed parts list and tool schematic to identify the part you need.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Japan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> High quality replacement parts designed by 3M for your 3M Random Orbital Sander</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255045386284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.77</s:price>
+      <s:sku>PT BBE ABA0149</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255045845036</id>
+    <published>2019-12-04T10:28:37-05:00</published>
+    <updated>2019-12-04T10:28:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab06612"/>
+    <title>3M AB06612  - 3M Ball Bearing, 06612 AB06612 7000119136</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab06612-3m-ball-bearing-06612-ab06612-7000119136-13120541491244.jpg?v=1580245257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Ball Bearing, 06612</h4> <li class="extra-info">Genuine 3M™ Replacement Abrasive Power Tool Replacement Parts keep your 3M™ Abrasive Power Tools in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Indonesia</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255045845036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.67</s:price>
+      <s:sku>PT BBE AB06612</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255045877804</id>
+    <published>2019-12-04T10:28:36-05:00</published>
+    <updated>2019-12-04T10:28:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab06611"/>
+    <title>3M AB06611  - 3M Ball Bearing, 06611 AB06611 7000119135</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab06611-3m-ball-bearing-06611-ab06611-7000119135-13120541556780.jpg?v=1580245323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Ball Bearing, 06611</h4> <li class="extra-info">Genuine 3M™ Replacement Abrasive Power Tool Replacement Parts keep your 3M™ Abrasive Power Tools in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Indonesia</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255045877804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.02</s:price>
+      <s:sku>PT BBE AB06611</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255046172716</id>
+    <published>2019-12-04T10:28:33-05:00</published>
+    <updated>2019-12-04T10:28:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab06510"/>
+    <title>3M AB06510  - 3M Ball Bearing, 06510, 3/8 in x 7/8 in x 9/32 in AB06510 7000119100</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab06510-3m-ball-bearing-06510-3-8-in-x-7-8-in-x-9-32-in-ab06510-7000119100-13120541917228.jpg?v=1580244847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            33.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Ball Bearing, 06510, 3/8 in x 7/8 in x 9/32 in</h4> <li class="extra-info">Genuine 3M™ Replacement Abrasive Power Tool Replacement Parts keep your 3M™ Abrasive Power Tools in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Thailand</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255046172716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.85</s:price>
+      <s:sku>PT BBE AB06510</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255046697004</id>
+    <published>2019-12-04T10:28:25-05:00</published>
+    <updated>2019-12-04T10:28:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-aba0938"/>
+    <title>3M ABA0938  - 3M Spindle Bearing, A0938, double row angular contact ABA0938 7000118733</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-aba0938-3m-spindle-bearing-a0938-double-row-angular-contact-aba0938-7000118733-13179537719340.jpg?v=1580261734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            32.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Spindle Bearing, A0938, double row angular contact</h4> <li class="extra-info">3M™ Random Orbital Sander Replacement Parts keep your 3M™ Random Orbital Sander running strong</li><li class="extra-info">Refer to your owner’s manual for detailed parts list and tool schematic to identify the part you need.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Japan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> High quality replacement parts designed by 3M for your 3M Random Orbital Sander</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255046697004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.04</s:price>
+      <s:sku>PT BBE ABA0938</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255046860844</id>
+    <published>2019-12-04T10:28:23-05:00</published>
+    <updated>2019-12-04T10:28:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28135"/>
+    <title>3M AB28135  - 3M 2RS Bearing 6900, A0161, one seal AB28135 7000118725</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28135-3m-2rs-bearing-6900-a0161-one-seal-ab28135-7000118725-13120542670892.jpg?v=1580251926"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M 2RS Bearing 6900, A0161, one seal</h4> <li class="extra-info">Genuine 3M™ Replacement Abrasive Power Tool Replacement Parts keep your 3M™ Abrasive Power Tools in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Japan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Replacement parts are easy to find and order online 24/7 at 3M.com</li><li class="extra-info"> Detailed schematic and parts list found in the tool instruction manual make it easy to identify the part(s) you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255046860844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.52</s:price>
+      <s:sku>PT BBE AB28135</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255046828076</id>
+    <published>2019-12-04T10:28:23-05:00</published>
+    <updated>2019-12-04T10:28:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28136"/>
+    <title>3M AB28136  - 3M Upper Spindle Bearing 6900, A0162 AB28136 7000118726</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28136-3m-upper-spindle-bearing-6900-a0162-ab28136-7000118726-13120542638124.jpg?v=1580251859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Upper Spindle Bearing 6900, A0162</h4> <li class="extra-info">Genuine 3M™ Replacement Abrasive Power Tool Replacement Parts keep your 3M™ Abrasive Power Tools in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Japan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Replacement parts are easy to find and order online 24/7 at 3M.com</li><li class="extra-info"> Detailed schematic and parts list found in the tool instruction manual make it easy to identify the part(s) you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255046828076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.39</s:price>
+      <s:sku>PT BBE AB28136</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255047090220</id>
+    <published>2019-12-04T10:28:18-05:00</published>
+    <updated>2019-12-04T10:28:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28107"/>
+    <title>3M AB28107  - 3M Ball Bearing Upper Shaft Balancer, A0021, 6000ZZ, 2 shields AB28107 7000118709</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28107-3m-ball-bearing-upper-shaft-balancer-a0021-6000zz-2-shields-ab28107-7000118709-13120542867500.jpg?v=1580251777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Ball Bearing Upper Shaft Balancer, A0021, 6000ZZ, 2 shields</h4> <li class="extra-info">Genuine 3M™ Replacement Abrasive Power Tool Replacement Parts keep your 3M™ Abrasive Power Tools in top working condition</li><li class="extra-info">Every part is available to order, and finding the part you need is easy using the schematic and parts list found in the tool instruction manual.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Keep your power tool productive and performing at its peak</li><li class="extra-info"> Detailed schematics included in your owner's manual make it easy to identify the part you need</li><li class="extra-info"> Genuine 3M replacement parts will provide new tool performance after maintenance and repair tasks are performed</li><li class="extra-info"> Each and every part is available individually</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>PT</s:tag>
+    <s:tag>PT BBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255047090220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.24</s:price>
+      <s:sku>PT BBE AB28107</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255050661932</id>
+    <published>2019-12-04T10:27:32-05:00</published>
+    <updated>2019-12-04T10:27:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3m7000051816"/>
+    <title>3M 3M7000051816  - Sj5001 Black Bumpons 3000 Case 7000051816</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3m7000051816-sj5001-black-bumpons-3000-case-7000051816-13120546078764.jpg?v=1580170446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            409.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SJ5001 BLACK BUMPONS 3000 CASE</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255050661932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">409.37</s:price>
+      <s:sku>FA BMP 3M7000051816</s:sku>
+      <s:grams>2177</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255057936428</id>
+    <published>2019-12-04T10:26:05-05:00</published>
+    <updated>2019-12-04T10:26:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5705-blk"/>
+    <title>3M SJ5705-BLK  - A black self-adhesive rubber bumper used as feet, stops and spacers. The flat top shape provides increased load bearing capacity and better wear resistance. , 1000 Per Case 7000029585</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5705-blk-a-black-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-flat-top-shape-provides-increased-load-bearing-capacity-and-better-wear-resistance-1000-per-case-7.jpg?v=1578774501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5705SBCC Black, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255057936428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.76</s:price>
+      <s:sku>FA BMP SJ5705-BLK</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059050540</id>
+    <published>2019-12-04T10:25:49-05:00</published>
+    <updated>2019-12-04T10:25:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5306-clr"/>
+    <title>3M SJ5306-CLR  - A clear self-adhesive rubber bumper used as feet, stops and spacers. The hemispherical shape provides excellent sound damping and energy absorption. 3000 Per Case 7000001917</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5306-clr-a-clear-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-hemispherical-shape-provides-excellent-sound-damping-and-energy-absorption-3000-per-case-700000191.jpg?v=1578774315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5306 Clear, 3000 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9g9M82UMY_UPvVWn17zHvu9l8Ub7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059050540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.10</s:price>
+      <s:sku>FA BMP SJ5306-CLR</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059017772</id>
+    <published>2019-12-04T10:25:49-05:00</published>
+    <updated>2019-12-04T10:25:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5076-blk"/>
+    <title>3M SJ5076-BLK  - A black self-adhesive rubber bumper used as feet, stops and spacers. The cylindrical flat top provides excellent load bearing and anti-skid performance.3000 Per Case 7000001953</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5076-blk-a-black-self-adhesive-rubber-bumper-used-as-feet-stops-and-spacers-the-cylindrical-flat-top-provides-excellent-load-bearing-and-anti-skid-performance-3000-per-case-70000.jpg?v=1578774229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5076 Black, 3000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059017772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.07</s:price>
+      <s:sku>FA BMP SJ5076-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059116076</id>
+    <published>2019-12-04T10:25:48-05:00</published>
+    <updated>2019-12-04T10:25:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5008-blk"/>
+    <title>3M SJ5008-BLK  - 3M Bumpon Protective Products SJ5008 Black, 3000 per case SJ5008-BLK 7000001902</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5008-blk-3m-bumpon-protective-products-sj5008-black-3000-per-case-sj5008-blk-7000001902-13120553025580.jpg?v=1578774198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5008 Black, 3000 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0uvM8t1P82ZlvVzM17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059116076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.08</s:price>
+      <s:sku>FA BMP SJ5008-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059181612</id>
+    <published>2019-12-04T10:25:47-05:00</published>
+    <updated>2019-12-04T10:25:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5007-blk"/>
+    <title>3M SJ5007-BLK  - 3M Bumpon Protective Products SJ5007 Black, 3000 per case SJ5007-BLK 7000001895</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5007-blk-3m-bumpon-protective-products-sj5007-black-3000-per-case-sj5007-blk-7000001895-13120553123884.jpg?v=1578774110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5007 Black, 3000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059181612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.08</s:price>
+      <s:sku>FA BMP SJ5007-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059148844</id>
+    <published>2019-12-04T10:25:47-05:00</published>
+    <updated>2019-12-04T10:25:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5744-blk"/>
+    <title>3M SJ5744-BLK  - 3M Bumpon Protective Products SJ5744 Black, 2600 per case SJ5744-BLK 7000001900</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5744-blk-3m-bumpon-protective-products-sj5744-black-2600-per-case-sj5744-blk-7000001900-13120553091116.jpg?v=1578774561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5744 Black, 2600 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0uvl8m1lx_ZPvVzMDVFNvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059148844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.25</s:price>
+      <s:sku>FA BMP SJ5744-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255059279916</id>
+    <published>2019-12-04T10:25:46-05:00</published>
+    <updated>2019-12-04T10:25:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sj5017-blk"/>
+    <title>3M SJ5017-BLK  - 3M Bumpon Protective Products SJ5017 Black, 1000 per case SJ5017-BLK 7000001886</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sj5017-blk-3m-bumpon-protective-products-sj5017-black-1000-per-case-sj5017-blk-7000001886-13120553287724.jpg?v=1578774260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Bumpon(TM) Protective Products SJ5017 Black, 1000 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA BMP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255059279916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.28</s:price>
+      <s:sku>FA BMP SJ5017-BLK</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484900396</id>
+    <published>2019-12-03T12:07:27-05:00</published>
+    <updated>2019-12-03T12:07:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2340"/>
+    <title>King Canada PN-2340  - Headless Pin Nails 23 Gauge (1-9/16 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2340-headless-pin-nails-23-gauge-1-9-16-inch-box-of-4000-13358241873964.jpg?v=1579626697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            17.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-9/16 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484900396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.05</s:price>
+      <s:sku>FA NPS PN-2340</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484867628</id>
+    <published>2019-12-03T12:07:27-05:00</published>
+    <updated>2019-12-03T12:07:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2345"/>
+    <title>King Canada PN-2345  - Headless Pin Nails 23 Gauge (1-3/4 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2345-headless-pin-nails-23-gauge-1-3-4-inch-box-of-4000-13358241841196.jpg?v=1579626577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-3/4 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484867628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku>FA NPS PN-2345</s:sku>
+      <s:grams>2041</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333484834860</id>
+    <published>2019-12-03T12:07:27-05:00</published>
+    <updated>2019-12-03T12:07:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-pn-2350"/>
+    <title>King Canada PN-2350  - Headless Pin Nails 23 Gauge (2 Inch) - Box of 4000</title>
+    <s:type>Pins</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pins-king-canada-pn-2350-headless-pin-nails-23-gauge-2-inch-box-of-4000-13358241808428.jpg?v=1579626784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Pins<br>
+        <strong>Price: </strong>
+            19.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Inch x 23 gauge headless pin nails</h4> <li class="extra-info">All fasteners are manufactured in Spain</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pins</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FA</s:tag>
+    <s:tag>FA NPS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333484834860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.94</s:price>
+      <s:sku>FA NPS PN-2350</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+</feed>

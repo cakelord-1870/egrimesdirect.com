@@ -1,0 +1,1330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/material-handling.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:58-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812679295020</id>
+    <published>2019-12-04T10:30:58-05:00</published>
+    <updated>2019-12-04T10:30:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-93515"/>
+    <title>Gray 93515  - Pro+ Series Utility Cart With 3 Drawers</title>
+    <s:type>Chests</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chests-gray-93515-pro-series-utility-cart-with-3-drawers-12747688050732.png?v=1579264676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Chests<br>
+        <strong>Price: </strong>
+            662.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Heavy-duty 100 lbs</li><li class="extra-info">bearing slides standard on all drawers.</li><li class="extra-info"> Tubular key and steel double hook engagement mechanism provides excellent security and protection.</li><li class="extra-info"> High gloss, scratch and corrosion resistant powder coat paint finish.</li><li class="extra-info"> Drawer liners included.All drawers feature “rolled in” edges which provide added strength and stiffness.
+Overall Dimensions: 19'' L x 30'' W x 36'' H</li><li class="extra-info"> Weight: 120 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chests</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812679295020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">662.95</s:price>
+      <s:sku>MH DOL 93515</s:sku>
+      <s:grams>54431</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293854363692</id>
+    <published>2019-12-03T12:08:22-05:00</published>
+    <updated>2019-12-03T12:08:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jg-150-sgp-150a-100-foot"/>
+    <title>JET JG-150/SGP-150A  - 1-1/2 Ton 100&apos; Cable Assembly For /Sumo® Wire Grip Pullers 111163</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-jg-150-sgp-150a-1-1-2-ton-100-cable-assembly-for-sumo-wire-grip-pullers-111163-13225325166636.jpg?v=1579533333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            369.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 Ton 100' Cable Assembly For JET Wire Grip Pullers</h4> <li class="extra-info">Wire rope for JET / JGP Series grip pullers with safety hook included</li><li class="extra-info"> Galvanized for longer life</li><li class="extra-info"> Includes reel</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Wire Size : 7/16 Inch</li><li class="extra-info"> Wire Rope Length : 100'</li><li class="extra-info"> Fits Product : 111123 / 111137</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293854363692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">369.91</s:price>
+      <s:sku>MH DOL 111163</s:sku>
+      <s:grams>12700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293855084588</id>
+    <published>2019-12-03T12:08:20-05:00</published>
+    <updated>2019-12-03T12:08:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jg-75-sgp-75a-100-foot"/>
+    <title>JET JG-75/SGP-75A  - 3/4 Ton 100&apos; Cable Assembly For /Sumo® Wire Grip Pullers 111162</title>
+    <s:type>Assemblies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/assemblies-jet-jg-75-sgp-75a-3-4-ton-100-cable-assembly-for-sumo-wire-grip-pullers-111162-13225330966572.jpg?v=1579533450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Assemblies<br>
+        <strong>Price: </strong>
+            279.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/4 Ton 100' Cable Assembly For JET Wire Grip Pullers</h4> <li class="extra-info">Wire rope for JET / JGP Series grip pullers with safety hook included</li><li class="extra-info"> Galvanized for longer life</li><li class="extra-info"> Includes reel</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Assemblies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Wire Size : 5/16 Inch</li><li class="extra-info"> Wire Rope Length : 100'</li><li class="extra-info"> Fits Product : 111122 / 111136</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293855084588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">279.29</s:price>
+      <s:sku>MH DOL 111162</s:sku>
+      <s:grams>11339</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253762060332</id>
+    <published>2019-10-15T13:27:39-04:00</published>
+    <updated>2019-10-15T13:27:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2510"/>
+    <title>3M C.A.R.T.S. 2510  - C.A.R.T.S. 0 7000045706</title>
+    <s:type>Dollies</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dollies-3m-c-a-r-t-s-2510-c-a-r-t-s-0-7000045706-13119611240492.jpg?v=1580112569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Dollies<br>
+        <strong>Price: </strong>
+            516.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M C.A.R.T.S., 02510</h4> <li class="extra-info">3M™ C.A.R.T.S., 02510, is a red, metal, three-shelf body cart for organizing and transporting shop supplies constructed with 18 gauge metal with 5 inch rubber caster wheels.The epoxy powder coating ensures lasting durability</li><li class="extra-info">The cart capacity is 400 lbs (182 kg).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">C.A.R.T.S.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dollies</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">14 gauge uprights</li><li class="extra-info"> 18 gauge sturdy metal construction</li><li class="extra-info"> Three large storage areas</li><li class="extra-info"> Holding capacity of 400 lb</li><li class="extra-info">(180 kg)</li><li class="extra-info"> Some assembly required</li><li class="extra-info"> Dimensions: 19-3/4 in</li><li class="extra-info">x 29-1/2 in</li><li class="extra-info">x 32 in.</li><li class="extra-info"> Epoxy powder coated for lasting durability.</li><li class="extra-info"> Cart capacity: 400 lbs.</li><li class="extra-info"> Some assembly required</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_C.A.R.T.S.</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253762060332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">516.66</s:price>
+      <s:sku>MH DOL 2510</s:sku>
+      <s:grams>24199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4029436690476</id>
+    <published>2019-09-02T14:49:39-04:00</published>
+    <updated>2019-09-02T14:49:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069209"/>
+    <title>Dynamic D069209  - Tools 52 Inch Industrial Cart With 12 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069209-tools-52-inch-industrial-cart-with-12-drawers-12168505032748.png?v=1579160635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2710.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4029436690476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2710.42</s:price>
+      <s:sku>MH STO D069209</s:sku>
+      <s:grams>213188</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813362540588</id>
+    <published>2019-05-11T14:17:43-04:00</published>
+    <updated>2019-05-11T14:17:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069101"/>
+    <title>Dynamic D069101  - Tools 2 Tray Utility Cart</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069101-tools-2-tray-utility-cart-12749231718444.png?v=1579159799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            311.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813362540588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">311.44</s:price>
+      <s:sku>MH DOL D069101</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813362442284</id>
+    <published>2019-05-11T14:17:39-04:00</published>
+    <updated>2019-05-11T14:17:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069102"/>
+    <title>Dynamic D069102  - Tools 3 Drawer Service Cart</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069102-tools-3-drawer-service-cart-12749231128620.png?v=1579160002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            548.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813362442284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">548.73</s:price>
+      <s:sku>MH DOL  D069102</s:sku>
+      <s:grams>23500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813356838956</id>
+    <published>2019-05-11T14:15:37-04:00</published>
+    <updated>2019-05-11T14:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069203"/>
+    <title>Dynamic D069203  - Tools 42 Inch Roller Cabinet With 12 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069203-tools-42-inch-roller-cabinet-with-12-drawers-12749225001004.png?v=1579160068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1551.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813356838956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1551.48</s:price>
+      <s:sku>MH STO D069203</s:sku>
+      <s:grams>99790</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813356773420</id>
+    <published>2019-05-11T14:15:37-04:00</published>
+    <updated>2019-05-11T14:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069204"/>
+    <title>Dynamic D069204  - Tools 42 Inch Top Chest With 8 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069204-tools-42-inch-top-chest-with-8-drawers-12749224902700.png?v=1579160125"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            956.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813356773420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">956.69</s:price>
+      <s:sku>MH STO D069204</s:sku>
+      <s:grams>58513</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813356740652</id>
+    <published>2019-05-11T14:15:37-04:00</published>
+    <updated>2019-05-11T14:15:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynamic-d069207"/>
+    <title>Dynamic D069207  - Tools 36 Inch Roller Cabinet With 8 Drawers</title>
+    <s:type></s:type>
+    <s:vendor>Dynamic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dynamic-d069207-tools-36-inch-roller-cabinet-with-8-drawers-12749224968236.png?v=1579160487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynamic<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1188.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynamic</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH STO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813356740652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1188.04</s:price>
+      <s:sku>MH STO D069207</s:sku>
+      <s:grams>88450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813186314284</id>
+    <published>2019-05-11T12:10:17-04:00</published>
+    <updated>2019-05-11T12:10:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jwb-5925"/>
+    <title>JET JWB-5925  - 2 Drawer Workbench Heavy Duty 843003</title>
+    <s:type>Workbenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/workbenches-jet-jwb-5925-2-drawer-workbench-heavy-duty-843003-12748826673196.jpg?v=1579538648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Workbenches<br>
+        <strong>Price: </strong>
+            897.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Drawer Workbench - Heavy Duty</h4> <li class="extra-info">Top shelf holds up to 1,750 lbs</li><li class="extra-info"> Lower shelf holds up to 550 lbs</li><li class="extra-info"> Drawers holds up to 85 lbs each</li><li class="extra-info"> Full extension ball bearing drawer slides</li><li class="extra-info"> 2" wall around sides and back</li><li class="extra-info"> Rolled edges for added strength and rigidity</li><li class="extra-info"> Electrostatic over baked powder coat paint finish</li><li class="extra-info"> Top - 3mm rolled edge, shelf - 2mm rolled edge</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">59 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Workbenches</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">59" W x 25" D x 34-1/2" H</li><h2>Product Information</h2><li class="extra-info">Shelves : 2</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH WBN</s:tag>
+    <s:tag>Width_59 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813186314284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">897.52</s:price>
+      <s:sku>MH WBN 843003</s:sku>
+      <s:grams>121965</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813186150444</id>
+    <published>2019-05-11T12:10:14-04:00</published>
+    <updated>2019-05-11T12:10:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jttd-1000"/>
+    <title>JET JTTD-1000  - Tear Down Table / Workbench Heavy Duty 843012</title>
+    <s:type>Workbenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/workbenches-jet-jttd-1000-tear-down-table-workbench-heavy-duty-843012-12748826443820.jpg?v=1579537954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Workbenches<br>
+        <strong>Price: </strong>
+            1015.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tear Down Table / Workbench - Heavy Duty</h4> <li class="extra-info">Fluids drain through table top into a removable plastic container (included)</li><li class="extra-info"> Comes with locking storage drawer on ball bearing slides</li><li class="extra-info"> Multiple shelf locations gives added versatility</li><li class="extra-info"> Square tube leg design gives added strength and stability to table top</li><li class="extra-info"> Large 4" heavy duty swivel casters (2 locking)</li><li class="extra-info"> Table top features 1/2" rim</li><li class="extra-info"> Extra heavy duty construction</li><li class="extra-info"> Capacity: 1,000 lbs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">47 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Workbenches</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">47" W x 31-1/2" D x 39-3/4" H</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH WBN</s:tag>
+    <s:tag>Size_9/16 Inch</s:tag>
+    <s:tag>Width_47 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813186150444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1015.21</s:price>
+      <s:sku>MH WBN 843012</s:sku>
+      <s:grams>116966</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813185658924</id>
+    <published>2019-05-11T12:10:07-04:00</published>
+    <updated>2019-05-11T12:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jwb-7925"/>
+    <title>JET JWB-7925  - 3 Shelf Workbench Heavy Duty 843002</title>
+    <s:type>Workbenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/workbenches-jet-jwb-7925-3-shelf-workbench-heavy-duty-843002-12748826411052.jpg?v=1579538729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Workbenches<br>
+        <strong>Price: </strong>
+            1040.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Shelf Workbench - Heavy Duty</h4> <li class="extra-info">Top shelf holds up to 1,750 lbs</li><li class="extra-info"> Lower shelves hold up to 550 lbs each</li><li class="extra-info"> 2" wall around sides and back</li><li class="extra-info"> Rolled edges for added strength and rigidity</li><li class="extra-info"> Electrostatic oven baked powder coat paint finish</li><li class="extra-info"> Top - 3mm rolled edge, Shelves - 2mm rolled edge</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">79 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Workbenches</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH WBN</s:tag>
+    <s:tag>Width_79 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813185658924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1040.57</s:price>
+      <s:sku>MH WBN 843002</s:sku>
+      <s:grams>121965</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813183823916</id>
+    <published>2019-05-11T12:09:25-04:00</published>
+    <updated>2019-05-11T12:09:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-131108"/>
+    <title>JET 131108  - 8 Inch Single Sheave Painted Yarding Block 131108</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-131108-8-inch-single-sheave-painted-yarding-block-131108-12748823691308.jpg?v=1579362632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            546.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 Inch Single Sheave Painted Yarding Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 4 T</li><li class="extra-info"> Rope Diameter : 5/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813183823916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">546.60</s:price>
+      <s:sku>MH LFT 131108</s:sku>
+      <s:grams>12996</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813183660076</id>
+    <published>2019-05-11T12:09:21-04:00</published>
+    <updated>2019-05-11T12:09:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130108"/>
+    <title>JET 130108  - 8 Inch Single Sheave Painted Snatch Block 130108</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130108-8-inch-single-sheave-painted-snatch-block-130108-12748823330860.jpg?v=1579362482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            613.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8 Inch Single Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Type: Single</li><li class="extra-info"> Rated Capacity : 4 T</li><li class="extra-info"> Rope Diameter : 3/4 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813183660076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">613.07</s:price>
+      <s:sku>MH LFT 130108</s:sku>
+      <s:grams>19754</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813183529004</id>
+    <published>2019-05-11T12:09:18-04:00</published>
+    <updated>2019-05-11T12:09:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-5012"/>
+    <title>JET JTES-5012  - 5 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124207</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-5012-5-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124207-12748822970412.jpg?v=1579551274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            279.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 5 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813183529004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">279.29</s:price>
+      <s:sku>MH DOL 124207</s:sku>
+      <s:grams>11116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813182414892</id>
+    <published>2019-05-11T12:08:40-04:00</published>
+    <updated>2019-05-11T12:08:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-spcu-300"/>
+    <title>JET SPCU-300  - 3 Ton Sumo Series Universal Plate Clamp 109327</title>
+    <s:type>Plate Clamps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/plate-clamps-jet-spcu-300-3-ton-sumo-series-universal-plate-clamp-109327-12748818710572.jpg?v=1579591771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Plate Clamps<br>
+        <strong>Price: </strong>
+            510.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton JET Series Universal Plate Clamp</h4> <li class="extra-info">Universal type suitable for lifting horizontally stored plates into vertical position</li><li class="extra-info"> Can be used to flip plates over provided adequate ground clearance is allowed for safety lock lever to operate</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Plate Clamps</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 200% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Jaw Opening : 0 – 1-3/16</li><li class="extra-info"> Suspension Eye Opening : 3 Inch</li><li class="extra-info"> Min</li><li class="extra-info">Plate Thickness : 19/64 Inch (7.5mm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813182414892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">510.38</s:price>
+      <s:sku>MH DOL 109327</s:sku>
+      <s:grams>15495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813180874796</id>
+    <published>2019-05-11T12:08:13-04:00</published>
+    <updated>2019-05-11T12:08:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-133104"/>
+    <title>JET 133104  - 4 Inch Single Sheave 133104</title>
+    <s:type>Sheaves</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheaves-jet-133104-4-inch-single-sheave-133104-12748815892524.jpg?v=1579362685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sheaves<br>
+        <strong>Price: </strong>
+            47.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Inch Single Sheave</h4> <li class="extra-info">Cast iron</li><li class="extra-info"> Bronze bushings</li><li class="extra-info"> Ball type oiler</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Not a replacement for snatch block or yarding block sheaves</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">15/16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheaves</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Bore Size : 5/8 Inch</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li><li class="extra-info"> Rated Capacity : 1 T</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/8 Inch</s:tag>
+    <s:tag>Width_15/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813180874796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.18</s:price>
+      <s:sku>MH LFT 133104</s:sku>
+      <s:grams>869</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813111373868</id>
+    <published>2019-05-11T11:42:05-04:00</published>
+    <updated>2019-05-11T11:42:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jadw-1"/>
+    <title>JET JADW-1  - Drum Wrench Aluminum Handle 350214</title>
+    <s:type>Drum Wrenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drum-wrenches-jet-jadw-1-drum-wrench-aluminum-handle-350214-12748630622252.jpg?v=1579505999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drum Wrenches<br>
+        <strong>Price: </strong>
+            51.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Drum Wrench - Aluminum Handle</h4> <li class="extra-info">Designed to fit perfectly onto most 2" and 3/4" drum plugs</li><li class="extra-info"> Made of cast aluminum for strength and safety</li><li class="extra-info"> Will not cause sparks</li><li class="extra-info"> Hardened and tempered</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drum Wrenches</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Non-sparking aluminum for safety</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813111373868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.28</s:price>
+      <s:sku>MH DRM 350214</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813063041068</id>
+    <published>2019-05-11T11:23:32-04:00</published>
+    <updated>2019-05-11T11:23:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130103"/>
+    <title>JET 130103  - 3 Inch Single Sheave Painted Snatch Block 130103</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130103-3-inch-single-sheave-painted-snatch-block-130103-12748492210220.jpg?v=1579362356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            108.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Inch Single Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-7/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 1/2 T</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/8 Inch</s:tag>
+    <s:tag>Size_1-7/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813063041068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">108.64</s:price>
+      <s:sku>MH LFT 130103</s:sku>
+      <s:grams>1560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813061861420</id>
+    <published>2019-05-11T11:22:57-04:00</published>
+    <updated>2019-05-11T11:22:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-133105"/>
+    <title>JET 133105  - 5 Inch Single Sheave 133105</title>
+    <s:type>Sheaves</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sheaves-jet-133105-5-inch-single-sheave-133105-12748488081452.jpg?v=1579362721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Sheaves<br>
+        <strong>Price: </strong>
+            64.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Inch Single Sheave</h4> <li class="extra-info">Cast iron</li><li class="extra-info"> Bronze bushings</li><li class="extra-info"> Ball type oiler</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Not a replacement for snatch block or yarding block sheaves</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/16 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sheaves</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Bore Size : 3/4 Inch</li><li class="extra-info"> Rope Diameter : 1/2 Inch</li><li class="extra-info"> Rated Capacity : 1-1/2 T</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_1/2 Inch</s:tag>
+    <s:tag>Width_1-1/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813061861420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.95</s:price>
+      <s:sku>MH LFT 133105</s:sku>
+      <s:grams>1630</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813058355244</id>
+    <published>2019-05-11T11:21:36-04:00</published>
+    <updated>2019-05-11T11:21:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-131104"/>
+    <title>JET 131104  - 4 Inch Single Sheave Painted Yarding Block 131104</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-131104-4-inch-single-sheave-painted-yarding-block-131104-12748480217132.jpg?v=1579362566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            110.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Inch Single Sheave Painted Yarding Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-1/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Rated Capacity : 1 T</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Size_1-1/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813058355244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">110.17</s:price>
+      <s:sku>MH LFT 131104</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813057208364</id>
+    <published>2019-05-11T11:21:02-04:00</published>
+    <updated>2019-05-11T11:21:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jdd-5"/>
+    <title>JET JDD-5  - 5 Gallon Drum Dolly 351003</title>
+    <s:type>Dollies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dollies-jet-jdd-5-5-gallon-drum-dolly-351003-12748476809260.jpg?v=1579523246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Dollies<br>
+        <strong>Price: </strong>
+            120.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Gallon Drum Dolly</h4> <li class="extra-info">Heavy gauge steel for professional use</li><li class="extra-info"> Powder coated finish</li><li class="extra-info"> 5 and 16 gallon models with adjustable clamp bolt</li><li class="extra-info"> 16 and 55 gallon models complete with cast iron casters</li><li class="extra-info"> Cast iron casters (351005)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dollies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-3/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy gauge steel</li><h2>Product Information</h2><li class="extra-info">Wheels : Resin</li><li class="extra-info"> Load Limit : 200 lb</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>Size_1-3/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813057208364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.74</s:price>
+      <s:sku>MH DRM 351003</s:sku>
+      <s:grams>2160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813054750764</id>
+    <published>2019-05-11T11:20:13-04:00</published>
+    <updated>2019-05-11T11:20:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jtes-0512"/>
+    <title>JET JTES-0512  - 1/2 Ton Extension Kit For Sbt/Sgt Series Manual Trolleys 124202</title>
+    <s:type>Trolley Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trolley-accessories-jet-jtes-0512-1-2-ton-extension-kit-for-sbt-sgt-series-manual-trolleys-124202-12748470026284.jpg?v=1579551071"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trolley Accessories<br>
+        <strong>Price: </strong>
+            78.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton Extension Kit For SBT/SGT Series Manual Trolleys</h4> <li class="extra-info">Converts trolleys for use on beams with flange widths from 8" to 12"</li><li class="extra-info"> Includes suspension shaft, washers, castle nuts and split pins</li><li class="extra-info"> Fits SBT and SGT series trolleys</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trolley Accessories</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Description: 1/2 ton trolleys</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DOL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813054750764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.46</s:price>
+      <s:sku>MH DOL 124202</s:sku>
+      <s:grams>2440</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813054423084</id>
+    <published>2019-05-11T11:20:03-04:00</published>
+    <updated>2019-05-11T11:20:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-130203"/>
+    <title>JET 130203  - 3 Inch Double Sheave Painted Snatch Block 130203</title>
+    <s:type>Blocks</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/blocks-jet-130203-3-inch-double-sheave-painted-snatch-block-130203-12748468781100.jpg?v=1579362449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Blocks<br>
+        <strong>Price: </strong>
+            178.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Inch Double Sheave Painted Snatch Block</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Rope Diameter </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Type: Double</li><li class="extra-info"> Rated Capacity : 1/2 T</li><li class="extra-info"> Rope Diameter : 3/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH LFT</s:tag>
+    <s:tag>Rope Diameter_3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813054423084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">178.12</s:price>
+      <s:sku>MH LFT 130203</s:sku>
+      <s:grams>2520</s:grams>
+    </s:variant>
+  </entry>
+</feed>

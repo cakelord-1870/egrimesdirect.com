@@ -1,0 +1,1775 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/splicing-tapes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:28:06-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048269868</id>
+    <published>2019-12-04T10:28:06-05:00</published>
+    <updated>2019-12-04T10:28:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-r9996-50x55"/>
+    <title>3M R9996-50X55  - R9996 Slfs 50mm x 55M 18Rls/Ctn R9996-50x55 7000116517</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-r9996-50x55-r9996-slfs-50mm-x-55m-18rls-ctn-r9996-50x55-7000116517-13120543653932.jpg?v=1580051370"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            111.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">R9996 SLFS 50MM X 55M 18RLS/CTN</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048269868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">111.73</s:price>
+      <s:sku>TA SPL R9996-50X55</s:sku>
+      <s:grams>571</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255056658476</id>
+    <published>2019-12-04T10:26:17-05:00</published>
+    <updated>2019-12-04T10:26:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5717"/>
+    <title>3M 5717  - Scotch Tape Splice Kit, 5717, 15 Kv 5717 7000035867</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-5717-scotch-tape-splice-kit-5717-15-kv-5717-7000035867-13120550993964.jpg?v=1580225943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            763.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Tape Splice Kit, 5717, 15 kV</h4> <li class="extra-info">Scotch® Tape Splice Kit 5717 provides inline and tee splicing</li><li class="extra-info">It is suitable for use on 5 to 15 kV tape shield, wire shield or UniShield® cables with aluminum or copper conductors</li><li class="extra-info">This kit includes two rolls of Scotch® Semi-Conducting Tape 13, 10 rolls of Scotch® 130C, one coil of 3M™ Scotch® Grounding Braid 25, three rolls of Scotch® Shielding Braid and more.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUM829M82Slv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Specially designed for inline and tee splicing</li><li class="extra-info"> Suitable for use with copper or aluminum conductors</li><li class="extra-info"> Accommodates wire size of 4 AWG to 250 kcmil</li><li class="extra-info"> Rated for 5 to 15 kV applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255056658476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">763.47</s:price>
+      <s:sku>TA SPL 5717</s:sku>
+      <s:grams>3719</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255058001964</id>
+    <published>2019-12-04T10:26:04-05:00</published>
+    <updated>2019-12-04T10:26:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8421-1x72"/>
+    <title>3M 8421-1X72  - 8421 White 1 x 72 Yd Bulk 8421-1x72 7000029115</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8421-1x72-8421-white-1-x-72-yd-bulk-8421-1x72-7000029115-13120552075308.jpg?v=1580226453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            41.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8421 WHITE 1 X 72 YD BULK</h4> <li class="extra-info">Designed for splicing of photographic film processing, 3M™ Photo Film Splicing Tape 8421 is a creamy white splicing tape featuring a thin, yet strong, polyester backing</li><li class="extra-info">It features an aggressive, versatile rubber adhesive that is both solvent and chemical resistant.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Used for splicing of most photographic film and web processing</li><li class="extra-info"> Aggressive rubber adhesive grabs quickly and adheres well to a variety of films</li><li class="extra-info"> Excellent solvent and chemical resistance, especially those found in photographic processes</li><li class="extra-info"> Remains flexible at -60°F (-50°C) and is dimensionally stable up to 300°F (150°C)</li><li class="extra-info"> White backing is used to easily identify splices</li><li class="extra-info"> Industry specific tape for when electrical tape isn't effective</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255058001964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.37</s:price>
+      <s:sku>TA SPL 8421-1X72</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255031296044</id>
+    <published>2019-10-16T00:35:58-04:00</published>
+    <updated>2019-10-16T00:35:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9832hl-54x250"/>
+    <title>3M 9832HL-54X250  - 3M Double Coated Tape 9832HL 9832HL-54X250 7010291482</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9832hl-54x250-3m-double-coated-tape-9832hl-9832hl-54x250-7010291482-13120523403308.jpg?v=1580246616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2791.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Double Coated Tape 9832HL</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255031296044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2791.63</s:price>
+      <s:sku>TA SPL 9832HL-54X250</s:sku>
+      <s:grams>88337</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025627180</id>
+    <published>2019-10-16T00:32:29-04:00</published>
+    <updated>2019-10-16T00:32:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-405-18x33"/>
+    <title>3M 405-18X33  - 405 18mm x 3 7100027578</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-405-18x33-405-18mm-x-3-7100027578-13120517603372.jpg?v=1580210735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">405 18MM X 33M 48/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025627180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.66</s:price>
+      <s:sku>TA SPL 405-18X33</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025561644</id>
+    <published>2019-10-16T00:32:28-04:00</published>
+    <updated>2019-10-16T00:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9969b-24x55"/>
+    <title>3M 9969B-24X55  - 9969B 24mm x 55M Revwnd 9969B-24x55 7100027715</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9969b-24x55-9969b-24mm-x-55m-revwnd-9969b-24x55-7100027715-13120517537836.jpg?v=1580135936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">9969B 24MM X 55M 36/CV REVWND</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025561644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.12</s:price>
+      <s:sku>TA SPL 9969B-24X55</s:sku>
+      <s:grams>222</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025528876</id>
+    <published>2019-10-16T00:32:28-04:00</published>
+    <updated>2019-10-16T00:32:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-r3187b-1x60"/>
+    <title>3M R3187B-1X60  - R3187 Bl 24mm x 55M R3187B-1x60 7100028018</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-r3187b-1x60-r3187-bl-24mm-x-55m-r3187b-1x60-7100028018-13120517570604.jpg?v=1580342216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">R3187 BL 24MM X 55M 36/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025528876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.50</s:price>
+      <s:sku>TA SPL R3187B-1X60</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025496108</id>
+    <published>2019-10-16T00:32:26-04:00</published>
+    <updated>2019-10-16T00:32:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-r3187b-4x60"/>
+    <title>3M R3187B-4X60  - R3187 Bl 96mm x 55MR3187B-4x60 7100028025</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-r3187b-4x60-r3187-bl-96mm-x-55mr3187b-4x60-7100028025-13120517505068.jpg?v=1580051731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">R3187 BL 96MM X 55M 8/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025496108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.96</s:price>
+      <s:sku>TA SPL R3187B-4X60</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025463340</id>
+    <published>2019-10-16T00:32:25-04:00</published>
+    <updated>2019-10-16T00:32:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-r3187-4x60"/>
+    <title>3M R3187-4X60  - R3187 Kt 96mm x 55MR3187-4x60 7100028044</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-r3187-4x60-r3187-kt-96mm-x-55mr3187-4x60-7100028044-13120517472300.jpg?v=1580051886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">R3187 KT 96MM X 55M 8/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025463340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.96</s:price>
+      <s:sku>TA SPL R3187-4X60</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025430572</id>
+    <published>2019-10-16T00:32:25-04:00</published>
+    <updated>2019-10-16T00:32:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-r3187-48x555"/>
+    <title>3M R3187-48X555  - R3187 Wt 48mm x 55M R3187-48x555 7100028050</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-r3187-48x555-r3187-wt-48mm-x-55m-r3187-48x555-7100028050-13120517406764.jpg?v=1580051699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">R3187 WT 48MM X 55M 24/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025430572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.98</s:price>
+      <s:sku>TA SPL R3187-48X555</s:sku>
+      <s:grams>494</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025365036</id>
+    <published>2019-10-16T00:32:24-04:00</published>
+    <updated>2019-10-16T00:32:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9069-1x60"/>
+    <title>3M 9069-1X60  - 9069 24mm x 55M 9069-1x60 7100028068</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9069-1x60-9069-24mm-x-55m-9069-1x60-7100028068-13120517439532.jpg?v=1580140649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">9069 24MM X 55M 36/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025365036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.88</s:price>
+      <s:sku>TA SPL 9069-1X60</s:sku>
+      <s:grams>290</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025332268</id>
+    <published>2019-10-16T00:32:23-04:00</published>
+    <updated>2019-10-16T00:32:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-r3287-1-2x60-wht"/>
+    <title>3M R3287-1/2X60-WHT  - R3287 Wt 12mm x 55M R3287-1/2x60-Wht 7100028160</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-r3287-1-2x60-wht-r3287-wt-12mm-x-55m-r3287-1-2x60-wht-7100028160-13120517308460.jpg?v=1580352656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">R3287 WT 12MM X 55M 72/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025332268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.83</s:price>
+      <s:sku>TA SPL R3287-1/2X60-WHT</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255004426284</id>
+    <published>2019-10-16T00:18:54-04:00</published>
+    <updated>2019-10-16T00:18:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-974148n"/>
+    <title>3M 974148N  - 9741 Cl 48mm x 55M 974148N 7100138377</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-974148n-9741-cl-48mm-x-55m-974148n-7100138377-13120476774444.jpg?v=1580137564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">9741 CL 48MM X 55M</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255004426284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.92</s:price>
+      <s:sku>TA SPL 974148N</s:sku>
+      <s:grams>748</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255001313324</id>
+    <published>2019-10-16T00:16:36-04:00</published>
+    <updated>2019-10-16T00:16:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9443np-1x60"/>
+    <title>3M 9443NP-1X60  - 3M Double Coated Tape 9443NP 9443NP-1X60 7100143695</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9443np-1x60-3m-double-coated-tape-9443np-9443np-1x60-7100143695-13120474775596.jpg?v=1580139484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Double Coated Tape 9443NP</h4> <li class="extra-info">3M™ Double Coated Tape 9443NP is a 6-mil (0.15 mm), two-sided, high-density polyethylene carrier with rubber adhesive on a white liner</li><li class="extra-info">It bonds well to low surface energy substrates and is ideal for indoor, room temperature applications</li><li class="extra-info">The film carrier adds dimensional stability and improved handling for easy die-cutting and lamination.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Bonds low surface energy materials</li><li class="extra-info"> High initial adhesion and excellent quick stick</li><li class="extra-info"> Removes cleanly from many surfaces</li><li class="extra-info"> Densified kraft paper liner</li><li class="extra-info"> Double-sided high density polyethylene carrier with rubber adhesive</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255001313324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.27</s:price>
+      <s:sku>TA SPL 9443NP-1X60</s:sku>
+      <s:grams>403</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254978015276</id>
+    <published>2019-10-16T00:01:50-04:00</published>
+    <updated>2019-10-16T00:01:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-r3187-3-4x60"/>
+    <title>3M R3187-3/4X60  - R3187 WT 18mm x 55m 4 7100028047</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-r3187-3-4x60-r3187-wt-18mm-x-55m-4-7100028047-13120438599724.jpg?v=1580051854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">R3187 WT 18MM X 55M 48/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">18mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Width_18mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254978015276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.99</s:price>
+      <s:sku>TA SPL R3187-3/4X60</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254908776492</id>
+    <published>2019-10-15T21:52:14-04:00</published>
+    <updated>2019-10-15T21:52:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-130c-1x15"/>
+    <title>3M Scotch 130C-1X15  - Linerless Rubber Splicing Tape 130C Black 30 mil (0.76mm) 1 Inch x 15 ft (25 mm x 4.6 m) 7000140715</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-scotch-130c-1x15-scotch-linerless-rubber-splicing-tape-130c-black-30-mil-0-76mm-1-inch-x-15-25-mm-x-4-6-m-7000140715-13120293699628.jpg?v=1580043779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            39.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Linerless Rubber Splicing Tape, 130C, black, 30 mil (0.76 mm), 1 in x 15 ft (25 mm x 4.6 m)</h4> <li class="extra-info">Scotch® Linerless Rubber Splicing Tape 130C is a highly conformable, linerless, ethylene rubber, high-voltage insulating tape, formulated to provide excellent thermal dissipation of splice heat</li><li class="extra-info">The tape is designed for use in splicing and terminating wires and cables, and has a continuous operating temperate rated up to 90˚C (194°F)</li><li class="extra-info">This product can be used for low and high-voltage applications up to 69kV, and has excellent physical and electrical properties which provide immediate moisture seals.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Insulation</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Ethlylene Propylene Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">850 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">15 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Celsius) </td>
+<td class="egrimes">90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Fahrenheit) </td>
+<td class="egrimes">194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">250 psi</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Linerless, self-bonding, primary insulating tape rated through 69 kV</li><li class="extra-info"> Designed for overload temperatures up to 130°C (266°F)</li><li class="extra-info"> High thermal conductivity</li><li class="extra-info"> Weather resistant</li><li class="extra-info"> Compatible with common, solid dielectric cable insulation</li><li class="extra-info"> Stable over wide application temperature range</li><li class="extra-info"> Bus bar insulation to 35 kV</li><h2>Suggested Application</h2><li class="extra-info">Primary insulation for splicing all types of solid dielectric insulated cables through 69 kV and building stress cones up to 35 kV</li><li class="extra-info">Ideal for sealing collars, closure sealing, drop wire splice insulating, sheath build-up or constructing auxiliary sleeves</li><li class="extra-info">M</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Ethlylene Propylene Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Elongation_850 Percent</s:tag>
+    <s:tag>Length_15 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Tensile Strength_250 psi</s:tag>
+    <s:tag>Width_1 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254908776492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.19</s:price>
+      <s:sku>TA SPL 130C-1X15</s:sku>
+      <s:grams>131</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254908743724</id>
+    <published>2019-10-15T21:52:04-04:00</published>
+    <updated>2019-10-15T21:52:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2242-3-4x15"/>
+    <title>3M Scotch 2242-3/4X15  - Commercial Grade Linerless Rubber Splicing Tape 2242 in Black (3/4 Inch x 15 ft x 30 mil) 7000058491</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-scotch-2242-3-4x15-scotch-commercial-grade-linerless-rubber-splicing-tape-2242-3-4-inch-x-15-30-mil-7000058491-13120293273644.jpg?v=1580351939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            6.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Commercial Grade Linerless Rubber Splicing Tape, 2242, 3/4 in x 15 ft, 30 mil</h4> <li class="extra-info">Scotch® Commercial Grade Linerless Rubber Splicing Tape 2242 is a linerless, self–bonding, insulating tape with an ethylene propylene base</li><li class="extra-info">It is ideal for all-voltage splicing, jacketing or general insulating.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">15 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Celsius) </td>
+<td class="egrimes">Up to 90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Fahrenheit) </td>
+<td class="egrimes">194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">250 Pound-Force Per Square Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">30 mil, 0.76mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Flame retardant</li><li class="extra-info"> Physical and electrical properties unaffected by degree of stretch</li><li class="extra-info"> Uniform tape unwind from roll</li><li class="extra-info"> Small roll size (OD)</li><li class="extra-info"> Five year shelf life</li><li class="extra-info"> Stable over wide application temperature range</li><li class="extra-info"> Weather Resistant</li><h2>Suggested Application</h2><li class="extra-info">Ideal as primary insulation for cable splices and terminations, moisture–sealing and insulating electrical connections, bus bar insulation, moisture–sealing of cable ends, motor leads or wire and cable jacket repair</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_15 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Tensile Strength_250 Pound-Force Per Square Inch</s:tag>
+    <s:tag>Thickness_30 mil0.76mm</s:tag>
+    <s:tag>Width_3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254908743724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.83</s:price>
+      <s:sku>TA SPL 2242-3/4X15</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254908678188</id>
+    <published>2019-10-15T21:51:59-04:00</published>
+    <updated>2019-10-15T21:51:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-23-3-4x30"/>
+    <title>3M Scotch 23-3/4X30  - Rubber Splicing Tape 23 in Black with Liner (30 mil x 3/4 Inch x 30 ft) 7000007286</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-scotch-23-3-4x30-scotch-rubber-splicing-tape-23-black-with-liner-30-mil-0-76mm-3-4-inch-x-30-19-mm-x-9-1-m-7000007286-13120293011500.jpg?v=1580351971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            18.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Rubber Splicing Tape, 23, black, with liner, 30 mil (0.76 mm), 3/4 in x 30 ft (19 mm x 9.1 m)</h4> <li class="extra-info">Scotch® Rubber Splicing Tape 23 is a conformable, self-fusing, ethylene propylene rubber voltage tape</li><li class="extra-info">The high-insulating tape has a “snakeskin” liner that is easily removed as the tape is applied, an operating temperature up to 90°C (194°F), and can be used for splices up to 69kV.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZgvMY_BmY_vNvVsN17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Electrical Maintenance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Ethlylene Propylene Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">10 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">30 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Celsius) </td>
+<td class="egrimes">90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Fahrenheit) </td>
+<td class="egrimes">194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Celsius) </td>
+<td class="egrimes">Up to 90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Fahrenheit) </td>
+<td class="egrimes">Up to 194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">8 Pound-Force Per Square Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">30 mil, 0.76mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Compatible with all solid dielectric cable insulations</li><li class="extra-info"> Can splice and terminate cables with emergency overload temperatures of up to 130°C (266°F)</li><li class="extra-info"> Durable and self-fusing</li><li class="extra-info"> Stretches up to 100% to provide void-free, moisture resistant insulation</li><li class="extra-info"> A special polyester liner which will not stick to the tape upon unwind</li><h2>Suggested Application</h2><li class="extra-info">Primary electrical insulation for splicing cable from 600 volts through 69 kV on all solid dielectric cables</li><li class="extra-info">Primary insulation for building stress cones on cables up to 35 kV on all solid dielectric cables</li><li class="extra-info">Moisture sealing electrical connections and end </li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Ethlylene Propylene Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Elongation_10 Percent</s:tag>
+    <s:tag>Length_30 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Tensile Strength_8 Pound-Force Per Square Inch</s:tag>
+    <s:tag>Thickness_30 mil0.76mm</s:tag>
+    <s:tag>Width_3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254908678188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.75</s:price>
+      <s:sku>TA SPL 23-3/4X30</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253779099692</id>
+    <published>2019-10-15T14:07:39-04:00</published>
+    <updated>2019-10-15T14:07:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8403-1x72"/>
+    <title>3M 8403-1X72  - Polyester Tape 8403 Green 1 Inch x 72 Yards 7000048534</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-8403-1x72-polyester-tape-8403-green-1-inch-x-72yds-7000048534-13119658524716.jpg?v=1580232423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            51.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyester Tape 8403 Green, 1 in x 72 yd, 36 per case</h4> <li class="extra-info">For anodizing, composite bonding, and splicing, use 3M™ Polyester Tape 8403</li><li class="extra-info">This translucent-green tinted tape is coated with a silicone adhesive that bonds well on difficult surfaces, including silicone coated papers and films</li><li class="extra-info">It is chemical resistant and performs under a wide range of temperatures and environments</li><li class="extra-info">This tape is a thicker version of 3M™ Polyester Tape 8402.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0GMx_eoxtvPv70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">72yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Works in demanding conditions and retains flexibility in autoclave conditions in temperatures ranging from -6°F (-5°C) to 35°F (177°C)</li><li class="extra-info"> Silicone adhesive provides clean removal from a variety of surfaces</li><li class="extra-info"> Chemical resistant adhesive and backing provide durability in difficult environments such as anodization</li><li class="extra-info"> Retains flexibility in autoclave conditions in temperatures ranging from -60°F (-50°C) to 350°F (176°C)</li><li class="extra-info"> Ideal for splicing applications on surfaces that are difficult to adhere too, such as silicone coated papers and films</li><li class="extra-info"> Translucent green backing is easily identifiable for splicing applications</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_72yds</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Width_1 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253779099692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.63</s:price>
+      <s:sku>TA SPL 8403-1X72</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737091612716</id>
+    <published>2019-03-16T01:37:03-04:00</published>
+    <updated>2019-03-16T01:37:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-130c-1x10"/>
+    <title>3M Scotch 130C-1X10  - Linerless Rubber Splicing Tape 130C Black 30 mil (0.76mm) 1 Inch x 10 ft (25 mm x 3 m) 7000132635</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-scotch-130c-1x10-scotch-linerless-rubber-splicing-tape-130c-black-30-mil-0-76mm-1-inch-x-10-25-mm-x-3-m-7000132635-12782301610028.jpg?v=1580043809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            49.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Linerless Rubber Splicing Tape, 130C, black, 30 mil (0.76 mm), 1 in x 10 ft (25 mm x 3 m)</h4> <li class="extra-info">Scotch® Linerless Rubber Splicing Tape 130C is a highly conformable, linerless, ethylene rubber, high-voltage insulating tape, formulated to provide excellent thermal dissipation of splice heat</li><li class="extra-info">The tape is designed for use in splicing and terminating wires and cables, and has a continuous operating temperate rated up to 90˚C (194°F)</li><li class="extra-info">This product can be used for low and high-voltage applications up to 69kV, and has excellent physical and electrical properties which provide immediate moisture seals.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Insulation</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Ethlylene Propylene Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">850 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">10 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Celsius) </td>
+<td class="egrimes">90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Fahrenheit) </td>
+<td class="egrimes">194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">250 psi</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Linerless, self-bonding, primary insulating tape rated through 69 kV</li><li class="extra-info"> Designed for overload temperatures up to 130°C (266°F)</li><li class="extra-info"> High thermal conductivity</li><li class="extra-info"> Weather resistant</li><li class="extra-info"> Compatible with common, solid dielectric cable insulation</li><li class="extra-info"> Stable over wide application temperature range</li><li class="extra-info"> Bus bar insulation to 35 kV</li><h2>Suggested Application</h2><li class="extra-info">Primary insulation for splicing all types of solid dielectric insulated cables through 69 kV and building stress cones up to 35 kV</li><li class="extra-info">Ideal for sealing collars, closure sealing, drop wire splice insulating, sheath build-up or constructing auxiliary sleeves</li><li class="extra-info">M</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Ethlylene Propylene Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Elongation_850 Percent</s:tag>
+    <s:tag>Length_10 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Tensile Strength_250 psi</s:tag>
+    <s:tag>Width_1 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737091612716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.07</s:price>
+      <s:sku>TA SPL 130C-1X10</s:sku>
+      <s:grams>99</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737091547180</id>
+    <published>2019-03-16T01:37:00-04:00</published>
+    <updated>2019-03-16T01:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2155-1-5x22"/>
+    <title>3M Temflex 2155-1.5X22  - Rubber Splicing Tape 2155 Black (30 mil x 1-1/2 Inch x 22 ft) 7000090115</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-temflex-2155-1-5x22-temflex-rubber-splicing-tape-2155-black-30mil-0-76mm-1-1-2-inchx-22-38mm-x-6-7-m-7000090115-12782301511724.jpg?v=1578804393"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            10.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Temflex Rubber Splicing Tape, 2155, black, 30 mil (0.76 mm), 1-1/2 in x 22 ft (38 mm x 6.7 m)</h4> <li class="extra-info">3M™ Temflex™ Rubber Splicing Tape 2155 is a conformable, self-fusing, rubber electrical insulating tape</li><li class="extra-info">It is designed for low voltage electrical insulating and moisture sealing applications and is compatible with solid dielectric cable insulations.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlY_vo8mSov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Temflex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Electrical Maintenance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">22 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1.5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Celsius) </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Fahrenheit) </td>
+<td class="egrimes">176</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Fahrenheit) </td>
+<td class="egrimes">Up to 176</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">300 Pound-Force Per Square Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">60 mil</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Compatible with solid dielectric cable insulations</li><li class="extra-info"> Self-fusing</li><li class="extra-info"> Flexible over a wide temperature range</li><li class="extra-info"> Self-fusing tape</li><li class="extra-info"> Flexible over a wide temperature range</li><li class="extra-info"> UL Listed, file E129200</li><h2>Suggested Application</h2><li class="extra-info">Ideal for bolted connections, service drops, lightning connections</li><li class="extra-info">Ground rod connections</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_22 ft</s:tag>
+    <s:tag>Line_Temflex</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Tensile Strength_300 Pound-Force Per Square Inch</s:tag>
+    <s:tag>Thickness_60 mil</s:tag>
+    <s:tag>Width_1.5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737091547180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.06</s:price>
+      <s:sku>TA SPL 2155-1.5X22</s:sku>
+      <s:grams>294</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737091514412</id>
+    <published>2019-03-16T01:36:59-04:00</published>
+    <updated>2019-03-16T01:36:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-130c-2x30"/>
+    <title>3M Scotch 130C-2X30  - Professional Grade Linerless Rubber Splicing Tape 130C Black 30 mil (0.76mm) 2 Inch x 30 ft (50mm x 9.1 m) 7000006091</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-scotch-130c-2x30-scotch-professional-grade-linerless-rubber-splicing-tape-130c-black-30-mil-0-76mm-2-inch-x-30-50mm-x-9-1-m-7000006091-12749011157036.jpg?v=1580043693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            47.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Professional Grade Linerless Rubber Splicing Tape, 130C, black, 30 mil (0.76 mm), 2 in x 30 ft (50 mm x 9.1 m)</h4> <li class="extra-info">Scotch Linerless Rubber Splicing Tape 130C is a highly conformable, linerless, ethylene rubber, high-voltage insulating tape, formulated to provide excellent thermal dissipation of splice heat</li><li class="extra-info">The tape is designed for use in splicing and terminating wires and cables, and has a continuous operating temperate rated up to 90˚C (194°F)</li><li class="extra-info">This product can be used for low and high-voltage applications up to 69kV, and has excellent physical and electrical properties which provide immediate moisture seals.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Insulation, Electrical Maintenance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Ethlylene Propylene Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">850 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">30 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Celsius) </td>
+<td class="egrimes">90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Fahrenheit) </td>
+<td class="egrimes">194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Celsius) </td>
+<td class="egrimes">Up to 90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Fahrenheit) </td>
+<td class="egrimes">Up to 194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">250 psi</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">30 mil, 0.76mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Linerless, self-bonding, primary insulating tape rated through 69 kV</li><li class="extra-info"> Designed for overload temperatures up to 130°C (266°F)</li><li class="extra-info"> High thermal conductivity</li><li class="extra-info"> Weather resistant</li><li class="extra-info"> Compatible with common, solid dielectric cable insulation</li><li class="extra-info"> Stable over wide application temperature range</li><li class="extra-info"> Bus bar insulation to 35 kV</li><li class="extra-info"> Weather resistant</li><li class="extra-info"> Small roll size (OD)</li><li class="extra-info"> Five year shelf life</li><li class="extra-info"> Stable over wide application temperature range</li><li class="extra-info"> Weather resistant</li><h2>Suggested Application</h2><li class="extra-info">Primary insulation for splicing all types of solid dielectric insulated cables through 69 kV and building stress cones up to 35 kV</li><li class="extra-info">Ideal for sealing collars, closure sealing, drop wire splice insulating, sheath build-up or constructing auxiliary sleeves</li><li class="extra-info">M</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Ethlylene Propylene Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Elongation_850 Percent</s:tag>
+    <s:tag>Length_30 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Tensile Strength_250 psi</s:tag>
+    <s:tag>Thickness_30 mil0.76mm</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737091514412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.03</s:price>
+      <s:sku>TA SPL 130C-2X30</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737091416108</id>
+    <published>2019-03-16T01:36:55-04:00</published>
+    <updated>2019-03-16T01:36:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-23-1-1-2x30"/>
+    <title>3M Scotch 23-1-1/2X30  - Rubber Splicing Tape 23 in Black with Liner (30 mil x 2 Inch x 30 ft) 7000138529</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-scotch-23-1-1-2x30-scotch-rubber-splicing-tape-23-black-with-liner-30-mil-0-75-mm-2-inch-x-30-38mm-x-9-1-m-7000138529-12749010665516.jpg?v=1580042882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            36.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Rubber Splicing Tape, 23, black, with liner, 30 mil (0.75 mm), 2 in x 30 ft (38 mm x 9.1 m)</h4> <li class="extra-info">Scotch® Rubber Splicing Tape 23 is a conformable, self-fusing, ethylene propylene rubber voltage tape</li><li class="extra-info">The high-insulating tape has a “snakeskin” liner that is easily removed as the tape is applied, an operating temperature up to 90°C (194°F), and can be used for splices up to 69kV.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0G9lYt1lYtUOv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Electrical Maintenance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Ethlylene Propylene Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">1000 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">30 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Celsius) </td>
+<td class="egrimes">90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Fahrenheit) </td>
+<td class="egrimes">194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Celsius) </td>
+<td class="egrimes">Up to 90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Operating Temp (Fahrenheit) </td>
+<td class="egrimes">Up to 194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">8 Pound-Force Per Square Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">30 mil, 0.76mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Compatible with all solid dielectric cable insulations</li><li class="extra-info"> Can splice and terminate cables with emergency overload temperatures of up to 130°C (266°F)</li><li class="extra-info"> Durable and self-fusing</li><li class="extra-info"> Stretches up to 100% to provide void-free, moisture resistant insulation</li><h2>Suggested Application</h2><li class="extra-info">Primary electrical insulation for splicing cable from 600 volts through 69 kV on all solid dielectric cables</li><li class="extra-info">Primary insulation for building stress cones on cables up to 35 kV on all solid dielectric cables</li><li class="extra-info">Moisture sealing electrical connections and end </li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Ethlylene Propylene Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Elongation_1000 Percent</s:tag>
+    <s:tag>Length_30 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Tensile Strength_8 Pound-Force Per Square Inch</s:tag>
+    <s:tag>Thickness_30 mil0.76mm</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737091416108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.58</s:price>
+      <s:sku>TA SPL 23-1-1/2X30</s:sku>
+      <s:grams>349</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737091383340</id>
+    <published>2019-03-16T01:36:54-04:00</published>
+    <updated>2019-03-16T01:36:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-23-2x30"/>
+    <title>3M Scotch 23-2X30  - Rubber Splicing Tape 23 in Black with Liner (30 mil x 2 Inch x 30 ft) 7000138512</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-scotch-23-2x30-scotch-rubber-splicing-tape-23-black-with-liner-30-mil-x-2-inch-x-30-0-76mm-x-50mm-x-9-1-m-7000138512-12749010305068.jpg?v=1580352058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            47.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Rubber Splicing Tape, 23, black, with liner, 30 mil x 2 in x 30 ft (0.76 mm x 50 mm x 9.1 m)</h4> <li class="extra-info">Scotch® Rubber Splicing Tape 23 is a conformable, self-fusing, ethylene propylene rubber voltage tape</li><li class="extra-info">The high-insulating tape has a “snakeskin” liner that is easily removed as the tape is applied, an operating temperature up to 90°C (194°F), and can be used for splices up to 69kV.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Electrical Maintenance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Ethlylene Propylene Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">1000 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">30 ft</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Celsius) </td>
+<td class="egrimes">90</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Operating Temp (Fahrenheit) </td>
+<td class="egrimes">194</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Brazil</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">30 mil, 0.76mm</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Compatible with all solid dielectric cable insulations</li><li class="extra-info"> Can splice and terminate cables with emergency overload temperatures of up to 130°C (266°F)</li><li class="extra-info"> Durable and self-fusing</li><li class="extra-info"> Stretches up to 100% to provide void-free, moisture resistant insulation</li><h2>Suggested Application</h2><li class="extra-info">Primary electrical insulation for splicing cable from 600 volts through 69 kV on all solid dielectric cables</li><li class="extra-info">Primary insulation for building stress cones on cables up to 35 kV on all solid dielectric cables</li><li class="extra-info">Moisture sealing electrical connections and end </li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Backing_Ethlylene Propylene Rubber</s:tag>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Elongation_1000 Percent</s:tag>
+    <s:tag>Length_30 ft</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Thickness_30 mil0.76mm</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737091383340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.22</s:price>
+      <s:sku>TA SPL 23-2X30</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737091317804</id>
+    <published>2019-03-16T01:36:52-04:00</published>
+    <updated>2019-03-16T01:36:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-405-2x36"/>
+    <title>3M 405-2X36  - Repulpable Double Coated Splicing Tape 405 in Light Green (48mm x 33 m) 7100027754</title>
+    <s:type>Splicing Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/splicing-tapes-3m-405-2x36-repulpable-double-coated-splicing-tape-405-light-green-1-9-inch-x-36yds-48mm-x-33-m-7100027754-12749010108460.jpg?v=1580168938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Splicing Tapes<br>
+        <strong>Price: </strong>
+            54.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">405 48MM X 33M 24/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">36yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1.9 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Splicing Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Length_36yds</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA SPL</s:tag>
+    <s:tag>Width_1.9 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737091317804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.15</s:price>
+      <s:sku>TA SPL 405-2X36</s:sku>
+      <s:grams>267</s:grams>
+    </s:variant>
+  </entry>
+</feed>

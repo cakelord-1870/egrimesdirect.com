@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-saws.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-03T12:14:26-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293469929516</id>
+    <published>2019-12-03T12:14:26-05:00</published>
+    <updated>2019-12-03T12:14:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-86515"/>
+    <title>Diamond Products 86515  - Dragon Claw Replacement Wear Plate</title>
+    <s:type>Hand-Held Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hand-held-saws-diamond-products-86515-dragon-claw-replacement-wear-plate-13390956691500.jpg?v=1575047179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Hand-Held Saws<br>
+        <strong>Price: </strong>
+            104.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> <li class="extra-info">1-1/2 Inch Premium Black Open End Core Bore Bit</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hand-Held Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Replacement wear plate</li><h2>Suggested Application</h2><li class="extra-info">For use on ring saws</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293469929516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">104.62</s:price>
+      <s:sku>AC SAW 6061184</s:sku>
+      <s:grams>130</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293489885228</id>
+    <published>2019-12-03T12:13:58-05:00</published>
+    <updated>2019-12-03T12:13:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-97883"/>
+    <title>Diamond Products 97883  - Slip-On 18 Inch Blade Guard for CC1300XL and CC1507E Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-97883-slip-on-18-inch-blade-guard-for-cc1300xl-and-cc1507e-series-walk-behind-saws-13390957510700.jpg?v=1575046742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            819.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293489885228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">819.32</s:price>
+      <s:sku>AC SAW 6048910</s:sku>
+      <s:grams>10436</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293489852460</id>
+    <published>2019-12-03T12:13:58-05:00</published>
+    <updated>2019-12-03T12:13:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-98682"/>
+    <title>Diamond Products 98682  - Slip-On 20 Inch Blade Guard for CC1300XL, CC1507E, and CC1800XL Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-98682-slip-on-20-inch-blade-guard-for-cc1300xl-cc1507e-and-cc1800xl-series-walk-behind-saws-13390957543468.jpg?v=1579667615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            1016.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293489852460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1016.00</s:price>
+      <s:sku>AC SAW 6048904</s:sku>
+      <s:grams>12258</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293489819692</id>
+    <published>2019-12-03T12:13:58-05:00</published>
+    <updated>2019-12-03T12:13:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-99721"/>
+    <title>Diamond Products 99721  - Tapered Mount 54 Inch Blade Guard for CC7200 Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-99721-tapered-mount-54-inch-blade-guard-for-cc7200-series-walk-behind-saws-13390957576236.jpg?v=1575046623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            2457.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293489819692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2457.95</s:price>
+      <s:sku>AC SAW 6010614</s:sku>
+      <s:grams>97076</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293489950764</id>
+    <published>2019-12-03T12:13:57-05:00</published>
+    <updated>2019-12-03T12:13:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-96634"/>
+    <title>Diamond Products 96634  - Slip-On 30 Inch Blade Guard for CC110D-SS Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-96634-slip-on-30-inch-blade-guard-for-cc110d-ss-series-walk-behind-saws-13390957117484.jpg?v=1575046759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            2198.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293489950764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2198.33</s:price>
+      <s:sku>AC SAW 6090371</s:sku>
+      <s:grams>8225</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293489917996</id>
+    <published>2019-12-03T12:13:57-05:00</published>
+    <updated>2019-12-03T12:13:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-97088"/>
+    <title>Diamond Products 97088  - Slip-On 14 Inch Blade Guard for CC1300XL, CC1507E, and CC1800XL Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-97088-slip-on-14-inch-blade-guard-for-cc1300xl-cc1507e-and-cc1800xl-series-walk-behind-saws-13390957477932.jpg?v=1575046776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            749.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293489917996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.64</s:price>
+      <s:sku>AC SAW 6048912</s:sku>
+      <s:grams>8304</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490081836</id>
+    <published>2019-12-03T12:13:56-05:00</published>
+    <updated>2019-12-03T12:13:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-89384"/>
+    <title>Diamond Products 89384  - Slip-On 36 Inch Blade Guard for CC110D-SS Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-89384-slip-on-36-inch-blade-guard-for-cc110d-ss-series-walk-behind-saws-13390956888108.jpg?v=1575047020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            2382.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490081836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2382.65</s:price>
+      <s:sku>AC SAW 6090372</s:sku>
+      <s:grams>31796</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490049068</id>
+    <published>2019-12-03T12:13:56-05:00</published>
+    <updated>2019-12-03T12:13:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-92016"/>
+    <title>Diamond Products 92016  - Slip-On 14 Inch Blade Guard for CC1200XL Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-92016-slip-on-14-inch-blade-guard-for-cc1200xl-series-walk-behind-saws-13390957084716.jpg?v=1575046684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            573.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Technical Specifications</h2> <p> Please specify the desired catalogue number at the time of purchase </p><table class="egrimes"><tr class="egrimes"><td class="egrimes">Blade Capacity: 14 Inch</td></tr></table><h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490049068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">573.18</s:price>
+      <s:sku>AC SAW 6016001</s:sku>
+      <s:grams>10121</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293489983532</id>
+    <published>2019-12-03T12:13:56-05:00</published>
+    <updated>2019-12-03T12:13:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-92017"/>
+    <title>Diamond Products 92017  - Slip-On 18 Inch Blade Guard for CC1200XL Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-92017-slip-on-18-inch-blade-guard-for-cc1200xl-series-walk-behind-saws-13390957051948.jpg?v=1579667701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            643.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Technical Specifications</h2> <p> Please specify the desired catalogue number at the time of purchase </p><table class="egrimes"><tr class="egrimes"><td class="egrimes">Blade Capacity: 18 Inch</td></tr></table><h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293489983532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">643.99</s:price>
+      <s:sku>AC SAW 6016000</s:sku>
+      <s:grams>11676</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490147372</id>
+    <published>2019-12-03T12:13:55-05:00</published>
+    <updated>2019-12-03T12:13:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-79042"/>
+    <title>Diamond Products 79042  - Hydraulic Raise/Lower Assembly for CC2500 Series Hydraulic Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-79042-hydraulic-raise-lower-assembly-for-cc2500-series-hydraulic-walk-behind-saws-13390956298284.jpg?v=1575047345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            3867.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">.75 GPM at 1000 PSI Electro/Hydraulic Pump with Tank</li><h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490147372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3867.31</s:price>
+      <s:sku>AC SAW 6047999</s:sku>
+      <s:grams>43000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490114604</id>
+    <published>2019-12-03T12:13:55-05:00</published>
+    <updated>2019-12-03T12:13:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-81879"/>
+    <title>Diamond Products 81879  - Dust Collection Attachment Assembly for CC150XL-EE First-Cut Early Entry Series Green Concrete Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-81879-dust-collection-attachment-assembly-for-cc150xl-ee-first-cut-early-entry-series-green-concrete-saws-13390956527660.jpg?v=1575047165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            407.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">2-1/4 Inch to 2 Inch Hose reducer [Part # 2506008]</li><h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490114604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">407.97</s:price>
+      <s:sku>AC SAW 6040775</s:sku>
+      <s:grams>1471</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490278444</id>
+    <published>2019-12-03T12:13:54-05:00</published>
+    <updated>2019-12-03T12:13:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/honda-78637"/>
+    <title>Honda 78637  - Catalytic Muffler for CC1300XL, CC1507E, and CC1800XL Series Walk Behind Saws with GX390 11.7 HP Engines</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Honda</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-honda-78637-catalytic-muffler-for-cc1300xl-cc1507e-and-cc1800xl-series-walk-behind-saws-with-gx390-11-7-hp-engines-13391074852908.png?v=1575009122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Honda<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            1772.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Honda</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Cup Grinder</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490278444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1772.38</s:price>
+      <s:sku>AC SAW 2501567</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490245676</id>
+    <published>2019-12-03T12:13:54-05:00</published>
+    <updated>2019-12-03T12:13:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-78751"/>
+    <title>Diamond Products 78751  - Spotlight Kit for CC190PRO-EE First-Cut Early Entry Series Green Concrete Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-78751-spotlight-kit-for-cc190pro-ee-first-cut-early-entry-series-green-concrete-saws-13390956068908.jpg?v=1575047602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            222.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Includes light bar, light bar mount bracket, and 12 volt spot light</li><h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490245676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">222.53</s:price>
+      <s:sku>AC SAW 6047720</s:sku>
+      <s:grams>3356</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490212908</id>
+    <published>2019-12-03T12:13:54-05:00</published>
+    <updated>2019-12-03T12:13:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-79041"/>
+    <title>Diamond Products 79041  - Hydraulic Raise/Lower Assembly for CC2500 Series Electric Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-79041-hydraulic-raise-lower-assembly-for-cc2500-series-electric-walk-behind-saws-13390956232748.jpg?v=1575047405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            3867.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">.75 GPM at 1000 PSI Electro/Hydraulic Pump with Tank</li><h2>Product Information</h2><li class="extra-info">Dry Walk Behind Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490212908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3867.31</s:price>
+      <s:sku>AC SAW 6047998</s:sku>
+      <s:grams>39682</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490376748</id>
+    <published>2019-12-03T12:13:53-05:00</published>
+    <updated>2019-12-03T12:13:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-70611"/>
+    <title>Diamond Products 70611  - Water Tank Kit for CC1800XL Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-70611-water-tank-kit-for-cc1800xl-series-walk-behind-saws-13390955872300.jpg?v=1575047855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            334.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Cup Grinder</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490376748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">334.92</s:price>
+      <s:sku>AC SAW 6049020</s:sku>
+      <s:grams>8854</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490343980</id>
+    <published>2019-12-03T12:13:53-05:00</published>
+    <updated>2019-12-03T12:13:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-70666"/>
+    <title>Diamond Products 70666  - Tapered Mount 60 Inch Blade Guard for CC7200 Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-70666-tapered-mount-60-inch-blade-guard-for-cc7200-series-walk-behind-saws-13390955773996.jpg?v=1575047720"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            2943.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Cup Grinder</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490343980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2943.47</s:price>
+      <s:sku>AC SAW 6010616</s:sku>
+      <s:grams>114962</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490475052</id>
+    <published>2019-12-03T12:13:52-05:00</published>
+    <updated>2019-12-03T12:13:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-66688"/>
+    <title>Diamond Products 66688  - Parking Brake Assembly for CC1800XL Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-66688-parking-brake-assembly-for-cc1800xl-series-walk-behind-saws-13390955675692.jpg?v=1575048098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            379.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Cup Grinder</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490475052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">379.88</s:price>
+      <s:sku>AC SAW 6048873</s:sku>
+      <s:grams>1007</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490442284</id>
+    <published>2019-12-03T12:13:52-05:00</published>
+    <updated>2019-12-03T12:13:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-67821"/>
+    <title>Diamond Products 67821  - Water Safety Switch for CC6500 Series Diesel Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-67821-water-safety-switch-for-cc6500-series-diesel-walk-behind-saws-13390955741228.jpg?v=1575047822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            256.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> <li class="extra-info">1-1/4 Inch Heavy Duty Orange Wet Core Bore Bit</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Cup Grinder</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490442284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">256.25</s:price>
+      <s:sku>AC SAW 6010522</s:sku>
+      <s:grams>194</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490606124</id>
+    <published>2019-12-03T12:13:51-05:00</published>
+    <updated>2019-12-03T12:13:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-48002"/>
+    <title>Diamond Products 48002  - Electric Raise/Lower Assembly for CC2500 Series Gas Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-48002-electric-raise-lower-assembly-for-cc2500-series-gas-walk-behind-saws-13390955249708.jpg?v=1575048064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            1368.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Depth Indicator Cable: 40 Inch for CC2500 Electric Raise</li><li class="extra-info"> Depth Indicator Cable: 34 Inch for CC2500 Hydraulic Raise</li><h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490606124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1368.90</s:price>
+      <s:sku>AC SAW 6047967</s:sku>
+      <s:grams>7954</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490540588</id>
+    <published>2019-12-03T12:13:51-05:00</published>
+    <updated>2019-12-03T12:13:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-48433"/>
+    <title>Diamond Products 48433  - Spotlight Kit for CC2500 Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-48433-spotlight-kit-for-cc2500-series-walk-behind-saws-13390955282476.jpg?v=1575048219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            284.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Includes light bar, light bar mount bracket, and 12 volt spot light</li><h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490540588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">284.34</s:price>
+      <s:sku>AC SAW 6047934</s:sku>
+      <s:grams>3744</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490507820</id>
+    <published>2019-12-03T12:13:51-05:00</published>
+    <updated>2019-12-03T12:13:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-66686"/>
+    <title>Diamond Products 66686  - Water Pump Assembly with 4 GPM Pump for CC1800XL Series Walk Behind Saws with Electric Start Engines</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-66686-water-pump-assembly-with-4-gpm-pump-for-cc1800xl-series-walk-behind-saws-with-electric-start-engines-13390955544620.jpg?v=1575048081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            775.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">4 GPM Water Pump (6 amp at 10 psi)</li><h2>Product Information</h2><li class="extra-info">Cup Grinder</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490507820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">775.49</s:price>
+      <s:sku>AC SAW 6048970</s:sku>
+      <s:grams>3923</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490704428</id>
+    <published>2019-12-03T12:13:50-05:00</published>
+    <updated>2019-12-03T12:13:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-47451"/>
+    <title>Diamond Products 47451  - Water Safety Switch for CC2500, CC3500, and CC3700E Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-47451-water-safety-switch-for-cc2500-cc3500-and-cc3700e-series-walk-behind-saws-13390955118636.jpg?v=1575048560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            256.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> <li class="extra-info">Water Safety Switch for CC2500, CC3500, and CC3700E Series Walk Behind Saws</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490704428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">256.25</s:price>
+      <s:sku>AC SAW 6047932</s:sku>
+      <s:grams>577</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490671660</id>
+    <published>2019-12-03T12:13:50-05:00</published>
+    <updated>2019-12-03T12:13:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-47467"/>
+    <title>Diamond Products 47467  - Electric Raise/Lower Assembly for CC2500 Series Electric Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-47467-electric-raise-lower-assembly-for-cc2500-series-electric-walk-behind-saws-13390955151404.jpg?v=1575048442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            3317.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Depth Indicator Cable: 40 Inch for CC2500 Electric Raise</li><li class="extra-info"> Depth Indicator Cable: 34 Inch for CC2500 Hydraulic Raise</li><h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490671660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3317.73</s:price>
+      <s:sku>AC SAW 6047970</s:sku>
+      <s:grams>8606</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490638892</id>
+    <published>2019-12-03T12:13:50-05:00</published>
+    <updated>2019-12-03T12:13:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-48432"/>
+    <title>Diamond Products 48432  - Water Pump Assembly with 4 GPM Pump for CC1800XL Series Walk Behind Saws with Electric Start Engines</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-48432-water-pump-assembly-with-4-gpm-pump-for-cc1800xl-series-walk-behind-saws-with-electric-start-engines-13390955315244.jpg?v=1575048200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            770.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">4 GPM Water Pump (6 amp at 10 psi)</li><h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490638892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">770.99</s:price>
+      <s:sku>AC SAW 6047933</s:sku>
+      <s:grams>3966</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293490769964</id>
+    <published>2019-12-03T12:13:49-05:00</published>
+    <updated>2019-12-03T12:13:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-36252"/>
+    <title>Diamond Products 36252  - Water Tank Kit for CC1300XL Series Walk Behind Saws</title>
+    <s:type>Walk Behind Saws</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walk-behind-saws-diamond-products-36252-water-tank-kit-for-cc1300xl-series-walk-behind-saws-13390954856492.jpg?v=1575048544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Walk Behind Saws<br>
+        <strong>Price: </strong>
+            347.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Walk Behind Saws</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Water tank bracket [Part # 6048220 / Catalog # 02303]</li><li class="extra-info"> 5-Gallon water tank</li><li class="extra-info"> 5/8 Inch Hose</li><li class="extra-info"> 28 Inch Elastic Tiedown [Part # 2500586 / Catalog # 48689]</li><h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293490769964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">347.28</s:price>
+      <s:sku>AC SAW 6049050</s:sku>
+      <s:grams>11822</s:grams>
+    </s:variant>
+  </entry>
+</feed>

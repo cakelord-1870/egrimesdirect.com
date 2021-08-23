@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/sanding-sponges.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:11:36-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993907756</id>
+    <published>2019-10-16T00:11:36-04:00</published>
+    <updated>2019-10-16T00:11:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dsmc-f"/>
+    <title>3M DSMC-F  - 3M Large Area Sanding Sponge DSMCF, 4.875 in x 2.875 in x 1 in, 24 cs Medium Coarse DSMC-F 7000133929</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-dsmc-f-3m-large-area-sanding-sponge-dsmcf-4-875-in-x-2-875-in-x-1-in-24-cs-medium-coarse-dsmc-f-7000133929-13120466780204.jpg?v=1580093098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Large Area Sanding Sponge DSMCF, 4.875 in x 2.875 in x 1 in, 24 cs Medium Coarse</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993907756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.51</s:price>
+      <s:sku>CA ASP DSMC-F</s:sku>
+      <s:grams>58</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993874988</id>
+    <published>2019-10-16T00:11:35-04:00</published>
+    <updated>2019-10-16T00:11:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-dsxf-f"/>
+    <title>3M DSXF-F  - 3M Large Area Sanding Sponge DSXFF, 4.875 in x 2.875 in x 1 in, 24 cs Extra Fine/Fine DSXF-F 7000133927</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-dsxf-f-3m-large-area-sanding-sponge-dsxff-4-875-in-x-2-875-in-x-1-in-24-cs-extra-fine-fine-dsxf-f-7000133927-13120466845740.jpg?v=1580292209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Large Area Sanding Sponge DSXFF, 4.875 in x 2.875 in x 1 in, 24 cs Extra Fine/Fine</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993874988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.51</s:price>
+      <s:sku>CA ASP DSXF-F</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993842220</id>
+    <published>2019-10-16T00:11:33-04:00</published>
+    <updated>2019-10-16T00:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-916na-250"/>
+    <title>3M 916NA-250  - 3M Contour Surface Sanding Sponge, 06964, super fine, 4.5 in x 5.5 in x 1875 in, bulk 916NA-250 7000126209</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-916na-250-3m-contour-surface-sanding-sponge-06964-super-fine-4-5-in-x-5-5-in-x-1875-in-bulk-916na-250-7000126209-13120466747436.jpg?v=1580239173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Contour Surface Sanding Sponge, 06964, super fine, 4.5 in x 5.5 in x 1875 in, bulk</h4> <li class="extra-info">The 3M™ Contour Surface Sanding Sponge is ideal for sanding wood, paint, metal, plastic and drywall.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Can be used for wet or dry sanding</li><li class="extra-info"> Reusable to help cut costs</li><li class="extra-info"> Extremely flexible, softback</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993842220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.47</s:price>
+      <s:sku>CA ASP 916NA-250</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993809452</id>
+    <published>2019-10-16T00:11:33-04:00</published>
+    <updated>2019-10-16T00:11:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-917na-250"/>
+    <title>3M 917NA-250  - 3M Contour Surface Sanding Sponge, 06965, fine, 4.5 in x 5.5 in x 3/16 in 917NA-250 7000126208</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-917na-250-3m-contour-surface-sanding-sponge-06965-fine-4-5-in-x-5-5-in-x-3-16-in-917na-250-7000126208-13120466714668.jpg?v=1580239256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Contour Surface Sanding Sponge, 06965, fine, 4.5 in x 5.5 in x 3/16 in</h4> <li class="extra-info">The 3M™ Contour Surface Sanding Sponge is ideal for sanding wood, paint, metal, plastic and drywall.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Can be used for wet or dry sanding</li><li class="extra-info"> Reusable to help cut costs</li><li class="extra-info"> Extremely flexible, softback</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993809452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.47</s:price>
+      <s:sku>CA ASP 917NA-250</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993776684</id>
+    <published>2019-10-16T00:11:31-04:00</published>
+    <updated>2019-10-16T00:11:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-03068c"/>
+    <title>3M 03068C  - 3M Performance Sanding Sponge, 03068, 60 grit, 1 in x 2 5/8 in (2.54 cm x 6.67 cm), 1 per pack 03068C 7000120181</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-03068c-3m-performance-sanding-sponge-03068-60-grit-1-in-x-2-5-8-in-2-54-cm-x-6-67-cm-1-per-pack-03068c-7000120181-13120466649132.jpg?v=1580189579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Performance Sanding Sponge, 03068, 60 grit, 1 in x 2 5/8 in (2.54 cm x 6.67 cm), 1 per pack</h4> <li class="extra-info">3M™ Performance Sanding Sponges are ideal for fast removal of paint and rust</li><li class="extra-info">Each sponge is comprised of an electrostatically-coated silicon carbide mineral which helps to increase durability and work life.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Use during stage 1 of the 3M™ Body Repair System</li><li class="extra-info"> Durable</li><li class="extra-info"> Clog resistant for easy use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993776684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.14</s:price>
+      <s:sku>CA ASP 03068C</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993743916</id>
+    <published>2019-10-16T00:11:31-04:00</published>
+    <updated>2019-10-16T00:11:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-03069c"/>
+    <title>3M 03069C  - Performance Sanding Sponge 100 grit 1 Inch x 2 5/8 Inch 7000120182</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-03069c-performance-sanding-sponge-100-grit-1-inch-x-2-5-8-inch-7000120182-13120466681900.jpg?v=1580189734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Performance Sanding Sponge, 03069, 100 grit, 1 in x 2 5/8 in (2.54 cm x 6.67 cm), 1 per pack</h4> <li class="extra-info">3M™ Performance Sanding Sponges are ideal for fast removal of paint and rust</li><li class="extra-info">Each sponge is comprised of an electrostatically-coated silicon carbide mineral which helps to increase durability and work life.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0u1MY_SO82xNv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Use during stage 3 of the 3M™ Body Repair System</li><li class="extra-info"> Durable</li><li class="extra-info"> Clog resistant for easy use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993743916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.14</s:price>
+      <s:sku>CA ASP 03069C</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993711148</id>
+    <published>2019-10-16T00:11:30-04:00</published>
+    <updated>2019-10-16T00:11:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-03088c"/>
+    <title>3M 03088C  - 3M Soft Sanding Sponge, 03088, 320-400 Grit, 12 packs per case 03088C 7100187007</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-03088c-3m-soft-sanding-sponge-03088-320-400-grit-12-packs-per-case-03088c-7100187007-13120465764396.jpg?v=1580189613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Soft Sanding Sponge, 03088, 320-400 Grit, 12 packs per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993711148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.78</s:price>
+      <s:sku>CA ASP 03088C</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993645612</id>
+    <published>2019-10-16T00:11:28-04:00</published>
+    <updated>2019-10-16T00:11:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-03089c"/>
+    <title>3M 03089C  - 3M Soft Sanding Sponge, 03089, 800-1000 Grit, 12 packs per case 03089C 7100187009</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-03089c-3m-soft-sanding-sponge-03089-800-1000-grit-12-packs-per-case-03089c-7100187009-13120465436716.jpg?v=1580189223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Soft Sanding Sponge, 03089, 800-1000 Grit, 12 packs per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993645612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.78</s:price>
+      <s:sku>CA ASP 03089C</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993612844</id>
+    <published>2019-10-16T00:11:27-04:00</published>
+    <updated>2019-10-16T00:11:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-03090c"/>
+    <title>3M 03090C  - 3M Soft Sanding Sponge, 03090, 1200-1500 Grit, 12 packs per case 03090C 7100187008</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-03090c-3m-soft-sanding-sponge-03090-1200-1500-grit-12-packs-per-case-03090c-7100187008-13120465371180.jpg?v=1580189256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Soft Sanding Sponge, 03090, 1200-1500 Grit, 12 packs per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993612844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.78</s:price>
+      <s:sku>CA ASP 03090C</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254993580076</id>
+    <published>2019-10-16T00:11:26-04:00</published>
+    <updated>2019-10-16T00:11:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-910-xla"/>
+    <title>3M 910-XLA  - 910-xla Extra Large Area Sanding Sponge 910-xla 7000126504</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-910-xla-910-xla-extra-large-area-sanding-sponge-910-xla-7000126504-13120465535020.jpg?v=1580140385"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">910-XLA 3M Extra large area sanding sponge</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254993580076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.82</s:price>
+      <s:sku>CA ASP 910-XLA</s:sku>
+      <s:grams>131</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254951374892</id>
+    <published>2019-10-15T22:57:19-04:00</published>
+    <updated>2019-10-15T22:57:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2604"/>
+    <title>3M 2604  - 4-1/2 Inch x 5-1/2 Inch Softback Sanding Sponge 320/400/Fine Aluminum Oxide 7000000589</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-2604-4-1-2-inch-x-5-1-2-inch-softback-sanding-sponge-320-400-fine-aluminum-oxide-7000000589-13179533164588.jpg?v=1580194019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            73.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Softback Sanding Sponge, 02604, 4 1/2 in x 5 1/2 in (11.43 cm x 13.97 cm), Fine-320/400</h4> <li class="extra-info">Coated with aluminum oxide, 3M™ Softback Sanding Sponges can be used wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">They are flexible and conformable to allow for hand sanding in areas inaccessible to machine sanders</li><li class="extra-info">Fine grade ranges from grade 320 to 400 grit.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMxtvOx_SMv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">320/400</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Softback Sanding Sponge 02604 features a flexible foam pad that enables the user to sand hard-to-reach areas such as headlight openings, around door handles, door jambs, etc</li><li class="extra-info">Use this sponge wet or dry when sanding on wood, fibreglass or gel coat,</li><h2>Product Information</h2><li class="extra-info">Makes sanding hard-to-reach areas easy</li><li class="extra-info"> Helps eliminate finger marks</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Flexible and conformable</li><li class="extra-info"> Fine grade ranges from grade 320 to 400 grit</li><li class="extra-info"> Can be used both wet and dry</li><li class="extra-info"> Hard-to-reach areas such as headlight openings, around door handles, door jambs, etc</li><h2>Suggested Application</h2><li class="extra-info">Use wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">Great for hard-to-reach areas such as headlight openings, around door handles, door jambs, etc.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>Grit_320/400</s:tag>
+    <s:tag>Length_5-1/2 Inch</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254951374892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.22</s:price>
+      <s:sku>CA ASP 2604</s:sku>
+      <s:grams>412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254951342124</id>
+    <published>2019-10-15T22:57:17-04:00</published>
+    <updated>2019-10-15T22:57:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab08145"/>
+    <title>3M AB08145  - Hi-Flex Sponges - 125 x 98 x 13 mm - industrial Packaging - Fine 7000060138</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-ab08145-hi-flex-sponges-125-x-98-x-13-mm-industrial-packaging-fine-7000060138-13120381878316.jpg?v=1580250332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            0.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Hi-Flex Sponges - 125 X 98 X 13 mm - Industrial packaging - Fine</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254951342124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.90</s:price>
+      <s:sku>CA ASP AB08145</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253761994796</id>
+    <published>2019-10-15T13:27:32-04:00</published>
+    <updated>2019-10-15T13:27:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pn02600"/>
+    <title>3M PN02600  - 4-1/2 Inch x 5-1/2 Inch Softback Sanding Sponge 1200/1500/Micro-Fine Aluminum Oxide 7000000591</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-pn02600-4-1-2-inch-x-5-1-2-inch-softback-sanding-sponge-1200-1500-micro-fine-aluminum-oxide-7000000591-13119611207724.jpg?v=1580329499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            73.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Softback Sanding Sponge, 02600, 4 1/2 in x 5 1/2 in (11.43 cm x 13.97 cm), Microfine-1200/1500</h4> <li class="extra-info">Coated with aluminum oxide, 3M™ Softback Sanding Sponges can be used wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">They are flexible and conformable to allow for hand sanding in areas inaccessible to machine sanders</li><li class="extra-info">Microfine ranges from grade 1200 to 1500 grit.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Micro Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">1200/1500</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">This 3M™ Softback Sanding Sponge 02600 features a flexible foam pad that enables user to sand hard to reach areas such as headlight openings, around door handles, door jambs, etc</li><li class="extra-info">Helps to eliminate finger marks and can be used wet or dry</li><li class="extra-info">These 3M™ Softb</li><h2>Product Information</h2><li class="extra-info">Makes sanding hard-to-reach areas easy</li><li class="extra-info"> Helps eliminate finger marks</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Flexible and conformable</li><li class="extra-info"> Microfine ranges from grade 1200 to 1500 grit</li><li class="extra-info"> Can be used both wet and dry</li><h2>Suggested Application</h2><li class="extra-info">Use wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">Great for hard-to-reach areas such as headlight openings, around door handles, door jambs, etc.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Grade_Micro Fine</s:tag>
+    <s:tag>Grit_1200/1500</s:tag>
+    <s:tag>Length_5-1/2 Inch</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253761994796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.22</s:price>
+      <s:sku>CA ASP 2600 MF 4-1/2X5-1/2</s:sku>
+      <s:grams>281</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253761896492</id>
+    <published>2019-10-15T13:27:30-04:00</published>
+    <updated>2019-10-15T13:27:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2601"/>
+    <title>3M Ultrafine 2601  - 4-1/2 Inch x 5-1/2 Inch Softback Sanding Sponge 800/100/Ultra Fine Aluminum Oxide 7000000592</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-ultrafine-2601-4-1-2-inch-x-5-1-2-inch-softback-sanding-sponge-800-100-ultra-fine-aluminum-oxide-7000000592-13119611142188.jpg?v=1578831318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            73.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Softback Sanding Sponge, 02601, 4 1/2 in x 5 1/2 in (11.43 cm x 13.97 cm), Ultrafine-800/1000</h4> <li class="extra-info">Coated with aluminum oxide, 3M™ Softback Sanding Sponges can be used wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">They are flexible and conformable to allow for hand sanding in areas inaccessible to machine sanders</li><li class="extra-info">Ultrafine ranges from grade 800 to 1000 grit.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0vMxtvOx_SMv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Ultrafine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Ultra fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">800</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Softback Sanding Sponge 02601 has a flexible foam pad enables that enables the user to sand hard to reach areas such as headlight openings, around door handles, door jambs, etc</li><li class="extra-info">This sponge helps to eliminate finger marks and can be used wet or dr</li><h2>Product Information</h2><li class="extra-info">Makes sanding hard-to-reach areas easy</li><li class="extra-info"> Helps eliminate finger marks</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Flexible and conformable</li><li class="extra-info"> Ultrafine ranges from grade 800 to 1000 grit</li><li class="extra-info"> Can be used both wet and dry</li><h2>Suggested Application</h2><li class="extra-info">Use wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">Great for hard-to-reach areas such as headlight openings, around door handles, door jambs, etc.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>Grade_Ultra fine</s:tag>
+    <s:tag>Grit_800</s:tag>
+    <s:tag>Length_5-1/2 Inch</s:tag>
+    <s:tag>Line_Ultrafine</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253761896492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.22</s:price>
+      <s:sku>CA ASP 2601 UF 4-1/2X5-1/2</s:sku>
+      <s:grams>294</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253761404972</id>
+    <published>2019-10-15T13:27:02-04:00</published>
+    <updated>2019-10-15T13:27:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5685"/>
+    <title>3M Hookit 5685  - Hookit Sanding Block 0568 7/8 in x 1-3/8 in x 10-3/4 in (2.2 cm x 3.5 cm x 27.31 cm) 7000119958</title>
+    <s:type>Sanding Blocks</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sanding-blocks-3m-hookit-5685-hookit-sanding-block-0568-7-8-in-x-1-3-8-in-x-10-3-4-in-2-2-cm-x-3-5-cm-x-27-31-cm-7000119958-13119610781740.jpg?v=1580324616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sanding Blocks<br>
+        <strong>Price: </strong>
+            21.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Sanding Block, 05685, 7/8 in x 1-3/8 in x 10-3/4 in (2.2 cm x 3.5 cm x 27.31 cm)</h4> <li class="extra-info">3M™ Hookit™ Sanding Block helps make sanding easier in difficult locations</li><li class="extra-info">Use this accessory item with 3M™ Hookit™ Abrasive Products for sanding filler, primer and other substrates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Hookit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">10-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sanding Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">1-3/8 Inch</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Delivers consistent sanding results</li><li class="extra-info"> Designed to limit hand fatigue</li><li class="extra-info"> Allows technicians to reach difficult areas</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Length_10-3/4 Inch</s:tag>
+    <s:tag>Line_Hookit</s:tag>
+    <s:tag>Thickness_1-3/8 Inch</s:tag>
+    <s:tag>Width_7/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253761404972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.58</s:price>
+      <s:sku>CA ASP 5685</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253761372204</id>
+    <published>2019-10-15T13:27:01-04:00</published>
+    <updated>2019-10-15T13:27:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5687"/>
+    <title>3M Hookit 5687  - Hookit Sanding Block 0568 1-1/2 in x 2-5/8 in x 10-3/4 in (5.25 cm x 6.6 cm x 27.31 cm) 7000119960</title>
+    <s:type>Sanding Blocks</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sanding-blocks-3m-hookit-5687-hookit-sanding-block-0568-1-1-2-in-x-2-5-8-in-x-10-3-4-in-5-25-cm-x-6-6-cm-x-27-31-cm-7000119960-13119610650668.jpg?v=1580324763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sanding Blocks<br>
+        <strong>Price: </strong>
+            35.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Sanding Block, 05687, 1-1/2 in x 2-5/8 in x 10-3/4 in (5.25 cm x 6.67 cm x 27.31 cm)</h4> <li class="extra-info">3M™ Hookit™ Sanding Block helps make sanding easier in difficult locations</li><li class="extra-info">Use this accessory item with Hookit™ abrasive products for sanding filler, primer and other substrates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Hookit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">10-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sanding Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">2-5/8 Inch</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Delivers consistent sanding results</li><li class="extra-info"> Designed to limit hand fatigue</li><li class="extra-info"> Allows technicians to reach difficult areas</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Length_10-3/4 Inch</s:tag>
+    <s:tag>Line_Hookit</s:tag>
+    <s:tag>Thickness_2-5/8 Inch</s:tag>
+    <s:tag>Width_1-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253761372204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.19</s:price>
+      <s:sku>CA ASP 5687</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253761339436</id>
+    <published>2019-10-15T13:26:57-04:00</published>
+    <updated>2019-10-15T13:26:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5690"/>
+    <title>3M Hookit 5690  - Hookit Sanding Block 0 5/8 in x 2-1/2 in x 5-3/8 in (0.625 cm x 6.35 cm x 13.6 cm) 7000119963</title>
+    <s:type>Sanding Blocks</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sanding-blocks-3m-hookit-5690-hookit-sanding-block-0-5-8-in-x-2-1-2-in-x-5-3-8-in-0-625-cm-x-6-35-cm-x-13-6-cm-7000119963-13119610617900.jpg?v=1580324939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sanding Blocks<br>
+        <strong>Price: </strong>
+            12.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Sanding Block, 05690, 5/8 in x 2-1/2 in x 5-3/8 in (0.625 cm x 6.35 cm x 13.65 cm)</h4> <li class="extra-info">3M™ Hookit™ Sanding Block helps make sanding easier in difficult locations</li><li class="extra-info">Use this accessory item with Hookit™ abrasive products for sanding filler, primer and other substrates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Hookit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">5/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sanding Blocks</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">2-1/2 Inch</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Delivers consistent sanding results</li><li class="extra-info"> Designed to limit hand fatigue</li><li class="extra-info"> Allows technicians to reach difficult areas</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Length_5-3/8 Inch</s:tag>
+    <s:tag>Line_Hookit</s:tag>
+    <s:tag>Thickness_2-1/2 Inch</s:tag>
+    <s:tag>Width_5/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253761339436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.38</s:price>
+      <s:sku>CA ASP 5690</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253761306668</id>
+    <published>2019-10-15T13:26:54-04:00</published>
+    <updated>2019-10-15T13:26:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5691"/>
+    <title>3M Hookit 5691  - Hookit Sanding Block Tear Disc Rollop 0 2-1/8 in x 10-3/4 in (5.4 cm x 27.31 cm) 7000119964</title>
+    <s:type>Sanding Blocks</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sanding-blocks-3m-hookit-5691-hookit-sanding-block-tear-disc-rollop-0-2-1-8-in-x-10-3-4-in-5-4-cm-x-27-31-cm-7000119964-13119610585132.jpg?v=1580324853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sanding Blocks<br>
+        <strong>Price: </strong>
+            53.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Sanding Block Teardrop, 05691, 2-1/8 in x 10-3/4 in (5.4 cm x 27.31 cm)</h4> <li class="extra-info">3M™ Hookit™ Sanding Block helps make sanding easier in difficult locations</li><li class="extra-info">Use this accessory item with Hookit™ abrasive products for sanding filler, primer and other substrates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Hookit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">10-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2-1/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sanding Blocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Delivers consistent sanding results</li><li class="extra-info"> Designed to limit hand fatigue</li><li class="extra-info"> Allows technicians to reach difficult areas</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>Length_10-3/4 Inch</s:tag>
+    <s:tag>Line_Hookit</s:tag>
+    <s:tag>Width_2-1/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253761306668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.40</s:price>
+      <s:sku>CA ASP 5691</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253704060972</id>
+    <published>2019-10-15T11:20:51-04:00</published>
+    <updated>2019-10-15T11:20:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab03808"/>
+    <title>3M AB03808  - 4-1/2 Inch x 5-1/2 Inch Softback Sanding Sponge Medium 7000043357</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-ab03808-4-1-2-inch-x-5-1-2-inch-softback-sanding-sponge-medium-7000043357-13119519391788.jpg?v=1580249019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            3.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Softback Sanding Sponge, 03808, Medium, 4 1/2 in x 5 1/2 in (11.43 cm x 13.97 cm)</h4> <li class="extra-info">Coated with aluminum oxide, 3M™ Softback Sanding Sponges can be used wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">They are flexible and conformable to allow for hand sanding in areas inaccessible to machine sanders</li><li class="extra-info">Medium ranges from grade 120 to 180 grit</li><li class="extra-info">The full thickness medium sponge is perfect for preparing old bottom paint for a new coat</li><li class="extra-info">When used wet, it keeps the air clean from dust.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Makes sanding hard-to-reach areas easy</li><li class="extra-info"> Helps eliminate finger marks</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Flexible and conformable</li><li class="extra-info"> Medium ranges from grade 120 to 180 grit</li><li class="extra-info"> Can be used both wet and dry</li><h2>Suggested Application</h2><li class="extra-info">Use wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">Great for hard-to-reach areas such as headlight openings, around door handles, door jambs, etc.</li><li class="extra-info">Perfect for preparing old bottom paint for a new coat</li><li class="extra-info"> used wet, i</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>Length_5-1/2 Inch</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253704060972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.21</s:price>
+      <s:sku>CA ASP 3808 ME 115MMX140MM</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253704028204</id>
+    <published>2019-10-15T11:20:50-04:00</published>
+    <updated>2019-10-15T11:20:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab03810"/>
+    <title>3M AB03810  - 4-1/2 Inch x 5-1/2 Inch Softback Sanding Sponge Super Fine 7000043359</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-ab03810-4-1-2-inch-x-5-1-2-inch-softback-sanding-sponge-super-fine-7000043359-31494078234773.jpg?v=1626993531"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            3.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Softback Sanding Sponge, 03810, Superfine-500/600, 4 1/2 in x 5 1/2 in (11.43 cm x 13.97 cm)</h4> <li class="extra-info">Coated with aluminum oxide, 3M™ Softback Sanding Sponges can be used wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">They are flexible and conformable to allow for hand sanding in areas inaccessible to machine sanders</li><li class="extra-info">Superfine ranges from grade 500 to 600 grit.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Super Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Makes sanding hard-to-reach areas easy</li><li class="extra-info"> Helps eliminate finger marks</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Flexible and conformable</li><li class="extra-info"> Superfine ranges from grade 500 to 600 grit</li><li class="extra-info"> Can be used both wet and dry</li><h2>Suggested Application</h2><li class="extra-info">Use wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">Great for hard-to-reach areas such as headlight openings, around door handles, door jambs, etc.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Grade_Super Fine</s:tag>
+    <s:tag>Length_5-1/2 Inch</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253704028204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.21</s:price>
+      <s:sku>CA ASP 3810 SU 115MMX140MM</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253703962668</id>
+    <published>2019-10-15T11:20:46-04:00</published>
+    <updated>2019-10-15T11:20:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab55786"/>
+    <title>3M AB55786  - Sanding Sponge Block 100 3-3/4x2-5/8x1 7000139330</title>
+    <s:type>Sanding Blocks</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sanding-blocks-3m-ab55786-sanding-sponge-block-100-3-3-4x2-5-8x1-7000139330-13956695031852.jpg?v=1629198443"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sanding Blocks<br>
+        <strong>Price: </strong>
+            0.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Sanding Blocks, 3 3/4 in x 2 5/8 in x 1 in</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sanding Blocks</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253703962668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.87</s:price>
+      <s:sku>CA ASP BL 100 3-3/4X2-5/8X1</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253699113004</id>
+    <published>2019-10-15T11:10:39-04:00</published>
+    <updated>2019-10-15T11:10:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab03809"/>
+    <title>3M AB03809  - 4-1/2 Inch x 5-1/2 Inch Softback Sanding Sponge Fine 7000043358</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-ab03809-4-1-2-inch-x-5-1-2-inch-softback-sanding-sponge-fine-7000043358-31495364935829.jpg?v=1627057291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            3.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Softback Sanding Sponge, 03809, Fine-320/400, 4 1/2 in x 5 1/2 in (11.43 cm x 13.97 cm)</h4> <li class="extra-info">Coated with aluminum oxide, 3M™ Softback Sanding Sponges can be used wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">They are flexible and conformable to allow for hand sanding in areas inaccessible to machine sanders</li><li class="extra-info">Fine grade ranges from grade 320 to 400 grit.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Fine</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Makes sanding hard-to-reach areas easy</li><li class="extra-info"> Helps eliminate finger marks</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Flexible and conformable</li><li class="extra-info"> Fine grade ranges from grade 320 to 400 grit</li><li class="extra-info"> Can be used both wet and dry</li><h2>Suggested Application</h2><li class="extra-info">Use wet or dry when sanding on wood, fibreglass/gel coat, marine paints, metals and plastics</li><li class="extra-info">Great for hard-to-reach areas such as headlight openings, around door handles, door jambs, etc.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Grade_Fine</s:tag>
+    <s:tag>Length_5-1/2 Inch</s:tag>
+    <s:tag>Width_4-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253699113004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.21</s:price>
+      <s:sku>CA ASP 3809 FI 115MMX140MM</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813340225580</id>
+    <published>2019-05-11T14:05:40-04:00</published>
+    <updated>2019-05-11T14:05:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-24302pgt-xf-da"/>
+    <title>3M 24302PGT-XF-DA  - 24302PGT-XF-DA Sanding Sponge 180G 12/cs 7100062020</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-3m-24302pgt-xf-da-24302pgt-xf-da-sanding-sponge-180g-12-cs-7100062020-12749192101932.jpg?v=1580180524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            2.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">24302PGT-XF-DA Sndng Spng 180G, 12/cs</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Great Britain</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813340225580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.65</s:price>
+      <s:sku>CA ASP 24302PGT-XF-DA</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812903428140</id>
+    <published>2019-05-11T10:08:40-04:00</published>
+    <updated>2019-05-11T10:08:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-13710"/>
+    <title>Carborundum 13710  - 3-3/4 Inch X 4-3/4 Inch X 1/2 Inch Flexible Sanding Sponge 100/Coarse Silicon Carbide 05539513710</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-carborundum-13710-3-3-4-inch-x-4-3-4-inch-x-1-2-inch-flexible-sanding-sponge-100-coarse-silicon-carbide-05539513710-13818203766828.jpg?v=1628137903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            1.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal for sanding sealer and wash coats in wood, and touching-up or repairing of primer.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Coarse</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">100</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Ultra-flexible polyurethane foam provides for a soft sanding action on flat and contoured surfaces without sanding through coatings</li><li class="extra-info"> Silicon carbide grain is the best choice for sanding primer, sealer and between coats of finish on furniture and cabinets</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Clog resistant, washable, reusable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Grade_Coarse</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Length_4-3/4 Inch</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>Thickness_1/2 Inch</s:tag>
+    <s:tag>Width_3-3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812903428140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.71</s:price>
+      <s:sku>CA ASP 13710</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812903329836</id>
+    <published>2019-05-11T10:08:40-04:00</published>
+    <updated>2019-05-11T10:08:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-13711"/>
+    <title>Carborundum 13711  - 3-3/4 Inch X 4-3/4 Inch X 1/2 Inch Flexible Sanding Sponge 150/Medium Silicon Carbide 05539513711</title>
+    <s:type>Abrasive Sponges</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/abrasive-sponges-carborundum-13711-3-3-4-inch-x-4-3-4-inch-x-1-2-inch-flexible-sanding-sponge-150-medium-silicon-carbide-05539513711-12748162433068.jpg?v=1578894110"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Abrasive Sponges<br>
+        <strong>Price: </strong>
+            1.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal for sanding sealer and wash coats in wood, and touching-up or repairing of primer.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grade </td>
+<td class="egrimes">Medium</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">150</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Silicon Carbide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Abrasive Sponges</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Thickness </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Ultra-flexible polyurethane foam provides for a soft sanding action on flat and contoured surfaces without sanding through coatings</li><li class="extra-info"> Silicon carbide grain is the best choice for sanding primer, sealer and between coats of finish on furniture and cabinets</li><li class="extra-info"> Can be used wet or dry</li><li class="extra-info"> Clog resistant, washable, reusable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA ASP</s:tag>
+    <s:tag>Grade_Medium</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Length_4-3/4 Inch</s:tag>
+    <s:tag>Mineral_Silicon Carbide</s:tag>
+    <s:tag>Thickness_1/2 Inch</s:tag>
+    <s:tag>Width_3-3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812903329836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.71</s:price>
+      <s:sku>CA ASP 13711</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+</feed>

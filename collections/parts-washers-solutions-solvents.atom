@@ -1,0 +1,1151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/parts-washers-solutions-solvents.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-07-25T21:17:59-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/3949625770028</id>
+    <published>2019-07-25T21:17:59-04:00</published>
+    <updated>2019-07-25T21:17:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jpw-20-20"/>
+    <title>JET JPW-20 20  - 20 Gallon Washer Heavy Duty (Parts) 355007</title>
+    <s:type>Parts Washers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parts-washers-jet-jpw-20-20-20-gallon-washer-heavy-duty-parts-355007-12748825690156.jpg?v=1579549804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Parts Washers<br>
+        <strong>Price: </strong>
+            329.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20 Gallon Parts Washer – Heavy Duty</h4> <li class="extra-info">Fusible link melts and closes lid in the event of a fire, minimizing danger to workers and property</li><li class="extra-info"> 41.8 litre working capacity</li><li class="extra-info"> Flexible delivery spout</li><li class="extra-info"> Screened inlet protects pump from foreign material</li><li class="extra-info"> cETL certified to CAN/CSA C22.2 No</li><li class="extra-info">68-92</li><li class="extra-info"> For use with water based cleaning solutions with ph of 7-8 only</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parts Washers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">7mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">41.8 litre working capacity</li><h2>Product Information</h2><li class="extra-info">Tank Dimensions : 29-7/8 Inch x 20-3/4 Inch x 10-5/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>Size_7mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/3949625770028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">329.90</s:price>
+      <s:sku>SH PWA 355007</s:sku>
+      <s:grams>28092</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421555756</id>
+    <published>2019-05-11T15:07:40-04:00</published>
+    <updated>2019-05-11T15:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g002"/>
+    <title>Walter 53G002  - Defoamer Additive/ 950Ml 53G002</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g002-defoamer-additive-950ml-53g002-13937475551276.jpg?v=1580465490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Defoamer additive</h4> <li class="extra-info">For STAR and UNO family of aqueous cleaners</li><li class="extra-info">Quick and permanent foam dissipation, silicone-free, concentrated, very economical.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">For STAR and UNO family of aqueous cleaners</li><h2>Product Information</h2><li class="extra-info">Eliminates all foaming with water-based products</li><li class="extra-info"> Silicone-free</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421555756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.11</s:price>
+      <s:sku>SH PWA 53G002</s:sku>
+      <s:grams>412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421522988</id>
+    <published>2019-05-11T15:07:40-04:00</published>
+    <updated>2019-05-11T15:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g017"/>
+    <title>Walter 53G017  - Uno S F/ 20L 53G017</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g017-uno-s-f-20l-53g017-13937475682348.jpg?v=1579960294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            168.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S F</h4> <li class="extra-info">UNO SF™ is a highly concentrated, powerful foamless cleaner/degreaser that can cut through dirt and grease throughout your facility</li><li class="extra-info">Uses range from floor washing and pressure washing of large parts to automatic parts washers</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142609</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength foamless cleaner/degreaser</li><h2>Product Information</h2><li class="extra-info">Nonflammable, solvent-free, VOC-free</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 </li><li class="extra-info">Foamless for high-pressure or agitation cleaning systems</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421522988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">168.99</s:price>
+      <s:sku>SH PWA 53G017</s:sku>
+      <s:grams>9888</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421490220</id>
+    <published>2019-05-11T15:07:40-04:00</published>
+    <updated>2019-05-11T15:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g015"/>
+    <title>Walter 53G015  - Uno S F 3.78 L 53G015</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g015-uno-s-f-3-78-l-53g015-13937475616812.jpg?v=1580465248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            42.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S F</h4> <li class="extra-info">UNO SF™ is a highly concentrated, powerful foamless cleaner/degreaser that can cut through dirt and grease throughout your facility</li><li class="extra-info">Uses range from floor washing and pressure washing of large parts to automatic parts washers</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142609</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength foamless cleaner/degreaser</li><h2>Product Information</h2><li class="extra-info">Nonflammable, solvent-free, VOC-free</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 </li><li class="extra-info">Foamless for high-pressure or agitation cleaning systems</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421490220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.16</s:price>
+      <s:sku>SH PWA 53G015</s:sku>
+      <s:grams>1841</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421457452</id>
+    <published>2019-05-11T15:07:36-04:00</published>
+    <updated>2019-05-11T15:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g018"/>
+    <title>Walter 53G018  - Uno S F/ 208L 53G018</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g018-uno-s-f-208l-53g018-13937475715116.jpg?v=1580465580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1533.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S F</h4> <li class="extra-info">UNO SF™ is a highly concentrated, powerful foamless cleaner/degreaser that can cut through dirt and grease throughout your facility</li><li class="extra-info">Uses range from floor washing and pressure washing of large parts to automatic parts washers</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142609</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength foamless cleaner/degreaser</li><h2>Product Information</h2><li class="extra-info">Nonflammable, solvent-free, VOC-free</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 </li><li class="extra-info">Foamless for high-pressure or agitation cleaning systems</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421457452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1533.38</s:price>
+      <s:sku>SH PWA 53G018</s:sku>
+      <s:grams>102652</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421424684</id>
+    <published>2019-05-11T15:07:36-04:00</published>
+    <updated>2019-05-11T15:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g019"/>
+    <title>Walter 53G019  - Uno S F/ 1000 L 53G019</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g019-uno-s-f-1000-l-53g019-13937475846188.jpg?v=1579960140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4860.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S F</h4> <li class="extra-info">UNO SF™ is a highly concentrated, powerful foamless cleaner/degreaser that can cut through dirt and grease throughout your facility</li><li class="extra-info">Uses range from floor washing and pressure washing of large parts to automatic parts washers</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142609</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength foamless cleaner/degreaser</li><h2>Product Information</h2><li class="extra-info">Nonflammable, solvent-free, VOC-free</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 </li><li class="extra-info">Foamless for high-pressure or agitation cleaning systems</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421424684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4860.93</s:price>
+      <s:sku>SH PWA 53G019</s:sku>
+      <s:grams>497136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421391916</id>
+    <published>2019-05-11T15:07:36-04:00</published>
+    <updated>2019-05-11T15:07:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g023"/>
+    <title>Walter 53G023  - Uno Sf/500Ml 53G023</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g023-uno-sf-500ml-53g023-13937475813420.jpg?v=1580465612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S F</h4> <li class="extra-info">UNO SF™ is a highly concentrated, powerful foamless cleaner/degreaser that can cut through dirt and grease throughout your facility</li><li class="extra-info">Uses range from floor washing and pressure washing of large parts to automatic parts washers</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142609</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength foamless cleaner/degreaser</li><h2>Product Information</h2><li class="extra-info">Nonflammable, solvent-free, VOC-free</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 </li><li class="extra-info">Foamless for high-pressure or agitation cleaning systems</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421391916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.14</s:price>
+      <s:sku>SH PWA 53G023</s:sku>
+      <s:grams>267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421359148</id>
+    <published>2019-05-11T15:07:33-04:00</published>
+    <updated>2019-05-11T15:07:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g039"/>
+    <title>Walter 53G039  - Uno S Ind. Strength Degreaser 1000 L 53G039</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g039-uno-s-ind-strength-degreaser-1000-l-53g039-13937476370476.jpg?v=1580465935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4860.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S</h4> <li class="extra-info">UNO S™ is a highly concentrated, powerful foaming cleaner/degreaser that lifts dirt and grease fast</li><li class="extra-info">Ideal for manual spraying applications</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142608</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength cleaner and degreaser</li><h2>Product Information</h2><li class="extra-info">Low Energy</li><li class="extra-info"> Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Nonflammable, solvent-free, phosphate-free, VOC-free </li><li class="extra-info">Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 Foaming action for increased contact time</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421359148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4860.93</s:price>
+      <s:sku>SH PWA 53G039</s:sku>
+      <s:grams>496138</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421326380</id>
+    <published>2019-05-11T15:07:32-04:00</published>
+    <updated>2019-05-11T15:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g035"/>
+    <title>Walter 53G035  - Uno S 3.78L 53G035</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g035-uno-s-3-78l-53g035-13937476206636.jpg?v=1580465694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S</h4> <li class="extra-info">UNO S™ is a highly concentrated, powerful foaming cleaner/degreaser that lifts dirt and grease fast</li><li class="extra-info">Ideal for manual spraying applications</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142608</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength cleaner and degreaser</li><h2>Product Information</h2><li class="extra-info">Low Energy</li><li class="extra-info"> Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Nonflammable, solvent-free, phosphate-free, VOC-free </li><li class="extra-info">Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 Foaming action for increased contact time</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421326380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.15</s:price>
+      <s:sku>SH PWA 53G035</s:sku>
+      <s:grams>1837</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421293612</id>
+    <published>2019-05-11T15:07:32-04:00</published>
+    <updated>2019-05-11T15:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g037"/>
+    <title>Walter 53G037  - Uno S 20L 53G037</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g037-uno-s-20l-53g037-13937476173868.jpg?v=1580465523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            139.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S</h4> <li class="extra-info">UNO S™ is a highly concentrated, powerful foaming cleaner/degreaser that lifts dirt and grease fast</li><li class="extra-info">Ideal for manual spraying applications</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142608</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength cleaner and degreaser</li><h2>Product Information</h2><li class="extra-info">Low Energy</li><li class="extra-info"> Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Nonflammable, solvent-free, phosphate-free, VOC-free </li><li class="extra-info">Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 Foaming action for increased contact time</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421293612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.48</s:price>
+      <s:sku>SH PWA 53G037</s:sku>
+      <s:grams>9865</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421260844</id>
+    <published>2019-05-11T15:07:32-04:00</published>
+    <updated>2019-05-11T15:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g038"/>
+    <title>Walter 53G038  - Uno S 208L Ind. Strength Degreaser 53G038</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g038-uno-s-208l-ind-strength-degreaser-53g038-13937476272172.jpg?v=1579960053"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1251.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S</h4> <li class="extra-info">UNO S™ is a highly concentrated, powerful foaming cleaner/degreaser that lifts dirt and grease fast</li><li class="extra-info">Ideal for manual spraying applications</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142608</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength cleaner and degreaser</li><h2>Product Information</h2><li class="extra-info">Low Energy</li><li class="extra-info"> Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Nonflammable, solvent-free, phosphate-free, VOC-free </li><li class="extra-info">Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 Foaming action for increased contact time</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421260844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1251.74</s:price>
+      <s:sku>SH PWA 53G038</s:sku>
+      <s:grams>102443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421228076</id>
+    <published>2019-05-11T15:07:32-04:00</published>
+    <updated>2019-05-11T15:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g033"/>
+    <title>Walter 53G033  - Uno S 500Ml Ind. Strength Degreaser 53G033</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g033-uno-s-500ml-ind-strength-degreaser-53g033-13937475977260.jpg?v=1580465730"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">UNO S</h4> <li class="extra-info">UNO S™ is a highly concentrated, powerful foaming cleaner/degreaser that lifts dirt and grease fast</li><li class="extra-info">Ideal for manual spraying applications</li><li class="extra-info">Excellent substitute for solvent-based cleaners</li><li class="extra-info">NSF category A1, registration #142608</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High strength cleaner and degreaser</li><h2>Product Information</h2><li class="extra-info">Low Energy</li><li class="extra-info"> Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Nonflammable, solvent-free, phosphate-free, VOC-free </li><li class="extra-info">Contains corrosion inhibitors to prevent flash rusting</li><li class="extra-info"> Dilutable up to 40:1 Foaming action for increased contact time</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421228076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.67</s:price>
+      <s:sku>SH PWA 53G033</s:sku>
+      <s:grams>267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421129772</id>
+    <published>2019-05-11T15:07:29-04:00</published>
+    <updated>2019-05-11T15:07:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g067"/>
+    <title>Walter 53G067  - Star 200/ 20 L 53G067</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g067-star-200-20-l-53g067-13937476501548.jpg?v=1580465851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            178.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">STAR 200</h4> <li class="extra-info">STAR 200™ is a foamless demulsifying alkaline cleaner/degreaser specially formulated for cleaning iron, cast iron, steel, and stainless steel</li><li class="extra-info">Excellent at dissolving thick oil, grease, lubricants, and grime.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Concentrated alkaline cleaner/degreaser for parts washing systems</li><h2>Product Information</h2><li class="extra-info">Highly concentrated - dilutable up to 1:200 </li><li class="extra-info">Phosphate-free, VOC-Free</li><li class="extra-info"> Built-in corrosion inhibitors</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421129772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">178.82</s:price>
+      <s:sku>SH PWA 53G067</s:sku>
+      <s:grams>10196</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421097004</id>
+    <published>2019-05-11T15:07:26-04:00</published>
+    <updated>2019-05-11T15:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g123"/>
+    <title>Walter 53G123  - Cb 100 Alu / 500Ml 53G123</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g123-cb-100-alu-500ml-53g123-13937476567084.jpg?v=1580465819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">CB 100 ALU</h4> <li class="extra-info">CB 100™ ALU is a powerful cleaner/degreaser powered by our unique Nature Boost™ technology</li><li class="extra-info">Similar to the CB 100™ cleaning solution, yet specially designed for cleaning aluminum and sensitive alloys</li><li class="extra-info">Replaces hazardous solvents and petroleum-based products for improved health and safety in the workplace.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Ultra-powerful natural cleaner/degreaser safe for use with aluminum and non-ferrous alloys</li><h2>Product Information</h2><li class="extra-info">Pleasant scent—no harsh fumes or vapors </li><li class="extra-info">Formulated with special corrosion protection</li><li class="extra-info"> Non-staining, non-tarnishing </li><li class="extra-info">Ready-to-use, non-caustic, non-hazardous, phosphate-free, and butyl-free</li><li class="extra-info"> Great cleaning power at room temperature 0.21% VOC content - carb compliant</li><li class="extra-info"> Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421097004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.33</s:price>
+      <s:sku>SH PWA 53G123</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421031468</id>
+    <published>2019-05-11T15:07:26-04:00</published>
+    <updated>2019-05-11T15:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g125"/>
+    <title>Walter 53G125  - Cb 100 Alu 3.78L 53G125</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g125-cb-100-alu-3-78l-53g125-13937476796460.jpg?v=1579960020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">CB 100 ALU</h4> <li class="extra-info">CB 100™ ALU is a powerful cleaner/degreaser powered by our unique Nature Boost™ technology</li><li class="extra-info">Similar to the CB 100™ cleaning solution, yet specially designed for cleaning aluminum and sensitive alloys</li><li class="extra-info">Replaces hazardous solvents and petroleum-based products for improved health and safety in the workplace.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Ultra-powerful natural cleaner/degreaser safe for use with aluminum and non-ferrous alloys</li><h2>Product Information</h2><li class="extra-info">Pleasant scent—no harsh fumes or vapors </li><li class="extra-info">Formulated with special corrosion protection</li><li class="extra-info"> Non-staining, non-tarnishing </li><li class="extra-info">Ready-to-use, non-caustic, non-hazardous, phosphate-free, and butyl-free</li><li class="extra-info"> Great cleaning power at room temperature 0.21% VOC content - carb compliant</li><li class="extra-info"> Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421031468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SH PWA 53G125</s:sku>
+      <s:grams>1782</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813420998700</id>
+    <published>2019-05-11T15:07:26-04:00</published>
+    <updated>2019-05-11T15:07:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g127"/>
+    <title>Walter 53G127  - Cb 100 Alu / 20L 53G127</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g127-cb-100-alu-20l-53g127-13937477124140.jpg?v=1580466001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            201.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bio-Circle® MAXI + CB 100 ALU Pails, Start-up Package</h4> <li class="extra-info">Each start-up package includes the Bio-Circle® MAXI industrial parts washer.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Maximize your cleaning and degreasing efforts with more space to clean</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813420998700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">201.17</s:price>
+      <s:sku>SH PWA 53G127</s:sku>
+      <s:grams>9579</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813420965932</id>
+    <published>2019-05-11T15:07:25-04:00</published>
+    <updated>2019-05-11T15:07:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g068"/>
+    <title>Walter 53G068  - Star 200/ 208L 53G068</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g068-star-200-208l-53g068-13937476534316.jpg?v=1580465762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1564.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">STAR 200</h4> <li class="extra-info">STAR 200™ is a foamless demulsifying alkaline cleaner/degreaser specially formulated for cleaning iron, cast iron, steel, and stainless steel</li><li class="extra-info">Excellent at dissolving thick oil, grease, lubricants, and grime.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Concentrated alkaline cleaner/degreaser for parts washing systems</li><h2>Product Information</h2><li class="extra-info">Highly concentrated - dilutable up to 1:200 </li><li class="extra-info">Phosphate-free, VOC-Free</li><li class="extra-info"> Built-in corrosion inhibitors</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperatures</li><li class="extra-info"> Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813420965932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1564.68</s:price>
+      <s:sku>SH PWA 53G068</s:sku>
+      <s:grams>105859</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813420900396</id>
+    <published>2019-05-11T15:07:20-04:00</published>
+    <updated>2019-05-11T15:07:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g165"/>
+    <title>Walter 53G165  - Cb 100 / 3.78L 53G165</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g165-cb-100-3-78l-53g165-13937477255212.jpg?v=1580466176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">CB 100</h4> <li class="extra-info">CB 100™ is a next-generation cleaning technology</li><li class="extra-info">Powered by our exclusive Nature Boost™ formula, CB 100™ is unsurpassed in its ability to remove heavy greases, anti-seize, burnt oil/fat, paint, food residues, pastes, solid lubricants, crude oil, graphite, proteins, and many other stubborn industrial contaminants</li><li class="extra-info">Compatible with steel and stainless steel</li><li class="extra-info">NSF category C1, registration #148555</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Ultra-powerful natural cleaner/degreaser</li><h2>Product Information</h2><li class="extra-info">Pleasant scent—no harsh fumes or vapors</li><li class="extra-info"> Cuts through contaminants most solvents can't deal with</li><li class="extra-info"> Ready-to-use, non-caustic, non-hazardous, phosphate-free, and butyl-free</li><li class="extra-info"> Great cleaning power at room temperature 1% VOC content </li><li class="extra-info">Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813420900396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.00</s:price>
+      <s:sku>SH PWA 53G165</s:sku>
+      <s:grams>1800</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813420834860</id>
+    <published>2019-05-11T15:07:20-04:00</published>
+    <updated>2019-05-11T15:07:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g167"/>
+    <title>Walter 53G167  - Cb 100 / 20L 53G167</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g167-cb-100-20l-53g167-13937477287980.jpg?v=1580466089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            201.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Bio-Circle® MAXI + CB100 Pails, Start-up Package</h4> <li class="extra-info">Each start-up package includes the Bio-Circle® MAXI industrial parts washer.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Maximize your cleaning and degreasing efforts with more space to clean</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813420834860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">201.17</s:price>
+      <s:sku>SH PWA 53G167</s:sku>
+      <s:grams>9670</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813420769324</id>
+    <published>2019-05-11T15:07:19-04:00</published>
+    <updated>2019-05-11T15:07:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g163"/>
+    <title>Walter 53G163  - Cb 100 / 500Ml 53G163</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g163-cb-100-500ml-53g163-13937477058604.jpg?v=1580466057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">CB 100</h4> <li class="extra-info">CB 100™ is a next-generation cleaning technology</li><li class="extra-info">Powered by our exclusive Nature Boost™ formula, CB 100™ is unsurpassed in its ability to remove heavy greases, anti-seize, burnt oil/fat, paint, food residues, pastes, solid lubricants, crude oil, graphite, proteins, and many other stubborn industrial contaminants</li><li class="extra-info">Compatible with steel and stainless steel</li><li class="extra-info">NSF category C1, registration #148555</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Ultra-powerful natural cleaner/degreaser</li><h2>Product Information</h2><li class="extra-info">Pleasant scent—no harsh fumes or vapors</li><li class="extra-info"> Cuts through contaminants most solvents can't deal with</li><li class="extra-info"> Ready-to-use, non-caustic, non-hazardous, phosphate-free, and butyl-free</li><li class="extra-info"> Great cleaning power at room temperature 1% VOC content </li><li class="extra-info">Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813420769324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.33</s:price>
+      <s:sku>SH PWA 53G163</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813420441644</id>
+    <published>2019-05-11T15:07:09-04:00</published>
+    <updated>2019-05-11T15:07:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g247"/>
+    <title>Walter 53G247  - Bio-Rust/20L 53G247</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g247-bio-rust-20l-53g247-13937478074412.jpg?v=1579959728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            248.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">BIO-RUST</h4> <li class="extra-info">BIO-RUST® is a neutral-pH solution that safely eliminates rust on all ferrous alloys</li><li class="extra-info">NSF category A2, registration #146173</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Non-corrosive rust remover</li><h2>Product Information</h2><li class="extra-info">Nonflammable, solvent-free, phosphate-free</li><li class="extra-info"> VOC-free Neutral range pH, non-caustic and biodegradable</li><li class="extra-info"> Removes rust without attacking surface material</li><li class="extra-info"> Non hazardous—OSHA and WHMIS compliant </li><li class="extra-info">High workload—can remove 1.0kg (2.2lbs) of iron oxide per 20L (5 gallons)</li><li class="extra-info"> Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813420441644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">248.56</s:price>
+      <s:sku>SH PWA 53G247</s:sku>
+      <s:grams>10949</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813420408876</id>
+    <published>2019-05-11T15:07:08-04:00</published>
+    <updated>2019-05-11T15:07:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g248"/>
+    <title>Walter 53G248  - Bio-Rust/208L 53G248</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g248-bio-rust-208l-53g248-13937478107180.jpg?v=1579960205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2086.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">BIO-RUST</h4> <li class="extra-info">BIO-RUST® is a neutral-pH solution that safely eliminates rust on all ferrous alloys</li><li class="extra-info">NSF category A2, registration #146173</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Non-corrosive rust remover</li><h2>Product Information</h2><li class="extra-info">Nonflammable, solvent-free, phosphate-free</li><li class="extra-info"> VOC-free Neutral range pH, non-caustic and biodegradable</li><li class="extra-info"> Removes rust without attacking surface material</li><li class="extra-info"> Non hazardous—OSHA and WHMIS compliant </li><li class="extra-info">High workload—can remove 1.0kg (2.2lbs) of iron oxide per 20L (5 gallons)</li><li class="extra-info"> Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813420408876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2086.24</s:price>
+      <s:sku>SH PWA 53G248</s:sku>
+      <s:grams>113692</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813419753516</id>
+    <published>2019-05-11T15:06:51-04:00</published>
+    <updated>2019-05-11T15:06:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g705"/>
+    <title>Walter 53G705  - Alustar 200 / 3.78L 53G705</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g705-alustar-200-3-78l-53g705-13937479778348.jpg?v=1580467141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ALUSTAR 200</h4> <li class="extra-info">Alustar 200™ is a foamless demulsifying cleaner/degreaser that dissolves and removes thick oil, grease, lubricants, and grime from aluminum and other non-ferrous alloys</li><li class="extra-info">Ideal for applications that are subject to strict cleaning specifications</li><li class="extra-info">NSF category A8, registration #145452</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Concentrated alkaline cleaner/degreaser for parts washing systems</li><h2>Product Information</h2><li class="extra-info">Highly concentrated - dilutable up to 1:200</li><li class="extra-info"> Built-in corrosion inhibitors</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperature</li><li class="extra-info">s Phosphate-free, silicate-free, VOC-free</li><li class="extra-info"> Low residue Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813419753516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.39</s:price>
+      <s:sku>SH PWA 53G705</s:sku>
+      <s:grams>1873</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813419720748</id>
+    <published>2019-05-11T15:06:47-04:00</published>
+    <updated>2019-05-11T15:06:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g708"/>
+    <title>Walter 53G708  - Alustar 200 / 208 L 53G708</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g708-alustar-200-208-l-53g708-13937479876652.jpg?v=1580466966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1335.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ALUSTAR 200</h4> <li class="extra-info">Alustar 200™ is a foamless demulsifying cleaner/degreaser that dissolves and removes thick oil, grease, lubricants, and grime from aluminum and other non-ferrous alloys</li><li class="extra-info">Ideal for applications that are subject to strict cleaning specifications</li><li class="extra-info">NSF category A8, registration #145452</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Concentrated alkaline cleaner/degreaser for parts washing systems</li><h2>Product Information</h2><li class="extra-info">Highly concentrated - dilutable up to 1:200</li><li class="extra-info"> Built-in corrosion inhibitors</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperature</li><li class="extra-info">s Phosphate-free, silicate-free, VOC-free</li><li class="extra-info"> Low residue Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813419720748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1335.19</s:price>
+      <s:sku>SH PWA 53G708</s:sku>
+      <s:grams>104353</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813419687980</id>
+    <published>2019-05-11T15:06:47-04:00</published>
+    <updated>2019-05-11T15:06:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53g707"/>
+    <title>Walter 53G707  - Alustar 200 / 20L 53G707</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53g707-alustar-200-20l-53g707-13937479843884.jpg?v=1580466724"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            153.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ALUSTAR 200</h4> <li class="extra-info">Alustar 200™ is a foamless demulsifying cleaner/degreaser that dissolves and removes thick oil, grease, lubricants, and grime from aluminum and other non-ferrous alloys</li><li class="extra-info">Ideal for applications that are subject to strict cleaning specifications</li><li class="extra-info">NSF category A8, registration #145452</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Concentrated alkaline cleaner/degreaser for parts washing systems</li><h2>Product Information</h2><li class="extra-info">Highly concentrated - dilutable up to 1:200</li><li class="extra-info"> Built-in corrosion inhibitors</li><li class="extra-info"> Low Energy Surfactant Technology cleans at lower temperature</li><li class="extra-info">s Phosphate-free, silicate-free, VOC-free</li><li class="extra-info"> Low residue Biodegradable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH PWA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813419687980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">153.79</s:price>
+      <s:sku>SH PWA 53G707</s:sku>
+      <s:grams>10051</s:grams>
+    </s:variant>
+  </entry>
+</feed>

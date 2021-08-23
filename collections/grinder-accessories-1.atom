@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/grinder-accessories-1.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:29:53-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039258668</id>
+    <published>2019-12-04T10:29:53-05:00</published>
+    <updated>2019-12-04T10:29:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-710870"/>
+    <title>3M STA-710870  - Standard Abrasives Cartridge Roll Mandrel 710870, 1/8 in x 1/2 in x 1/4 in x 1-1/4 in x 2-1/4 in CM-7, 1 per case STA-710870 7000121794</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-710870-standard-abrasives-cartridge-roll-mandrel-710870-1-8-in-x-1-2-in-x-1-4-in-x-1-1-4-in-x-2-1-4-in-cm-7-1-per-case-sta-710870-7000121794-13120531202092.jpg?v=1578790908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Cartridge Roll Mandrel 710870, 1/8 in x 1/2 in x 1/4 in x 1-1/4 in x 2-1/4 in CM-7, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039258668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.22</s:price>
+      <s:sku>AC GRI STA-710870</s:sku>
+      <s:grams>285</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039356972</id>
+    <published>2019-12-04T10:29:52-05:00</published>
+    <updated>2019-12-04T10:29:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-707605"/>
+    <title>3M STA-707605  - Standard Abrasives Specialty Mandrel 707605, 3 in x 1/4 in x 1/4-20 TM-4, 1 per case STA-707605 7000121779</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-707605-standard-abrasives-specialty-mandrel-707605-3-in-x-1-4-in-x-1-4-20-tm-4-1-per-case-sta-707605-7000121779-13120531300396.jpg?v=1578790343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Specialty Mandrel 707605, 3 in x 1/4 in x 1/4-20 TM-4, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039356972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.47</s:price>
+      <s:sku>AC GRI STA-707605</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039324204</id>
+    <published>2019-12-04T10:29:52-05:00</published>
+    <updated>2019-12-04T10:29:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-708875"/>
+    <title>3M STA-708875  - Standard Abrasives Cartridge Roll Mandrel 708875, 1/8 in x 1-1/2 in x 1/4 in x 1-1/4 in x 3-1/4 in CM10, 1 per case STA-708875 7000121786</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-708875-standard-abrasives-cartridge-roll-mandrel-708875-1-8-in-x-1-1-2-in-x-1-4-in-x-1-1-4-in-x-3-1-4-in-cm10-1-per-case-sta-708875-7000121786-13120531267628.jpg?v=1578790583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Cartridge Roll Mandrel 708875, 1/8 in x 1-1/2 in x 1/4 in x 1-1/4 in x 3-1/4 in CM10, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039324204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.61</s:price>
+      <s:sku>AC GRI STA-708875</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039455276</id>
+    <published>2019-12-04T10:29:50-05:00</published>
+    <updated>2019-12-04T10:29:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-702286"/>
+    <title>3M STA-702286  - Standard Abrasives Cartridge Roll Mandrel 702286, 3/16 in x 1-1/2 in x 1/4 in x 1 in x 3-1/2 in CM-17, 1 per case STA-702286 7000121760</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-702286-standard-abrasives-cartridge-roll-mandrel-702286-3-16-in-x-1-1-2-in-x-1-4-in-x-1-in-x-3-1-2-in-cm-17-1-per-case-sta-702286-7000121760-13120531431468.jpg?v=1578796108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Cartridge Roll Mandrel 702286, 3/16 in x 1-1/2 in x 1/4 in x 1 in x 3-1/2 in CM-17, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039455276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.80</s:price>
+      <s:sku>AC GRI STA-702286</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039520812</id>
+    <published>2019-12-04T10:29:49-05:00</published>
+    <updated>2019-12-04T10:29:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-700143"/>
+    <title>3M STA-700143  - Standard Abrasives Specialty Mandrel 700143, 3 in x1/4 in x 8-32 TM-3, 1 per case STA-700143 7000121747</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-700143-standard-abrasives-specialty-mandrel-700143-3-in-x1-4-in-x-8-32-tm-3-1-per-case-sta-700143-7000121747-13120531464236.jpg?v=1578795837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Specialty Mandrel 700143, 3 in x1/4 in x 8-32 TM-3, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039520812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.47</s:price>
+      <s:sku>AC GRI STA-700143</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039488044</id>
+    <published>2019-12-04T10:29:49-05:00</published>
+    <updated>2019-12-04T10:29:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-700717"/>
+    <title>3M STA-700717  - Standard Abrasives Cartridge Roll Mandrel 700717, 1/8 in x 3/4 in x 1/4 in x 1-1/4 in x 2-1/2 in CM-8, 1 per case STA-700717 7000121752</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-700717-standard-abrasives-cartridge-roll-mandrel-700717-1-8-in-x-3-4-in-x-1-4-in-x-1-1-4-in-x-2-1-2-in-cm-8-1-per-case-sta-700717-7000121752-13120531398700.jpg?v=1578796042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Cartridge Roll Mandrel 700717, 1/8 in x 3/4 in x 1/4 in x 1-1/4 in x 2-1/2 in CM-8, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039488044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.22</s:price>
+      <s:sku>AC GRI STA-700717</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039684652</id>
+    <published>2019-12-04T10:29:48-05:00</published>
+    <updated>2019-12-04T10:29:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-541034"/>
+    <title>3M STA-541034  - Standard Abrasives Track Mandrel 541034, 3/4 in x 1/4 in Shank, 10 per case STA-541034 7000121718</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-541034-standard-abrasives-track-mandrel-541034-3-4-in-x-1-4-in-shank-10-per-case-sta-541034-7000121718-13120531529772.jpg?v=1578795386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Track Mandrel 541034, 3/4 in x 1/4 in Shank, 10 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039684652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.01</s:price>
+      <s:sku>AC GRI STA-541034</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039848492</id>
+    <published>2019-12-04T10:29:47-05:00</published>
+    <updated>2019-12-04T10:29:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-850029"/>
+    <title>3M STA-850029  - Standard Abrasives Unitized Combo Mandrel 850029, 1/4 in Shank, 1 per case STA-850029 7000121642</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-850029-standard-abrasives-unitized-combo-mandrel-850029-1-4-in-shank-1-per-case-sta-850029-7000121642-13120531628076.jpg?v=1578819319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Unitized Combo Mandrel 850029, 1/4 in Shank, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039848492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.63</s:price>
+      <s:sku>AC GRI STA-850029</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255042994220</id>
+    <published>2019-12-04T10:29:10-05:00</published>
+    <updated>2019-12-04T10:29:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sb05726"/>
+    <title>3M SB05726  - 3M Unitized Wheel Mandrel 946, 1-3/4 in x 1/4 in x 1/2 in Steel, 5 per case, Obsolete, Contact CPS to order product 1-800-843-0619 SB05726 7000120590</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sb05726-3m-unitized-wheel-mandrel-946-1-3-4-in-x-1-4-in-x-1-2-in-steel-5-per-case-obsolete-contact-cps-to-order-product-1-800-843-0619-sb05726-7000120590-13120535560236.jpg?v=1580056020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Unitized Wheel Mandrel 946, 1-3/4 in x 1/4 in x 1/2 in Steel, 5 per case, Obsolete, Contact CPS to order product 1-800-843-0619</h4> <li class="extra-info">A small but mighty abrasive accessory, 3M™ Unitized Wheel Mandrels secures Scotch-Brite™ Unitized Wheels (sold separately) to a rotary tool with a ¼ in (0.64 cm) collet (such as a die grinder) for edge deburring and finishing.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Designed to attach a unitized wheel to a rotary tool</li><li class="extra-info"> Small size enables access to small or intricate workpieces</li><li class="extra-info"> Max RPM 14,000</li><li class="extra-info"> Use with wheels 2 in (5.08 cm) - 3 in (7.62 cm) diameter and ¼ in (0.64 cm) – 1 in (2.54 cm) thick</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255042994220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.38</s:price>
+      <s:sku>AC GRI SB05726</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255054626860</id>
+    <published>2019-12-04T10:26:46-05:00</published>
+    <updated>2019-12-04T10:26:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab30134"/>
+    <title>3M AB30134  - 3M Spindle Extender Adapter 6 in Brush 30134, 2 in x 1/2 in x 1 in, 4 per inner 40 per case AB30134 7000046162</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab30134-3m-spindle-extender-adapter-6-in-brush-30134-2-in-x-1-2-in-x-1-in-4-per-inner-40-per-case-ab30134-7000046162-13120549093420.jpg?v=1580124537"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Spindle Extender Adapter 6 in Brush 30134, 2 in x 1/2 in x 1 in, 4 per inner 40 per case</h4> <li class="extra-info">The 3M Spindle Extender Kit comes complete with all the components needed to increase the length of spindle on a backstand, bench grinder, benchtop or inline sander in order to align a work surface or create distance to allow movement of an abrasive wheel</li><li class="extra-info">The 3M Spindle Extender Adapter 30134 is designed to allow mounting of 1 inch wide and 8 inch diameter bristle brushes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Allows you to extend spindle length to adjust or align the position of the abrasive work surface</li><li class="extra-info"> Adjusts spindle length for a variety of applications and conditions</li><li class="extra-info"> Use with a backstand, bench grinder, benchtop or inline sander</li><li class="extra-info"> Compatible with 5/8-11 threads</li><li class="extra-info"> Extender Adapter allows mounting of 1 in (2.54 cm) Scotch-Brite™ Radial Bristle Brushes - 8 in (20.32 cm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255054626860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.11</s:price>
+      <s:sku>AC GRI AB30134</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293493751852</id>
+    <published>2019-12-03T12:13:24-05:00</published>
+    <updated>2019-12-03T12:13:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-14589"/>
+    <title>Diamond Products 14589  - Bracket for CC110H and CC200H Floor Grinders Propane conversion kits (Required)</title>
+    <s:type>Floor Grinder</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-grinder-diamond-products-14589-bracket-for-cc110h-and-cc200h-floor-grinders-propane-conversion-kits-required-13390953906220.jpg?v=1575049504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Floor Grinder<br>
+        <strong>Price: </strong>
+            384.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Thailand</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Grinder</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293493751852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">384.37</s:price>
+      <s:sku>AC GRI 6043551</s:sku>
+      <s:grams>9389</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293493686316</id>
+    <published>2019-12-03T12:13:24-05:00</published>
+    <updated>2019-12-03T12:13:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/diamond-products-47017"/>
+    <title>Diamond Products 47017  - Weight for CC100 and CC200 Series Floor Grinders</title>
+    <s:type>Floor Grinder</s:type>
+    <s:vendor>Diamond Products</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/floor-grinder-diamond-products-47017-weight-for-cc100-and-cc200-series-floor-grinders-13390955085868.jpg?v=1575048306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Diamond Products<br>
+        <strong>Type: </strong>Floor Grinder<br>
+        <strong>Price: </strong>
+            485.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Saws</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Diamond Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">U.S.A.</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Floor Grinder</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Early Entry Blades</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293493686316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">485.52</s:price>
+      <s:sku>AC GRI 2501047</s:sku>
+      <s:grams>30601</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293546770476</id>
+    <published>2019-12-03T12:08:48-05:00</published>
+    <updated>2019-12-03T12:08:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am20621"/>
+    <title>3M AM20621  - Wheel Flange #3 Takes 1&quot; Arbor Down to 5/8&quot; Hole 09153 Packaged in Pairs 7000120621</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am20621-wheel-flange-3-takes-1-arbor-down-to-5-8-hole-09153-packaged-in-pairs-7000120621-13223844905004.jpg?v=1580282820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293546770476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.36</s:price>
+      <s:sku>AC GRI 09153</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293821595692</id>
+    <published>2019-12-03T12:08:29-05:00</published>
+    <updated>2019-12-03T12:08:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-54184-mandrel"/>
+    <title>Merit 54184  - Mandrel For Bore Polishers Bpm-8 1/4-20 For B-8 Series 08834154184</title>
+    <s:type>Bore Polisher Accessories</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bore-polisher-accessories-merit-54184-mandrel-for-bore-polishers-bpm-8-1-4-20-for-b-8-series-08834154184-13225061908524.jpg?v=1575528399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Bore Polisher Accessories<br>
+        <strong>Price: </strong>
+            1.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bore Polisher Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293821595692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.65</s:price>
+      <s:sku>AC GRI 54184</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293821661228</id>
+    <published>2019-12-03T12:08:28-05:00</published>
+    <updated>2019-12-03T12:08:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-54182-mandrel"/>
+    <title>Merit 54182  - Mandrel For Bore Polishers Qc-5 5/16-18 For B-3 Series 08834154182</title>
+    <s:type>Bore Polisher Accessories</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bore-polisher-accessories-merit-54182-mandrel-for-bore-polishers-qc-5-5-16-18-for-b-3-series-08834154182-13225061974060.jpg?v=1575528633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Bore Polisher Accessories<br>
+        <strong>Price: </strong>
+            4.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bore Polisher Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293821661228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.12</s:price>
+      <s:sku>AC GRI 54182</s:sku>
+      <s:grams>11</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293821628460</id>
+    <published>2019-12-03T12:08:28-05:00</published>
+    <updated>2019-12-03T12:08:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-54183-mandrel"/>
+    <title>Merit 54183  - Mandrel For Bore Polishers Bpm-4 1/2-20 For B-4 Series 08834154183</title>
+    <s:type>Bore Polisher Accessories</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bore-polisher-accessories-merit-54183-mandrel-for-bore-polishers-bpm-4-1-2-20-for-b-4-series-08834154183-13225061941292.jpg?v=1575528513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Bore Polisher Accessories<br>
+        <strong>Price: </strong>
+            8.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bore Polisher Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293821628460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.78</s:price>
+      <s:sku>AC GRI 54183</s:sku>
+      <s:grams>48</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333584023596</id>
+    <published>2019-12-03T12:07:19-05:00</published>
+    <updated>2019-12-03T12:07:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-80122"/>
+    <title>Merit 80122  - Extra Shank Length Mandrels M-8-6 7-1/4 6 08834180122</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-80122-extra-shank-length-mandrels-m-8-6-7-1-4-6-08834180122-13391079407660.png?v=1575006961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            15.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333584023596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.34</s:price>
+      <s:sku>AC GRI 80122</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333718863916</id>
+    <published>2019-12-03T12:07:17-05:00</published>
+    <updated>2019-12-03T12:07:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-80145"/>
+    <title>Merit 80145  - Extra Shank Length Mandrels M-10-6 6 3-3/4 08834180145</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-80145-extra-shank-length-mandrels-m-10-6-6-3-3-4-08834180145-13391079505964.png?v=1575006873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            18.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333718863916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.91</s:price>
+      <s:sku>AC GRI 80145</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333704675372</id>
+    <published>2019-12-03T12:07:17-05:00</published>
+    <updated>2019-12-03T12:07:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/norton-89275"/>
+    <title>Norton 89275  - Metal Adapter Kit For Depressed Center Wheels Adapter Kit 07660789275</title>
+    <s:type>Adapters</s:type>
+    <s:vendor>Norton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adapters-norton-89275-metal-adapter-kit-for-depressed-center-wheels-adapter-kit-07660789275-13391980527660.png?v=1629192330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norton<br>
+        <strong>Type: </strong>Adapters<br>
+        <strong>Price: </strong>
+            26.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Norton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adapters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333704675372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.36</s:price>
+      <s:sku>AC GRI 89275</s:sku>
+      <s:grams>419</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333718929452</id>
+    <published>2019-12-03T12:07:16-05:00</published>
+    <updated>2019-12-03T12:07:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-80129"/>
+    <title>Merit 80129  - Extra Shank Length Mandrels M-9-3 4-1/2 3 08834180129</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-80129-extra-shank-length-mandrels-m-9-3-4-1-2-3-08834180129-13391079374892.png?v=1575006976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            11.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333718929452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.38</s:price>
+      <s:sku>AC GRI 80129</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333718896684</id>
+    <published>2019-12-03T12:07:16-05:00</published>
+    <updated>2019-12-03T12:07:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-80131"/>
+    <title>Merit 80131  - Extra Shank Length Mandrels M-9-6 7-1/2 6 08834180131</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-80131-extra-shank-length-mandrels-m-9-6-7-1-2-6-08834180131-13391079440428.png?v=1575007119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            15.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333718896684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.34</s:price>
+      <s:sku>AC GRI 80131</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333722763308</id>
+    <published>2019-12-03T12:07:15-05:00</published>
+    <updated>2019-12-03T12:07:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-80536"/>
+    <title>Carborundum 80536  - Aluminum Reducing Bushings For Convolute &amp; Flap Wheels Reduces Center Hole: 8 To 1-1/4 14 Generic 66261080536</title>
+    <s:type>Bushings</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bushings-carborundum-80536-aluminum-reducing-bushings-for-convolute-flap-wheels-reduces-center-hole-8-to-1-1-4-14-generic-66261080536-13394600689708.png?v=1629189816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Bushings<br>
+        <strong>Price: </strong>
+            237.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bushings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333722763308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">237.35</s:price>
+      <s:sku>AC GRI 80536</s:sku>
+      <s:grams>997</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333719060524</id>
+    <published>2019-12-03T12:07:15-05:00</published>
+    <updated>2019-12-03T12:07:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-80116"/>
+    <title>Merit 80116  - Extra Shank Length Mandrels M-8-4 5-1/4 4 08834180116</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-80116-extra-shank-length-mandrels-m-8-4-5-1-4-4-08834180116-13391079276588.png?v=1575006842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            11.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333719060524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.38</s:price>
+      <s:sku>AC GRI 80116</s:sku>
+      <s:grams>3379</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333718962220</id>
+    <published>2019-12-03T12:07:15-05:00</published>
+    <updated>2019-12-03T12:07:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-80096"/>
+    <title>Merit 80096  - Extra Shank Length Mandrels M-9-2.5 4 2-1/2 08834180096</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-80096-extra-shank-length-mandrels-m-9-2-5-4-2-1-2-08834180096-13391079243820.png?v=1575007102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            5.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333718962220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.40</s:price>
+      <s:sku>AC GRI 80096</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333722828844</id>
+    <published>2019-12-03T12:07:14-05:00</published>
+    <updated>2019-12-03T12:07:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-80534"/>
+    <title>Carborundum 80534  - Aluminum Reducing Bushings For Convolute &amp; Flap Wheels Reduces Center Hole: 5 To 1-1/4 10 &amp; 12 Generic 66261080534</title>
+    <s:type>Bushings</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bushings-carborundum-80534-aluminum-reducing-bushings-for-convolute-flap-wheels-reduces-center-hole-5-to-1-1-4-10-12-generic-66261080534-13394623594540.png?v=1629189263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Bushings<br>
+        <strong>Price: </strong>
+            106.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bushings</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333722828844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">106.71</s:price>
+      <s:sku>AC GRI 80534</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+</feed>

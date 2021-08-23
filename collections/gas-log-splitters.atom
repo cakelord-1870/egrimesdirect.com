@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/gas-log-splitters.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T15:13:18-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813438791724</id>
+    <published>2019-05-11T15:13:18-04:00</published>
+    <updated>2019-05-11T15:13:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-10ls"/>
+    <title>King Canada KC-10LS  - 21 Inch Kinetic Flywheel Log Splitter (10 Ton)</title>
+    <s:type>Log Splitter</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/log-splitter-king-canada-kc-10ls-21-inch-kinetic-flywheel-log-splitter-10-ton-12749464567852.jpg?v=1579594745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Log Splitter<br>
+        <strong>Price: </strong>
+            825.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">10 Ton kinetic flywheel log splitter</h4> <li class="extra-info">Outsplits any 10 Ton log splitter</li><li class="extra-info"> 1 second cycle time</li><li class="extra-info"> Splits logs up to 21” long with a diameter up to 12”</li><li class="extra-info"> Twin flywheels store energy form the 2 HP 120V electric motor</li><li class="extra-info"> With no hydraulic oil or pump, kinetic flywheel log splitters are much easier to maintain</li><li class="extra-info"> Automatic ram retraction leaving your hands free to load the next log</li><li class="extra-info"> Hardened steel pinion gear transfers energy from the flywheels</li><li class="extra-info"> 7” wheels to easily move around your work space</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Log Splitter</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP LOG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813438791724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">825.29</s:price>
+      <s:sku>GP LOG KC-10LS</s:sku>
+      <s:grams>72574</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813437153324</id>
+    <published>2019-05-11T15:12:46-04:00</published>
+    <updated>2019-05-11T15:12:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kcg-20ls"/>
+    <title>King Canada KCG-20LS  - 20 Ton, Gasoline, Horizontal/Vertical, 6.5 HP Log Splitter KCG-20LS</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-kcg-20ls-20-ton-gasoline-horizontal-vertical-6-5-hp-log-splitter-kcg-20ls-12749463060524.jpg?v=1579607024"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1694.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20 ton horizontal/vertical 6.5 HP gas log splitter</h4> <li class="extra-info">Powerful 6.5 HP 4 stroke air cooled OHV gas engine</li><li class="extra-info"> Quick split 8 second cycle time cylinder for high production</li><li class="extra-info"> 20 Ton splits logs up to 21” in length in either a vertical or horizontal position</li><li class="extra-info"> Cross wedge splits logs into four</li><li class="extra-info"> Auto-return wedge</li><li class="extra-info"> Reinforced stripper plates remove stuck logs</li><li class="extra-info"> Log cradle keeps logs from dropping to the ground</li><li class="extra-info"> DOT road tires for towing</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP LOG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813437153324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1694.76</s:price>
+      <s:sku>GP LOG KCG-20LS</s:sku>
+      <s:grams>139706</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813437120556</id>
+    <published>2019-05-11T15:12:46-04:00</published>
+    <updated>2019-05-11T15:12:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kcg-26ls"/>
+    <title>King Canada KCG-26LS  - 26 Ton, Gasoline, Horizontal/Vertical 6.5 HP Log Splitter KCG-26LS</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-kcg-26ls-26-ton-gasoline-horizontal-vertical-6-5-hp-log-splitter-kcg-26ls-12749462962220.jpg?v=1579607103"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2250.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">26 Ton horizontal/vertical 6.5 HP gas log splitter</h4> <li class="extra-info">Powerful 6.5 HP 4 stroke air cooled OHV gas engine</li><li class="extra-info"> Quick split 8 second cycle time cylinder for high production</li><li class="extra-info"> 26 Ton splits logs up to 24” in length in either a vertical or horizontal position</li><li class="extra-info"> 2 stage pump allows the 26 Ton log splitter to achieve the same pressure as a single stage pump while using less horsepower</li><li class="extra-info"> Cross wedge splits logs into four</li><li class="extra-info"> Auto-return wedge</li><li class="extra-info"> Reinforced stripper plates remove stuck logs</li><li class="extra-info"> Log cradle keeps logs from dropping to the ground DOT road tires for towing</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP LOG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813437120556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2250.65</s:price>
+      <s:sku>GP LOG KCG-26LS</s:sku>
+      <s:grams>224528</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812160479276</id>
+    <published>2019-05-11T01:42:43-04:00</published>
+    <updated>2019-05-11T01:42:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-6ls"/>
+    <title>King Canada KC-6LS  - Log Splitter 21 Inch 6 Ton</title>
+    <s:type>Log Splitters</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/log-splitters-king-canada-kc-6ls-log-splitter-21-inch-6-ton-12746637344812.jpg?v=1579602572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Log Splitters<br>
+        <strong>Price: </strong>
+            470.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 Ton - 21 Inch log splitter</h4> <li class="extra-info">Powerful 2 HP induction motor Solid steel construction for strength and rigidity Uses standard hydraulic oil Portable design features rear wheels and front legs Easily fits in trunk of car Can be used on floor or bench for maximum versatility</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Log Splitters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP LOG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812160479276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">470.36</s:price>
+      <s:sku>GP LOG KC-6LS</s:sku>
+      <s:grams>49959</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812160446508</id>
+    <published>2019-05-11T01:42:43-04:00</published>
+    <updated>2019-05-11T01:42:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-ss-5ls"/>
+    <title>King Canada SS-5LS  - Log Splitter Stand Fits Kc-5Ls</title>
+    <s:type>Log Splitters</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/log-splitters-king-canada-ss-5ls-log-splitter-stand-fits-kc-5ls-12746637279276.jpg?v=1579595290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Log Splitters<br>
+        <strong>Price: </strong>
+            84.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Stand for 5 ton log splitter</h4> <li class="extra-info">5 Ton log splitter stand Optional stand for model KC-5LS</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Log Splitters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP LOG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812160446508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.10</s:price>
+      <s:sku>GP LOG SS-5LS</s:sku>
+      <s:grams>22679</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812160380972</id>
+    <published>2019-05-11T01:42:42-04:00</published>
+    <updated>2019-05-11T01:42:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-5ls"/>
+    <title>King Canada KC-5LS  - Log Splitter 20 Inch 5 Ton</title>
+    <s:type>Log Splitters</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/log-splitters-king-canada-kc-5ls-log-splitter-20-inch-5-ton-12746637705260.jpg?v=1579602216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Log Splitters<br>
+        <strong>Price: </strong>
+            394.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Ton - 20 Inch log splitter</h4> <li class="extra-info">Powerful 2 HP induction motor Solid steel construction for strength and rigidity Uses standard hydraulic oil Portable design features rear wheels and front legs Easily fits in trunk of car Can be used on floor or bench for maximum versatility</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Log Splitters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP LOG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812160380972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">394.83</s:price>
+      <s:sku>GP LOG KC-5LS</s:sku>
+      <s:grams>47689</s:grams>
+    </s:variant>
+  </entry>
+</feed>

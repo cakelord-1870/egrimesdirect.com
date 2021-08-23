@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- This is the parent sitemap linking to additional sitemaps for products, collections and pages as shown below. The sitemap can not be edited manually, but is kept up to date in real time. -->
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_1.xml?from=1121514356780&amp;to=1123286810668</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_2.xml?from=1123287138348&amp;to=1146306134060</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_3.xml?from=1146306396204&amp;to=1812163723308</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_4.xml?from=1812163756076&amp;to=1812647936044</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_5.xml?from=1812647968812&amp;to=1812866793516</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_6.xml?from=1812866826284&amp;to=1813103935532</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_7.xml?from=1813103968300&amp;to=1813438726188</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_8.xml?from=1813438758956&amp;to=4293368315948</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_products_9.xml?from=4293368381484&amp;to=6905715097749</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_pages_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_collections_1.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://egrimesdirect.com/sitemap_blogs_1.xml</loc>
+  </sitemap>
+</sitemapindex>

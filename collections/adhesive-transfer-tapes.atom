@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/adhesive-transfer-tapes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:36-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035916332</id>
+    <published>2019-12-04T10:30:36-05:00</published>
+    <updated>2019-12-04T10:30:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tpm5-30x100"/>
+    <title>3M TPM5-30X100  - 3M Clear Transfer Tape TPM-5 30 in x 100 yd TPM5-30X100 7000129394</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tpm5-30x100-3m-clear-transfer-tape-tpm-5-30-in-x-100-yd-tpm5-30x100-7000129394-13179542077484.jpg?v=1578807081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            355.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Clear Transfer Tape, TPM-5, 30 in x 100 yd</h4> <li class="extra-info">3M™ Clear Transfer Tape Series TPM-5 is a premask tape designed to protect large format, screen-printed, electronically cut graphics from abrasions during application</li><li class="extra-info">Featuring a unique, low-tack adhesive that leaves no residue when removed, this clear tape eases the application of larger graphics to substrates and is also helpful for applying pre-spaced legends where needed</li><li class="extra-info">This tape is recommended for use with 3M™ ElectroCut Film Series 1170.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TPM-5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Clear transfer tape can also be used as a premask for screen-printed, electronically cut graphics</li><li class="extra-info"> Protects and eases the application of large format graphics to substrates</li><li class="extra-info"> Helpful for applying pre-spaced legends where needed</li><li class="extra-info"> Low-tack adhesive is solvent-free and leaves no residue when removed</li><li class="extra-info"> Recommended for use with 3M™ ElectroCut Film Series 1170</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Material_TPM-5</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035916332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">355.73</s:price>
+      <s:sku>TA TRF TPM5-30X100</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255036571692</id>
+    <published>2019-12-04T10:30:30-05:00</published>
+    <updated>2019-12-04T10:30:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tpm-5-18x100"/>
+    <title>3M TPM-5-18X100  - 3M Clear Transfer Tape TPM-5 18 in x 100 yd TPM-5-18X100 7000129292</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tpm-5-18x100-3m-clear-transfer-tape-tpm-5-18-in-x-100-yd-tpm-5-18x100-7000129292-13179541913644.jpg?v=1578806242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Clear Transfer Tape, TPM-5, 18 in x 100 yd</h4> <li class="extra-info">3M™ Clear Transfer Tape Series TPM-5 is a premask tape designed to protect large format, screen-printed, electronically cut graphics from abrasions during application</li><li class="extra-info">Featuring a unique, low-tack adhesive that leaves no residue when removed, this clear tape eases the application of larger graphics to substrates and is also helpful for applying pre-spaced legends where needed</li><li class="extra-info">This tape is recommended for use with 3M™ ElectroCut Film Series 1170.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TPM-5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Clear transfer tape can also be used as a premask for screen-printed, electronically cut graphics</li><li class="extra-info"> Protects and eases the application of large format graphics to substrates</li><li class="extra-info"> Helpful for applying pre-spaced legends where needed</li><li class="extra-info"> Low-tack adhesive is solvent-free and leaves no residue when removed</li><li class="extra-info"> Recommended for use with 3M™ ElectroCut Film Series 1170</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Material_TPM-5</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255036571692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.72</s:price>
+      <s:sku>TA TRF TPM-5-18X100</s:sku>
+      <s:grams>2857</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255036669996</id>
+    <published>2019-12-04T10:30:29-05:00</published>
+    <updated>2019-12-04T10:30:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tpm-5-6x100"/>
+    <title>3M TPM-5-6X100  - 3M Clear Transfer Tape TPM-5 6 in x 100 yd TPM-5-6X100 7000129286</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tpm-5-6x100-3m-clear-transfer-tape-tpm-5-6-in-x-100-yd-tpm-5-6x100-7000129286-13179542044716.jpg?v=1578806276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Clear Transfer Tape, TPM-5, 6 in x 100 yd</h4> <li class="extra-info">3M™ Clear Transfer Tape Series TPM-5 is a premask tape designed to protect large format, screen-printed, electronically cut graphics from abrasions during application</li><li class="extra-info">Featuring a unique, low-tack adhesive that leaves no residue when removed, this clear tape eases the application of larger graphics to substrates and is also helpful for applying pre-spaced legends where needed</li><li class="extra-info">This tape is recommended for use with 3M™ ElectroCut Film Series 1170.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TPM-5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Clear transfer tape can also be used as a premask for screen-printed, electronically cut graphics</li><li class="extra-info"> Protects and eases the application of large format graphics to substrates</li><li class="extra-info"> Helpful for applying pre-spaced legends where needed</li><li class="extra-info"> Low-tack adhesive is solvent-free and leaves no residue when removed</li><li class="extra-info"> Recommended for use with 3M™ ElectroCut Film Series 1170</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Material_TPM-5</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255036669996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.15</s:price>
+      <s:sku>TA TRF TPM-5-6X100</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051546668</id>
+    <published>2019-12-04T10:27:25-05:00</published>
+    <updated>2019-12-04T10:27:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4318-1-2x36"/>
+    <title>3M 4318-1/2X36  - 3M Urethane Foam Tape 4318 Charcoal Gray, 1/2 in x 36 yd, 18 per case 4318-1/2X36 7000048516</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4318-1-2x36-3m-urethane-foam-tape-4318-charcoal-gray-1-2-in-x-36-yd-18-per-case-4318-1-2x36-7000048516-13120546635820.jpg?v=1580168732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Urethane Foam Tape 4318 Charcoal Gray, 1/2 in x 36 yd, 18 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051546668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.23</s:price>
+      <s:sku>TA TRF 4318-1/2X36</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255052365868</id>
+    <published>2019-12-04T10:27:14-05:00</published>
+    <updated>2019-12-04T10:27:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4108-1-2x36"/>
+    <title>3M 4108-1/2X36  - 3M Urethane Foam Tape 4108 Natural, 1/2 in x 36 yd 30.0 mil, 3 per box 6 boxes per case 4108-1/2X36 7000047508</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4108-1-2x36-3m-urethane-foam-tape-4108-natural-1-2-in-x-36-yd-30-0-mil-3-per-box-6-boxes-per-case-4108-1-2x36-7000047508-13179533656108.jpg?v=1580205487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            70.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Urethane Foam Tape 4108 Natural, 1/2 in x 36 yd 30.0 mil, 3 per box 6 boxes per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255052365868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.60</s:price>
+      <s:sku>TA TRF 4108-1/2X36</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255052431404</id>
+    <published>2019-12-04T10:27:13-05:00</published>
+    <updated>2019-12-04T10:27:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4116-1x36"/>
+    <title>3M 4116-1X36  - 3M Urethane Foam Tape 4116 Natural, 1 in x 36 yd 62.0 mil, 9 per case 4116-1X36 7000047507</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4116-1x36-3m-urethane-foam-tape-4116-natural-1-in-x-36-yd-62-0-mil-9-per-case-4116-1x36-7000047507-13179533623340.jpg?v=1580178180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            93.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Urethane Foam Tape 4116 Natural, 1 in x 36 yd 62.0 mil, 9 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255052431404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.10</s:price>
+      <s:sku>TA TRF 4116-1X36</s:sku>
+      <s:grams>607</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255052529708</id>
+    <published>2019-12-04T10:27:12-05:00</published>
+    <updated>2019-12-04T10:27:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4516-1-in-x36yd"/>
+    <title>3M 4516 1 IN X36YD  - 4516 Bk 1 in x 36 Yd 4516 1 in x36Yd 7000047493</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4516-1-in-x36yd-4516-bk-1-in-x-36-yd-4516-1-in-x36yd-7000047493-13179533754412.jpg?v=1580164382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            90.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4516 BK 1 IN X 36 YD</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZnIlYtenxtB4v78mDVFNvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255052529708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.59</s:price>
+      <s:sku>TA TRF 4516 1 IN X36YD</s:sku>
+      <s:grams>775</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255052496940</id>
+    <published>2019-12-04T10:27:12-05:00</published>
+    <updated>2019-12-04T10:27:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4508-bk-1-4inx36yd"/>
+    <title>3M 4508 BK 1/4INX36YD  - 4508 Bk 1/4 x 36 Yd 4508 Bk 1/4inx36Yd 7000047494</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4508-bk-1-4inx36yd-4508-bk-1-4-x-36-yd-4508-bk-1-4inx36yd-7000047494-13120547618860.jpg?v=1580164535"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4508 BK 1/4 X 36 YD</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0GlYtenxtB4v70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Vinyl Foam Tape 4508 is a black, 125.0 mil (3.2 mm) foam tape that includes an acrylic adhesive with good quick-stick on contact</li><li class="extra-info">It offers good aging characteristics and will remain flexible when exposed to elevated temperatures and UV light</li><li class="extra-info">The con</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255052496940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.88</s:price>
+      <s:sku>TA TRF 4508 BK 1/4INX36YD</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255052562476</id>
+    <published>2019-12-04T10:27:11-05:00</published>
+    <updated>2019-12-04T10:27:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4516-bk-3-4inx36yd"/>
+    <title>3M 4516 BK 3/4INX36YD  - 4516 Bk 3/4 x 36 Yd 4516 Bk 3/4inx36Yd 7000047492</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4516-bk-3-4inx36yd-4516-bk-3-4-x-36-yd-4516-bk-3-4inx36yd-7000047492-13179533819948.jpg?v=1580215618"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4516 BK 3/4 X 36 YD</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0GlYtenxtB4v70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255052562476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.47</s:price>
+      <s:sku>TA TRF 4516 BK 3/4INX36YD</s:sku>
+      <s:grams>589</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293283938348</id>
+    <published>2019-12-04T10:25:30-05:00</published>
+    <updated>2019-12-04T10:25:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f9469pc-12x55"/>
+    <title>3M F9469PC-12X55  - F9469Pc 12mm x 55M F9469Pc-12x55 7100031037</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f9469pc-12x55-f9469pc-12mm-x-55m-f9469pc-12x55-7100031037-13223265894444.jpg?v=1580302979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            34.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">F9469PC 12mm X 55m</h4> <li class="extra-info">All the strength of rivets, spot welds, and permanent fasteners with none of the bulk</li><li class="extra-info">3M™ VHB™ Adhesive Transfer Tape F9649PC leverages the high adhesion strength of 3M™ High Performance Acrylic Adhesive 100MP to offer nearly invisible fastening, with excellent long-term holding power</li><li class="extra-info">This aesthetically-pleasing solution can be pre-applied to trim for production flexibility, and is ideal for bonding dissimilar substrates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Simply press the adhesive side down and peel off liner to apply</li><li class="extra-info"> Very thin, aesthetic bond lines</li><li class="extra-info"> Can be laminated by hand or automation</li><li class="extra-info"> Easy to die-cut and process</li><li class="extra-info"> Polycoated kraft paper lining</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293283938348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.05</s:price>
+      <s:sku>TA TRF F9469PC-12X55</s:sku>
+      <s:grams>195</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293928681516</id>
+    <published>2019-12-03T12:08:08-05:00</published>
+    <updated>2019-12-03T12:08:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f9469pc-25x3"/>
+    <title>3M F9469PC-25X3  - 25mm x 3.0m F9469PC 7000115607</title>
+    <s:type>Transfer Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/transfer-tapes-3m-f9469pc-25x3-25mm-x-3-0m-f9469pc-7000115607-13225797484588.jpg?v=1580091485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Transfer Tapes<br>
+        <strong>Price: </strong>
+            0.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">F9469PC 25mm X 3m</h4> <li class="extra-info">All the strength of rivets, spot welds, and permanent fasteners with none of the bulk</li><li class="extra-info">3M™ VHB™ Adhesive Transfer Tape F9649PC leverages the high adhesion strength of 3M™ High Performance Acrylic Adhesive 100MP to offer nearly invisible fastening, with excellent long-term holding power</li><li class="extra-info">This aesthetically-pleasing solution can be pre-applied to trim for production flexibility, and is ideal for bonding dissimilar substrates.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">3m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">25mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">F9469PC</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Transfer Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Simply press the adhesive side down and peel off liner to apply</li><li class="extra-info"> Very thin, aesthetic bond lines</li><li class="extra-info"> Can be laminated by hand or automation</li><li class="extra-info"> Easy to die-cut and process</li><li class="extra-info"> Polycoated kraft paper lining</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_3m</s:tag>
+    <s:tag>Material_F9469PC</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>Width_25mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293928681516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">0.01</s:price>
+      <s:sku>TA TRF F9469PC-25X3</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255029624876</id>
+    <published>2019-10-16T00:35:09-04:00</published>
+    <updated>2019-10-16T00:35:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9775wl-54inx180yd"/>
+    <title>3M 9775WL-54INX180YD  - Adhesive Transfer Tape 9775WL (51 Inch x 180 Yards) 7010335914</title>
+    <s:type>Transfer Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9775wl-54inx180yd-3m-adhesive-transfer-tape-9775wl-9775wl-54inx180yd-7010335914-13120521469996.jpg?v=1580245925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Transfer Tapes<br>
+        <strong>Price: </strong>
+            2936.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesive Transfer Tape 9775WL</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">180yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">51 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">9775WL</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Transfer Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_180yds</s:tag>
+    <s:tag>Material_9775WL</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>Width_51 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255029624876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2936.85</s:price>
+      <s:sku>TA TRF  9775WL-54INX180YD</s:sku>
+      <s:grams>71540</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028707372</id>
+    <published>2019-10-16T00:34:34-04:00</published>
+    <updated>2019-10-16T00:34:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4108-3x36"/>
+    <title>3M 4108-3X36  - 3M Urethane Foam Tape 4108 4108-3X36 7010372616</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4108-3x36-3m-urethane-foam-tape-4108-4108-3x36-7010372616-13120520224812.jpg?v=1580205690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            336.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Urethane Foam Tape 4108</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028707372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">336.21</s:price>
+      <s:sku>TA TRF 4108-3X36</s:sku>
+      <s:grams>2798</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028183084</id>
+    <published>2019-10-16T00:34:15-04:00</published>
+    <updated>2019-10-16T00:34:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4314-1-2x18"/>
+    <title>3M 4314-1/2X18  - 3M Urethane Foam Tape 4314 Charcoal Gray, 1/2 in x 18 yd 250.0 mil, 3 per box, 6 boxes per case 4314-1/2X18 7100006373</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4314-1-2x18-3m-urethane-foam-tape-4314-charcoal-gray-1-2-in-x-18-yd-250-0-mil-3-per-box-6-boxes-per-case-4314-1-2x18-7100006373-13120519733292.jpg?v=1580211061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Urethane Foam Tape 4314 Charcoal Gray, 1/2 in x 18 yd 250.0 mil, 3 per box, 6 boxes per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028183084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.57</s:price>
+      <s:sku>TA TRF 4314-1/2X18</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255026184236</id>
+    <published>2019-10-16T00:33:00-04:00</published>
+    <updated>2019-10-16T00:33:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4504-2in-x18yd"/>
+    <title>3M 4504 2IN X18YD  - 4504 Yem Blkin x 18 Yd 4504 2in x18Yd 7100021952</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4504-2in-x18yd-4504-yem-blkin-x-18-yd-4504-2in-x18yd-7100021952-13120518258732.jpg?v=1580164616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            206.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4504 YEM BLK 2IN X 18 YD</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255026184236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">206.65</s:price>
+      <s:sku>TA TRF 4504 2IN X18YD</s:sku>
+      <s:grams>2345</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255023693868</id>
+    <published>2019-10-16T00:31:27-04:00</published>
+    <updated>2019-10-16T00:31:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4496w-54inx36yd"/>
+    <title>3M 4496W 54INX36YD  - 4496W Foam Tape Dbl Coat Wt 54in x 36Yd 4496W 54inx36Yd 7100035721</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-4496w-54inx36yd-4496w-foam-tape-dbl-coat-wt-54in-x-36yd-4496w-54inx36yd-7100035721-13120515735596.jpg?v=1580164772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1138.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4496W Foam Tape DBL Coat WT 54In X 36YD</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255023693868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1138.25</s:price>
+      <s:sku>TA TRF 4496W 54INX36YD</s:sku>
+      <s:grams>16923</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255022776364</id>
+    <published>2019-10-16T00:30:51-04:00</published>
+    <updated>2019-10-16T00:30:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-vg7132b-fc521-3"/>
+    <title>3M VG7132B-FC521-3  - Vg7132B-Fc521 Disc 1/32 Pe Bk 3/8x250Ft Vg7132B-Fc521-3 7100043801</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-vg7132b-fc521-3-vg7132b-fc521-disc-1-32-pe-bk-3-8x250ft-vg7132b-fc521-3-7100043801-13120514818092.jpg?v=1578816726"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">VG7132B-FC521 DC 1/32 PE BK 3/8X250FT</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255022776364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.89</s:price>
+      <s:sku>TA TRF VG7132B-FC521-3</s:sku>
+      <s:grams>267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255022645292</id>
+    <published>2019-10-16T00:30:47-04:00</published>
+    <updated>2019-10-16T00:30:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-vg716w-fc541-3"/>
+    <title>3M VG716W-FC541-3  - Vg716W-Fc541 Disc 1/16 Pe Wt 3/8inx150Ft Vg716W-Fc541-3 7100043880</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-vg716w-fc541-3-vg716w-fc541-disc-1-16-pe-wt-3-8inx150ft-vg716w-fc541-3-7100043880-13120514687020.jpg?v=1578816758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">VG716W-FC541 DC 1/16 PE WT 3/8INX150FT</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255022645292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.44</s:price>
+      <s:sku>TA TRF VG716W-FC541-3</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255018254380</id>
+    <published>2019-10-16T00:27:49-04:00</published>
+    <updated>2019-10-16T00:27:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9082-48x60"/>
+    <title>3M 9082-48X60  - 3M Ultra High Temperature Adhesive Transfer Tape 9082 9082-48X60 7100077460</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9082-48x60-3m-ultra-high-temperature-adhesive-transfer-tape-9082-9082-48x60-7100077460-13120510099500.jpg?v=1580140503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2216.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Ultra High Temperature Adhesive Transfer Tape 9082</h4> <li class="extra-info">3M™ Ultra High Temperature Adhesive Transfer Tape 9082 offers exceptional shear strength, high peel strength, and excellent heat resistance in high temperature environments</li><li class="extra-info">This tape features 3M™ Ultra High Temperature Adhesive 100HT, an adhesive thickness of 2.0 mil (0.05 mm), and a 3.2 mil (0.08 mm) thick densified kraft paper liner .</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">9082</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Simply press the adhesive side down and peel off liner to apply</li><li class="extra-info"> Very thin, aesthetic bond lines</li><li class="extra-info"> Can be laminated by hand or automation</li><li class="extra-info"> Easy to die-cut and process</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Material_9082</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255018254380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2216.54</s:price>
+      <s:sku>TA TRF 9082-48X60</s:sku>
+      <s:grams>3978</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255015698476</id>
+    <published>2019-10-16T00:26:01-04:00</published>
+    <updated>2019-10-16T00:26:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-l1-rtc-54x250"/>
+    <title>3M L1+RTC-54X250  - 3M Scrim Reinforced Adhesive Tape L1+RT clear 3.2 mil 54 in x 250 yd (137 cm x 230 m) L1+RTC-54X250 7100089788</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-l1-rtc-54x250-3m-scrim-reinforced-adhesive-tape-l1-rt-clear-3-2-mil-54-in-x-250-yd-137-cm-x-230-m-l1-rtc-54x250-7100089788-13179538931756.jpg?v=1580061601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1459.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scrim Reinforced Adhesive Tape, L1+RT, clear, 3.2 mil, 54 in x 250 yd (137 cm x 230 m)</h4> <li class="extra-info">3M™ Scrim Reinforced Adhesive Tape L1+RT is a 3.2-mil (0.08 mm) adhesive tape with a reinforced scrim carrier for dimensional stability</li><li class="extra-info">It is recommended for applications such as lamination to many open and closed cell foams.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">L1</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Designed to withstand temperatures up to 200°F (93°C)</li><li class="extra-info"> Features a white, unprinted, densified kraft liner for excellent processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Material_L1</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255015698476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1459.19</s:price>
+      <s:sku>TA TRF L1+RTC-54X250</s:sku>
+      <s:grams>65847</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255015632940</id>
+    <published>2019-10-16T00:25:56-04:00</published>
+    <updated>2019-10-16T00:25:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-468mp-1-2x60"/>
+    <title>3M 468MP-1/2X60  - Adhesive Transfer Tape 468MP in Clear (1/2 Inch x 60 Yards x 5.0 mil) 7100089859</title>
+    <s:type>Transfer Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-468mp-1-2x60-3m-adhesive-transfer-tape-468mp-clear-1-2-in-x-60-yd-1-3-cm-x-55-m-468mp-1-2x60-7100089859-13120504332332.jpg?v=1580163423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Transfer Tapes<br>
+        <strong>Price: </strong>
+            17.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesive Transfer Tape, 468MP, clear, 1/2 in x 60 yd (1.3 cm x 55 m)</h4> <li class="extra-info">The no-fuss, industry leading solution for a variety of needs</li><li class="extra-info">3M™ Adhesive Transfer Tape 468MP is the clearest of 3M™ Transfer Tapes and offers a neat and precise application with no mess or waste when applied to flat surfaces</li><li class="extra-info">It has excellent shear strength, as well as high temperature and chemical resistance, making it an ideal choice for graphic attachment and die-cut parts</li><li class="extra-info">This tape features 3M™ High Performance Acrylic Adhesive 200MP, an adhesive thickness of 5 mils (0.13 mm), and a polycoated kraft paper liner of 4.2 mil (0.11 mm) thickness.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNU4xteNxtBlv70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">60yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">468</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Transfer Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Simply press the adhesive side down and peel off liner to apply</li><li class="extra-info"> Very thin, aesthetic bond lines</li><li class="extra-info"> Can be laminated by hand or automation</li><li class="extra-info"> Easy to die-cut and process</li><li class="extra-info"> Polycoated kraft paper lining</li><h2>Suggested Application</h2><li class="extra-info">Used for adhering, affixing, assembling, attaching, bonding, converting, cushioning, fastening, fixturing, gasketing, gluing, holding, identifying, ingress protecting, insulating, isolating, joining, labelling, laminating, marking, mounting, processing, s</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_60yds</s:tag>
+    <s:tag>Material_468</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>Width_1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255015632940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.48</s:price>
+      <s:sku>TA TRF 468MP-1/2X60</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255008849964</id>
+    <published>2019-10-16T00:22:35-04:00</published>
+    <updated>2019-10-16T00:22:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-l2-dcp-54x250"/>
+    <title>3M L2+DCP-54X250  - 3M Double Coated Differential Adhesive Tape, L2+DCP, clear, 6.7 mil, 54 in x 250 yd (137 cm x 230 m) L2+DCP-54X250 7100112501</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-l2-dcp-54x250-3m-double-coated-differential-adhesive-tape-l2-dcp-clear-6-7-mil-54-in-x-250-yd-137-cm-x-230-m-l2-dcp-54x250-7100112501-13120486932524.jpg?v=1580060728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2906.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Double Coated Differential Adhesive Tape, L2+DCP, clear, 6.7 mil, 54 in x 250 yd (137 cm x 230 m)</h4> <li class="extra-info">3M™ Double Coated Differential Adhesive Tape L2+DCP is a 6.7-mil (0.17 mm) two-sided tape that offers maximum conformability and good adhesion to open and closed cell foam surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Can withstand temperatures up to 225°F (107°C)</li><li class="extra-info"> Features polycoated kraft paper liner</li><li class="extra-info"> Offers initial high tack to many open and closed cell foams</li><li class="extra-info"> Excellent peel adhesion and shear strength</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255008849964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2906.73</s:price>
+      <s:sku>TA TRF L2+DCP-54X250</s:sku>
+      <s:grams>30240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254999937068</id>
+    <published>2019-10-16T00:15:35-04:00</published>
+    <updated>2019-10-16T00:15:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9675-3x60"/>
+    <title>3M 9675-3X60  - 3M Adhesive Transfer Tape 9675 9675-3X60 7100176418</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9675-3x60-3m-adhesive-transfer-tape-9675-9675-3x60-7100176418-13120473235500.jpg?v=1580242016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            121.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesive Transfer Tape 9675</h4> <li class="extra-info">3M™ Adhesive Transfer Tape 9675 offers neat, precise application with no mess or waste when applied to flat surfaces</li><li class="extra-info">It has high shear and tack strength, as well as excellent adhesion to plastics and foams, making it an ideal choice for graphic attachment</li><li class="extra-info">Features 3M™ High Performance Acrylic Adhesive 350, an adhesive thickness of 5.0 mil (0.13 mm), and a polycoated kraft paper liner of 6.2 mil (0.16 mm).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">9675</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Heavy linered version of 3M™ Adhesive Transfer Tape 9485PC</li><li class="extra-info"> Simply press adhesive side down and peel off liner to apply</li><li class="extra-info"> Very thin, aesthetic bond lines</li><li class="extra-info"> Can be laminated by hand or automation</li><li class="extra-info"> Easy to die-cut and process</li><li class="extra-info"> Heavy polycoated kraft paper lining for easy handling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Material_9675</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254999937068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">121.77</s:price>
+      <s:sku>TA TRF 9675-3X60</s:sku>
+      <s:grams>1170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254977949740</id>
+    <published>2019-10-16T00:01:49-04:00</published>
+    <updated>2019-10-16T00:01:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7962mp-24x36"/>
+    <title>3M 7962MP-24X36  - Adhesive Transfer Tape Double Linered 7962MP Clear 2.3 mil 24 Inchx 36 Inch (61 cm x 91 cm) sheet 7000115624</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-7962mp-24x36-adhesive-transfer-tape-double-linered-7962mp-clear-2-3-mil-24-inchx-36-inch-61-cm-x-91-cm-sheet-7000115624-13120438566956.jpg?v=1580224566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            10.92
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Adhesive Transfer Tape Double Linered, 7962MP, clear, 2.3 mil, 24 in x 36 in (61 cm x 91 cm) sheet</h4> <li class="extra-info">3M™ Adhesive Transfer Tape Double Linered 7962MP is a 2.0 mil, 200MP, high performance acrylic adhesive on a double liner of 4.2 mil, 58 pound polycoated Kraft paper and 6.2 mil, 83 pound, polycoated Kraft paper.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">36 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">24 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">7962MP</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">2.0 mil tape on double liner of 4.2 mil, 58 pound, polycoated Kraft paper and 6.2 mil, 83 pound, polycoated Kraft paper</li><li class="extra-info"> Excellent moisture resistance</li><li class="extra-info"> Excellent solvent resistance</li><li class="extra-info"> Excellent high temperature resistance</li><li class="extra-info"> Excellent shear strength</li><li class="extra-info"> UV resistant</li><li class="extra-info"> Easy to apply</li><li class="extra-info"> Not messy</li><li class="extra-info"> Easily die-cuttable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_36 Inch</s:tag>
+    <s:tag>Material_7962MP</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>Width_24 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254977949740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.92</s:price>
+      <s:sku>TA TRF 7962MP-24X36</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254977916972</id>
+    <published>2019-10-16T00:01:46-04:00</published>
+    <updated>2019-10-16T00:01:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-tpm-5-15x100"/>
+    <title>3M TPM-5-15X100  - Clear Transfer Tape TPM-5 15 Inch x 100 Yards 7000141745</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-tpm-5-15x100-clear-transfer-tape-tpm-5-15-inch-x-100yds-7000141745-13179541979180.jpg?v=1578806154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            177.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Clear Transfer Tape, TPM-5, 15 in x 100 yd</h4> <li class="extra-info">3M™ Clear Transfer Tape Series TPM-5 is a premask tape designed to protect large format, screen-printed, electronically cut graphics from abrasions during application</li><li class="extra-info">Featuring a unique, low-tack adhesive that leaves no residue when removed, this clear tape eases the application of larger graphics to substrates and is also helpful for applying pre-spaced legends where needed</li><li class="extra-info">This tape is recommended for use with 3M™ ElectroCut Film Series 1170.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">100yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">15 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">TPM-5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Clear transfer tape can also be used as a premask for screen-printed, electronically cut graphics</li><li class="extra-info"> Protects and eases the application of large format graphics to substrates</li><li class="extra-info"> Helpful for applying pre-spaced legends where needed</li><li class="extra-info"> Low-tack adhesive is solvent-free and leaves no residue when removed</li><li class="extra-info"> Recommended for use with 3M™ ElectroCut Film Series 1170</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_100yds</s:tag>
+    <s:tag>Material_TPM-5</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA TRF</s:tag>
+    <s:tag>Width_15 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254977916972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">177.87</s:price>
+      <s:sku>TA TRF TPM-5-15X100</s:sku>
+      <s:grams>11099</s:grams>
+    </s:variant>
+  </entry>
+</feed>

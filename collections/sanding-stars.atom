@@ -1,0 +1,1259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/sanding-stars.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:27:11-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255052595244</id>
+    <published>2019-12-04T10:27:11-05:00</published>
+    <updated>2019-12-04T10:27:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-727334"/>
+    <title>3M STA-727334  - Cb 1x3/8x2Plyx8-32Crs A/O Hs 727334 7000047211</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-727334-cb-1x3-8x2plyx8-32crs-a-o-hs-727334-7000047211-13120547651628.jpg?v=1578797149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">CB 1X3/8X2PLYX8-32CRS A/O HS SA 727334</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM829ox_9mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255052595244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.16</s:price>
+      <s:sku>CA SST STA-727334</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255007178796</id>
+    <published>2019-10-16T00:21:02-04:00</published>
+    <updated>2019-10-16T00:21:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am18978"/>
+    <title>3M AM18978  - Surface Conditioning Med 2 in x 1/4-20 7100118978</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am18978-surface-conditioning-med-2-in-x-1-4-20-7100118978-13120481755180.jpg?v=1580279733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SA S/COND MED 2 IN x 1/4-20 STAR</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82BnY_1Nv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255007178796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.30</s:price>
+      <s:sku>CA SST AM18978</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812340736044</id>
+    <published>2019-05-11T03:48:50-04:00</published>
+    <updated>2019-05-11T03:48:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93166"/>
+    <title>Dynabrade 93166  - 4 Inch Spindle Mount 80 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Spindle mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spindle-mount-dynabrade-93166-4-inch-spindle-mount-80-grit-aluminum-oxide-sanding-star-12782531706924.png?v=1579096523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Spindle mount<br>
+        <strong>Price: </strong>
+            35.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">80 Grit A/O Spindle-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spindle mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812340736044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.84</s:price>
+      <s:sku>CA SST 93166</s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812340670508</id>
+    <published>2019-05-11T03:48:50-04:00</published>
+    <updated>2019-05-11T03:48:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93167"/>
+    <title>Dynabrade 93167  - 4 Inch Spindle Mount 120 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Spindle mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spindle-mount-dynabrade-93167-4-inch-spindle-mount-120-grit-aluminum-oxide-sanding-star-12782532001836.png?v=1579096556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Spindle mount<br>
+        <strong>Price: </strong>
+            35.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">120 Grit A/O Spindle-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spindle mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812340670508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.84</s:price>
+      <s:sku>CA SST 93167</s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812340211756</id>
+    <published>2019-05-11T03:48:11-04:00</published>
+    <updated>2019-05-11T03:48:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93169"/>
+    <title>Dynabrade 93169  - 4 Inch Spindle Mount 180 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Spindle mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spindle-mount-dynabrade-93169-4-inch-spindle-mount-180-grit-aluminum-oxide-sanding-star-12782532100140.png?v=1579096705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Spindle mount<br>
+        <strong>Price: </strong>
+            35.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">180 Grit A/O Spindle-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spindle mount</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">1</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812340211756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.84</s:price>
+      <s:sku>CA SST 93169</s:sku>
+      <s:grams>98</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812340178988</id>
+    <published>2019-05-11T03:48:10-04:00</published>
+    <updated>2019-05-11T03:48:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93168"/>
+    <title>Dynabrade 93168  - 4 Inch Spindle Mount 150 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Spindle mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spindle-mount-dynabrade-93168-4-inch-spindle-mount-150-grit-aluminum-oxide-sanding-star-12782532067372.png?v=1579096795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Spindle mount<br>
+        <strong>Price: </strong>
+            35.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">150 Grit A/O Spindle-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">150</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spindle mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812340178988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.84</s:price>
+      <s:sku>CA SST 93168</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812340146220</id>
+    <published>2019-05-11T03:48:10-04:00</published>
+    <updated>2019-05-11T03:48:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93171"/>
+    <title>Dynabrade 93171  - 4 Inch Spindle Mount 220 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Spindle mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spindle-mount-dynabrade-93171-4-inch-spindle-mount-220-grit-aluminum-oxide-sanding-star-12782532231212.png?v=1579096761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Spindle mount<br>
+        <strong>Price: </strong>
+            35.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">220 Grit A/O Spindle-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">220</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spindle mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_220</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812340146220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.84</s:price>
+      <s:sku>CA SST 93171</s:sku>
+      <s:grams>96</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812338868268</id>
+    <published>2019-05-11T03:46:34-04:00</published>
+    <updated>2019-05-11T03:46:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93541"/>
+    <title>Dynabrade 93541  - 1-1/2 Inch Eyelet Mount 80 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Eyelet mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/eyelet-mount-dynabrade-93541-1-1-2-inch-eyelet-mount-80-grit-aluminum-oxide-sanding-star-12782534688812.png?v=1579098329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Eyelet mount<br>
+        <strong>Price: </strong>
+            11.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">1-1/2 Inch (38 mm) Dia</li><li class="extra-info">80 Grit A/O Eyelet Sanding Star</li><li class="extra-info"> The most common mineral used in a wide range of good, general purpose abrasive products for use primarily on softer materials</li><li class="extra-info">It lacks the hardness of some other abrasive minerals but delivers a dependable performance where high pressure/high heat applies</li><li class="extra-info"> Denibbing and sanding white wood raised panels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Eyelet mount</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_1-1/2 Inch</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812338868268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.54</s:price>
+      <s:sku>CA SST 93541</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812338966572</id>
+    <published>2019-05-11T03:46:33-04:00</published>
+    <updated>2019-05-11T03:46:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93544"/>
+    <title>Dynabrade 93544  - 1-1/2 Inch Eyelet Mount 180 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Eyelet mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/eyelet-mount-dynabrade-93544-1-1-2-inch-eyelet-mount-180-grit-aluminum-oxide-sanding-star-12746803445804.jpg?v=1579098238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Eyelet mount<br>
+        <strong>Price: </strong>
+            11.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">1-1/2 Inch (38 mm) Dia</li><li class="extra-info">180 Grit A/O Eyelet Sanding Star</li><li class="extra-info"> The most common mineral used in a wide range of good, general purpose abrasive products for use primarily on softer materials</li><li class="extra-info">It lacks the hardness of some other abrasive minerals but delivers a dependable performance where high pressure/high heat applies</li><li class="extra-info"> Denibbing and sanding white wood raised panels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Eyelet mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_1-1/2 Inch</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812338966572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.54</s:price>
+      <s:sku>CA SST 93544</s:sku>
+      <s:grams>9</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812337754156</id>
+    <published>2019-05-11T03:46:06-04:00</published>
+    <updated>2019-05-11T03:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93586"/>
+    <title>Dynabrade 93586  - 1 Inch X 3mm - 48 Eyelet Mount 80 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Eyelet mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/eyelet-mount-dynabrade-93586-1-inch-x-3mm-48-eyelet-mount-80-grit-aluminum-oxide-sanding-star-12782534852652.png?v=1579098481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Eyelet mount<br>
+        <strong>Price: </strong>
+            3.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">1 Inch (25 mm) Dia</li><li class="extra-info">80 Grit A/O Eyelet Sanding Star</li><li class="extra-info"> The most common mineral used in a wide range of good, general purpose abrasive products for use primarily on softer materials</li><li class="extra-info">It lacks the hardness of some other abrasive minerals but delivers a dependable performance where high pressure/high heat applies</li><li class="extra-info"> Denibbing and sanding white wood raised panels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Eyelet </td>
+<td class="egrimes">3mm - 48</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Poland</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Eyelet mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_1 Inch</s:tag>
+    <s:tag>Eyelet_3mm - 48</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812337754156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.09</s:price>
+      <s:sku>CA SST 93586</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812337721388</id>
+    <published>2019-05-11T03:46:06-04:00</published>
+    <updated>2019-05-11T03:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93559"/>
+    <title>Dynabrade 93559  - 3 Inch Eyelet Mount 120 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Eyelet mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/eyelet-mount-dynabrade-93559-3-inch-eyelet-mount-120-grit-aluminum-oxide-sanding-star-12782534819884.png?v=1579098566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Eyelet mount<br>
+        <strong>Price: </strong>
+            15.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">3 Inch (76 mm) Dia</li><li class="extra-info">120 Grit A/O Eyelet Sanding Star</li><li class="extra-info"> The most common mineral used in a wide range of good, general purpose abrasive products for use primarily on softer materials</li><li class="extra-info">It lacks the hardness of some other abrasive minerals but delivers a dependable performance where high pressure/high heat applies</li><li class="extra-info"> Denibbing and sanding white wood raised panels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Eyelet mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_3 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812337721388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.56</s:price>
+      <s:sku>CA SST 93559</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812337688620</id>
+    <published>2019-05-11T03:46:06-04:00</published>
+    <updated>2019-05-11T03:46:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93551"/>
+    <title>Dynabrade 93551  - 2 Inch Eyelet Mount 80 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Eyelet mount</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/eyelet-mount-dynabrade-93551-2-inch-eyelet-mount-80-grit-aluminum-oxide-sanding-star-12782535147564.png?v=1579098394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Eyelet mount<br>
+        <strong>Price: </strong>
+            12.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) Dia</li><li class="extra-info">80 Grit A/O Eyelet Sanding Star</li><li class="extra-info"> The most common mineral used in a wide range of good, general purpose abrasive products for use primarily on softer materials</li><li class="extra-info">It lacks the hardness of some other abrasive minerals but delivers a dependable performance where high pressure/high heat applies</li><li class="extra-info"> Denibbing and sanding white wood raised panels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Eyelet mount</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_2 Inch</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812337688620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.40</s:price>
+      <s:sku>CA SST 93551</s:sku>
+      <s:grams>21</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812182106156</id>
+    <published>2019-05-11T01:52:32-04:00</published>
+    <updated>2019-05-11T01:52:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93247"/>
+    <title>Dynabrade 93247  - 8 Inch X 1 Inch Arbor Mount 180 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Arbor Mounted Sanding Stars</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/arbor-mounted-sanding-stars-dynabrade-93247-8-inch-x-1-inch-arbor-mount-180-grit-aluminum-oxide-sanding-star-12746659790892.jpg?v=1579096947"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Arbor Mounted Sanding Stars<br>
+        <strong>Price: </strong>
+            22.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">8 Inch (203 mm) Dia</li><li class="extra-info">180 Grit A/O Arbor-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Arbor Mounted Sanding Stars</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812182106156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.47</s:price>
+      <s:sku>CA SST 93247</s:sku>
+      <s:grams>84</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812182073388</id>
+    <published>2019-05-11T01:52:32-04:00</published>
+    <updated>2019-05-11T01:52:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93397"/>
+    <title>Dynabrade 93397  - 4 Inch X 1/2 Inch Arbor Mount 320 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Arbor Mounted Sanding Stars</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/arbor-mounted-sanding-stars-dynabrade-93397-4-inch-x-1-2-inch-arbor-mount-320-grit-aluminum-oxide-sanding-star-12782533574700.png?v=1579098360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Arbor Mounted Sanding Stars<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">320 Grit A/O Arbor-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">320</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Arbor Mounted Sanding Stars</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_320</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812182073388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>CA SST 93397</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812182007852</id>
+    <published>2019-05-11T01:52:28-04:00</published>
+    <updated>2019-05-11T01:52:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93394"/>
+    <title>Dynabrade 93394  - 4 Inch X 1/2 Inch Arbor Mount 150 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Arbor Mounted Sanding Stars</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/arbor-mounted-sanding-stars-dynabrade-93394-4-inch-x-1-2-inch-arbor-mount-150-grit-aluminum-oxide-sanding-star-12782533509164.png?v=1579097960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Arbor Mounted Sanding Stars<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">150 Grit A/O Arbor-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">150</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Arbor Mounted Sanding Stars</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_150</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812182007852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>CA SST 93394</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812156153900</id>
+    <published>2019-05-11T01:40:32-04:00</published>
+    <updated>2019-05-11T01:40:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93393"/>
+    <title>Dynabrade 93393  - 4 Inch X 1/2 Inch Arbor Mount 120 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Arbor Mounted Sanding Stars</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/arbor-mounted-sanding-stars-dynabrade-93393-4-inch-x-1-2-inch-arbor-mount-120-grit-aluminum-oxide-sanding-star-12782533443628.png?v=1579097907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Arbor Mounted Sanding Stars<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">120 Grit A/O Arbor-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Arbor Mounted Sanding Stars</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812156153900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>CA SST 93393</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812156088364</id>
+    <published>2019-05-11T01:40:28-04:00</published>
+    <updated>2019-05-11T01:40:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93392"/>
+    <title>Dynabrade 93392  - 4 Inch X 1/2 Inch Arbor Mount 80 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Arbor Mounted Sanding Stars</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/arbor-mounted-sanding-stars-dynabrade-93392-4-inch-x-1-2-inch-arbor-mount-80-grit-aluminum-oxide-sanding-star-12746629054508.jpg?v=1579097841"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Arbor Mounted Sanding Stars<br>
+        <strong>Price: </strong>
+            7.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">4 Inch (102 mm) Dia</li><li class="extra-info">80 Grit A/O Arbor-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Arbor Mounted Sanding Stars</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812156088364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.99</s:price>
+      <s:sku>CA SST 93392</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812121354284</id>
+    <published>2019-05-11T01:01:37-04:00</published>
+    <updated>2019-05-11T01:01:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-93245"/>
+    <title>Dynabrade 93245  - 8 Inch X 1 Inch Arbor Mount 120 Grit Aluminum Oxide Sanding Star</title>
+    <s:type>Arbor Mounted Sanding Stars</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/arbor-mounted-sanding-stars-dynabrade-93245-8-inch-x-1-inch-arbor-mount-120-grit-aluminum-oxide-sanding-star-12749606846508.jpg?v=1579096880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Arbor Mounted Sanding Stars<br>
+        <strong>Price: </strong>
+            22.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">8 Inch (203 mm) Dia</li><li class="extra-info">120 Grit A/O Arbor-Mount Sanding Star</li><li class="extra-info"> Premium aluminum oxide abrasive resin bonded to a flexibe cloth backing provides consintuous cutting action without gouging.</li><li class="extra-info"> A good choice for denibbing and sanding white wood raised panels , sanding carvings ad other comples shapes without chaging the shape detail</li><li class="extra-info"> Also used for metal deburring and polishing, ID and OD cleaning and of metal surfaces</li><li class="extra-info"> The grain, bond and backing wear away together during use, continuously exposing sharp fresh abrasives for long usefule life whil generating a consistent</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Arbor Mounted Sanding Stars</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SST</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812121354284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.47</s:price>
+      <s:sku>CA SST 93245</s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+  </entry>
+</feed>

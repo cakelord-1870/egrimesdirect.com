@@ -1,0 +1,1353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/electric-pumps.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:07:23-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813178679340</id>
+    <published>2019-05-11T12:07:23-04:00</published>
+    <updated>2019-05-11T12:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jgin-15"/>
+    <title>JET JGIN-15  - Grease Injector Needle 350206</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jgin-15-grease-injector-needle-350206-12748810944556.jpg?v=1579540506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            10.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Grease Injector Needle</h4> <li class="extra-info">Lubricates in extremely tight places including U-joints and sealed bearings</li><li class="extra-info"> Fits directly on jaw type couplers</li><li class="extra-info"> 18 gauge stainless steel</li><li class="extra-info"> 1-1/2" long</li><li class="extra-info"> With protective plastic cover</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813178679340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.52</s:price>
+      <s:sku>AC PUM 350206</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813178515500</id>
+    <published>2019-05-11T12:07:20-04:00</published>
+    <updated>2019-05-11T12:07:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jrla-1"/>
+    <title>JET JRLA-1  - Quick Change Recessed Adapter 350208</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jrla-1-quick-change-recessed-adapter-350208-12748810747948.jpg?v=1579553413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            36.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Quick Change Recessed Adaptor</h4> <li class="extra-info">4" length, tip diameter 0.22"</li><li class="extra-info"> For push on greasing of fittings where obstruction will not allow use of regular coupler</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813178515500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.18</s:price>
+      <s:sku>AC PUM 350208</s:sku>
+      <s:grams>10</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813165670444</id>
+    <published>2019-05-11T12:02:30-04:00</published>
+    <updated>2019-05-11T12:02:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jnnd-1"/>
+    <title>JET JNND-1  - Needle Nose Dispenser 350205</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jnnd-1-needle-nose-dispenser-350205-12748775850028.jpg?v=1579547408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            16.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Needle Nose Dispenser</h4> <li class="extra-info">For dispensing fine line of grease</li><li class="extra-info"> Allows contact with flush or hard-to-reach fittings in inaccessible areas</li><li class="extra-info"> 1-1/2" needle length, diameter 0.156"</li><li class="extra-info"> 1/8" NPT threads</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>Size_1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813165670444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.56</s:price>
+      <s:sku>AC PUM 350205</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813144469548</id>
+    <published>2019-05-11T11:54:29-04:00</published>
+    <updated>2019-05-11T11:54:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jrac-2"/>
+    <title>JET JRAC-2  - Quick Change Right Angle Coupler 350211</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jrac-2-quick-change-right-angle-coupler-350211-12748715196460.jpg?v=1579553136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            37.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Quick Change Right Angle Coupler</h4> <li class="extra-info">Working pressure 1,000 PSI</li><li class="extra-info"> Particularly useful in low height applications</li><li class="extra-info"> Polyurethane seal fits perfectly on grease fitting</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813144469548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.70</s:price>
+      <s:sku>AC PUM 350211</s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813137686572</id>
+    <published>2019-05-11T11:52:02-04:00</published>
+    <updated>2019-05-11T11:52:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jsod-1"/>
+    <title>JET JSOD-1  - Quick Change Seal-Off Dispenser 350212</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jsod-1-quick-change-seal-off-dispenser-350212-12748701859884.jpg?v=1579553645"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            37.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Quick Change Seal-Off Dispenser</h4> <li class="extra-info">Used for lubricating cars with grease plugs</li><li class="extra-info"> Oil and grease resistant rubber tip</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813137686572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.70</s:price>
+      <s:sku>AC PUM 350212</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813128773676</id>
+    <published>2019-05-11T11:48:41-04:00</published>
+    <updated>2019-05-11T11:48:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jnnd-2"/>
+    <title>JET JNND-2  - Quick Change Needle Nose Adapter 350210</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jnnd-2-quick-change-needle-nose-adapter-350210-12748680200236.jpg?v=1579547461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            36.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Quick Change Needle Nose Adaptor</h4> <li class="extra-info">1-1/2" needle length, diameter 0.156"</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813128773676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.18</s:price>
+      <s:sku>AC PUM 350210</s:sku>
+      <s:grams>140</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813126021164</id>
+    <published>2019-05-11T11:47:49-04:00</published>
+    <updated>2019-05-11T11:47:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jala-1"/>
+    <title>JET JALA-1  - Quick Change Angle Adapter 350209</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jala-1-quick-change-angle-adapter-350209-12748674695212.jpg?v=1579506155"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            36.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Quick Change Angle Adaptor</h4> <li class="extra-info">.019" diameter</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813126021164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.18</s:price>
+      <s:sku>AC PUM 350209</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813075460140</id>
+    <published>2019-05-11T11:28:10-04:00</published>
+    <updated>2019-05-11T11:28:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jqcc-7s"/>
+    <title>JET JQCC-7S  - 7 Piece Quick Change Coupler Set 350213</title>
+    <s:type>Quick Change Coupler Adaptors</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/quick-change-coupler-adaptors-jet-jqcc-7s-7-piece-quick-change-coupler-set-350213-12748525666348.jpg?v=1579552985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Quick Change Coupler Adaptors<br>
+        <strong>Price: </strong>
+            181.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7 PC Quick Change Coupler Set</h4> <li class="extra-info">Quick change feature snaps directly onto jaw type couplers – no need to remove hydraulic coupler to change accessories</li><li class="extra-info"> Instantly converts jaw type couplers for fine line greasing for access to confined areas</li><li class="extra-info"> Protective sleeve secures connection</li><li class="extra-info"> Ideal for applications where fittings are in hard-to-reach areas</li><li class="extra-info"> For hand operated grease guns</li><li class="extra-info"> Set contains one each:</li><li class="extra-info"> Recessed lube adaptor (350208)</li><li class="extra-info"> Angle lube adaptor (350209)</li><li class="extra-info"> Needle nose adaptor (350210)</li><li class="extra-info"> Right angle coupler (350211)</li><li class="extra-info"> Seal off dispenser (350212)</li><li class="extra-info"> Grease injector needle (350206)</li><li class="extra-info"> 12" flexible hose (350201)</li><li class="extra-info"> Terylene pouch</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Quick Change Coupler Adaptors</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Quick change feature snaps directly onto jaw type couplers - no need to remove hydraulic coupler to change accessories</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813075460140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">181.17</s:price>
+      <s:sku>AC PUM 350213</s:sku>
+      <s:grams>910</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813040889900</id>
+    <published>2019-05-11T11:14:53-04:00</published>
+    <updated>2019-05-11T11:14:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-afsb30"/>
+    <title>JET AFSB30  - Pump Float Switch 0.5 Hp 290791</title>
+    <s:type>Submersible Pump Accessories</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/submersible-pump-accessories-jet-afsb30-pump-float-switch-0-5-hp-290791-12748426739756.jpg?v=1579479956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Submersible Pump Accessories<br>
+        <strong>Price: </strong>
+            155.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Pump Float Switch 0.5 HP</h4> <li class="extra-info">Mechanically activated, 90° wide angle pump switch provides automatic control of pumps</li><li class="extra-info"> This pump switch is not sensitive to rotation or turbulence allowing it to be used in both calm and turbulent applications</li><li class="extra-info"> FEATURES:</li><li class="extra-info"> Heavy duty contacts</li><li class="extra-info"> Moulded piggyback plug</li><li class="extra-info"> UL Components recognized</li><li class="extra-info"> CSA Certified</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Submersible Pump Accessories</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15/32 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Mechanically activated, 90° wide angle pump switch provides automatic control of pumps</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>Size_15/32 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813040889900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">155.52</s:price>
+      <s:sku>AC PUM 290791</s:sku>
+      <s:grams>15002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813040857132</id>
+    <published>2019-05-11T11:14:53-04:00</published>
+    <updated>2019-05-11T11:14:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-r400-115"/>
+    <title>JET R400-115  - 1/2 Hp Submersible Pump 290771</title>
+    <s:type>Submersible Pumps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/submersible-pumps-jet-r400-115-1-2-hp-submersible-pump-290771-12748426870828.jpg?v=1579571100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Submersible Pumps<br>
+        <strong>Price: </strong>
+            841.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 HP Submersible Pump</h4> <li class="extra-info">Ideal for dewatering constructions sites, mines, circulating fountain water, or for all around use in industrial plants and utilities</li><li class="extra-info"> Top discharge – allows for superior cooling of motor and provides a slim line design</li><li class="extra-info"> Longer power cord – standard 33' power cord</li><li class="extra-info"> 304 Stainless steel motor housing – superior abrasion resistance will not wear out like aluminum motor housings when pumping sandy water</li><li class="extra-info"> Three seal motor protection - motor is protected by double mechanical seals</li><li class="extra-info">Lower seal made of silicon carbide and upper seal is made of carbon/ceramic</li><li class="extra-info">An additional lip seal has been installed above the impeller, to help prevent abrasives such as dirt, silt or sand, from entering into the seal chamber</li><li class="extra-info"> More motor protection – winding protection and (NEMA) Class F motor insulation allows motor temperature to raise to 230°F, superior to pumps with Class A and B insulation</li><li class="extra-info">Automatic switch turns pump motor off if temperature and/or amp draw raises too high</li><li class="extra-info">When the motor cools the switch will automatically reset and the pump will turn back on</li><li class="extra-info"> Tough pump construction – hardened cast iron stands up to rough handling and pumping sandy water unlike pumps with soft resin impellers or plastic exterior components</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Frequency </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Submersible Pumps</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Ideal for dewatering constructions sites, mines, circulating fountain water, or for all around use in industrial plants and utilities</li><li class="extra-info"> Top discharge – allows for superior cooling of motor and provides a slim line design</li><li class="extra-info"> Longer power cord – standard 33' p</li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Flow : 50 GPM</li><li class="extra-info"> Max</li><li class="extra-info">Head : 36'</li><li class="extra-info"> Pump Type : Top discharge, dewatering</li><li class="extra-info"> Discharge Size : 2 Inch NPT-M</li><li class="extra-info"> Max</li><li class="extra-info">Submerged Depth : 65'</li><li class="extra-info"> Motor Casing : 304SS</li><li class="extra-info"> Pump : Cast iron volute</li><li class="extra-info"> Impeller : Multi-vane</li><li class="extra-info"> Fibreglass Reinforcement : Plastic</li><li class="extra-info"> Lip Seals and O-rings : Buna-N</li><li class="extra-info"> Rotor Shaft : 304SS</li><li class="extra-info"> External Hardware : 304SS</li><li class="extra-info"> Qty of Oil in Seal Chamber : 1.35 US oz</li><li class="extra-info"> Motor Speed : 3,450 RPM</li><li class="extra-info"> Motor Insulation : Class F</li><li class="extra-info"> Motor Service Factor : 1.1</li><li class="extra-info"> Voltage : 115 V, 1 ph-60 Hz</li><li class="extra-info"> Current : F.L.A</li><li class="extra-info">: 6 A</li><li class="extra-info"> Motor Protection : Thermal Breaker</li><li class="extra-info"> Power Cord : A.W.G</li><li class="extra-info">16/3</li><li class="extra-info"> 33', STOW</li><li class="extra-info"> Max</li><li class="extra-info">Liquid Temperature : 104° F</li><li class="extra-info"> Amperes : 0.25 A</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET PUM</s:tag>
+    <s:tag>Frequency_60</s:tag>
+    <s:tag>HP_0.5</s:tag>
+    <s:tag>Size_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813040857132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">841.74</s:price>
+      <s:sku>ET PUM 290771</s:sku>
+      <s:grams>15002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813040562220</id>
+    <published>2019-05-11T11:14:49-04:00</published>
+    <updated>2019-05-11T11:14:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-sv400-115"/>
+    <title>JET SV400-115  - 1/2 Hp Submersible Trash Pump 290784</title>
+    <s:type>Submersible Pumps</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/submersible-pumps-jet-sv400-115-1-2-hp-submersible-trash-pump-290784-12748425592876.jpg?v=1579593333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Submersible Pumps<br>
+        <strong>Price: </strong>
+            933.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 HP Submersible Trash Pump</h4> <li class="extra-info">Equipped with Vortex impellers, undoubtedly the best non-clog impellers ever invented for the handling of mud, raw sewage, viscous liquids, rags, wood chips and other solids</li><li class="extra-info">They pass solid up to 90% of pump outlet diameter</li><li class="extra-info"> Longer power cord – standard 33' power cord</li><li class="extra-info"> 304 Stainless Steel motor housing – superior abrasion resistance will not wear out like aluminum motor housings when pumping sandy water</li><li class="extra-info"> Three seal motor protection - motor is protected by double mechanical seals</li><li class="extra-info">Lower seal made of silicon carbide and upper seal is made of carbon/ceramic</li><li class="extra-info">An additional lip seal has been installed above the impeller, to help prevent abrasives such as dirt, silt or sand, from entering into the seal chamber</li><li class="extra-info"> More motor protection – winding protection and (NEMA) Class F motor insulation allows motor temperature to raise to 230°F, superior to pumps with Class A and B insulation</li><li class="extra-info">Automatic switch turns pump motor off if temperature and/or amp draw raises too high</li><li class="extra-info">When the motor cools the switch will automatically reset and the pump will turn back on</li><li class="extra-info"> Tough pump construction – hardened cast iron stands up to rough handling and pumping sandy water unlike pumps with soft resin impellers or plastic exterior components</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Frequency </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Submersible Pumps</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3-1/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Equipped with Vortex impellers, undoubtedly the best non-clog impellers ever invented for the handling of mud, raw sewage, viscous liquids, rags, wood chips and other solids</li><li class="extra-info">They pass solid up to 90% of pump outlet diameter</li><li class="extra-info"> Longer power cord – standard </li><h2>Product Information</h2><li class="extra-info">Max</li><li class="extra-info">Flow : 59 GPM</li><li class="extra-info"> Max</li><li class="extra-info">Head : 22'</li><li class="extra-info"> Pump Type : Non-Clog Vortex</li><li class="extra-info"> Discharge Size : 2 Inch NPT-M</li><li class="extra-info"> Max</li><li class="extra-info">Submerged Depth : 65'</li><li class="extra-info"> Motor Casing : 304SS</li><li class="extra-info"> Pump : Cast iron volute</li><li class="extra-info"> Lip Seals and O-rings : Buna-N</li><li class="extra-info"> Rotor Shaft : 304SS</li><li class="extra-info"> External Hardware : 304SS</li><li class="extra-info"> Qty of Oil in Seal Chamber : 5.1 US oz</li><li class="extra-info"> Motor Speed : 3,450 RPM</li><li class="extra-info"> Motor Insulation : Class F</li><li class="extra-info"> Motor Service Factor : 1.1</li><li class="extra-info"> Voltage : 115 V, 1 ph-60 Hz</li><li class="extra-info"> Current : F.L.A</li><li class="extra-info">: 6 A</li><li class="extra-info"> Motor Protection : Thermal Breaker</li><li class="extra-info"> Power Cord : A.W.G</li><li class="extra-info">16/3</li><li class="extra-info"> 33', STOW</li><li class="extra-info"> Max</li><li class="extra-info">Liquid Temperature : 104° F</li><li class="extra-info"> Amperes : 7.6 A</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET PUM</s:tag>
+    <s:tag>Frequency_60</s:tag>
+    <s:tag>HP_0.5</s:tag>
+    <s:tag>Size_3-1/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813040562220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">933.98</s:price>
+      <s:sku>ET PUM 290784</s:sku>
+      <s:grams>17002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813031714860</id>
+    <published>2019-05-11T11:02:14-04:00</published>
+    <updated>2019-05-11T11:02:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jstwp30l"/>
+    <title>JET JSTWP30L  - 4 Inch Trash Pump 291069</title>
+    <s:type>Trash Pump</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trash-pump-jet-jstwp30l-4-inch-trash-pump-291069-12748404097068.jpg?v=1579537888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Trash Pump<br>
+        <strong>Price: </strong>
+            2142.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Inch Trash Pump</h4> <li class="extra-info">Commercial grade aluminum housing</li><li class="extra-info"> Cast iron impeller and volutes</li><li class="extra-info"> Commercial duty mechanical ceramic seal</li><li class="extra-info"> Low oil shut off</li><li class="extra-info"> Heavy duty commercial frame</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trash Pump</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Suction Lift </td>
+<td class="egrimes">26'</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tank Capacity </td>
+<td class="egrimes">1.7 gal (6.4L)</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Total Lift </td>
+<td class="egrimes">95'</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Horsepower: 420 cc</li><li class="extra-info"> Max</li><li class="extra-info">Flow : 580 GPM</li><li class="extra-info"> Total Lift : 95 ft</li><li class="extra-info"> Suction Lift : 26 ft</li><li class="extra-info"> Solids up to : 1 Inch</li><li class="extra-info"> Fuel Tank Capacity : 1.7 gal</li><li class="extra-info">(6.5 L)</li><li class="extra-info"> Intake and Outlet Connection : 4 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET PUM</s:tag>
+    <s:tag>Suction Lift_26&apos;</s:tag>
+    <s:tag>Tank Capacity_1.7 gal (6.4L)</s:tag>
+    <s:tag>Total Lift_95&apos;</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813031714860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2142.46</s:price>
+      <s:sku>ET PUM 291069</s:sku>
+      <s:grams>69011</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447625260</id>
+    <published>2019-05-11T05:37:36-04:00</published>
+    <updated>2019-05-11T05:37:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-2"/>
+    <title>Tuff Grade TG-BBVT-1/2  - 1/2 Inch Brass Ball Shut-Off Valve Full Port Threaded</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-2-1-2-inch-brass-ball-shut-off-valve-full-port-threaded-13390941552684.jpg?v=1629195574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1/2″ Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447625260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>AC PUM TG-BBVT-1/2</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447592492</id>
+    <published>2019-05-11T05:37:36-04:00</published>
+    <updated>2019-05-11T05:37:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-2-l-f"/>
+    <title>Tuff Grade TG-BBVT-1/2-L/F  - 1/2 Inch Brass Ball Shut-Off Valve Full Port Threaded Lead Free</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-2-l-f-1-2-inch-brass-ball-shut-off-valve-full-port-threaded-lead-free-13390938243116.jpg?v=1629194672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            7.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1/2″ Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447592492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.78</s:price>
+      <s:sku>AC PUM TG-BBVT-1/2-L/F</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447559724</id>
+    <published>2019-05-11T05:37:36-04:00</published>
+    <updated>2019-05-11T05:37:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-2-l-o"/>
+    <title>Tuff Grade TG-BBVT-1/2-L/O  - 1/2 Inch Brass Ball Shut-Off Valve Full Port Threaded With Locking Handle</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-2-l-o-1-2-inch-brass-ball-shut-off-valve-full-port-threaded-with-locking-handle-13390938472492.jpg?v=1629195211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            6.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1/2″ Handle Locking Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447559724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.45</s:price>
+      <s:sku>AC PUM TG-BBVT-1/2-L/O</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447526956</id>
+    <published>2019-05-11T05:37:35-04:00</published>
+    <updated>2019-05-11T05:37:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1"/>
+    <title>Tuff Grade TG-BBVT-1  - 1 Inch Brass Ball Shut-Off Valve Full Port Threaded</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-1-inch-brass-ball-shut-off-valve-full-port-threaded-13390951022636.jpg?v=1629193771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            16.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1” Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447526956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.08</s:price>
+      <s:sku>AC PUM TG-BBVT-1</s:sku>
+      <s:grams>521</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447494188</id>
+    <published>2019-05-11T05:37:32-04:00</published>
+    <updated>2019-05-11T05:37:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-1-2"/>
+    <title>Tuff Grade TG-BBVT-1-1/2  - 1-1/2 Inch Brass Ball Shut-Off Valve Full Port Threaded</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-1-2-1-1-2-inch-brass-ball-shut-off-valve-full-port-threaded-13390948335660.jpg?v=1629193944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            34.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1-1/2″ Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447494188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.10</s:price>
+      <s:sku>AC PUM TG-BBVT-1-1/2</s:sku>
+      <s:grams>1088</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447461420</id>
+    <published>2019-05-11T05:37:32-04:00</published>
+    <updated>2019-05-11T05:37:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-4-l-o"/>
+    <title>Tuff Grade TG-BBVT-1/4-L/O  - 1/4 Inch Brass Ball Shut-Off Valve Full Port Threaded With Locking Handle</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-4-l-o-1-4-inch-brass-ball-shut-off-valve-full-port-threaded-with-locking-handle-13390932312108.jpg?v=1627046286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            4.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1/4″ Handle Locking Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447461420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.18</s:price>
+      <s:sku>AC PUM TG-BBVT-1/4-L/O</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447428652</id>
+    <published>2019-05-11T05:37:28-04:00</published>
+    <updated>2019-05-11T05:37:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-1-4"/>
+    <title>Tuff Grade TG-BBVT-1-1/4  - 1-1/4 Inch Brass Ball Shut-Off Valve Full Port Threaded</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-1-4-1-1-4-inch-brass-ball-shut-off-valve-full-port-threaded-12747065524268.jpg?v=1574978638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            24.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1-1/4″ Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447428652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.87</s:price>
+      <s:sku>AC PUM TG-BBVT-1-1/4</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447395884</id>
+    <published>2019-05-11T05:37:28-04:00</published>
+    <updated>2019-05-11T05:37:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-1-4-l-f"/>
+    <title>Tuff Grade TG-BBVT-1-1/4-L/F  - 1-1/4 Inch Brass Ball Shut-Off Valve Full Port Lead Free</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-1-4-l-f-1-1-4-inch-brass-ball-shut-off-valve-full-port-lead-free-12747065491500.jpg?v=1574978701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            26.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1-1/4″ Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447395884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.12</s:price>
+      <s:sku>AC PUM TG-BBVT-1-1/4-L/F</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447330348</id>
+    <published>2019-05-11T05:37:25-04:00</published>
+    <updated>2019-05-11T05:37:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-1-4-l-o"/>
+    <title>Tuff Grade TG-BBVT-1-1/4-L/O  - 1-1/4 Inch Brass Ball Shut-Off Valve Full Port Threaded With Locking Handle</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-1-4-l-o-1-1-4-inch-brass-ball-shut-off-valve-full-port-threaded-with-locking-handle-12747065622572.jpg?v=1574978656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            22.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1-1/4″ Handle Locking Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447330348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.38</s:price>
+      <s:sku>AC PUM TG-BBVT-1-1/4-L/O</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447363116</id>
+    <published>2019-05-11T05:37:22-04:00</published>
+    <updated>2019-05-11T05:37:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-3-4"/>
+    <title>Tuff Grade TG-BBVT-3/4  - 3/4 Inch Brass Ball Shut-Off Valve Full Port Threaded</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-3-4-3-4-inch-brass-ball-shut-off-valve-full-port-threaded-13390925561900.jpg?v=1629195576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 3/4″ Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447363116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.40</s:price>
+      <s:sku>AC PUM TG-BBVT-3/4</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447297580</id>
+    <published>2019-05-11T05:37:22-04:00</published>
+    <updated>2019-05-11T05:37:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-1-l-o"/>
+    <title>Tuff Grade TG-BBVT-1-L/O  - 1 Inch Brass Ball Shut-Off Valve Full Port Threaded With Locking Handle</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-1-l-o-1-inch-brass-ball-shut-off-valve-full-port-threaded-with-locking-handle-13390940405804.jpg?v=1629194663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            16.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 1” Handle Locking Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447297580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.36</s:price>
+      <s:sku>AC PUM TG-BBVT-1-L/O</s:sku>
+      <s:grams>498</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447264812</id>
+    <published>2019-05-11T05:37:22-04:00</published>
+    <updated>2019-05-11T05:37:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-2"/>
+    <title>Tuff Grade TG-BBVT-2  - 2 Inch Brass Ball Shut-Off Valve Full Port Threaded</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-2-2-inch-brass-ball-shut-off-valve-full-port-threaded-31501305184405.jpg?v=1627078956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            50.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 2” Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447264812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.54</s:price>
+      <s:sku>AC PUM TG-BBVT-2</s:sku>
+      <s:grams>1587</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812447232044</id>
+    <published>2019-05-11T05:37:22-04:00</published>
+    <updated>2019-05-11T05:37:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tg-bbvt-3"/>
+    <title>Tuff Grade TG-BBVT-3  - 3 Inch Brass Ball Shut-Off Valve Full Port Threaded</title>
+    <s:type>Valves</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/valves-tuff-grade-tg-bbvt-3-3-inch-brass-ball-shut-off-valve-full-port-threaded-12747065294892.jpg?v=1574978313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Valves<br>
+        <strong>Price: </strong>
+            180.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size (inch) 3” Handle Standard Product Specs Category Sheet</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Valves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PUM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812447232044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">180.43</s:price>
+      <s:sku>AC PUM TG-BBVT-3</s:sku>
+      <s:grams>4436</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/work-safety-glasses.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2020-06-26T15:55:17-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/5376967278741</id>
+    <published>2020-06-26T15:55:17-04:00</published>
+    <updated>2020-06-26T15:55:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/vg-splash-resistant-indirect-vent-goggle-with-clear-lens"/>
+    <title>VG  ~  Splash Resistant Indirect Vent Goggle With Clear Lens</title>
+    <s:type>Vented Goggles</s:type>
+    <s:vendor>eGrimesDirect</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vented-goggles-vg-splash-resistant-indirect-vent-goggle-with-clear-lens-17622252781717.jpg?v=1629199173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>eGrimesDirect<br>
+        <strong>Type: </strong>Vented Goggles<br>
+        <strong>Price: </strong>
+            8.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>[shortdesc]
+</p><div style="background-color: #78c327; border-radius: 15px; box-shadow: 5px 10px 15px #888888;">
+<p style="font-size: 2.5em; text-align: center; color: white;"><strong>IN STOCK NOW</strong></p>
+</div>[/shortdesc]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CIS</s:tag>
+    <s:tag>Covid-19</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5376967278741</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.13</s:price>
+      <s:sku>SS EYE VG</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5314288025749</id>
+    <published>2020-06-09T15:20:45-04:00</published>
+    <updated>2020-06-09T15:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sellstrom-s90494"/>
+    <title>SellStrom S90494  ~  Monitor 2000 Germicidal Cabinet</title>
+    <s:type>Germicidal Cabinet</s:type>
+    <s:vendor>SellStrom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/germicidal-cabinet-sellstrom-s90494-monitor-2000-germicidal-cabinet-17622208643221.jpg?v=1593201765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SellStrom<br>
+        <strong>Type: </strong>Germicidal Cabinet<br>
+        <strong>Price: </strong>
+            1237.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Germicidal cabinets sanitize goggles/safety glasses for next use</li><li class="extra-info"> Ensuring up to a 99.2% kill rate of germs, bacteria, mold, fungus, and virus contaminants from eyewear surfaces</li><li class="extra-info"> Sturdy 22-gauge white enameled steel cabinet</li><li class="extra-info"> features interlocking doors</li><li class="extra-info"> Features tamper-resistant latches with two keys provided</li><li class="extra-info"> Zero UV radiation escapes during use</li><li class="extra-info"> Underwriters Laboratory listed and cUL Certified</li>[/shortdesc]</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5314288025749</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1237.99</s:price>
+      <s:sku>SS EYE S90494</s:sku>
+      <s:grams>20411</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/5314287829141</id>
+    <published>2020-06-09T15:20:43-04:00</published>
+    <updated>2020-06-09T15:20:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sellstrom-s90320"/>
+    <title>SellStrom Gravit-Eye S90320  ~  16-Gallon Portable Eyewash Station</title>
+    <s:type>Eyewash Station</s:type>
+    <s:vendor>SellStrom</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/eyewash-station-sellstrom-gravit-eye-s90320-16-gallon-portable-eyewash-station-17622208577685.jpg?v=1593201731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SellStrom<br>
+        <strong>Type: </strong>Eyewash Station<br>
+        <strong>Price: </strong>
+            357.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Water is fed through dual spray heads for maximum effectiveness</li><li class="extra-info"> Delivers over 14 gallons (53 litres) of water over a 15-minute period</li><li class="extra-info"> Waste water is directed through drain opening in tank basin</li><li class="extra-info"> Comes with 8 oz bottle of bacteriostatic additive (S90322) which protects against growth of bacteria, fungus, algae and acanthamoeba</li><li class="extra-info"> Weight: 13 Ib empty, 146 Ib full</li><li class="extra-info"> Unit comes completely assembled</li><li class="extra-info"> Complies with ANSI Z358.1 for portable eyewash stations</li>[/shortdesc]<h2>Extra Product Information</h2><li class="extra-info">16 gallon self-contained gravity-flow portable eyewash station</li><li class="extra-info"> Water is fed through dual spray heads for maximum effectiveness</li><li class="extra-info"> High-Viz green body is easily located in case of emergency</li><li class="extra-info"> Heavy wall construction with reinforced ribs ensures strength and durability</li><li class="extra-info"> Water flow is activated by pulling up (on) or down (off) on bright yellow tray</li><li class="extra-info"> Integrated full flow nozzle delivers gentle spray of water</li><li class="extra-info"> 3? drain hose directs waste water into floor drain or storage tank</li><li class="extra-info"> Furnished with steel wall mounting bracket</li><li class="extra-info"> Can also be placed on flat surfaces such as counter tops</li><li class="extra-info"> Comes with 8 oz</li><li class="extra-info">bottle of bacteriostatic additive (S90322) which protects against growth of bacteria, fungus, algae and acanthamoeba</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/5314287829141</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">357.60</s:price>
+      <s:sku>SS EYE S90320</s:sku>
+      <s:grams>5896</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4368656793644</id>
+    <published>2019-12-13T14:51:06-05:00</published>
+    <updated>2019-12-13T14:51:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/anti-fog-lens-3m-virtua-sport-protective-eyewear"/>
+    <title>Anti-Fog lens -  Virtua 3M 3M Virtua Sport Protective Eyewear</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-null-anti-fog-lens-virtua-3m-3m-virtua-sport-protective-eyewear-13937205542956.png?v=1580003407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            72.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Virtua Sport Protective Eyewear, 11384-00000-20, clear anti-fog lens, clear temple</h4> <li class="extra-info">Sleek and unisex 3M Virtua Sport Protective Eyewear combine athletic-look styling, versatility and value with a high wraparound, anti-fog polycarbonate lens for excellent eye coverage and a comfortable fit</li><li class="extra-info">Reliable, cool safety glasses.</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Virtua</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">The 3M VirtuaSport Protective Eyewear line merges a comfortable lightweight frame with outstanding unisex style, protection and affordability</li><li class="extra-info">Its high wrap lens provides exceptional impact protection and an unobstructed view</li><li class="extra-info">3M VirtuaSport Protective</li><h2>Product Information</h2><li class="extra-info">Athletic-look styling</li><li class="extra-info">Excellent eye coverage</li><li class="extra-info">Durable, lightweight frame design</li><li class="extra-info">Contoured temples fit comfortably and snugly</li><li class="extra-info">Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Virtua</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4368656793644</id>
+      <title>NULL</title>
+      <s:price currency="CAD">72.96</s:price>
+      <s:sku>SS EYE 11384-00000-20</s:sku>
+      <s:grams>1011</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4368656728108</id>
+    <published>2019-12-13T14:51:05-05:00</published>
+    <updated>2019-12-13T14:51:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/anti-fog-lens-3m-securefit-protective-eyewear-600-series-sf603"/>
+    <title>Anti-Fog lens -  3M 3M SecureFit protective eyewear 600 series (SF603)</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-null-anti-fog-lens-3m-3m-securefit-protective-eyewear-600-series-sf603-13937205444652.png?v=1580401627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            8.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series with Amber Scotchgard Anti-Fog Lens, SF603SGAF</h4> <li class="extra-info">3M SecureFit Protective Eyewear 600 Series with Scotchgard Anti-Fog Lens features proprietary 3M Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Amber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Features proprietary 3M Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info">Scotchgard Anti-Fog Coating lasts longer than traditional anti-fog coatings, helping to increase eyewear performance in wet and steamy environments</li><li class="extra-info">The proprietary coating retains its effectiveness for at least 25 washings, allowing workers to wear their eyewear longer</li><li class="extra-info">Amber lenses reduce interference from blue light to improve contrast, excellent UV protection</li><li class="extra-info">Popular for inspection tasks, and hazy, overcast or foggy days</li><li class="extra-info">Never use for night driving.</li><li class="extra-info">Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Amber</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4368656728108</id>
+      <title>NULL</title>
+      <s:price currency="CAD">8.88</s:price>
+      <s:sku>SS EYE SF603SGAF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4368656695340</id>
+    <published>2019-12-13T14:51:04-05:00</published>
+    <updated>2019-12-13T14:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/anti-fog-lens-3m-securefit-protective-eyewear-600-series-sf602"/>
+    <title>Anti-Fog lens -  3M 3M SecureFit protective eyewear 600 series (SF602)</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-null-anti-fog-lens-3m-3m-securefit-protective-eyewear-600-series-sf602-13937205411884.png?v=1580003252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            8.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series with Grey Scotchgard Anti-Fog Lens, SF602SGAF</h4> <li class="extra-info">3M SecureFit Protective Eyewear 600 Series with Scotchgard Anti-Fog Lens features proprietary 3M Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Features proprietary 3M Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info">Scotchgard Anti-Fog Coating lasts longer than traditional anti-fog coatings, helping to increase eyewear performance in wet and steamy environments</li><li class="extra-info">The proprietary coating retains its effectiveness for at least 25 washings, allowing workers to wear their eyewear longer</li><li class="extra-info">Grey lens are popular in outdoor daytime work environments</li><li class="extra-info">Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4368656695340</id>
+      <title>NULL</title>
+      <s:price currency="CAD">8.88</s:price>
+      <s:sku>SS EYE SF602SGAF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4368656662572</id>
+    <published>2019-12-13T14:51:04-05:00</published>
+    <updated>2019-12-13T14:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/anti-fog-lens-3m-securefit-protective-eyewear-600-series-sf601"/>
+    <title>Anti-Fog lens -  3M 3M SecureFit protective eyewear 600 series (SF601)</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-null-anti-fog-lens-3m-3m-securefit-protective-eyewear-600-series-sf601-13937205248044.png?v=1580401505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            8.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series with Clear Scotchgard Anti-Fog Lens, SF601SGAF</h4> <li class="extra-info">3M SecureFit Protective Eyewear 600 Series with Scotchgard Anti-Fog Lens features proprietary 3M Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Features proprietary 3M Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info">Scotchgard Anti-Fog Coating lasts longer than traditional anti-fog coatings, helping to increase eyewear performance in wet and steamy environments</li><li class="extra-info">The proprietary coating retains its effectiveness for at least 25 washings, allowing workers to wear their eyewear longer</li><li class="extra-info">Clear polycarbonate lens absorbs 99.9% UVA &amp; UVB</li><li class="extra-info">Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4368656662572</id>
+      <title>NULL</title>
+      <s:price currency="CAD">8.88</s:price>
+      <s:sku>SS EYE SF601SGAF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4368656629804</id>
+    <published>2019-12-13T14:51:04-05:00</published>
+    <updated>2019-12-13T14:51:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/anti-scratch-lens-3m-securefit-protective-eyewear-600-series-sf601"/>
+    <title>Anti-Scratch lens -  SecureFit 3M 3M SecureFit protective eyewear 600 series (SF601)</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-null-anti-scratch-lens-securefit-3m-3m-securefit-protective-eyewear-600-series-sf601-13937205674028.png?v=1580401570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            7.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series, SF601RAS, clear rugged anti-scratch lens</h4> <li class="extra-info">3M SecureFit Protective Eyewear 400 Series features soft adjustable nose pads, dual injected temples, and proprietary 3M Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">SecureFit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">Features proprietary 3M Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info">Rugged Anti-Scratch (RAS) coating helps extend the life of the lens</li><li class="extra-info">Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_SecureFit</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4368656629804</id>
+      <title>NULL</title>
+      <s:price currency="CAD">7.95</s:price>
+      <s:sku>SS EYE SF601RAS</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4368656564268</id>
+    <published>2019-12-13T14:51:00-05:00</published>
+    <updated>2019-12-13T14:51:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/anti-fog-lens-3m-securefit-protective-eyewear-400-series"/>
+    <title>Anti-Fog Lens -  SecureFit 3M 3M SecureFit protective eyewear 400 Series</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-null-anti-fog-lens-securefit-3m-3m-securefit-protective-eyewear-400-series-13937205313580.png?v=1580401408"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            4.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 400 Series, SF403AF, amber lens</h4> <li class="extra-info">3M SecureFit Protective Eyewear 400 Series features soft adjustable nose pads, dual injected temples, and proprietary 3M Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]   <h2> Product Specifications </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">SecureFit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Amber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table><h2>Product Information</h2><li class="extra-info">3M Pressure Diffusion Technology allows temples to naturally adjust to individual head sizes eliminating the need to stock multiple frame sizes at worksites</li><li class="extra-info">At a weight of less than 1 oz</li><li class="extra-info">(28 g), this product is both comfortable and durable</li><li class="extra-info">Padded temple touchpoints and soft, adjustable nosepads provide added comfort for long-term wear</li><li class="extra-info">Secure, snug fit helps keep eyewear in place without slippage even when the person is in motion</li><li class="extra-info">Motion-inspired, contoured piping in a bold, modern colour palette for an infusion of style</li><li class="extra-info">Optional anti-fog coating helps keep lenses free of moisture in hot and humid conditions</li><li class="extra-info">Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Amber</s:tag>
+    <s:tag>Line_SecureFit</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4368656564268</id>
+      <title>NULL</title>
+      <s:price currency="CAD">4.32</s:price>
+      <s:sku>SS EYE SF403AF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352544571436</id>
+    <published>2019-12-07T01:12:06-05:00</published>
+    <updated>2019-12-07T01:12:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgsg002"/>
+    <title>Tuff Grade TGSG002  - Safety Glasses Frame Clear Lens Clear</title>
+    <s:type>Glasses</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/glasses-tuff-grade-tgsg002-safety-glasses-frame-clear-lens-clear-13911478566956.png?v=1629194302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Glasses<br>
+        <strong>Price: </strong>
+            1.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Frame Clear Lens Clear</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Glasses</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352544571436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.76</s:price>
+      <s:sku>SS EYE TGSG002</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293270470700</id>
+    <published>2019-12-04T10:25:36-05:00</published>
+    <updated>2019-12-04T10:25:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf420af"/>
+    <title>3M SF420AF  - Sf420Af Securefit Eyewear Clr +2.0 20/Cs Sf420Af 7100115325</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sf420af-sf420af-securefit-eyewear-clr-2-0-20-cs-sf420af-7100115325-13223236042796.jpg?v=1578765802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SF420AF SECUREFIT EYEWEAR CLR +2.0 20/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293270470700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.34</s:price>
+      <s:sku>SS EYE SF420AF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028314156</id>
+    <published>2019-10-16T00:34:20-04:00</published>
+    <updated>2019-10-16T00:34:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf401xas-grn"/>
+    <title>3M SF401XAS-GRN  - 3M SecureFit Protective Eyewear 400 Series, SF401XAS-GRN, Clear Anti-Scratch Lens, Green/Black SF401XAS-GRN 7010528317</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sf401xas-grn-3m-securefit-protective-eyewear-400-series-sf401xas-grn-clear-anti-scratch-lens-green-black-sf401xas-grn-7010528317-13120519766060.jpg?v=1578765591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            5.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 400 Series, SF401XAS-GRN, Clear Anti-Scratch Lens, Green/Black</h4> <li class="extra-info">3M™ SecureFit™ Protective Eyewear 400X Series offers models with stylized colors, proprietary Pressure Diffusion Temple (PDT) technology for comfort as well as a contoured brow guard to help provide additional coverage from flying particles.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Contoured brow guard rests comfortably against forehead and helps provide additional coverage from flying particles</li><li class="extra-info"> Features proprietary 3M™ Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info"> Enhanced temple comfort without compromising the security of fit across diverse workforces</li><li class="extra-info"> Soft nosepiece to help reduce slippage</li><li class="extra-info"> Polycarbonate lens absorbs 99.9% UVA &amp; UVB rays</li><li class="extra-info"> Meets the requirements of CSA Z94.3 and ANSI Z87.1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028314156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.79</s:price>
+      <s:sku>SS EYE SF401XAS-GRN</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255006359596</id>
+    <published>2019-10-16T00:20:04-04:00</published>
+    <updated>2019-10-16T00:20:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf6000fi"/>
+    <title>3M SF6000FI  - 3M SecureFit Protective Eyewear 600 Series Replacement Foam Gasket, SF6000FI 7100132738</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-3m-sf6000fi-3m-securefit-protective-eyewear-600-series-replacement-foam-gasket-sf6000fi-7100132738-13223253671980.jpg?v=1578799520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            2.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series Replacement Foam Gasket, SF6000FI</h4> <li class="extra-info">The stylish, lightweight design of 3M™ SecureFit™ Protective Eyewear 600 Series Replacement Foam Gasket features proprietary 3M™ Pressure Diffusion Temple Technology</li><li class="extra-info">Designed to defuse pressure over the ears, the glasses automatically adjust to the wearer, enhancing frame comfort without compromising a secure fit</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The foam gasket for 3M™ SecureFit™ Protective Eyewear 600 Series </li><li class="extra-info">Foam gasket helps keep debris out of the eyes while providing additional cushioning on industrial safety eyewear.</li><h2>Product Information</h2><li class="extra-info">Approved 3M™ replacement piece for 3M™ SecureFit™ Protective Eyewear 600 Series</li><li class="extra-info"> Helps keep dust and debris out of the eyes, while providing comfort and cushioning</li><li class="extra-info"> Comfortable replacment foam gasket</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SEARCHANISE_IGNORE</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255006359596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.90</s:price>
+      <s:sku>SS EYE SF6000FI</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255002951724</id>
+    <published>2019-10-16T00:17:44-04:00</published>
+    <updated>2019-10-16T00:17:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf603sgaf"/>
+    <title>3M SF603SGAF  - 3M SecureFit Protective Eyewear 600 Series with Amber Scotchgard Anti-Fog Lens, SF603SGAF 7100141599</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-3m-sf603sgaf-3m-securefit-protective-eyewear-600-series-with-amber-scotchgard-anti-fog-lens-sf603sgaf-7100141599-13120475889708.jpg?v=1578799756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            8.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series with Amber Scotchgard Anti-Fog Lens, SF603SGAF</h4> <li class="extra-info">3M™ SecureFit™ Protective Eyewear 600 Series with Scotchgard™ Anti-Fog Lens features proprietary 3M™ Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Amber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Features proprietary 3M™ Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info"> Scotchgard™ Anti-Fog Coating lasts longer than traditional anti-fog coatings, helping to increase eyewear performance in wet and steamy environments</li><li class="extra-info"> The proprietary coating retains its effectiveness for at least 25 washings, allowing workers to wear their eyewear longer</li><li class="extra-info"> Amber lenses reduce interference from blue light to improve contrast, excellent UV protection</li><li class="extra-info">Popular for inspection tasks, and hazy, overcast or foggy days</li><li class="extra-info">Never use for night driving.</li><li class="extra-info"> Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Amber</s:tag>
+    <s:tag>SEARCHANISE_IGNORE</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255002951724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.88</s:price>
+      <s:sku>SS EYE SF603SGAF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254999183404</id>
+    <published>2019-10-16T00:15:12-04:00</published>
+    <updated>2019-10-16T00:15:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf401xsgaf-wht"/>
+    <title>3M SF401XSGAF-WHT  - 3M SecureFit Protective Eyewear 400 Series, SF401XSGAF-WHT, Clear Scotchgard Anti-fog lens, Light Blue/White SF401XSGAF-WHT 7100179970</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sf401xsgaf-wht-3m-securefit-protective-eyewear-400-series-sf401xsgaf-wht-clear-scotchgard-anti-fog-lens-light-blue-white-sf401xsgaf-wht-7100179970-13120472842284.jpg?v=1578765621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 400 Series, SF401XSGAF-WHT, Clear Scotchgard Anti-fog lens, Light Blue/White</h4> <li class="extra-info">3M™ SecureFit™ Protective Eyewear 400X Series offers models with stylized colors, proprietary Pressure Diffusion Temple (PDT) technology for comfort as well as a contoured brow guard to help provide additional coverage from flying particles.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Contoured brow guard rests comfortably against forehead and helps provide additional coverage from flying particles</li><li class="extra-info"> Features proprietary 3M™ Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info"> Applied on both sides of the lens, 3M™ Scotchgard™ Anti-fog is a long-lasting coating that provides better fog and scratch resistance when compared to traditional anti-fog coatings</li><li class="extra-info">*When tested using EN168 Resistance to Fogging of Oculars and Resistance to Surface Damage by Fine Particules test methods.</li><li class="extra-info"> Soft nosepiece to help reduce slippage</li><li class="extra-info"> Polycarbonate lens absorbs 99.9% UVA &amp; UVB rays</li><li class="extra-info"> Meets the requirements of CSA Z94.3 and ANSI Z87.1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254999183404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.47</s:price>
+      <s:sku>SS EYE SF401XSGAF-WHT</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254999150636</id>
+    <published>2019-10-16T00:15:10-04:00</published>
+    <updated>2019-10-16T00:15:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf403xsgaf-yel"/>
+    <title>3M SF403XSGAF-YEL  - 3M SecureFit Protective Eyewear 400 Series, SF403XSGAF-YEL, Amber Scotchgard Anti-fog lens, Yellow/Black SF403XSGAF-YEL 7100179972</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sf403xsgaf-yel-3m-securefit-protective-eyewear-400-series-sf403xsgaf-yel-amber-scotchgard-anti-fog-lens-yellow-black-sf403xsgaf-yel-7100179972-13120472776748.jpg?v=1578765678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            189.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 400 Series, SF403XSGAF-YEL, Amber Scotchgard Anti-fog lens, Yellow/Black</h4> <li class="extra-info">3M™ SecureFit™ Protective Eyewear 400X Series offers models with stylized colors, proprietary Pressure Diffusion Temple (PDT) technology for comfort as well as a contoured brow guard to help provide additional coverage from flying particles.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Contoured brow guard rests comfortably against forehead and helps provide additional coverage from flying particles</li><li class="extra-info"> Features proprietary 3M™ Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info"> Applied on both sides of the lens, 3M™ Scotchgard™ Anti-fog is a long-lasting coating that provides better fog and scratch resistance when compared to traditional anti-fog coatings</li><li class="extra-info">*When tested using EN168 Resistance to Fogging of Oculars and Resistance to Surface Damage by Fine Particules test methods.</li><li class="extra-info"> Soft nosepiece to help reduce slippage</li><li class="extra-info"> Polycarbonate lens absorbs 99.9% UVA &amp; UVB rays</li><li class="extra-info"> Meets the requirements of CSA Z94.3 and ANSI Z87.1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254999150636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.36</s:price>
+      <s:sku>SS EYE SF403XSGAF-YEL</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254998822956</id>
+    <published>2019-10-16T00:15:01-04:00</published>
+    <updated>2019-10-16T00:15:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-12159-ofa"/>
+    <title>3M 12159-OFA  - Ox Safety Eyewear, Clear Lens, Ofa Logo 12159-Ofa 7100198902</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-12159-ofa-ox-safety-eyewear-clear-lens-ofa-logo-12159-ofa-7100198902-13120472416300.jpg?v=1580184059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">OX Safety Eyewear, Clear Lens, OFA logo</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254998822956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.84</s:price>
+      <s:sku>SS EYE 12159-OFA</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254998790188</id>
+    <published>2019-10-16T00:14:58-04:00</published>
+    <updated>2019-10-16T00:14:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-11384-ofa"/>
+    <title>3M 11384-OFA  - Virtua Sport, 11384, Clear, Ofa Logo 7100199654</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-11384-ofa-virtua-sport-11384-clear-ofa-logo-7100199654-13120472317996.jpg?v=1580197890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Virtua Sport, 11384, Clear, OFA logo</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254998790188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.88</s:price>
+      <s:sku>SS EYE 11384-OFA</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254998724652</id>
+    <published>2019-10-16T00:14:55-04:00</published>
+    <updated>2019-10-16T00:14:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-11386-ofa"/>
+    <title>3M 11386-OFA  - Virtua Sport, 11386, Grey, Ofa Logo 11386-Ofa 7100199655</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-11386-ofa-virtua-sport-11386-grey-ofa-logo-11386-ofa-7100199655-13120472252460.jpg?v=1580197981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Virtua Sport, 11386, Grey, OFA logo</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254998724652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.35</s:price>
+      <s:sku>SS EYE 11386-OFA</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982275116</id>
+    <published>2019-10-16T00:04:35-04:00</published>
+    <updated>2019-10-16T00:04:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf601sgaf"/>
+    <title>3M SF601SGAF  - 3M SecureFit Protective Eyewear 600 Series with Clear Scotchgard Anti-Fog Lens, SF601SGAF 7100128689</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-3m-sf601sgaf-3m-securefit-protective-eyewear-600-series-with-clear-scotchgard-anti-fog-lens-sf601sgaf-7100128689-13223236075564.jpg?v=1578799704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            8.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series with Clear Scotchgard Anti-Fog Lens, SF601SGAF</h4> <li class="extra-info">3M™ SecureFit™ Protective Eyewear 600 Series with Scotchgard™ Anti-Fog Lens features proprietary 3M™ Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Features proprietary 3M™ Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info"> Scotchgard™ Anti-Fog Coating lasts longer than traditional anti-fog coatings, helping to increase eyewear performance in wet and steamy environments</li><li class="extra-info"> The proprietary coating retains its effectiveness for at least 25 washings, allowing workers to wear their eyewear longer</li><li class="extra-info"> Clear polycarbonate lens absorbs 99.9% UVA &amp; UVB</li><li class="extra-info"> Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>SEARCHANISE_IGNORE</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982275116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.88</s:price>
+      <s:sku>SS EYE SF601SGAF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982209580</id>
+    <published>2019-10-16T00:04:35-04:00</published>
+    <updated>2019-10-16T00:04:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf602sgaf"/>
+    <title>3M SF602SGAF  - 3M SecureFit Protective Eyewear 600 Series with Grey Scotchgard Anti-Fog Lens, SF602SGAF 7100128690</title>
+    <s:type>Safety Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-glasses-3m-sf602sgaf-3m-securefit-protective-eyewear-600-series-with-grey-scotchgard-anti-fog-lens-sf602sgaf-7100128690-13120442630188.jpg?v=1578799671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Safety Glasses<br>
+        <strong>Price: </strong>
+            8.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 600 Series with Grey Scotchgard Anti-Fog Lens, SF602SGAF</h4> <li class="extra-info">3M™ SecureFit™ Protective Eyewear 600 Series with Scotchgard™ Anti-Fog Lens features proprietary 3M™ Pressure Diffusion Temple Technology that helps diffuse pressure over the ear to enhance frame comfort while not compromising the security of fit across a diverse workforce</li><li class="extra-info">Lightweight, cool safety glasses.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Glasses</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Features proprietary 3M™ Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info"> Scotchgard™ Anti-Fog Coating lasts longer than traditional anti-fog coatings, helping to increase eyewear performance in wet and steamy environments</li><li class="extra-info"> The proprietary coating retains its effectiveness for at least 25 washings, allowing workers to wear their eyewear longer</li><li class="extra-info"> Grey lens are popular in outdoor daytime work environments</li><li class="extra-info"> Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>SEARCHANISE_IGNORE</s:tag>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982209580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.88</s:price>
+      <s:sku>SS EYE SF602SGAF</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982111276</id>
+    <published>2019-10-16T00:04:33-04:00</published>
+    <updated>2019-10-16T00:04:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf401sgaf-blu"/>
+    <title>3M SF401SGAF-BLU  - 3M SecureFit Protective Eyewear 400 Series, SF401SGAF-BLU, Clear Scotchgard Anti-Fog Lens 7100150838</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sf401sgaf-blu-3m-securefit-protective-eyewear-400-series-sf401sgaf-blu-clear-scotchgard-anti-fog-lens-7100150838-13120442597420.jpg?v=1578765557"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            142.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M SecureFit Protective Eyewear 400 Series, SF401SGAF-BLU, Clear Scotchgard Anti-Fog Lens</h4> <li class="extra-info">Get excellent vision and durability even in extreme working conditions</li><li class="extra-info">We’ve extended the 3M™ SecureFit™ Protective Eyewear 400 Series by adding the premium 3M™ Scotchgard™ Anti-Fog coating as well an optional foam gasket.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Applied on both sides of the lens, 3M™ Scotchgard™ Anti-fog is a long-lasting coating that provides better fog and scratch resistance when compared to traditional anti-fog coatings</li><li class="extra-info">*When tested using EN168 Resistance to Fogging of Oculars and Resistance to Surface Damage by Fine Particules test methods.</li><li class="extra-info"> Features proprietary 3M™ Pressure Diffusion Temple Technology which helps diffuse pressure over the ear for a secure, comfortable fit</li><li class="extra-info"> Soft adjustable nosepad to help reduce slippage</li><li class="extra-info"> Polycarbonate lens absorbs 99.9% UVA &amp; UVB rays</li><li class="extra-info"> Meets the requirements of CSA Z94.3 and ANSI Z87.1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982111276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">142.67</s:price>
+      <s:sku>SS EYE SF401SGAF-BLU</s:sku>
+      <s:grams>594</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982045740</id>
+    <published>2019-10-16T00:04:29-04:00</published>
+    <updated>2019-10-16T00:04:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sf425af-2-5"/>
+    <title>3M SF425AF-2.5  - Sf425Af Securefit Eyewear Clr +2.5 20/Cs Sf425Af-2.5 7100115329</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sf425af-2-5-sf425af-securefit-eyewear-clr-2-5-20-cs-sf425af-2-5-7100115329-13120442499116.jpg?v=1578765714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SF425AF SECUREFIT EYEWEAR CLR +2.5 20/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982045740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.34</s:price>
+      <s:sku>SS EYE SF425AF-2.5</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254960582700</id>
+    <published>2019-10-15T23:14:04-04:00</published>
+    <updated>2019-10-15T23:14:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-11376"/>
+    <title>3M 11376  - Bx Reader Protective Eyewear Clear Lens Silver Frame +2.5 Dioptre</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-11376-bx-reader-protective-eyewear-clear-lens-silver-frame-2-5-dioptre-13120402849836.jpg?v=1580185138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M BX Reader Protective Eyewear, 11376-00000-20, clear lens</h4> <li class="extra-info">Designed for workers who have difficulty reading small print or are engaged in small detail work</li><li class="extra-info">As an alternative to prescription safety glasses, 3M™ BX Reader Protective Eyewear feature magnifying diopters, lightweight lenses with adjustable soft tip temples and integrated sideshields.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Sleek, contoured design combines style and function</li><li class="extra-info"> Magnifying +1.5 diopters combine eye protection with reading enhancement</li><li class="extra-info"> Soft nose bridge offers pleasant extended wear</li><li class="extra-info"> Adjustable temple lengths and lens angle allow for customized fit</li><li class="extra-info"> Polycarbonate lenses absorb 99.9% UVA and UVB up to 380 nm and meet CSA safety glasses requirements</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254960582700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.49</s:price>
+      <s:sku>SS EYE 11376 PR</s:sku>
+      <s:grams>1102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254928306220</id>
+    <published>2019-10-15T22:21:29-04:00</published>
+    <updated>2019-10-15T22:21:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-eyefit-kt"/>
+    <title>3M EYEFIT-KT  - Safety Eyewear Kit 7100067128</title>
+    <s:type>Glasses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/glasses-3m-eyefit-kt-safety-eyewear-kit-7100067128-13120335380524.jpg?v=1580096613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Glasses<br>
+        <strong>Price: </strong>
+            86.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Safety Eyewear Kit</h4> <li class="extra-info">3M™ Safety Eyewear Kit utilizes the 3M™ Eyewear Fit System, which uses a simple 6-step method to accurately fit your workforce on site</li><li class="extra-info">This sample kits contains the 3M™ Eyewear Fit System and five samples of 3M eyewear.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Glasses</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">When it comes to eyewear, a comfortable, well-fitted workforce is likely to be more effective – and certainly more compliant with eyewear protection standards</li><li class="extra-info">Uncomfortable and improperly fitting eyewear is less likely to be worn, thereby increasing the </li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SS</s:tag>
+    <s:tag>SS EYE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254928306220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">86.24</s:price>
+      <s:sku>SS EYE EYEFIT-KT</s:sku>
+      <s:grams>644</s:grams>
+    </s:variant>
+  </entry>
+</feed>

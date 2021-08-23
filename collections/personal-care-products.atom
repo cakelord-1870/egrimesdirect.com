@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/personal-care-products.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-15T22:38:18-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254939775020</id>
+    <published>2019-10-15T22:38:18-04:00</published>
+    <updated>2019-10-15T22:38:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3392c"/>
+    <title>3M Cavilon 3392C  - Cavilon Durable Barrier Cream (Din 02455839) 7100095856</title>
+    <s:type>Personal Care</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/personal-care-3m-cavilon-3392c-cavilon-durable-barrier-cream-din-02455839-7100095856-13120362283052.jpg?v=1580112961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Personal Care<br>
+        <strong>Price: </strong>
+            95.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Cavilon Durable Barrier Cream, 3392C</h4> <li class="extra-info">A concentrated, therapeutic barrier cream that provides durable, long-lasting moisture barrier protection while moisturizing the skin</li><li class="extra-info">The unique polymer-based formula requires less frequent application and less product with each application</li><li class="extra-info">3M™ Cavilon™ Durable Barrier Cream, 3392C is 92 g (3.25 oz).</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNlmx21N82SMv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Cavilon</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United Kingdom</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Personal Care</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Protects from incontinence</li><li class="extra-info"> Resists wash-off</li><li class="extra-info"> Won't clog or reduce absorbency of diapers or pads</li><li class="extra-info"> Allows tapes to stick</li><li class="extra-info"> CHG compatible</li><li class="extra-info"> Fragrance Free</li><li class="extra-info"> Hypoallergenic</li><h2>Suggested Application</h2><li class="extra-info">Protection of at-risk skin from damage associated with incontinence</li><li class="extra-info">Moisturization and protection of severely dry skin</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>Line_Cavilon</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254939775020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.93</s:price>
+      <s:sku>JS PCP 3392C</s:sku>
+      <s:grams>1564</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737149841452</id>
+    <published>2019-03-16T02:05:30-04:00</published>
+    <updated>2019-03-16T02:05:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-112-ca"/>
+    <title>3M 112-CA  - Skin Crack Care 7100050831</title>
+    <s:type>Personal Care</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/personal-care-3m-112-ca-skin-crack-care-7100050831-12795213774892.jpg?v=1580197503"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Personal Care<br>
+        <strong>Price: </strong>
+            11.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nexcare Skin Crack Care, 112-CA</h4> <li class="extra-info">Nexcare™ Skin Crack Care is a fast-drying liquid that helps protect painful dry, cracked skin by forming an invisible, long-lasting, waterproof seal to help promote healing</li><li class="extra-info">Apply to clean, dry, cracked skin on fingers, hands, feet and elbows to help protect the wounds as they heal.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Personal Care</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Easy-to-apply, fast-drying liquid helps protect painful dry, cracked skin</li><li class="extra-info"> Seals painful cracks to help promote healing of dry, cracked skin</li><li class="extra-info"> Apply to clean, dry skin on fingers, hands, feet and elbows</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737149841452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.35</s:price>
+      <s:sku>JS PCP 112-CA</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737149677612</id>
+    <published>2019-03-16T02:05:25-04:00</published>
+    <updated>2019-03-16T02:05:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-836r60-cn"/>
+    <title>3M Scotch-Brite 836R60-CN  - Scotch-Brite Lint Roller 60 Sheets Per Roll 7100107399</title>
+    <s:type>Lint Rollers &amp; Refills</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/lint-rollers-refills-3m-scotch-brite-836r60-cn-scotch-brite-lint-roller-60-sheets-per-roll-7100107399-12795097677868.jpg?v=1580366582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Lint Rollers &amp; Refills<br>
+        <strong>Price: </strong>
+            3.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch-Brite Lint Roller, 60 sheets per roll</h4> <li class="extra-info">When it comes to removing pesky lint, fuzz and hair from your favourite clothes, grab the Scotch-Brite® Lint Roller</li><li class="extra-info">The #1 selling lint roller brand in Canada is the only one made with Scotch® Brand adhesive to help ensure your best outfits look fresh and clean</li><li class="extra-info">Remember to look for Scotch-Brite® Lint Roller Refills when you reach the end of your roll!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Brite</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Lint Rollers &amp; Refills</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Canada's #1 selling lint roller brand</li><li class="extra-info"> Keep clothes lint, fuzz and hair free</li><li class="extra-info"> Use on pants, coats, sweaters, dresses, suits, formal wear and more</li><li class="extra-info"> The only lint roller with Scotch® Brand Adhesive</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>Line_Scotch-Brite</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737149677612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.38</s:price>
+      <s:sku>JS PCP 836R60-CN</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737149644844</id>
+    <published>2019-03-16T02:05:25-04:00</published>
+    <updated>2019-03-16T02:05:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-836rp60-cn"/>
+    <title>3M Scotch-Brite 836RP60-CN  - Scotch-Brite Lint Roller Refill 60 Sheets Per Roll 7100107398</title>
+    <s:type>Lint Rollers &amp; Refills</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/lint-rollers-refills-3m-scotch-brite-836rp60-cn-scotch-brite-lint-roller-refill-60-sheets-per-roll-7100107398-12795219443756.jpg?v=1580035770"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Lint Rollers &amp; Refills<br>
+        <strong>Price: </strong>
+            2.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch-Brite Lint Roller Refill, 60 sheets per roll</h4> <li class="extra-info">Hang on to your Scotch-Brite® Lint Roller handle and remove pesky lint, fuzz and hair from your favourite clothes with Scotch-Brite® Lint Roller Refills</li><li class="extra-info">Compatible with all 3M, Scotch-Brite® Brand and Scotch® Lint Roller Handles, the #1 selling lint roller brand in Canada is the only one made with Scotch® Brand adhesive to help ensure your best outfits look fresh and clean.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Brite</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Lint Rollers &amp; Refills</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Canada's #1 selling lint roller brand</li><li class="extra-info"> Slides on to all 3M, Scotch-Brite® Brand and Scotch® Brand Lint Roller Handles</li><li class="extra-info"> Save your lint roller handle and use a refill</li><li class="extra-info"> The only lint roller with Scotch® Brand Adhesive</li><li class="extra-info"> Available in 60 and 65 sheet (double pack) refills</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>Line_Scotch-Brite</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737149644844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.96</s:price>
+      <s:sku>JS PCP 836RP60-CN</s:sku>
+      <s:grams>1086</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737149612076</id>
+    <published>2019-03-16T02:05:25-04:00</published>
+    <updated>2019-03-16T02:05:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-836rfs-60-cn"/>
+    <title>3M Scotch-Brite 836RFS-60-CN  - Scotch-Brite Lint Roller Refill 60 Sheets Per Roll 7100110427</title>
+    <s:type>Lint Rollers &amp; Refills</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/lint-rollers-refills-3m-scotch-brite-836rfs-60-cn-scotch-brite-lint-roller-refill-60-sheets-per-roll-7100110427-12795147419692.jpg?v=1580035859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Lint Rollers &amp; Refills<br>
+        <strong>Price: </strong>
+            2.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch-Brite Lint Roller Refill, 60 sheets per roll</h4> <li class="extra-info">Hang on to your Scotch-Brite® Lint Roller handle and remove pesky lint, fuzz and hair from your favourite clothes with Scotch-Brite® Lint Roller Refills</li><li class="extra-info">Compatible with all 3M® Brand, Scotch-Brite® Brand and Scotch® Brand Lint Roller Handles, the #1 selling lint roller brand in Canada is the only one made with Scotch® Brand adhesive to help ensure your best outfits look fresh and clean.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Brite</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Lint Rollers &amp; Refills</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Canada's #1 selling lint roller brand</li><li class="extra-info"> Slides on to all 3M, Scotch-Brite® Brand and Scotch® Brand Lint Roller Handles</li><li class="extra-info"> Save your lint roller handle and use a refill</li><li class="extra-info"> The only lint roller with Scotch® Brand Adhesive</li><li class="extra-info"> Available in 60 and 65 sheet (double pack) refills</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>Line_Scotch-Brite</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737149612076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.81</s:price>
+      <s:sku>JS PCP 836RFS-60-CN</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1146290667564</id>
+    <published>2018-08-14T09:57:44-04:00</published>
+    <updated>2018-08-14T09:57:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-800am-ca"/>
+    <title>3M Scotch 800AM-CA  - Scotch Prescription Label Tape 800 Clear 2 in x 72 Yards 6 Roll 24 Roll 7000050041</title>
+    <s:type>Label Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/label-tapes-3m-scotch-800am-ca-scotch-prescription-label-tape-800-clear-2-in-x-72-yards-6-roll-24-roll-7000050041-12794791985196.jpg?v=1580358302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Label Tapes<br>
+        <strong>Price: </strong>
+            18.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">800-2X72-BOX Scotch Prescription Label Tape 800 Clear, 2 in x 72 yd, 6 Rolls/Inner, 24 Rolls/Case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Label Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1146290667564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.37</s:price>
+      <s:sku>JS PCP 800AM-CA</s:sku>
+      <s:grams>300</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121777221676</id>
+    <published>2018-08-03T15:19:40-04:00</published>
+    <updated>2018-08-03T15:19:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3343e"/>
+    <title>3M Cavilon 3343E  - Cavilon No Sting Barrier Film 7100025076</title>
+    <s:type>Personal Care</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/personal-care-3m-cavilon-3343e-cavilon-no-sting-barrier-film-7100025076-31572719370389.jpg?v=1628354620"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Personal Care<br>
+        <strong>Price: </strong>
+            222.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Cavilon No Sting Barrier Film, 3343E</h4> <li class="extra-info">3M™ Cavilon™ No Sting Barrier Film forms a transparent and breathable protective coating between skin and the adhesive of the securement dressing device or tape</li><li class="extra-info">When the dressing is changed, the film is removed instead of skin cell layers</li><li class="extra-info">3M™ Cavilon™ No Sting Barrier Film, 3343E, 1.0 mL wand has peel-open packaging, which allows for aseptic application.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9uZMxtSnYt95vVsN17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Cavilon</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Personal Care</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Cavilon™ No Sting Barrier Film is a unique terpolymer based, alcohol-free liquid barrier film that protects intact or damaged skin from bodily fluids, adhesive trauma, friction and incontinence</li><li class="extra-info">It is fast-drying, non-sticky and forms a breathable, tr</li><h2>Product Information</h2><li class="extra-info">Protects intact or damaged skin from bodily fluids, adhesive trauma, friction and incontinence</li><li class="extra-info"> Completely alcohol-free formula will not sting even when applied to damaged or denuded skin</li><li class="extra-info"> Clinically proven to provide up to 72 hours of protection from incontinence for cost-effective prevention</li><li class="extra-info"> Non-cytotoxic: will not interfere with skin or wound healing</li><li class="extra-info"> Sterile</li><li class="extra-info"> CHG compatible</li><li class="extra-info"> Hypoallergenic</li><h2>Suggested Application</h2><li class="extra-info">Ideal for protecting intact or damaged skin from body fluids, adhesives and friction, including incontinence skin care, peristomal skin protection, periwound skin protection, peritube skin protection, adhesive trauma protection (including negative pressur</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>Line_Cavilon</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121777221676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">222.96</s:price>
+      <s:sku>JS PCP 3343E</s:sku>
+      <s:grams>698</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121741242412</id>
+    <published>2018-08-03T14:58:57-04:00</published>
+    <updated>2018-08-03T14:58:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-800-1x72"/>
+    <title>3M Scotch 800-1X72  - Scotch Prescription Label Tape 800 Clear 1 in x 72 Yards 12 Per Box 3 Box 7000125153</title>
+    <s:type>Label Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/label-tapes-3m-scotch-800-1x72-scotch-prescription-label-tape-800-clear-1-in-x-72-yards-12-per-box-3-box-7000125153-12795118878764.jpg?v=1580358246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Label Tapes<br>
+        <strong>Price: </strong>
+            9.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">800-1X72 Scotch Prescription Label Tape 800 Clear, 1 in x 72 yd, 12 per box 3 boxes per case Boxed</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Label Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121741242412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.19</s:price>
+      <s:sku>JS PCP 800-1X72</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121624162348</id>
+    <published>2018-08-03T13:58:11-04:00</published>
+    <updated>2018-08-03T13:58:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5975"/>
+    <title>3M 5975  - Paint Buster Hand Cleaner 0 9.75 Fl. Oz. (147.8 ml) 7000000541</title>
+    <s:type>Personal Care</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/personal-care-3m-5975-paint-buster-hand-cleaner-0-9-75-fl-oz-147-8-ml-7000000541-31596147376277.jpg?v=1628240524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Personal Care<br>
+        <strong>Price: </strong>
+            25.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Paint Buster Hand Cleaner, 05975, 9.75 fl. Oz. (147.87 mL)</h4> <li class="extra-info">3M™ Paint Buster Hand Cleaner, 05975, is a cream type hand cleaner that offers great performance in the removal of lacquer, enamel and urethane paints, primers, putties, plastic fillers, adhesives and automotive sealants from skin.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0u1MY_So8_GlvViI17zHvu07Y9ztSSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Personal Care</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Non-toxic and non-caustic</li><li class="extra-info"> Performs well without the use of skin-damaging solvents</li><li class="extra-info"> Low odour</li><li class="extra-info"> Easy to squeeze tube</li><h2>Suggested Application</h2><li class="extra-info">For removal of lacquer, enamel and urethane paints, primers, putties, plastic fillers, adhesives and automotive sealants from skin</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS PCP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121624162348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.63</s:price>
+      <s:sku>JS PCP 5975</s:sku>
+      <s:grams>385</s:grams>
+    </s:variant>
+  </entry>
+</feed>

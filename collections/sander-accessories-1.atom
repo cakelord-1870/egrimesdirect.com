@@ -1,0 +1,1316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/sander-accessories-1.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:29:56-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039062060</id>
+    <published>2019-12-04T10:29:56-05:00</published>
+    <updated>2019-12-04T10:29:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-840042"/>
+    <title>3M STA-840042  - Standard Abrasives Hook and Loop Disc Pad 840042, 4-1/2 in x 5/8-11 F, 1 per case STA-840042 7000121841</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-840042-standard-abrasives-hook-and-loop-disc-pad-840042-4-1-2-in-x-5-8-11-f-1-per-case-sta-840042-7000121841-13120531005484.jpg?v=1578818048"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            35.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Hook and Loop Disc Pad 840042, 4-1/2 in x 5/8-11 F, 1 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNlMYt9Pxm9mv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039062060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.75</s:price>
+      <s:sku>AC SAN STA-840042</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039619116</id>
+    <published>2019-12-04T10:29:48-05:00</published>
+    <updated>2019-12-04T10:29:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-543602"/>
+    <title>3M STA-543602  - Standard Abrasives Resin Fiber Soft Holder Pad 543602, 7 in, 10 per case STA-543602 7000121725</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-543602-standard-abrasives-resin-fiber-soft-holder-pad-543602-7-in-10-per-case-sta-543602-7000121725-13120531595308.jpg?v=1578795354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Resin Fiber Soft Holder Pad 543602, 7 in, 10 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039619116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.83</s:price>
+      <s:sku>AC SAN STA-543602</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039881260</id>
+    <published>2019-12-04T10:29:46-05:00</published>
+    <updated>2019-12-04T10:29:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-543629"/>
+    <title>3M STA-543629  - Standard Abrasives Medium Holder Pad Fits Black and Decker Tools 543629, 4-1/2 in, 5 per case STA-543629 7000121639</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-543629-standard-abrasives-medium-holder-pad-fits-black-and-decker-tools-543629-4-1-2-in-5-per-case-sta-543629-7000121639-13120531660844.jpg?v=1578795440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Medium Holder Pad Fits Black and Decker(TM) Tools 543629, 4-1/2 in, 5 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039881260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.91</s:price>
+      <s:sku>AC SAN STA-543629</s:sku>
+      <s:grams>1020</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255040503852</id>
+    <published>2019-12-04T10:29:38-05:00</published>
+    <updated>2019-12-04T10:29:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab05682"/>
+    <title>3M AB05682  - 3M Disc Pad Holder 916, 6 in x 1/8 in x 3/8 in 5/8-11 Internal, 1 per case AB05682 7000120890</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab05682-3m-disc-pad-holder-916-6-in-x-1-8-in-x-3-8-in-5-8-11-internal-1-per-case-ab05682-7000120890-13120532152364.jpg?v=1580142334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            47.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Disc Pad Holder 916, 6 in x 1/8 in x 3/8 in 5/8-11 Internal, 1 per case</h4> <li class="extra-info">3M™ Disc Pad Holders allow you to quickly and easily change Scotch-Brite™ Abrasive Discs during multi-step projects</li><li class="extra-info">Available in a range of sizes, foam densities and attachment options, so you can find the perfect holders for your grinding and sanding projects.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNlMYtBM8mGnv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Allows quick and easy disc attachment and removal for multi-step processing</li><li class="extra-info"> Options available for right angle grinders and random orbital sanders</li><li class="extra-info"> Choose from solid or foam surfaces for custom sanding and grinding control</li><li class="extra-info"> Available with or without built-in shanks</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255040503852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.88</s:price>
+      <s:sku>AC SAN AB05682</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255042469932</id>
+    <published>2019-12-04T10:29:17-05:00</published>
+    <updated>2019-12-04T10:29:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sb14915"/>
+    <title>3M SB14915  - 3M Roloc + Button Combination Pack 1 and 7, 1/4 in Shank, 5 per case SB14915 7000120713</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sb14915-3m-roloc-button-combination-pack-1-and-7-1-4-in-shank-5-per-case-sb14915-7000120713-13120533856300.jpg?v=1580331815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            17.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Roloc+ Button Combination Pack 1 and 7, 1/4 in Shank, 5 per case</h4> <li class="extra-info">3M™ Roloc™ Button plays an important role in the 3M™ Roloc™+ Attachment system, and it's designed to drive 3M™ Unitized Wheels that contain a 3/8 in (0.95 cm) centre hole.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attaches to 3M™ Roloc™+ Holder</li><li class="extra-info"> Designed to drive 3M™ Unitized Wheels with 3/8 in (0.95 cm) centre hole</li><li class="extra-info"> Helps speed along abrasive to power tool attachment, enhancing productivity</li><li class="extra-info"> May be used with various power tools, including die grinders and inline sanders</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255042469932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.43</s:price>
+      <s:sku>AC SAN SB14915</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255042732076</id>
+    <published>2019-12-04T10:29:13-05:00</published>
+    <updated>2019-12-04T10:29:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab12929"/>
+    <title>3M AB12929  - 3M Hook and Loop Pad Holder 250, 4 in x 9-1/4 in, 5 per case AB12929 7000120656</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab12929-3m-hook-and-loop-pad-holder-250-4-in-x-9-1-4-in-5-per-case-ab12929-7000120656-13120534937644.jpg?v=1580132105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hook and Loop Pad Holder 250, 4 in x 9-1/4 in, 5 per case</h4> <li class="extra-info">3M Hook-and-Loop Pad Holders allow you to quickly and easily change Scotch-Brite abrasive pads during multi-step projects</li><li class="extra-info">Holder has a swivel attachment which accepts a threaded broom handle, and the tough plastic backing distributes pressure evenly over pad surface for efficient cleaning action and improved pad life.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Hook and loop attachment system offers quick change of abrasive pads for multi-step processing</li><li class="extra-info"> Hard plastic provides firm support evenly across the pad</li><li class="extra-info"> Swivel attachment accepts most threaded broom handles</li><li class="extra-info"> Use with Scotch-Brite™ Sheets (sold separately)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255042732076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.05</s:price>
+      <s:sku>AC SAN AB12929</s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255043223596</id>
+    <published>2019-12-04T10:29:07-05:00</published>
+    <updated>2019-12-04T10:29:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab04130"/>
+    <title>3M AB04130  - 3M Disc Pad Holder 09215, 1-1/2 in 1/4 in Shank, 10 per case AB04130 7000120559</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab04130-3m-disc-pad-holder-09215-1-1-2-in-1-4-in-shank-10-per-case-ab04130-7000120559-13120536248364.jpg?v=1580244577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Disc Pad Holder 09215, 1-1/2 in 1/4 in Shank, 10 per case</h4> <li class="extra-info">3M™ Disc Pad Holders allow you to quickly and easily change Scotch-Brite™ Abrasive Discs during multi-step projects</li><li class="extra-info">Available in a range of sizes, foam densities and attachment options, so you can find the perfect holders for your grinding and sanding projects.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Allows quick and easy disc attachment and removal for multi-step processing</li><li class="extra-info"> Options available for right angle grinders and random orbital sanders</li><li class="extra-info"> Choose from solid or foam surfaces for custom sanding and grinding control</li><li class="extra-info"> Available with or without built-in shanks</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255043223596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.34</s:price>
+      <s:sku>AC SAN AB04130</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255043387436</id>
+    <published>2019-12-04T10:29:03-05:00</published>
+    <updated>2019-12-04T10:29:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab82565"/>
+    <title>3M AB82565  - 3M Hookit Roloc Disc Pad Type J 82565, 1-1/2 in, 5 per case AB82565 7000120429</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab82565-3m-hookit-roloc-disc-pad-type-j-82565-1-1-2-in-5-per-case-ab82565-7000120429-13120537329708.jpg?v=1580267013"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Hookit(TM) Roloc(TM) Disc Pad Type J 82565, 1-1/2 in, 5 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255043387436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.35</s:price>
+      <s:sku>AC SAN AB82565</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255043485740</id>
+    <published>2019-12-04T10:29:01-05:00</published>
+    <updated>2019-12-04T10:29:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab11824"/>
+    <title>3M AB11824  - 3M Disc Pad Hub, 11824, GL Quick Change, 2-1/2 in, 5/8-11 int AB11824 7000120408</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab11824-3m-disc-pad-hub-11824-gl-quick-change-2-1-2-in-5-8-11-int-ab11824-7000120408-13120536969260.jpg?v=1580132217"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            83.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Disc Pad Hub, 11824, GL Quick Change, 2-1/2 in, 5/8-11 int</h4> <li class="extra-info">3M™ Disc Pad Hub has an internal threaded metal insert that threads onto the shaft of a sander and grinder to hold a disc pad face plate and fibre disc in place.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Threaded metal insert fits onto standard rotary sander or right angle grinder</li><li class="extra-info"> Rigid hub provides firm support for fibre disc face plate</li><li class="extra-info"> Versatile hub holds fibre disc face plates of all densities</li><li class="extra-info"> Disc pad hub only—disc pad face plates and fibre discs sold separately</li><li class="extra-info"> Various sizes available for different sized face plates</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255043485740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.35</s:price>
+      <s:sku>AC SAN AB11824</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255044173868</id>
+    <published>2019-12-04T10:28:53-05:00</published>
+    <updated>2019-12-04T10:28:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-pn05556"/>
+    <title>3M PN05556  - 3M Stikit Low Profile Disc Pad, 05556, 6 in (15.24 cm) PN05556 7000119808</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-pn05556-3m-stikit-low-profile-disc-pad-05556-6-in-15-24-cm-pn05556-7000119808-13120538804268.jpg?v=1580065855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            93.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Stikit Low Profile Disc Pad, 05556, 6 in (15.24 cm)</h4> <li class="extra-info">Designed to provide support for block sanding, the 3M™ Stikit™ Low Profile Disc Pad has a tough, durable foam body which helps to provide long pad life.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Low profile design provides excellent leveling</li><li class="extra-info"> Fast removal rates when flat sanding</li><li class="extra-info"> Durable foam body</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255044173868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.17</s:price>
+      <s:sku>AC SAN PN05556</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255055347756</id>
+    <published>2019-12-04T10:26:36-05:00</published>
+    <updated>2019-12-04T10:26:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab45070"/>
+    <title>3M AB45070  - 3M PSA Disc Holder 45070, 2 in 1/4 in Shank, 10 per case AB45070 7000045779</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab45070-3m-psa-disc-holder-45070-2-in-1-4-in-shank-10-per-case-ab45070-7000045779-13120549847084.jpg?v=1580132822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) PSA Disc Holder 45070, 2 in 1/4 in Shank, 10 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255055347756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.49</s:price>
+      <s:sku>AC SAN AB45070</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255055380524</id>
+    <published>2019-12-04T10:26:35-05:00</published>
+    <updated>2019-12-04T10:26:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab70166"/>
+    <title>3M AB70166  - 3M Hookit Soft Interface Disc Pad 70166, 5 in x 1/2 in, 10 per case AB70166 7000045754</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab70166-3m-hookit-soft-interface-disc-pad-70166-5-in-x-1-2-in-10-per-case-ab70166-7000045754-13120549945388.jpg?v=1580255607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Soft Interface Disc Pad 70166, 5 in x 1/2 in, 10 per case</h4> <li class="extra-info">3M™ Soft Interface Disc Pad is constructed of ½ in (12.7 mm) soft-density foam with a clean sanding hole pattern to allow dust extraction and minimize loading during sanding</li><li class="extra-info">The soft foam construction enables the pad to conform to edges and contours, making it a good match for sensitive workpieces where gouging and marring is a top concern.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">3M™ Soft Interface Disc Pad provides extra cushion for coated and non-woven abrasive discs to prevent gouging and marring</li><li class="extra-info"> Soft-density foam responds to contours and edges</li><li class="extra-info"> Designed with clean sanding hole pattern to help with dust extraction and minimize loading</li><li class="extra-info"> 3M™ Hookit™ Attachment Systems help expedite swapping out of discs during multi-step sequences</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255055380524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.57</s:price>
+      <s:sku>AC SAN AB70166</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255055446060</id>
+    <published>2019-12-04T10:26:34-05:00</published>
+    <updated>2019-12-04T10:26:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab02140"/>
+    <title>3M AB02140  - 3M Fibre Disc Backup Pad, 02140, TN, quick change, 4-1/2 in x 5/8-11 int AB02140 7000045746</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab02140-3m-fibre-disc-backup-pad-02140-tn-quick-change-4-1-2-in-x-5-8-11-int-ab02140-7000045746-13120549978156.jpg?v=1580244090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Fibre Disc Backup Pad, 02140, TN, quick change, 4-1/2 in x 5/8-11 int</h4> <li class="extra-info">3M™ Fibre Disc Back-Up Pad With Retainer Nut is made to drive and support fibre backed discs during sanding, grinding, or finishing processes</li><li class="extra-info">This essential pad is designed to fit right angle sanders equipped for TN Quick Change style attachments</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Provides even support across the surface of the disc</li><li class="extra-info"> Hard-density backing, suitable for most metalworking applications</li><li class="extra-info"> 4 ½ in (11.43 cm) diameter size is appropriate for all fibre-backed discs</li><li class="extra-info"> Use with right angle, pneumatic, or electric sanders</li><li class="extra-info"> Designed for use with TN Quick Change attachment system</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255055446060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.40</s:price>
+      <s:sku>AC SAN AB02140</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255055413292</id>
+    <published>2019-12-04T10:26:34-05:00</published>
+    <updated>2019-12-04T10:26:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab02727"/>
+    <title>3M AB02727  - 3M Stikit Roloc Disc Pad 02727, 1-1/4 in x 5/16 in, 10 per inner 20 per case AB02727 7000045747</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab02727-3m-stikit-roloc-disc-pad-02727-1-1-4-in-x-5-16-in-10-per-inner-20-per-case-ab02727-7000045747-13120549912620.jpg?v=1580134683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            7.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Stikit Roloc Disc Pad 02727, 1-1/4 in x 5/16 in, 10 per inner 20 per case</h4> <li class="extra-info">3M™ Stikit™ Roloc™ Disc Pad is designed for the use of Stikit™ Discs (sold separately) on a mini random orbital sander to enable spot repairs</li><li class="extra-info">The pad is constructed of medium density foam that conforms to contours</li><li class="extra-info">The vinyl face securely holds a small 3M™ Stikit™ Disc and allows easy removal with no leftover residue, for convenient disc changes between applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Small pad enables use of 3M™ Stikit™ Discs (sold separately) on a mini random orbital sander</li><li class="extra-info"> 3M™ Roloc™ TR Attachment is compatible with a 3M™ Roloc™ Disc Pad or tools with the 3M™ Roloc™ Attachment System</li><li class="extra-info"> Vinyl face material provides secure disc adhesion yet allows quick, easy removal with no residue</li><li class="extra-info"> Medium density foam cushions a disc for optimal sanding and finishing on flat and contoured spot applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255055413292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.89</s:price>
+      <s:sku>AC SAN AB02727</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255058034732</id>
+    <published>2019-12-04T10:26:03-05:00</published>
+    <updated>2019-12-04T10:26:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab13627"/>
+    <title>3M AB13627  - 3M Hookit Disc Pad Holder 947, 7 in x 1 in x 5/8 in 5/8-11 Internal, 1 per case AB13627 7000028353</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab13627-3m-hookit-disc-pad-holder-947-7-in-x-1-in-x-5-8-in-5-8-11-internal-1-per-case-ab13627-7000028353-13120552402988.jpg?v=1580248083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Disc Pad Holder 947, 7 in x 1 in x 5/8 in 5/8-11 Internal, 1 per case</h4> <li class="extra-info">3M™ Hookit™ Disc Pad securely holds a 3M™ Hookit™ Sanding Discs or 3M™ Hookit™ Finishing Disc or 3M™ Finesse-it™ Buffing Pad for use with a hand-held sanding tool such as a rotary, orbital, or random orbital sander</li><li class="extra-info">The 45-degree tapered edge provides flexibility and allows the sanded area to be easily blended and feather-edged.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">J hooks securely hold a 3M Hookit disc or 3M Finesse-it buffing pad</li><li class="extra-info"> For use with a random orbital sander, rotary sander, or right angle grinder</li><li class="extra-info"> 3M Hookit system provides easy removal and re-use</li><li class="extra-info"> 45 degree tapered edge provides some flexibility for feather-edging and blending</li><li class="extra-info"> 15-degree tapered edge is ideal for final finishing on flat or contoured surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255058034732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.60</s:price>
+      <s:sku>AC SAN AB13627</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293831721004</id>
+    <published>2019-12-03T12:08:27-05:00</published>
+    <updated>2019-12-03T12:08:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-54187-mandrel"/>
+    <title>Merit 54187  - 1/4 Inch Diameter Extension Mandrel 1/4 Inch - 20 8 Inch Long 08834154187</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-54187-1-4-inch-diameter-extension-mandrel-1-4-inch-20-8-inch-long-08834154187-13225157165100.jpg?v=1575528058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            8.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293831721004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.31</s:price>
+      <s:sku>AC SAN 54187</s:sku>
+      <s:grams>61</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293831688236</id>
+    <published>2019-12-03T12:08:27-05:00</published>
+    <updated>2019-12-03T12:08:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-54186-mandrel"/>
+    <title>Merit 54186  - 1/4 Inch Diameter Extension Mandrel 1/4 Inch - 20 6 Inch Long 08834154186</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-54186-1-4-inch-diameter-extension-mandrel-1-4-inch-20-6-inch-long-08834154186-13403527381036.jpg?v=1629191062"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            4.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293831688236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.99</s:price>
+      <s:sku>AC SAN 54186</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293831753772</id>
+    <published>2019-12-03T12:08:26-05:00</published>
+    <updated>2019-12-03T12:08:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-54185-mandrel"/>
+    <title>Merit 54185  - 1/4 Inch Diameter Extension Mandrel 1/4 Inch - 20 4 Inch Long 08834154185</title>
+    <s:type>Mandrels</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mandrels-merit-54185-1-4-inch-diameter-extension-mandrel-1-4-inch-20-4-inch-long-08834154185-13225157230636.jpg?v=1575528294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Mandrels<br>
+        <strong>Price: </strong>
+            4.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mandrels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293831753772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.54</s:price>
+      <s:sku>AC SAN 54185</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028772908</id>
+    <published>2019-10-16T00:34:35-04:00</published>
+    <updated>2019-10-16T00:34:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sa546056"/>
+    <title>3M SA546056  - Standard Abrasives Quick Change Disc Pad SA546056 7010369338</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sa546056-standard-abrasives-quick-change-disc-pad-sa546056-7010369338-13120520257580.jpg?v=1580338649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives Quick Change Disc Pad</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028772908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.47</s:price>
+      <s:sku>AC SAN SA546056</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255027855404</id>
+    <published>2019-10-16T00:33:57-04:00</published>
+    <updated>2019-10-16T00:33:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab20290"/>
+    <title>3M AB20290  - 3M Hookit Clean Sanding Low Profile Finishing Disc Pad 20290, 5 in x 11/16 in 5/16-24 External 44 Holes, 10 per case AB20290 7100009657</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab20290-3m-hookit-clean-sanding-low-profile-finishing-disc-pad-20290-5-in-x-11-16-in-5-16-24-external-44-holes-10-per-case-ab20290-7100009657-13120519307308.jpg?v=1580242143"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Clean Sanding Low Profile Finishing Disc Pad 20290, 5 in x 11/16 in 5/16-24 External 44 Holes, 10 per case</h4> <li class="extra-info">3M™ Hookit™ Clean Sanding Low Profile Finishing Disc Pad is constructed of soft density foam with a 10 degree blunt tapered edge and is recommended for finishing applications on flat or contoured surfaces where dust evacuation is needed</li><li class="extra-info">Use this disc pad with grades 220 and higher 3M™ Clean Sanding or 3M™ Hookit™ D/F Discs (sold separately).</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNqM8tSMxt9nv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Multi-hole pattern maximizes dust extraction with a self-generated vacuum system (sold separately)</li><li class="extra-info"> Low profile soft density beige foam provides flexibility to conform to a variety of complex surface geometries</li><li class="extra-info"> 3M™ Hookit™ Attachment provides easy and quick disc changes</li><li class="extra-info"> Recommended for finishing applications using fine grade abrasives</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255027855404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.85</s:price>
+      <s:sku>AC SAN AB20290</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255027822636</id>
+    <published>2019-10-16T00:33:57-04:00</published>
+    <updated>2019-10-16T00:33:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab28321"/>
+    <title>3M AB28321  - 3M Clean Sanding Soft Interface Disc Pad 28321, 5 in x 1/2 in 44 Holes, 10 per case AB28321 7100009658</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab28321-3m-clean-sanding-soft-interface-disc-pad-28321-5-in-x-1-2-in-44-holes-10-per-case-ab28321-7100009658-13120519274540.jpg?v=1580252132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Clean Sanding Soft Interface Disc Pad 28321, 5 in x 1/2 in 44 Holes, 10 per case</h4> <li class="extra-info">3M™ Soft Interface Disc Pad is constructed of ½ in (12.7 mm) soft-density foam with a clean sanding hole pattern to allow dust extraction and minimize loading during sanding</li><li class="extra-info">The soft foam construction enables the pad to conform to edges and contours, making it a good match for sensitive workpieces where gouging and marring is a top concern.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">3M™ Soft Interface Disc Pad provides extra cushion for coated and non-woven abrasive discs to prevent gouging and marring</li><li class="extra-info"> Soft-density foam responds to contours and edges</li><li class="extra-info"> Designed with clean sanding hole pattern to help with dust extraction and minimize loading</li><li class="extra-info"> 3M™ Hookit™ Attachment Systems help expedite swapping out of discs during multi-step sequences</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255027822636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.63</s:price>
+      <s:sku>AC SAN AB28321</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025659948</id>
+    <published>2019-10-16T00:32:32-04:00</published>
+    <updated>2019-10-16T00:32:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am27571"/>
+    <title>3M AM27571  - 2 Inch Qc Ts Firm Hl Disc Rolll Pad Std Abrasives Am27571 7100027571</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am27571-2-inch-qc-ts-firm-hl-disc-rolll-pad-std-abrasives-am27571-7100027571-13120517668908.jpg?v=1580104018"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Inch QC TS FIRM HLDR PAD STD ABRASIVES</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025659948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.94</s:price>
+      <s:sku>AC SAN AM27571</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025102892</id>
+    <published>2019-10-16T00:32:11-04:00</published>
+    <updated>2019-10-16T00:32:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab20354"/>
+    <title>3M AB20354  - 3M Stikit Low Profile Disc Pad, 20354, 6 in x 3/8 in x 5/16-24, external AB20354 7100029149</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab20354-3m-stikit-low-profile-disc-pad-20354-6-in-x-3-8-in-x-5-16-24-external-ab20354-7100029149-13120517111852.jpg?v=1580137864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Stikit Low Profile Disc Pad, 20354, 6 in x 3/8 in x 5/16-24, external</h4> <li class="extra-info">3M™ Stikit™ Low Profile Disc Pads are the most aggressive compared to 3M™ Standard Profile Disc Pads and 3M™ Low Profile Finishing Disc Pads</li><li class="extra-info">The low profile design provides better leveling and faster removal rates when flat sanding, allowing you to maximize your sanding productivity</li><li class="extra-info">This product is shock-resistant and features a blue vinyl face for optimal adhesion and removal of disc pad</li><li class="extra-info">Low profile disc pads are recommended for use with 3M™ Random Orbital Sanders for flat sanding applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Holder enables use of 3M™ Stikit™ Discs (sold separately) on a on a disc sander, rotary sander, or random orbital sander</li><li class="extra-info"> Low profile, firm-density foam is well-suited for flat sanding applications</li><li class="extra-info"> Tapered edge provides some flexibility for feather-edging</li><li class="extra-info"> Blue vinyl face material provides secure disc adhesion yet allows quick, easy disc removal</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025102892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.85</s:price>
+      <s:sku>AC SAN AB20354</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255024676908</id>
+    <published>2019-10-16T00:31:54-04:00</published>
+    <updated>2019-10-16T00:31:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am31627"/>
+    <title>3M AM31627  - 541058 2 Inch Qc Ts Firm Hl Disc Rolll Pad W/Ta4 Am31627 7100031627</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am31627-541058-2-inch-qc-ts-firm-hl-disc-rolll-pad-w-ta4-am31627-7100031627-13120516423724.jpg?v=1580279939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">541058 2 Inch QC TS FIRM HLDR PAD W/TA4</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255024676908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.10</s:price>
+      <s:sku>AC SAN AM31627</s:sku>
+      <s:grams>49</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255024513068</id>
+    <published>2019-10-16T00:31:45-04:00</published>
+    <updated>2019-10-16T00:31:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ab82659"/>
+    <title>3M AB82659  - 3M Hookit Dust Free Disc Pad, 82659, 5 holes, 5 in x 3/4 in 5/16-24 ext AB82659 7100032506</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ab82659-3m-hookit-dust-free-disc-pad-82659-5-holes-5-in-x-3-4-in-5-16-24-ext-ab82659-7100032506-13120516259884.jpg?v=1580267045"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            24.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hookit Dust Free Disc Pad, 82659, 5 holes, 5 in x 3/4 in 5/16-24 ext</h4> <li class="extra-info">3M™ Hookit™ Disc Pad securely holds a 3M™ Hookit™ Sanding Discs or 3M™ Hookit™ Finishing Disc or 3M™ Finesse-it™ Buffing Pad for use with a hand-held sanding tool such as a rotary, orbital, or random orbital sander</li><li class="extra-info">The 45-degree tapered edge provides flexibility and allows the sanded area to be easily blended and feather-edged.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNqM8tSMxt9nv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">J hooks securely hold a 3M Hookit disc or 3M Finesse-it buffing pad</li><li class="extra-info"> 15-degree tapered edge is ideal for final finishing on flat or contoured surfaces</li><li class="extra-info"> 3M Hookit system provides easy removal and re-use</li><li class="extra-info"> 3M Hookit Attachment provides excellent backing support and easy reuse, optimizing disc life</li><li class="extra-info"> 15-degree tapered edge is ideal for final finishing on flat or contoured surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255024513068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.75</s:price>
+      <s:sku>AC SAN AB82659</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+</feed>

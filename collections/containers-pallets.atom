@@ -1,0 +1,1301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/containers-pallets.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T05:29:14-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812432388140</id>
+    <published>2019-05-11T05:29:14-04:00</published>
+    <updated>2019-05-11T05:29:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5650-ye"/>
+    <title>Enpac 5650-YE  - Dripillow Berm 22 InchX22 InchX3 Inch</title>
+    <s:type>Berms</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/berms-enpac-5650-ye-dripillow-berm-22-inchx22-inchx3-inch-12747020402732.jpg?v=1579162308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Berms<br>
+        <strong>Price: </strong>
+            77.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Have a small leak or spill? Dripillow Berm comes in four sizes to capture small leaks and drips, and with its stable weighted base, it will not tip or splash in windy conditions</li><li class="extra-info">Designed to be utilized as am durable and portable drip-pan, it is useable with all fuels and hydrocarbons, comes with a UV protected pad, and can be folded for easy carrying</li><li class="extra-info">Eliminates nuisance drips under vehicles, hydraulic lines, or equipment</li><li class="extra-info">Replaceable UV Resistant Pads available for reorder</li><li class="extra-info">(Safety yellow is standard color</li><li class="extra-info">Available in other colors by special request)</li><li class="extra-info">•No tipping or splashing</li><li class="extra-info">•Weighted unit can handle 40 mph winds</li><li class="extra-info">•Folds for easy carrying</li><li class="extra-info">•Replaceable UV protected pad available</li><li class="extra-info">SMALL Product Number: 5650-YE Dimensions: 22 Inch L x 22 Inch W x 3 Inch H, 56 cm x 56 cm x 8 cm Weight: 7 lbs</li><li class="extra-info">/ 3.2 kg Sump Capacity: 1 gal</li><li class="extra-info">/ 3.8 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Berms</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812432388140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.36</s:price>
+      <s:sku>AC CNT 5650-YE</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812431503404</id>
+    <published>2019-05-11T05:28:54-04:00</published>
+    <updated>2019-05-11T05:28:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5660-ye"/>
+    <title>Enpac 5660-YE  - Dripillow Berm 24X36X3 Inch</title>
+    <s:type>Berms</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/berms-enpac-5660-ye-dripillow-berm-24x36x3-inch-12747018993708.jpg?v=1579162343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Berms<br>
+        <strong>Price: </strong>
+            110.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Have a small leak or spill? Dripillow Berm comes in four sizes to capture small leaks and drips, and with its stable weighted base, it will not tip or splash in windy conditions</li><li class="extra-info">Designed to be utilized as am durable and portable drip-pan, it is useable with all fuels and hydrocarbons, comes with a UV protected pad, and can be folded for easy carrying</li><li class="extra-info">Eliminates nuisance drips under vehicles, hydraulic lines, or equipment</li><li class="extra-info">Replaceable UV Resistant Pads available for reorder</li><li class="extra-info">(Safety yellow is standard color</li><li class="extra-info">Available in other colors by special request)</li><li class="extra-info">•No tipping or splashing</li><li class="extra-info">•Weighted unit can handle 40 mph winds</li><li class="extra-info">•Folds for easy carrying</li><li class="extra-info">•Replaceable UV protected pad available</li><li class="extra-info">MEDIUM Product Number: 5660-YE Dimensions: 24 Inch L x 36 Inch W x 3 Inch H, 61 cm x 91 cm x 8 cm Weight: 8 lbs</li><li class="extra-info">/ 4 kg Sump Capacity: 2 gal</li><li class="extra-info">/ 7.6 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Berms</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812431503404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">110.26</s:price>
+      <s:sku>AC CNT 5660-YE</s:sku>
+      <s:grams>3628</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812430946348</id>
+    <published>2019-05-11T05:28:43-04:00</published>
+    <updated>2019-05-11T05:28:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-4804-gp"/>
+    <title>Enpac 4804-GP  - Ground Pad For Berms 4&apos; X 6&apos;</title>
+    <s:type>Berms</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/berms-enpac-4804-gp-ground-pad-for-berms-4-x-6-12747018141740.jpg?v=1579160757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Berms<br>
+        <strong>Price: </strong>
+            114.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Protect berms from truck wheels or rough terrain</li><li class="extra-info">The supertough Ground Pad goes underneath the berm, directly on the ground, and prevents underside punctures from sharp objects</li><li class="extra-info">Part #: 4804-GP Description: For 4'x6' Berm Part #: 4806-GP Description: For 6'x6' Berm Part #: 4808-GP Description: For 8'x10' Berm Part #: 4810-GP Description: For 10'x10' Berm Part #: 4812-GP Description: For 12'x12' Berm Part #: 4816-GP Description: For 16'x16' Berm Part #: 4820-GP Description: For 10'x26' Berm Part #: 4836-GP Description: For 12'x36' Berm Part #: 4850-GP Description: For 15'x50' Berm Part #: 4854-GP Description: For 14'x54' Berm Part #: 4860-GP Description: For 12'x60' Berm Part #: 4866-GP Description: For 14'x66' Berm</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Berms</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812430946348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">114.07</s:price>
+      <s:sku>MH CNT 4804-GP</s:sku>
+      <s:grams>6350</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812430389292</id>
+    <published>2019-05-11T05:28:32-04:00</published>
+    <updated>2019-05-11T05:28:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5750-ye"/>
+    <title>Enpac 5750-YE  - 1-Drum Spillpal</title>
+    <s:type>Spill Pal</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pal-enpac-5750-ye-1-drum-spillpal-12747017650220.jpg?v=1579162577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pal<br>
+        <strong>Price: </strong>
+            133.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">THE MOST AFFORDABLE, AND MOST CONVENIENT TEMPORARY STORAGE! The flexible-sidewall Spillpal line is the easiest to use and the most affordable hazardous material storage product on the market today</li><li class="extra-info">Spillpal provides incidental spill control during temporary storage of drums, machine parts, tanks and generators and can also be used as a washdown pad or pumping station</li><li class="extra-info">An alternative to hard plastic pallets that need to be moved by a forklift and are always in the way, ENPAC's Spillpal features 4 Inch foam sidewalls that easily spring back into place after any type of pressure is applied</li><li class="extra-info">With eight configurations, Spillpal almost eliminates the need for bulky, hard plastic pallets</li><li class="extra-info">No more ramps</li><li class="extra-info">Flexible sidewalls spring back to form— allows easy drive-in and drive out with a hand truck or forklift Reusable! When you're done, just fold and place on a shelf Frees up valuable floor space Part #: 5750-YE (without grate)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pal</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812430389292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">133.08</s:price>
+      <s:sku>MH CNT 5750-YE</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812429537324</id>
+    <published>2019-05-11T05:28:19-04:00</published>
+    <updated>2019-05-11T05:28:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5600-ye"/>
+    <title>Enpac 5600-YE  - Poly-Spillpad 24 Inch X 24 Inch X 2 Inch</title>
+    <s:type>Pads</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pads-enpac-5600-ye-poly-spillpad-24-inch-x-24-inch-x-2-inch-12747016863788.jpg?v=1579162078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Pads<br>
+        <strong>Price: </strong>
+            268.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Keep the floor clean with Poly-Spillpad! Handles spent batteries, 5-gallon pails, 16-gallon drums, and the messiest of “smaller” jobs</li><li class="extra-info">Sturdy inner polyethylene grate provides protection while vinyl berm keeps incidental spills contained</li><li class="extra-info">Poly-Spillpad is lightweight and easily moved</li><li class="extra-info">Great on your plant floors or to prevent incidental spills on the go! The large sump area allows for an extended response time</li><li class="extra-info">• Removable 100% polyethylene grate allows easy access to the sump</li><li class="extra-info">Length 23.5 in</li><li class="extra-info">/ 60 cm</li><li class="extra-info">Width 23.5 in</li><li class="extra-info">/ 60 cm</li><li class="extra-info">Height 2.25 in</li><li class="extra-info">/ 6 cm Weight 13 lbs</li><li class="extra-info">/ 5.8 kg</li><li class="extra-info">Load Capacity 4000 lbs</li><li class="extra-info">/ 1814.4 kg</li><li class="extra-info">Spill Capacity 2 gal</li><li class="extra-info">/ 7.6 L</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812429537324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">268.69</s:price>
+      <s:sku>MH CNT 5600-YE</s:sku>
+      <s:grams>5896</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812429144108</id>
+    <published>2019-05-11T05:28:12-04:00</published>
+    <updated>2019-05-11T05:28:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5755-ye"/>
+    <title>Enpac 5755-YE  - 2-Drum Spillpal</title>
+    <s:type>Spill Pal</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pal-enpac-5755-ye-2-drum-spillpal-12747016732716.jpg?v=1579731659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pal<br>
+        <strong>Price: </strong>
+            239.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">THE MOST AFFORDABLE, THE MOST CONVENIENT TEMPORARY STORAGE! The flexible-sidewall Spillpal line is the easiest to use and the most affordable hazardous material storage product on the market today</li><li class="extra-info">Spillpal provides incidental spill control during temporary storage of drums, machine parts, tanks and generators and can also be used as a washdown pad or pumping station</li><li class="extra-info">An alternative to hard plastic pallets that need to be moved by a forklift and are always in the way, ENPAC's Spillpal features 4 Inch foam sidewalls that easily spring back into place after any type of pressure is applied</li><li class="extra-info">With eight configurations, Spillpal almost eliminates the need for bulky, hard plastic pallets</li><li class="extra-info">No more ramps</li><li class="extra-info">Flexible sidewalls spring back to form— allows easy drive-in and drive out with a hand truck or forklift</li><li class="extra-info">Reusable! When you're done, just fold and place on a shelf</li><li class="extra-info">Frees up valuable floor space</li><li class="extra-info">Part #: 5755-YE (without grate) Exterior Dimensions: 2' L x 4' W x 4 Inch H Weight: 3 lbs./ 1.4 kg Sump Capacity: 20 gallons</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pal</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812429144108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">239.54</s:price>
+      <s:sku>MH CNT 5755-YE</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812428914732</id>
+    <published>2019-05-11T05:28:03-04:00</published>
+    <updated>2019-05-11T05:28:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5670-ye"/>
+    <title>Enpac 5670-YE  - Dripillow Berm 24X54X3 Inch</title>
+    <s:type>Berms</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/berms-enpac-5670-ye-dripillow-berm-24x54x3-inch-12747016568876.jpg?v=1579162447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Berms<br>
+        <strong>Price: </strong>
+            150.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Have a small leak or spill? Dripillow Berm comes in four sizes to capture small leaks and drips, and with its stable weighted base, it will not tip or splash in windy conditions</li><li class="extra-info">Designed to be utilized as am durable and portable drip-pan, it is useable with all fuels and hydrocarbons, comes with a UV protected pad, and can be folded for easy carrying</li><li class="extra-info">Eliminates nuisance drips under vehicles, hydraulic lines, or equipment</li><li class="extra-info">Replaceable UV Resistant Pads available for reorder</li><li class="extra-info">(Safety yellow is standard color</li><li class="extra-info">Available in other colors by special request)</li><li class="extra-info">•No tipping or splashing</li><li class="extra-info">•Weighted unit can handle 40 mph winds</li><li class="extra-info">•Folds for easy carrying</li><li class="extra-info">•Replaceable UV protected pad available</li><li class="extra-info">LARGE Product Number: 5670-YE Dimensions: 24 Inch L x 54 Inch W x 3 Inch H, 61 cm x 137 cm x 8 cm Weight: 9 lbs</li><li class="extra-info">/ 5 kg Sump Capacity: 3 gal</li><li class="extra-info">/ 11.4 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Berms</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812428914732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">150.82</s:price>
+      <s:sku>AC CNT 5670-YE</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812428161068</id>
+    <published>2019-05-11T05:27:40-04:00</published>
+    <updated>2019-05-11T05:27:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5760-ye"/>
+    <title>Enpac 5760-YE  - 4-Drum Spillpal</title>
+    <s:type>Spill Pal</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pal-enpac-5760-ye-4-drum-spillpal-12747015192620.jpg?v=1579731692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pal<br>
+        <strong>Price: </strong>
+            369.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">THE MOST AFFORDABLE, THE MOST CONVENIENT TEMPORARY STORAGE! The flexible-sidewall Spillpal line is the easiest to use and the most affordable hazardous material storage product on the market today</li><li class="extra-info">Spillpal provides incidental spill control during temporary storage of drums, machine parts, tanks and generators and can also be used as a washdown pad or pumping station</li><li class="extra-info">An alternative to hard plastic pallets that need to be moved by a forklift and are always in the way, ENPAC's Spillpal features 4 Inch foam sidewalls that easily spring back into place after any type of pressure is applied</li><li class="extra-info">With eight configurations, Spillpal almost eliminates the need for bulky, hard plastic pallets</li><li class="extra-info">No more ramps</li><li class="extra-info">Flexible sidewalls spring back to form— allows easy drive-in and drive out with a hand truck or forklift Reusable! When you're done, just fold and place on a shelf Frees up valuable floor space Holds one IBC Part #: 5760-YE (without grate) Exterior Dimensions: 4' L x 4' W x 4 Inch H Weight: 4.5 lbs./2.04 kg Sump Capacity: 40 gallons</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pal</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812428161068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">369.57</s:price>
+      <s:sku>MH CNT 5760-YE</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812427997228</id>
+    <published>2019-05-11T05:27:32-04:00</published>
+    <updated>2019-05-11T05:27:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5680-ye"/>
+    <title>Enpac 5680-YE  - Dripillow Berm 38X42 InchX3 Inch</title>
+    <s:type>Berms</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/berms-enpac-5680-ye-dripillow-berm-38x42-inchx3-inch-12747014668332.jpg?v=1579162543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Berms<br>
+        <strong>Price: </strong>
+            205.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Have a small leak or spill? Dripillow Berm comes in four sizes to capture small leaks and drips, and with its stable weighted base, it will not tip or splash in windy conditions</li><li class="extra-info">Designed to be utilized as am durable and portable drip-pan, it is useable with all fuels and hydrocarbons, comes with a UV protected pad, and can be folded for easy carrying</li><li class="extra-info">Eliminates nuisance drips under vehicles, hydraulic lines, or equipment</li><li class="extra-info">Replaceable UV Resistant Pads available for reorder</li><li class="extra-info">(Safety yellow is standard color</li><li class="extra-info">Available in other colors by special request)</li><li class="extra-info">•No tipping or splashing</li><li class="extra-info">•Weighted unit can handle 40 mph winds</li><li class="extra-info">•Folds for easy carrying</li><li class="extra-info">•Replaceable UV protected pad available</li><li class="extra-info">X-LARGE Product Number: 5680-YE Dimensions: 38 Inch L x 42 Inch W x 3 Inch H, 96 cm x 107 cm x 8 cm Weight: 9 lbs</li><li class="extra-info">/ 4 kg Sump Capacity: 4 gal</li><li class="extra-info">/ 15.1 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Berms</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812427997228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">205.32</s:price>
+      <s:sku>AC CNT 5680-YE</s:sku>
+      <s:grams>4218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812427866156</id>
+    <published>2019-05-11T05:27:26-04:00</published>
+    <updated>2019-05-11T05:27:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5610-ye"/>
+    <title>Enpac 5610-YE  - Poly-Spillpad 24 Inch X 48 Inch X 2 Inch</title>
+    <s:type>Pads</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pads-enpac-5610-ye-poly-spillpad-24-inch-x-48-inch-x-2-inch-12747014209580.jpg?v=1579161990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Pads<br>
+        <strong>Price: </strong>
+            425.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Keep your floor clean with Poly-Spillpad! Handles spent batteries, 5-gallon pails, 16-gallon drums and your messiest “smaller” jobs</li><li class="extra-info">Sturdy inner polyethylene grate provides protection while vinyl berm keeps incidental spills contained</li><li class="extra-info">Poly-Spillpad is lightweight and easily moved</li><li class="extra-info">Great on your plant floor...or travels with you to prevent incidental spills on the go! The large sump area allows for an extended response time</li><li class="extra-info">* Available in three sizes • Removable grate allows easy access to the sump • Grate is made of 100% polyethylene Product Number: 5610-YE Dimensions: 23.5” L x 48.5” W x 2.25” H, 59.69 cm x 123.19 cm x 5.72 cm Weight: 21 lbs</li><li class="extra-info">/ 9.54 kg Load Bearing Capacity UDL: 8000 lbs / 3628.7 kg Sump Capacity: 7.5 gal</li><li class="extra-info">/ 28.4 liters Regulations: EPA, SPCC and NPDES</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812427866156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">425.84</s:price>
+      <s:sku>MH CNT 5610-YE</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812427472940</id>
+    <published>2019-05-11T05:27:16-04:00</published>
+    <updated>2019-05-11T05:27:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5770-ye"/>
+    <title>Enpac 5770-YE  - 6-Drum Spillpal</title>
+    <s:type>Spill Pal</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pal-enpac-5770-ye-6-drum-spillpal-12747013292076.jpg?v=1579181159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pal<br>
+        <strong>Price: </strong>
+            504.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">THE MOST AFFORDABLE, THE MOST CONVENIENT TEMPORARY STORAGE! The flexible-sidewall Spillpal line is the easiest to use and the most affordable hazardous material storage product on the market today</li><li class="extra-info">Spillpal provides incidental spill control during temporary storage of drums, machine parts, tanks and generators and can also be used as a washdown pad or pumping station</li><li class="extra-info">An alternative to hard plastic pallets that need to be moved by a forklift and are always in the way, ENPAC's Spillpal features 4 Inch foam sidewalls that easily spring back into place after any type of pressure is applied</li><li class="extra-info">With eight configurations, Spillpal almost eliminates the need for bulky, hard plastic pallets</li><li class="extra-info">No more ramps</li><li class="extra-info">Flexible sidewalls spring back to form— allows easy drive-in and drive out with a hand truck or forklift Reusable! When you're done, just fold and place on a shelf</li><li class="extra-info">Frees up valuable floor space</li><li class="extra-info">Part #: 5770-YE (without grate) Exterior Dimensions: 4' L x 6' W x 4 Inch H Weight: 6.5 lbs</li><li class="extra-info">Sump Capacity: 60 gallons Regulations: EPA 40 CFR 264.175</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pal</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812427472940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">504.42</s:price>
+      <s:sku>MH CNT 5770-YE</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812427210796</id>
+    <published>2019-05-11T05:27:15-04:00</published>
+    <updated>2019-05-11T05:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5765-ye"/>
+    <title>Enpac 5765-YE  - 4-Drum In-Line Spillpal</title>
+    <s:type>Spill Pallet</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pallet-enpac-5765-ye-4-drum-in-line-spillpal-12747013324844.jpg?v=1579181247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pallet<br>
+        <strong>Price: </strong>
+            415.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">THE MOST AFFORDABLE, THE MOST CONVENIENT TEMPORARY STORAGE! The flexible-sidewall Spillpal line is the easiest to use and the most affordable hazardous material storage product on the market today</li><li class="extra-info">Spillpal provides incidental spill control during temporary storage of drums, machine parts, tanks and generators and can also be used as a washdown pad or pumping station</li><li class="extra-info">An alternative to hard plastic pallets that need to be moved by a forklift and are always in the way, ENPAC's Spillpal features 4 Inch foam sidewalls that easily spring back into place after any type of pressure is applied</li><li class="extra-info">With eight configurations, Spillpal almost eliminates the need for bulky, hard plastic pallets</li><li class="extra-info">No more ramps</li><li class="extra-info">Flexible sidewalls spring back to form— allows easy drive-in and drive out with a hand truck or forklift Reusable! When you're done, just fold and place on a shelf</li><li class="extra-info">Frees up valuable floor space</li><li class="extra-info">Part #: 5765-YE (without grate) Exterior Dimensions: 2' L x 8' W x 4 Inch H Weight: 5.5 lbs</li><li class="extra-info">Sump Capacity: 40 gallons</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pallet</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812427210796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">415.70</s:price>
+      <s:sku>MH CNT 5765-YE</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812426981420</id>
+    <published>2019-05-11T05:27:09-04:00</published>
+    <updated>2019-05-11T05:27:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5775-ye"/>
+    <title>Enpac 5775-YE  - 8-Drum Spillpal</title>
+    <s:type>Spill Pal</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pal-enpac-5775-ye-8-drum-spillpal-12747013095468.jpg?v=1579731779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pal<br>
+        <strong>Price: </strong>
+            614.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">THE MOST AFFORDABLE, THE MOST CONVENIENT TEMPORARY STORAGE! The flexible-sidewall Spillpal line is the easiest to use and the most affordable hazardous material storage product on the market today</li><li class="extra-info">Spillpal provides incidental spill control during temporary storage of drums, machine parts, tanks and generators and can also be used as a washdown pad or pumping station</li><li class="extra-info">An alternative to hard plastic pallets that need to be moved by a forklift and are always in the way, ENPAC's Spillpal features 4 Inch foam sidewalls that easily spring back into place after any type of pressure is applied</li><li class="extra-info">With eight configurations, Spillpal almost eliminates the need for bulky, hard plastic pallets</li><li class="extra-info">No more ramps</li><li class="extra-info">Flexible sidewalls spring back to form— allows easy drive-in and drive out with a hand truck or forklift Reusable! When you're done, just fold and place on a shelf</li><li class="extra-info">Frees up valuable floor space</li><li class="extra-info">Holds two IBCs</li><li class="extra-info">Part #: 5775-YE (without grate) Exterior Dimensions: 4' L x 8' W x 4 Inch H Weight: 7.5 lbs Sump Capacity: 80 gallons Regulations: EPA 40 CFR 264.175</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pal</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812426981420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">614.69</s:price>
+      <s:sku>MH CNT 5775-YE</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812426817580</id>
+    <published>2019-05-11T05:27:03-04:00</published>
+    <updated>2019-05-11T05:27:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5622-ye"/>
+    <title>Enpac 5622-YE  - Duck Ponds 2&apos;X2&apos;X4 Inch</title>
+    <s:type>Duck Ponds</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duck-ponds-enpac-5622-ye-duck-ponds-2-x2-x4-inch-12747012767788.gif?v=1579162201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Duck Ponds<br>
+        <strong>Price: </strong>
+            258.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Containment Booms are recommended for use on open waters such as large lakes, bays, harbors or ocean environments</li><li class="extra-info">Top cable is recommended when several hundred feet are deployed</li><li class="extra-info">3/8 Inch chain ballast is recommended when tidal flows or current exist</li><li class="extra-info">4 Inchx6 Inch booms are float containment devices for ponds, small lakes, streams, creeks and small rivers where strong currents or winds do not exist</li><li class="extra-info">6 Inchx12 Inch booms are used on lakes or open bodies of water where wind creates significant wave action</li><li class="extra-info">Under normal conditions, total section lengths should not exceed 500' without a top tension member</li><li class="extra-info">Aluminum quick latch or slide couplers are recommended</li><li class="extra-info">Top tension cable available on request</li><li class="extra-info">Great for: •Quick use under leaking vehicles/machines •Truck/Tractor emergency drips •A low-sidewall pop-up pool alternative •Changing oils/fluids •Protecting bottom surfaces while dispensing •Performing maintenance on any item that has a spill potential Length 2 ft</li><li class="extra-info">/ .6 m</li><li class="extra-info">- 24 in</li><li class="extra-info">/ 61 cm</li><li class="extra-info">Width 2 ft</li><li class="extra-info">/ .6 m</li><li class="extra-info">- 24 in</li><li class="extra-info">/ 61 cm</li><li class="extra-info">Height 4 in</li><li class="extra-info">/ 10 cm</li><li class="extra-info">Weight 1 lb</li><li class="extra-info">/ 9 kg</li><li class="extra-info">Spill Capacity 10 gal</li><li class="extra-info">/ 38 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duck Ponds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812426817580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">258.34</s:price>
+      <s:sku>MH CNT 5622-YE</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812426620972</id>
+    <published>2019-05-11T05:26:58-04:00</published>
+    <updated>2019-05-11T05:26:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5620-ye"/>
+    <title>Enpac 5620-YE  - Poly-Spillpad 48 Inch X 48 Inch X 2 Inch</title>
+    <s:type>Pads</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pads-enpac-5620-ye-poly-spillpad-48-inch-x-48-inch-x-2-inch-12747012538412.jpg?v=1579162044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Pads<br>
+        <strong>Price: </strong>
+            614.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Keep your floor clean with Poly-Spillpad! Handles spent batteries, 5-gallon pails, 16-gallon drums and your messiest “smaller” jobs</li><li class="extra-info">Sturdy inner polyethylene grate provides protection while vinyl berm keeps incidental spills contained</li><li class="extra-info">Poly-Spillpad is lightweight and easily moved</li><li class="extra-info">Great on your plant floor...or travels with you to prevent incidental spills on the go! The large sump area allows for an extended response time</li><li class="extra-info">* Available in three sizes • Removable grate allows easy access to the sump • Grate is made of 100% polyethylene Product Number: 5620-YE Dimensions: 55.5” L x 55” W x 2.25” H, 140.97 cm x 139.7 cm x 5.72cm Weight: 46 lbs</li><li class="extra-info">/ 20.87 kg Load Bearing Capacity UDL: 16000 lbs / 7257.5 kg Sump Capacity: 12 gal</li><li class="extra-info">/ 45.4 liters Regulations: EPA, SPCC and NPDES</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812426620972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">614.69</s:price>
+      <s:sku>MH CNT 5620-YE</s:sku>
+      <s:grams>20865</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812426129452</id>
+    <published>2019-05-11T05:26:49-04:00</published>
+    <updated>2019-05-11T05:26:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5623-ye"/>
+    <title>Enpac 5623-YE  - Duck Ponds 2&apos;X3&apos;X4 Inch</title>
+    <s:type>Duck Ponds</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duck-ponds-enpac-5623-ye-duck-ponds-2-x3-x4-inch-12747012079660.gif?v=1579162166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Duck Ponds<br>
+        <strong>Price: </strong>
+            309.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Duck ponds are perfect for projects where storage space is limited</li><li class="extra-info">Small enough to fit in a cabinet or store on a shelf, a Duck Pond can hold various drum sizes with ease and affordability</li><li class="extra-info">Providing both reliable and reusable secondary containment for oils, fluids, and gasolines</li><li class="extra-info"> ponds are easy to maneuver and can withstand extreme cold temperatures to -55F/-48C.The uses are endless! For quick response to leaking machines, prevenative maintenance, and emergency drips, ponds are the perfect quick-grab item that is rugged and ideal for small areas for rapid deployment</li><li class="extra-info">Duck Ponds are available in various sizes, contain a 4 Inch low-profile sidewall, and are leak tested</li><li class="extra-info">Great for: •Quick use under leaking vehicles/machines •Truck/Tractor emergency drips •A low-sidewall pop-up pool alternative •Changing oils/fluids •Protecting bottom surfaces while dispensing •Performing maintenance on any item that has a spill potential Length 2 ft</li><li class="extra-info">/ .9 m</li><li class="extra-info">- 24 in</li><li class="extra-info">/ 61 cm</li><li class="extra-info">Width 3 ft</li><li class="extra-info">/ .6 m</li><li class="extra-info">- 36 in</li><li class="extra-info">/ 91 cm</li><li class="extra-info">Height 4 in</li><li class="extra-info">/ 10 cm</li><li class="extra-info">Weight 3 lbs</li><li class="extra-info">/ 1.4 kg</li><li class="extra-info">Spill Capacity 15 gal / 57 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duck Ponds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812426129452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">309.24</s:price>
+      <s:sku>MH CNT 5623-YE</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424917036</id>
+    <published>2019-05-11T05:26:22-04:00</published>
+    <updated>2019-05-11T05:26:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5644-ye"/>
+    <title>Enpac 5644-YE  - Duck Ponds 4&apos;X4&apos;X4</title>
+    <s:type>Duck Ponds</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duck-ponds-enpac-5644-ye-duck-ponds-4-x4-x4-12747010637868.gif?v=1579162234"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Duck Ponds<br>
+        <strong>Price: </strong>
+            453.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Duck ponds are perfect for projects where storage space is limited</li><li class="extra-info">Small enough to fit in a cabinet or store on a shelf, a Duck Pond can hold various drum sizes with ease and affordability</li><li class="extra-info">Providing both reliable and reusable secondary containment for oils, fluids, and gasolines</li><li class="extra-info"> ponds are easy to maneuver and can withstand extreme cold temperatures to -55F/-48C.The uses are endless! For quick response to leaking machines, prevenative maintenance, and emergency drips, ponds are the perfect quick-grab item that is rugged and ideal for small areas for rapid deployment</li><li class="extra-info">Duck Ponds are available in various sizes, contain a 4 Inch low-profile sidewall, and are leak tested</li><li class="extra-info">Great for: •Quick use under leaking vehicles/machines •Truck/Tractor emergency drips •A low-sidewall pop-up pool alternative •Changing oils/fluids •Protecting bottom surfaces while dispensing •Performing maintenance on any item that has a spill potential Length 4 ft</li><li class="extra-info">/ 1.2 m</li><li class="extra-info">- 48 in</li><li class="extra-info">/ 121 cm</li><li class="extra-info">Width 4 ft</li><li class="extra-info">/ 1.2 m</li><li class="extra-info">- 48 in</li><li class="extra-info">/ 122 cm</li><li class="extra-info">Height 4 in</li><li class="extra-info">/ 10 cm</li><li class="extra-info">Weight 5.5 lbs</li><li class="extra-info">/ 2.5 kg</li><li class="extra-info">Spill Capacity 40 gal / 151 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duck Ponds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424917036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">453.12</s:price>
+      <s:sku>MH CNT 5644-YE</s:sku>
+      <s:grams>2494</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424294444</id>
+    <published>2019-05-11T05:26:12-04:00</published>
+    <updated>2019-05-11T05:26:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5646-ye"/>
+    <title>Enpac 5646-YE  - Duck Ponds 4&apos;X6&apos;X4</title>
+    <s:type>Duck Ponds</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duck-ponds-enpac-5646-ye-duck-ponds-4-x6-x4-12747009753132.gif?v=1579162413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Duck Ponds<br>
+        <strong>Price: </strong>
+            484.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Duck ponds are perfect for projects where storage space is limited</li><li class="extra-info">Small enough to fit in a cabinet or store on a shelf, a Duck Pond can hold various drum sizes with ease and affordability</li><li class="extra-info">Providing both reliable and reusable secondary containment for oils, fluids, and gasolines</li><li class="extra-info"> ponds are easy to maneuver and can withstand extreme cold temperatures to -55F/-48C.The uses are endless! For quick response to leaking machines, prevenative maintenance, and emergency drips, ponds are the perfect quick-grab item that is rugged and ideal for small areas for rapid deployment</li><li class="extra-info">Duck Ponds are available in various sizes, contain a 4 Inch low-profile sidewall, and are leak tested</li><li class="extra-info">Great for: •Quick use under leaking vehicles/machines •Truck/Tractor emergency drips •A low-sidewall pop-up pool alternative •Changing oils/fluids •Protecting bottom surfaces while dispensing •Performing maintenance on any item that has a spill potential Length 4 ft</li><li class="extra-info">/ 1.2 m</li><li class="extra-info">- 48 in</li><li class="extra-info">/ 121 cm</li><li class="extra-info">Width 6 ft</li><li class="extra-info">/ 1.8 m</li><li class="extra-info">- 72 in</li><li class="extra-info">/ 183 cm</li><li class="extra-info">Height 4 in</li><li class="extra-info">/ 10 cm</li><li class="extra-info">Weight 7 lbs</li><li class="extra-info">/ 3.2 kg</li><li class="extra-info">Spill Capacity 60 gal / 227 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duck Ponds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424294444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">484.89</s:price>
+      <s:sku>MH CNT 5646-YE</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812423966764</id>
+    <published>2019-05-11T05:26:00-04:00</published>
+    <updated>2019-05-11T05:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/spilkleen-5646-ye-f"/>
+    <title>SpilKleen 5646-YE-F  - Folding Duck Pond 4&apos;X6&apos;X6 No</title>
+    <s:type>Duck Ponds</s:type>
+    <s:vendor>SpilKleen</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duck-ponds-spilkleen-5646-ye-f-folding-duck-pond-4-x6-x6-no-12747009032236.jpg?v=1575167065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>SpilKleen<br>
+        <strong>Type: </strong>Duck Ponds<br>
+        <strong>Price: </strong>
+            534.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Made with the same durable, quality as the standard Duck Pond™, the new Folding Duck Ponds™ feature a thinner, 2 Inch sidewall width with a safety-secure strap for easy folding and compact storage to create ample travel space</li><li class="extra-info">The extended 6 Inch sidewall height allows for up to 30% more spill capacity and 100% peace of mind</li><li class="extra-info">Conveniently folds saving shipping and storage space! Folding duck ponds are perfect for projects where storage space is limited</li><li class="extra-info">Small enough to fit in a cabinet or store on a shelf, a Duck Pond can hold various drum sizes with ease and affordability</li><li class="extra-info">Providing both reliable and reusable secondary containment for oils, fluids, and gasolines</li><li class="extra-info"> ponds are easy to maneuver and can withstand extreme cold temperatures to -55F/-48C</li><li class="extra-info">The uses are endless! For quick response to leaking machines, preventive maintenance, and emergency drips, ponds are the perfect quick-grab item that is rugged and ideal for small areas for rapid deployment</li><li class="extra-info">Duck Ponds are available in various sizes and are leak tested</li><li class="extra-info">Great for: •Quick use under leaking vehicles/machines •Truck/Tractor emergency drips •A low-sidewall pop-up pool alternative •Changing oils/fluids •Protecting bottom surfaces while dispensing •Performing maintenance on any item that has a spill potential</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">SpilKleen</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duck Ponds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812423966764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">534.09</s:price>
+      <s:sku>MH CNT 5646-YE-F</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812423933996</id>
+    <published>2019-05-11T05:26:00-04:00</published>
+    <updated>2019-05-11T05:26:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-4810-bag"/>
+    <title>Enpac 4810-BAG  - Storage &amp; Transport Bag 4810-Bk-Su</title>
+    <s:type>Duck Ponds</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/duck-ponds-enpac-4810-bag-storage-transport-bag-4810-bk-su-12747009130540.jpg?v=1579160875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Duck Ponds<br>
+        <strong>Price: </strong>
+            516.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Heavy duty chemically resistant bag for ease in maneuverability and storage</li><li class="extra-info">Part #: 4810-BAG</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Duck Ponds</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812423933996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">516.42</s:price>
+      <s:sku>MH CNT 4810-BAG</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812423114796</id>
+    <published>2019-05-11T05:25:37-04:00</published>
+    <updated>2019-05-11T05:25:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5700-ye"/>
+    <title>Enpac Stinger 5700-YE  - Stinger Yellow Jacket 4&apos; X 4&apos; X 8 Inch</title>
+    <s:type>Spill Containment</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-containment-enpac-stinger-5700-ye-stinger-yellow-jacket-4-x-4-x-8-inch-12747008147500.jpg?v=1579168828"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Containment<br>
+        <strong>Price: </strong>
+            801.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Why carry sorbents? Carry this lightweight, portable pallet anywhere and prevent spills from occurring</li><li class="extra-info">Made of 22 oz</li><li class="extra-info">vinyl-coated polyester, it's chemical-resistant, stands up to corrosive battery acid, and is a great addition to any Spill Kit</li><li class="extra-info">Stop storing truck, automobile and small forklift batteries on the ground or on wooden pallets</li><li class="extra-info">Order optional polyethylene grates...removable for easy access to the sump</li><li class="extra-info">Stinger Yellow Jacket folds up for compact storage and transport</li><li class="extra-info">Unique snap-up support stays create a sturdy sidewall when unit is opened</li><li class="extra-info">Excellent for decontamination applications</li><li class="extra-info">Product Number: 5700-YE Dimensions: 4' L x 4' W x 8 Inch H, 1.22 m x 1.22 m x 20 cm Weight: 13 lbs</li><li class="extra-info">/ 7 kg Sump Capacity: 80 gal</li><li class="extra-info">/ 302 liters Regulations: EPA 40 CFR 264.175, SPCC and NPDES</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Stinger</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Containment</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Stinger</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812423114796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">801.14</s:price>
+      <s:sku>MH CNT 5700-YE</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812423082028</id>
+    <published>2019-05-11T05:25:34-04:00</published>
+    <updated>2019-05-11T05:25:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5710-ye"/>
+    <title>Enpac Stinger 5710-YE  - Stinger Yellow Jacket 4&apos; X 6 Inch X 8 Inch</title>
+    <s:type>Spill Containment</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-containment-enpac-stinger-5710-ye-stinger-yellow-jacket-4-x-6-inch-x-8-inch-12747007885356.jpg?v=1579168916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Containment<br>
+        <strong>Price: </strong>
+            884.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Why carry sorbents? Carry this lightweight, portable pallet anywhere and prevent spills from occurring</li><li class="extra-info">Made of 22 oz</li><li class="extra-info">vinyl-coated polyester, it's chemical-resistant, stands up to corrosive battery acid, and is a great addition to any Spill Kit</li><li class="extra-info">Stop storing truck, automobile and small forklift batteries on the ground or on wooden pallets</li><li class="extra-info">Order optional polyethylene grates...removable for easy access to the sump</li><li class="extra-info">Stinger Yellow Jacket folds up for compact storage and transport</li><li class="extra-info">Unique snap-up support stays create a sturdy sidewall when unit is opened</li><li class="extra-info">Excellent for decontamination applications</li><li class="extra-info">Product Number: 5710-YE Dimensions: 4' L x 6' W x 8 Inch H, 1.22 m x 1.83 m x 20 cm Weight: 18 lbs</li><li class="extra-info">/ 9 kg Sump Capacity: 120 gal</li><li class="extra-info">/ 454 liters Regulations: EPA 40 CFR 264.175, SPCC and NPDES</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Stinger</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Containment</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Stinger</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812423082028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">884.34</s:price>
+      <s:sku>MH CNT 5710-YE</s:sku>
+      <s:grams>8164</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812423016492</id>
+    <published>2019-05-11T05:25:34-04:00</published>
+    <updated>2019-05-11T05:25:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultratech-9580"/>
+    <title>UltraTech 9580  - Trackpans Center Pan Cover</title>
+    <s:type>Trackpans</s:type>
+    <s:vendor>UltraTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trackpans-ultratech-9580-trackpans-center-pan-cover-12747007918124.jpg?v=1574951737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UltraTech<br>
+        <strong>Type: </strong>Trackpans<br>
+        <strong>Price: </strong>
+            733.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Capture Hazardous Spills From Railroad Tanker Cars Ultra-TrackPans have been designed to provide spill containment at industrial rail sidings and locomotive maintenance facilities</li><li class="extra-info">Available in virtually any length, Ultra-TrackPans may be used to collect small spills and leaks OR to capture and channel off significant spills caused by defective equipment or a major overflow</li><li class="extra-info">Prevent Costly Cleanup and Regulatory Fines Modular Design - Center and Side Pans are 53.5 Inch long</li><li class="extra-info"> containment areas can be easily assembled to any length desired All-polyethylene Construction - Rugged TrackPans withstand harsh chemicals and are designed to function in temperatures ranging from -40°F to +140°F Sealed System - Polyethylene gaskets keep spills from falling between the rails and Pans</li><li class="extra-info">Trucks and other vehicles can drive over TrackPans with grates in place* Economical, easy to install Modular TrackPan design can be customized to meet your specific needs Optional TrackPan Covers Keep Rainwater Out of the Pans, Providing Effective Stormwater Management</li><li class="extra-info">Unique stormwater feature is designed to eliminate Inchpooling Inch of rain that falls on top of the Center Pan Covers</li><li class="extra-info"> rain is channeled onto the ballast between the tracks, stays out of the Pans</li><li class="extra-info">Ultra-TrackPans Are Available In Two (2) Models: TrackPans and Grates, No Covers TrackPans with Grates and Covers Low Maintenance - unlike carbon steel track pans, Ultra-TrackPans will not rust or corrode</li><li class="extra-info">Polyethylene resin is treated with a UV inhibitor, resists degrading effects of the sun</li><li class="extra-info">Slip Resistant Surfaces - Pans, grates and covers have been designed with safety in mind</li><li class="extra-info">All top surfaces resist slips when wet or oily</li><li class="extra-info">Long Work Life - Estimated to perform 20-30 years</li><li class="extra-info"> longer than fiberglass pans</li><li class="extra-info">Cover for Center TrackPan - Part #: 9580 Dimensions: 56 Inch x 54 Inch Weight: 24 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">UltraTech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trackpans</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812423016492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">733.82</s:price>
+      <s:sku>MH CNT 9580</s:sku>
+      <s:grams>13607</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812422688812</id>
+    <published>2019-05-11T05:25:24-04:00</published>
+    <updated>2019-05-11T05:25:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5720-ye"/>
+    <title>Enpac Stinger 5720-YE  - Stinger Yellow Jacket 4&apos; X 8 Inch X 8 Inch</title>
+    <s:type>Spill Containment</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-containment-enpac-stinger-5720-ye-stinger-yellow-jacket-4-x-8-inch-x-8-inch-12747007262764.jpg?v=1579169038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Containment<br>
+        <strong>Price: </strong>
+            1034.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Why carry sorbents? Carry this lightweight, portable pallet anywhere and prevent spills from occurring</li><li class="extra-info">Made of 22 oz</li><li class="extra-info">vinyl-coated polyester, it's chemical-resistant, stands up to corrosive battery acid, and is a great addition to any Spill Kit</li><li class="extra-info">Stop storing truck, automobile and small forklift batteries on the ground or on wooden pallets</li><li class="extra-info">Order optional polyethylene grates...removable for easy access to the sump</li><li class="extra-info">Stinger Yellow Jacket folds up for compact storage and transport</li><li class="extra-info">Unique snap-up support stays create a sturdy sidewall when unit is opened</li><li class="extra-info">Excellent for decontamination applications</li><li class="extra-info">Product Number: 5720-YE Dimensions: 4' L x 8' W x 8 Inch H, 1.22 m x 2.44 m x 20 cm Weight: 24 lbs</li><li class="extra-info">/ 13 kg Sump Capacity: 160 gal</li><li class="extra-info">/ 605 liters Regulations: EPA 40 CFR 264.175, SPCC and NPDES</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Stinger</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Containment</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Stinger</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812422688812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1034.64</s:price>
+      <s:sku>MH CNT 5720-YE</s:sku>
+      <s:grams>12700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812422656044</id>
+    <published>2019-05-11T05:25:24-04:00</published>
+    <updated>2019-05-11T05:25:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultratech-9576"/>
+    <title>UltraTech 9576  - Trackpans Side Pan With Grates</title>
+    <s:type>Trackpans</s:type>
+    <s:vendor>UltraTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/trackpans-ultratech-9576-trackpans-side-pan-with-grates-12747007164460.jpg?v=1574951718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UltraTech<br>
+        <strong>Type: </strong>Trackpans<br>
+        <strong>Price: </strong>
+            788.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Capture Hazardous Spills From Railroad Tanker Cars Ultra-TrackPans have been designed to provide spill containment at industrial rail sidings and locomotive maintenance facilities</li><li class="extra-info">Available in virtually any length, Ultra-TrackPans may be used to collect small spills and leaks OR to capture and channel off significant spills caused by defective equipment or a major overflow</li><li class="extra-info">Prevent Costly Cleanup and Regulatory Fines Modular Design - Center and Side Pans are 53.5 Inch long</li><li class="extra-info"> containment areas can be easily assembled to any length desired All-polyethylene Construction - Rugged TrackPans withstand harsh chemicals and are designed to function in temperatures ranging from -40°F to +140°F Sealed System - Polyethylene gaskets keep spills from falling between the rails and Pans</li><li class="extra-info">Trucks and other vehicles can drive over TrackPans with grates in place* Economical, easy to install Modular TrackPan design can be customized to meet your specific needs Optional TrackPan Covers Keep Rainwater Out of the Pans, Providing Effective Stormwater Management</li><li class="extra-info">Unique stormwater feature is designed to eliminate Inchpooling Inch of rain that falls on top of the Center Pan Covers</li><li class="extra-info"> rain is channeled onto the ballast between the tracks, stays out of the Pans</li><li class="extra-info">Ultra-TrackPans Are Available In Two (2) Models: TrackPans and Grates, No Covers TrackPans with Grates and Covers Low Maintenance - unlike carbon steel track pans, Ultra-TrackPans will not rust or corrode</li><li class="extra-info">Polyethylene resin is treated with a UV inhibitor, resists degrading effects of the sun</li><li class="extra-info">Slip Resistant Surfaces - Pans, grates and covers have been designed with safety in mind</li><li class="extra-info">All top surfaces resist slips when wet or oily</li><li class="extra-info">Long Work Life - Estimated to perform 20-30 years</li><li class="extra-info"> longer than fiberglass pans</li><li class="extra-info">Side TrackPan with Grate - Part #: 9576 (includes 1 bulkhead fitting, 2 gaskets, 1 grate) Dimensions: 53 1/2 Inch x 27 1/2 Inch x 6 Inch Weight: 60 lbs</li><li class="extra-info">Containment Capacity: 19 gallons</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">UltraTech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Trackpans</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH CNT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812422656044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">788.32</s:price>
+      <s:sku>MH CNT 9576</s:sku>
+      <s:grams>31297</s:grams>
+    </s:variant>
+  </entry>
+</feed>

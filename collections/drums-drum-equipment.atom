@@ -1,0 +1,1311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/drums-drum-equipment.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T11:42:05-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813111373868</id>
+    <published>2019-05-11T11:42:05-04:00</published>
+    <updated>2019-05-11T11:42:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jadw-1"/>
+    <title>JET JADW-1  - Drum Wrench Aluminum Handle 350214</title>
+    <s:type>Drum Wrenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drum-wrenches-jet-jadw-1-drum-wrench-aluminum-handle-350214-12748630622252.jpg?v=1579505999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drum Wrenches<br>
+        <strong>Price: </strong>
+            51.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Drum Wrench - Aluminum Handle</h4> <li class="extra-info">Designed to fit perfectly onto most 2" and 3/4" drum plugs</li><li class="extra-info"> Made of cast aluminum for strength and safety</li><li class="extra-info"> Will not cause sparks</li><li class="extra-info"> Hardened and tempered</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drum Wrenches</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Non-sparking aluminum for safety</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813111373868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">51.28</s:price>
+      <s:sku>MH DRM 350214</s:sku>
+      <s:grams>230</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813057208364</id>
+    <published>2019-05-11T11:21:02-04:00</published>
+    <updated>2019-05-11T11:21:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jdd-5"/>
+    <title>JET JDD-5  - 5 Gallon Drum Dolly 351003</title>
+    <s:type>Dollies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dollies-jet-jdd-5-5-gallon-drum-dolly-351003-12748476809260.jpg?v=1579523246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Dollies<br>
+        <strong>Price: </strong>
+            120.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Gallon Drum Dolly</h4> <li class="extra-info">Heavy gauge steel for professional use</li><li class="extra-info"> Powder coated finish</li><li class="extra-info"> 5 and 16 gallon models with adjustable clamp bolt</li><li class="extra-info"> 16 and 55 gallon models complete with cast iron casters</li><li class="extra-info"> Cast iron casters (351005)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dollies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-3/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy gauge steel</li><h2>Product Information</h2><li class="extra-info">Wheels : Resin</li><li class="extra-info"> Load Limit : 200 lb</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>Size_1-3/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813057208364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.74</s:price>
+      <s:sku>MH DRM 351003</s:sku>
+      <s:grams>2160</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813052162092</id>
+    <published>2019-05-11T11:19:02-04:00</published>
+    <updated>2019-05-11T11:19:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jdd-16"/>
+    <title>JET JDD-16  - 16 Gallon Drum Dolly 351004</title>
+    <s:type>Dollies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dollies-jet-jdd-16-16-gallon-drum-dolly-351004-12748460752940.jpg?v=1579523124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Dollies<br>
+        <strong>Price: </strong>
+            147.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">16 Gallon Drum Dolly</h4> <li class="extra-info">Heavy gauge steel for professional use</li><li class="extra-info"> Powder coated finish</li><li class="extra-info"> 5 and 16 gallon models with adjustable clamp bolt</li><li class="extra-info"> 16 and 55 gallon models complete with cast iron casters</li><li class="extra-info"> Cast iron casters (351005)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dollies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-13/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy gauge steel</li><h2>Product Information</h2><li class="extra-info">Wheels : Super Heavy Duty Cast Iron</li><li class="extra-info"> Load Limit : 200 lb</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>Size_1-13/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813052162092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">147.94</s:price>
+      <s:sku>MH DRM 351004</s:sku>
+      <s:grams>3100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813042823212</id>
+    <published>2019-05-11T11:15:26-04:00</published>
+    <updated>2019-05-11T11:15:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jdc-55"/>
+    <title>JET JDC-55  - 55 Gallon Drum Cradle 351011</title>
+    <s:type>Drum Handling Equipment</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drum-handling-equipment-jet-jdc-55-55-gallon-drum-cradle-351011-12748430475308.jpg?v=1579523158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Drum Handling Equipment<br>
+        <strong>Price: </strong>
+            301.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">55 Gallon Drum Cradle</h4> <li class="extra-info">Tilting drum cradle moves, rotates, tips and stores 55 gallon drums with ease</li><li class="extra-info"> Self storing lever bar</li><li class="extra-info"> Powder coated finish</li><li class="extra-info"> Flat packed for easy shipping</li><li class="extra-info"> 2-1/2" non-sparking wheels</li><li class="extra-info"> Load limit: 600 lb (270 kg)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drum Handling Equipment</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For 55 gallon drums</li><li class="extra-info"> Move, store and tip with ease</li><h2>Product Information</h2><li class="extra-info">Load Limit : 600 lb</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813042823212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">301.96</s:price>
+      <s:sku>MH DRM 351011</s:sku>
+      <s:grams>10001</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813041971244</id>
+    <published>2019-05-11T11:15:10-04:00</published>
+    <updated>2019-05-11T11:15:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jdd-55"/>
+    <title>JET JDD-55  - 55 Gallon Drum Dolly 351005</title>
+    <s:type>Dollies</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dollies-jet-jdd-55-55-gallon-drum-dolly-351005-12748428116012.jpg?v=1579523279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Dollies<br>
+        <strong>Price: </strong>
+            330.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">55 Gallon Drum Dolly</h4> <li class="extra-info">Heavy gauge steel for professional use</li><li class="extra-info"> Powder coated finish</li><li class="extra-info"> 5 and 16 gallon models with adjustable clamp bolt</li><li class="extra-info"> 16 and 55 gallon models complete with cast iron casters</li><li class="extra-info"> Cast iron casters (351005)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dollies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-13/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy gauge steel</li><h2>Product Information</h2><li class="extra-info">Load Limit : 450 lb</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>Size_1-13/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813041971244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">330.68</s:price>
+      <s:sku>MH DRM 351005</s:sku>
+      <s:grams>12062</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812431896620</id>
+    <published>2019-05-11T05:29:04-04:00</published>
+    <updated>2019-05-11T05:29:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-7006-bk"/>
+    <title>Enpac 7006-BK  - Replacement Grate</title>
+    <s:type>Replacement Parts</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-parts-enpac-7006-bk-replacement-grate-12747019878444.jpg?v=1579166879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Replacement Parts<br>
+        <strong>Price: </strong>
+            83.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Grates Part #: 7006-BK</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812431896620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.20</s:price>
+      <s:sku>AC DRM 7006-BK</s:sku>
+      <s:grams>8164</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812429963308</id>
+    <published>2019-05-11T05:28:25-04:00</published>
+    <updated>2019-05-11T05:28:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-2030-tarp"/>
+    <title>Enpac 2030-TARP  - Poly-Top For 20 &amp; 30 Gallon Overpacks</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-enpac-2030-tarp-poly-top-for-20-30-gallon-overpacks-12747017584684.gif?v=1579148725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            110.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Poly-top prevents the accumulation of water, snow, dirt and debris on overpack lids while protecting overpacks against weathering and long-term UV degradation</li><li class="extra-info">The high-visibility color and clear MSDS pocket are added features to the Poly-Top - made to fit 20 &amp; 30-Gallon Poly-Overpacks.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812429963308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">110.26</s:price>
+      <s:sku>AC DRM 2030-TARP</s:sku>
+      <s:grams>589</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812429602860</id>
+    <published>2019-05-11T05:28:19-04:00</published>
+    <updated>2019-05-11T05:28:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-1259-tarp"/>
+    <title>Enpac 1259-TARP  - Poly-Top For 50 Gallon Wheel Ed Overpack</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-enpac-1259-tarp-poly-top-for-50-gallon-wheel-ed-overpack-12747016962092.gif?v=1579148364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            116.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Poly-top prevents the accumulation of water, snow, dirt and debris on overpack lids while protecting overpacks against weathering and long-term UV degradation</li><li class="extra-info">The high-visibility color and clear MSDS pocket are added features</li><li class="extra-info">The Poly-Top is made to fit 50-Gallon Wheeled Poly-Overpacks® and Spill Kits.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812429602860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">116.60</s:price>
+      <s:sku>AC DRM 1259-TARP</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812429111340</id>
+    <published>2019-05-11T05:28:08-04:00</published>
+    <updated>2019-05-11T05:28:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-1299-tarp"/>
+    <title>Enpac 1299-TARP  - Poly-Top For 95 Gallon Wheel Ed Overpack</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-enpac-1299-tarp-poly-top-for-95-gallon-wheel-ed-overpack-12747016798252.gif?v=1579148395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            122.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Poly-top prevents the accumulation of water, snow, dirt and debris on overpack lids while protecting overpacks against weathering and long-term UV degradation</li><li class="extra-info">The high-visibility color and clear MSDS pocket are added features</li><li class="extra-info">The Poly-Top is made to fit 95-Gallon Wheeled Poly-Overpacks® and Spill Kits.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812429111340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.94</s:price>
+      <s:sku>AC DRM 1299-TARP</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812428324908</id>
+    <published>2019-05-11T05:27:45-04:00</published>
+    <updated>2019-05-11T05:27:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5112-bk"/>
+    <title>Enpac 5112-BK  - Link-Lock</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-enpac-5112-bk-link-lock-12747015454764.jpg?v=1579161200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            67.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Link-Lock Part #: 5112-BK (sold in pairs) Dimensions: 9.6 InchL x 7.13 InchW x 3.5 InchH, 24cm x 18cm x 9 cm Weight: 1.5 lbs</li><li class="extra-info">each/0.68 kg</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812428324908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">67.10</s:price>
+      <s:sku>AC DRM 5112-BK</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812428029996</id>
+    <published>2019-05-11T05:27:32-04:00</published>
+    <updated>2019-05-11T05:27:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-6012-ye"/>
+    <title>Enpac 6012-YE  - Mini-Stacker</title>
+    <s:type>Drums</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drums-enpac-6012-ye-mini-stacker-12747014799404.jpg?v=1579166760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Drums<br>
+        <strong>Price: </strong>
+            195.18
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">description</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drums</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812428029996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">195.18</s:price>
+      <s:sku>MH DRM 6012-YE</s:sku>
+      <s:grams>4535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812427014188</id>
+    <published>2019-05-11T05:27:09-04:00</published>
+    <updated>2019-05-11T05:27:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-6010-ye"/>
+    <title>Enpac 6010-YE  - Mini-Racker</title>
+    <s:type>Drums</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drums-enpac-6010-ye-mini-racker-12747013128236.jpg?v=1579166727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Drums<br>
+        <strong>Price: </strong>
+            299.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">description</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drums</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812427014188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.10</s:price>
+      <s:sku>MH DRM 6010-YE</s:sku>
+      <s:grams>5669</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812426162220</id>
+    <published>2019-05-11T05:26:50-04:00</published>
+    <updated>2019-05-11T05:26:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultratech-2317"/>
+    <title>UltraTech 2317  - Bladder Attachment</title>
+    <s:type>Drums</s:type>
+    <s:vendor>UltraTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drums-ultratech-2317-bladder-attachment-12747012177964.jpg?v=1575066480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UltraTech<br>
+        <strong>Type: </strong>Drums<br>
+        <strong>Price: </strong>
+            273.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Bladder Attachment (includes bladder, bulkhead fitting) Part #2317 Dimensions: 25 1/8 Inch x 4 5/8 Inch x 4 5/8 Weight: 4 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">UltraTech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drums</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812426162220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">273.07</s:price>
+      <s:sku>MH DRM 2317</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812425277484</id>
+    <published>2019-05-11T05:26:35-04:00</published>
+    <updated>2019-05-11T05:26:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultratech-1321"/>
+    <title>UltraTech 1321  - Spilldeck P1</title>
+    <s:type>Spill Deck</s:type>
+    <s:vendor>UltraTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-deck-ultratech-1321-spilldeck-p1-12747011620908.jpg?v=1574963014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UltraTech<br>
+        <strong>Type: </strong>Spill Deck<br>
+        <strong>Price: </strong>
+            323.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Low Profile, Modular SpillDecks Allow You To Design And Create A Containment System That Meets Your Specific Needs! Ultra-SpillDecks are available in 1, 2 and 4-drum modules</li><li class="extra-info">Modules are easily connected together with bulkhead fittings to allow a virtually unlimited number of customized configurations! The bulkhead fittings not only Inchlock Inch connected modules together, but allow spilled liquid to flow from one module to the next</li><li class="extra-info">Ultra-SpillDeck Containment Systems meet EPA and Uniform Fire Code Spill Containment Regulations when assembled in configurations of six (6) drums or more</li><li class="extra-info">Available in polyethylene or steel to meet a wide range of chemical compatibility needs Low profile designs 5 3/4 high polyethylene model and 5 1/2 high steel model offer safe and convenient loading/unloading of drums Applications include hazardous waste collection, storage of virgin chemicals, drum dispensing and battery storage Optional Loading Ramps provide added drum handling safety and convenience (Part #1089) Meet EPA Container Storage Regulation 40 CFR 264.175 and Uniform Fire Code Spill Containment Regulations Part #: 1321 Dimensions: 25 7/8 Inch x 25 7/8 Inch x 5 3/4 Inch Weight: 23 lbs</li><li class="extra-info">Uniformly Distributed Load: 1,500 lbs</li><li class="extra-info">Containment Capacity: 11 gallons Optional Ultra-SpillDeck Loading Ramp Part #1089 Dimensions: 24 Inch x 32 Inch x 5 3/4 Inch, 17 lbs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">UltraTech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Deck</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812425277484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">323.95</s:price>
+      <s:sku>MH DRM 1321</s:sku>
+      <s:grams>9525</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812425244716</id>
+    <published>2019-05-11T05:26:32-04:00</published>
+    <updated>2019-05-11T05:26:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultratech-1089"/>
+    <title>UltraTech 1089  - Spilldeck Loading Ramp</title>
+    <s:type>Spill Deck</s:type>
+    <s:vendor>UltraTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-deck-ultratech-1089-spilldeck-loading-ramp-12747011358764.jpg?v=1574963135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UltraTech<br>
+        <strong>Type: </strong>Spill Deck<br>
+        <strong>Price: </strong>
+            359.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Sturdy loading ramps provide added drum handling safety and convenience! Don't get caught with a heavy drum and no ramp! Part #: 1089 Dimensions: 24 Inch x 32 Inch x 5 3/4 Inch Weight: 17 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">UltraTech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Deck</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812425244716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">359.64</s:price>
+      <s:sku>MH DRM 1089</s:sku>
+      <s:grams>8164</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812425146412</id>
+    <published>2019-05-11T05:26:29-04:00</published>
+    <updated>2019-05-11T05:26:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5117-eco"/>
+    <title>Enpac Eco 5117-ECO  - 2 Drum Workstation</title>
+    <s:type>Drums</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drums-enpac-eco-5117-eco-2-drum-workstation-12747011031084.jpg?v=1579168528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Drums<br>
+        <strong>Price: </strong>
+            372.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Eco</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drums</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Eco</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812425146412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">372.61</s:price>
+      <s:sku>MH DRM 5117-ECO</s:sku>
+      <s:grams>16329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812425113644</id>
+    <published>2019-05-11T05:26:29-04:00</published>
+    <updated>2019-05-11T05:26:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5117-ye"/>
+    <title>Enpac 5117-YE  - 2 Drum Workstation 53 Inch X 28.5 Inch X 5.6</title>
+    <s:type>Drums</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drums-enpac-5117-ye-2-drum-workstation-53-inch-x-28-5-inch-x-5-6-12747010932780.jpg?v=1579161506"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Drums<br>
+        <strong>Price: </strong>
+            316.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">There's no need to worry about incidental spills on your factory floor</li><li class="extra-info">ENPAC's Workstations are the easiest to load with low profile design and optional ramp</li><li class="extra-info">One piece construction optimizes space for increased durability, safety and efficiency</li><li class="extra-info">With ample sump capacity in each Workstation, this secondary containment product is perfect for a dispensing station or work center</li><li class="extra-info">Each Workstation is designed for stand alone use or combines with other Workstations for a customized work area</li><li class="extra-info">Our rolled-edge design helps resist cracking and warpage</li><li class="extra-info">- Tough polyethylene construction, cannot rust or corrode - Low-profile Workstations actually become part of your factory floor, optimizing space for increased safety and efficiency - Make drum loading a snap - Large sump capacity catches incidental spills - Optional Multi-Purpose Work Ramp hooks onto any Workstation for easy loading (5111-BK) - Heavy-duty removable structural foam grates for easy cleaning Part #: 5117-YE Dimensions: 53 Inch l x 28.5 Inch w x 6 Inch h 135 cm x 72 cm x 15 cm Weight: 30 lbs</li><li class="extra-info">/ 13.5 kg Load Bearing Capacity UDL: 2400 lbs</li><li class="extra-info">/ 1080 kg Sump Capacity: 22 gal</li><li class="extra-info">/ 86.6 liters</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drums</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812425113644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">316.70</s:price>
+      <s:sku>MH DRM 5117-YE</s:sku>
+      <s:grams>19050</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424884268</id>
+    <published>2019-05-11T05:26:22-04:00</published>
+    <updated>2019-05-11T05:26:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5001-tarp"/>
+    <title>Enpac 5001-TARP  - Tarp For Poly-Spillpallet 6000 (5001-Ye)</title>
+    <s:type>Spill Pallet Tarps</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pallet-tarps-enpac-5001-tarp-tarp-for-poly-spillpallet-6000-5001-ye-12747010408492.jpg?v=1579160840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pallet Tarps<br>
+        <strong>Price: </strong>
+            417.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">These Reinforced HDPE tarps are used to cover drums while stored on spill containment pallets and IBCs</li><li class="extra-info">Specifically designed to fit ENPAC® Spill Containment Products</li><li class="extra-info">Prevents contamination of drums and sump area while permitting easy visual inspection plus keeps rainwater and debris out of the sump area when stored outdoors</li><li class="extra-info">Tarp part numbers match the part they secure</li><li class="extra-info">•Quick, easy way to protect spill pallets and IBCs outdoors •Tarps are made with an elasticized bottom with adjustable straps •UV-inhibitors resist the effect of weathering •Constructed of High Density Polyethylene fabric •Attached document pouch for holding chemical information, MSDS, and other documents</li><li class="extra-info">Part #: 5001-TARP Dimensions: 56.5 InchL x 56.5 InchW x 44 InchH Weight: 7 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pallet Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424884268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">417.34</s:price>
+      <s:sku>AC DRM 5001-TARP</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424851500</id>
+    <published>2019-05-11T05:26:21-04:00</published>
+    <updated>2019-05-11T05:26:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5116-tarp"/>
+    <title>Enpac 5116-TARP  - Tarp For 4 Drum Workstation (5116-YE)</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-enpac-5116-tarp-tarp-for-4-drum-workstation-5116-ye-12747010474028.jpg?v=1579161354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            441.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Specifically designed to fit ENPAC ® Spill Containment Products, these reinforced HDPE tarps are used to cover drums stored on spill pallets and IBC's</li><li class="extra-info">Tarps prevent contamination of drums and sump area, permit easy visual inspection, and keep rainwater and debris out when stored outdoors</li><li class="extra-info">•Quick, easy way to protect spill pallets and IBCs outdoors</li><li class="extra-info">•Tarps are made with an elasticized bottom with adjustable straps</li><li class="extra-info">•UV-inhibitors resist the effect of weathering</li><li class="extra-info">•Constructed of High Density Polyethylene fabric</li><li class="extra-info">•Attached document pouch for holding chemical information, MSDS, and other documents</li><li class="extra-info">•Custom sizes available</li><li class="extra-info">Part# 5116-TARP</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424851500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">441.05</s:price>
+      <s:sku>AC DRM 5116-TARP</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424753196</id>
+    <published>2019-05-11T05:26:18-04:00</published>
+    <updated>2019-05-11T05:26:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5400-tarp"/>
+    <title>Enpac 5400-TARP  - Tarp For Poly-Slim-Line 6000 (5400-Ye)</title>
+    <s:type>Tarps</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tarps-enpac-5400-tarp-tarp-for-poly-slim-line-6000-5400-ye-12747010375724.jpg?v=1579161804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Tarps<br>
+        <strong>Price: </strong>
+            417.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">These Reinforced HDPE tarps are used to cover drums while stored on spill containment pallets and IBCs</li><li class="extra-info">Specifically designed to fit ENPAC® Spill Containment Products</li><li class="extra-info">Prevents contamination of drums and sump area while permitting easy visual inspection plus keeps rainwater and debris out of the sump area when stored outdoors</li><li class="extra-info">Tarp part numbers match the part they secure</li><li class="extra-info">•Quick, easy way to protect spill pallets and IBCs outdoors •Tarps are made with an elasticized bottom with adjustable straps •UV-inhibitors resist the effect of weathering •Constructed of High Density Polyethylene fabric •Attached document pouch for holding chemical information, MSDS, and other documents</li><li class="extra-info">Part #: 5400-TARP Dimensions: 56.5 InchL x 56.5 InchW x 44 InchH Weight: 7 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424753196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">417.34</s:price>
+      <s:sku>AC DRM 5400-TARP</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424720428</id>
+    <published>2019-05-11T05:26:18-04:00</published>
+    <updated>2019-05-11T05:26:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5222-ye"/>
+    <title>Enpac 5222-YE  - Poly-Spillpallet 2000 (2 Drum) 53.5 Inch X 29 Inch X 17 Inch</title>
+    <s:type>Spill Pallet</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pallet-enpac-5222-ye-poly-spillpallet-2000-2-drum-53-5-inch-x-29-inch-x-17-inch-12747010080812.png?v=1579161473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pallet<br>
+        <strong>Price: </strong>
+            417.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">This secondary containment system is engineered to meet the rigors of today's regulatory environment</li><li class="extra-info">With 100% polyethylene, it provides excellent chemical resistance</li><li class="extra-info">Drain hole with plug available</li><li class="extra-info">•Meets EPA 40 CFR 264.175 •Holds up to 2,000 lbs UDL •Forkliftable •Removable grates for easy cleaning Product Number: 5222-YE (no drain) Optional Tarp available (Product No</li><li class="extra-info">5253-TARP)</li><li class="extra-info">Dimensions: 54 Inch L x 29 Inch W x 16.5 Inch H, 137.16 cm x 73.66 cm x 41.91 cm Weight: 63 lbs</li><li class="extra-info">/ 28.35 kg Load Bering Capacity UDL: 2000 lbs</li><li class="extra-info">/ 907.2 kg Sump Capacity: 58 gal</li><li class="extra-info">/ 219.6 liters Regulations: EPA 40 CFR 264.175, SPCC and NPDES</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pallet</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424720428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">417.34</s:price>
+      <s:sku>MH DRM 5222-YE</s:sku>
+      <s:grams>28576</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424687660</id>
+    <published>2019-05-11T05:26:16-04:00</published>
+    <updated>2019-05-11T05:26:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultratech-2504"/>
+    <title>UltraTech 2504  - Spillpallet Economy P2-1500</title>
+    <s:type>Spill Pallet</s:type>
+    <s:vendor>UltraTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pallet-ultratech-2504-spillpallet-economy-p2-1500-12747010179116.jpg?v=1574962167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UltraTech<br>
+        <strong>Type: </strong>Spill Pallet<br>
+        <strong>Price: </strong>
+            460.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">With the advent of global markets, the business world has never been more competitive</li><li class="extra-info">Ultra-SpillPallet Economy Models have been developed specifically to meet tight budgets for spill containment products</li><li class="extra-info">Applications for the all-polyethylene units include satellite waste collection and storage of virgin chemicals</li><li class="extra-info">Meet EPA and Uniform Fire Code Containment Pallet Regulations Part #: 2504 (no drain) Dimensions: 53 Inch x 29 Inch x 16 1/2 Inch Weight: 63 lbs</li><li class="extra-info">Uniformly Distributed Load: 1,500 lbs</li><li class="extra-info">Containment Capacity: 66 gallons Optional PullOver Covers: Part #: 1016</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">UltraTech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pallet</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424687660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">460.06</s:price>
+      <s:sku>MH DRM 2504</s:sku>
+      <s:grams>27215</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424425516</id>
+    <published>2019-05-11T05:26:15-04:00</published>
+    <updated>2019-05-11T05:26:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5253-eco"/>
+    <title>Enpac Eco 5253-ECO  - 2 Drum Poly-Spill Pallet</title>
+    <s:type>Spill Pallet</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pallet-enpac-eco-5253-eco-2-drum-poly-spill-pallet-12747010146348.gif?v=1579168558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pallet<br>
+        <strong>Price: </strong>
+            472.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Eco</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pallet</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Eco</s:tag>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424425516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">472.74</s:price>
+      <s:sku>MH DRM 5253-ECO</s:sku>
+      <s:grams>23586</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424327212</id>
+    <published>2019-05-11T05:26:12-04:00</published>
+    <updated>2019-05-11T05:26:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ultratech-2345"/>
+    <title>UltraTech 2345  - Bladder Pump</title>
+    <s:type>Drums</s:type>
+    <s:vendor>UltraTech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drums-ultratech-2345-bladder-pump-12747009818668.jpg?v=1574962534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>UltraTech<br>
+        <strong>Type: </strong>Drums<br>
+        <strong>Price: </strong>
+            476.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Bladder Pump Part #2345 Dimensions: 12 Inch x 7 Inch x 5 1/2 Inch Weight: 3 lbs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">UltraTech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drums</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424327212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">476.54</s:price>
+      <s:sku>MH DRM 2345</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812424261676</id>
+    <published>2019-05-11T05:26:09-04:00</published>
+    <updated>2019-05-11T05:26:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/enpac-5102-tarp"/>
+    <title>Enpac 5102-TARP  - Tarp For Poly-Spillpallet 3000 (5102-Ye)</title>
+    <s:type>Spill Pallet Tarps</s:type>
+    <s:vendor>Enpac</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spill-pallet-tarps-enpac-5102-tarp-tarp-for-poly-spillpallet-3000-5102-ye-12747009654828.jpg?v=1579160996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Enpac<br>
+        <strong>Type: </strong>Spill Pallet Tarps<br>
+        <strong>Price: </strong>
+            500.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">These Reinforced HDPE tarps are used to cover drums while stored on spill containment pallets and IBCs</li><li class="extra-info">Specifically designed to fit ENPAC® Spill Containment Products</li><li class="extra-info">Prevents contamination of drums and sump area while permitting easy visual inspection plus keeps rainwater and debris out of the sump area when stored outdoors</li><li class="extra-info">Tarp part numbers match the part they secure</li><li class="extra-info">•Quick, easy way to protect spill pallets and IBCs outdoors •Tarps are made with an elasticized bottom with adjustable straps •UV-inhibitors resist the effect of weathering •Constructed of High Density Polyethylene fabric •Attached document pouch for holding chemical information, MSDS, and other documents</li><li class="extra-info">Part #: 5102-TARP Dimensions: 99.5 InchL x 30.75 InchW x 43 InchH Weight: 9 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Enpac</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spill Pallet Tarps</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC DRM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812424261676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">500.55</s:price>
+      <s:sku>AC DRM 5102-TARP</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+</feed>

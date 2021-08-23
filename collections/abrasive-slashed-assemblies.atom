@@ -1,0 +1,1936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/abrasive-slashed-assemblies.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T09:58:13-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812876197932</id>
+    <published>2019-05-11T09:58:13-04:00</published>
+    <updated>2019-05-11T09:58:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55003"/>
+    <title>Merit Flexdrum 55003  - 1-1/2 Inch X 2-3/4 Inch Segments 60 Grit Unscored Resin Bond Aluminum Oxide 08834155003</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55003-1-1-2-inch-x-2-3-4-inch-segments-60-grit-unscored-resin-bond-aluminum-oxide-08834155003-12748131008556.jpg?v=1575443453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_1-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812876197932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.14</s:price>
+      <s:sku>CA SAS 55003</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812876165164</id>
+    <published>2019-05-11T09:58:12-04:00</published>
+    <updated>2019-05-11T09:58:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55004"/>
+    <title>Merit Flexdrum 55004  - 1-1/2 Inch X 2-3/4 Inch Segments 80 Grit Unscored Resin Bond Aluminum Oxide 08834155004</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55004-1-1-2-inch-x-2-3-4-inch-segments-80-grit-unscored-resin-bond-aluminum-oxide-08834155004-12748130943020.jpg?v=1575443331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            8.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_1-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812876165164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.35</s:price>
+      <s:sku>CA SAS 55004</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812876132396</id>
+    <published>2019-05-11T09:58:12-04:00</published>
+    <updated>2019-05-11T09:58:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55002"/>
+    <title>Merit Flexdrum 55002  - 1-1/2 Inch X 2-3/4 Inch Segments 50 Grit Unscored Resin Bond Aluminum Oxide 08834155002</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55002-1-1-2-inch-x-2-3-4-inch-segments-50-grit-unscored-resin-bond-aluminum-oxide-08834155002-12748131041324.jpg?v=1575443435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            8.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">50</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_1-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812876132396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.14</s:price>
+      <s:sku>CA SAS 55002</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812876099628</id>
+    <published>2019-05-11T09:58:12-04:00</published>
+    <updated>2019-05-11T09:58:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55006"/>
+    <title>Merit Flexdrum 55006  - 1-1/2 Inch X 2-3/4 Inch Segments 120 Grit Unscored Resin Bond Aluminum Oxide 08834155006</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55006-1-1-2-inch-x-2-3-4-inch-segments-120-grit-unscored-resin-bond-aluminum-oxide-08834155006-12748130975788.jpg?v=1575443314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            8.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_1-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812876099628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.81</s:price>
+      <s:sku>CA SAS 55006</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812876066860</id>
+    <published>2019-05-11T09:58:09-04:00</published>
+    <updated>2019-05-11T09:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55013"/>
+    <title>Merit Flexdrum 55013  - 2 Inch X 2-3/4 Inch Segments 50 Grit Unscored Resin Bond Aluminum Oxide 08834155013</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55013-2-inch-x-2-3-4-inch-segments-50-grit-unscored-resin-bond-aluminum-oxide-08834155013-12748130877484.jpg?v=1575443192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            9.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">50</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812876066860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.16</s:price>
+      <s:sku>CA SAS 55013</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812876034092</id>
+    <published>2019-05-11T09:58:09-04:00</published>
+    <updated>2019-05-11T09:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55015"/>
+    <title>Merit Flexdrum 55015  - 2 Inch X 2-3/4 Inch Segments 80 Grit Unscored Resin Bond Aluminum Oxide 08834155015</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55015-2-inch-x-2-3-4-inch-segments-80-grit-unscored-resin-bond-aluminum-oxide-08834155015-12748130811948.jpg?v=1575443176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            9.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812876034092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.48</s:price>
+      <s:sku>CA SAS 55015</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812876001324</id>
+    <published>2019-05-11T09:58:09-04:00</published>
+    <updated>2019-05-11T09:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55014"/>
+    <title>Merit Flexdrum 55014  - 2 Inch X 2-3/4 Inch Segments 60 Grit Unscored Resin Bond Aluminum Oxide 08834155014</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55014-2-inch-x-2-3-4-inch-segments-60-grit-unscored-resin-bond-aluminum-oxide-08834155014-12748130844716.jpg?v=1575443209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            9.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812876001324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.16</s:price>
+      <s:sku>CA SAS 55014</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875968556</id>
+    <published>2019-05-11T09:58:09-04:00</published>
+    <updated>2019-05-11T09:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55008"/>
+    <title>Merit Flexdrum 55008  - 1-1/2 Inch X 2-3/4 Inch Segments 180 Grit Unscored Resin Bond Aluminum Oxide 08834155008</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55008-1-1-2-inch-x-2-3-4-inch-segments-180-grit-unscored-resin-bond-aluminum-oxide-08834155008-12748130910252.jpg?v=1575443299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            10.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_1-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875968556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.13</s:price>
+      <s:sku>CA SAS 55008</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875903020</id>
+    <published>2019-05-11T09:58:06-04:00</published>
+    <updated>2019-05-11T09:58:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55019"/>
+    <title>Merit Flexdrum 55019  - 2 Inch X 2-3/4 Inch Segments 180 Grit Unscored Resin Bond Aluminum Oxide 08834155019</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55019-2-inch-x-2-3-4-inch-segments-180-grit-unscored-resin-bond-aluminum-oxide-08834155019-12748130746412.jpg?v=1575443057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            11.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875903020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.53</s:price>
+      <s:sku>CA SAS 55019</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875935788</id>
+    <published>2019-05-11T09:58:03-04:00</published>
+    <updated>2019-05-11T09:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55313"/>
+    <title>Merit Flexdrum 55313  - 2 Inch X 4 Inch Segments 60 Grit Unscored Resin Bond Aluminum Oxide 08834155313</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55313-2-inch-x-4-inch-segments-60-grit-unscored-resin-bond-aluminum-oxide-08834155313-12748130713644.jpg?v=1575441994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            10.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875935788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.43</s:price>
+      <s:sku>CA SAS 55313</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875870252</id>
+    <published>2019-05-11T09:58:03-04:00</published>
+    <updated>2019-05-11T09:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55314"/>
+    <title>Merit Flexdrum 55314  - 2 Inch X 4 Inch Segments 80 Grit Unscored Resin Bond Aluminum Oxide 08834155314</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55314-2-inch-x-4-inch-segments-80-grit-unscored-resin-bond-aluminum-oxide-08834155314-12748130615340.jpg?v=1575442011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            10.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875870252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.67</s:price>
+      <s:sku>CA SAS 55314</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875837484</id>
+    <published>2019-05-11T09:58:03-04:00</published>
+    <updated>2019-05-11T09:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55312"/>
+    <title>Merit Flexdrum 55312  - 2 Inch X 4 Inch Segments 50 Grit Unscored Resin Bond Aluminum Oxide 08834155312</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55312-2-inch-x-4-inch-segments-50-grit-unscored-resin-bond-aluminum-oxide-08834155312-12748130779180.jpg?v=1575441978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            10.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">50</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875837484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.43</s:price>
+      <s:sku>CA SAS 55312</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875804716</id>
+    <published>2019-05-11T09:58:02-04:00</published>
+    <updated>2019-05-11T09:58:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55315"/>
+    <title>Merit Flexdrum 55315  - 2 Inch X 4 Inch Segment 100 Grit Unscored Resin Bond Aluminum Oxide 08834155315</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55315-2-inch-x-4-inch-segment-100-grit-unscored-resin-bond-aluminum-oxide-08834155315-12748130648108.jpg?v=1575441879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            10.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">100</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_100</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875804716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.69</s:price>
+      <s:sku>CA SAS 55315</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875771948</id>
+    <published>2019-05-11T09:58:02-04:00</published>
+    <updated>2019-05-11T09:58:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55316"/>
+    <title>Merit Flexdrum 55316  - 2 Inch X 4 Inch Segments 120 Grit Unscored Resin Bond Aluminum Oxide 08834155316</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55316-2-inch-x-4-inch-segments-120-grit-unscored-resin-bond-aluminum-oxide-08834155316-12748130582572.jpg?v=1575441864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            11.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875771948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.07</s:price>
+      <s:sku>CA SAS 55316</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875739180</id>
+    <published>2019-05-11T09:57:59-04:00</published>
+    <updated>2019-05-11T09:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55568"/>
+    <title>Merit Flexdrum 55568  - 2 Inch X 5 Inch Segments 60 Grit Unscored Resin Bond Aluminum Oxide 08834155568</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55568-2-inch-x-5-inch-segments-60-grit-unscored-resin-bond-aluminum-oxide-08834155568-12748130484268.jpg?v=1575441136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            11.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Length_5 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875739180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.07</s:price>
+      <s:sku>CA SAS 55568</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875706412</id>
+    <published>2019-05-11T09:57:59-04:00</published>
+    <updated>2019-05-11T09:57:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55318"/>
+    <title>Merit Flexdrum 55318  - 2 Inch X 4 Inch Segments 180 Grit Unscored Resin Bond Aluminum Oxide 08834155318</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55318-2-inch-x-4-inch-segments-180-grit-unscored-resin-bond-aluminum-oxide-08834155318-12748130517036.jpg?v=1575441896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            12.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875706412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.56</s:price>
+      <s:sku>CA SAS 55318</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875640876</id>
+    <published>2019-05-11T09:57:55-04:00</published>
+    <updated>2019-05-11T09:57:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55026"/>
+    <title>Merit Flexdrum 55026  - 3 Inch X 2-3/4 Inch Segments 60 Grit Unscored Resin Bond Aluminum Oxide 08834155026</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55026-3-inch-x-2-3-4-inch-segments-60-grit-unscored-resin-bond-aluminum-oxide-08834155026-12748130451500.jpg?v=1575443074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            11.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875640876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.84</s:price>
+      <s:sku>CA SAS 55026</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875608108</id>
+    <published>2019-05-11T09:57:55-04:00</published>
+    <updated>2019-05-11T09:57:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55575"/>
+    <title>Merit Flexdrum 55575  - 2 Inch X 5 Inch Segments 240 Grit Unscored Resin Bond Aluminum Oxide 08834155575</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55575-2-inch-x-5-inch-segments-240-grit-unscored-resin-bond-aluminum-oxide-08834155575-12748130549804.jpg?v=1575441153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            14.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">240</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_240</s:tag>
+    <s:tag>Length_5 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875608108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.44</s:price>
+      <s:sku>CA SAS 55575</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875575340</id>
+    <published>2019-05-11T09:57:55-04:00</published>
+    <updated>2019-05-11T09:57:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55031"/>
+    <title>Merit Flexdrum 55031  - 3 Inch X 2-3/4 Inch Segments 180 Grit Unscored Resin Bond Aluminum Oxide 08834155031</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55031-3-inch-x-2-3-4-inch-segments-180-grit-unscored-resin-bond-aluminum-oxide-08834155031-12748130287660.jpg?v=1575442953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            14.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875575340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.97</s:price>
+      <s:sku>CA SAS 55031</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875542572</id>
+    <published>2019-05-11T09:57:55-04:00</published>
+    <updated>2019-05-11T09:57:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55029"/>
+    <title>Merit Flexdrum 55029  - 3 Inch X 2-3/4 Inch Segments 120 Grit Unscored Resin Bond Aluminum Oxide 08834155029</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55029-3-inch-x-2-3-4-inch-segments-120-grit-unscored-resin-bond-aluminum-oxide-08834155029-12748130385964.jpg?v=1575442938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            12.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875542572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.96</s:price>
+      <s:sku>CA SAS 55029</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875509804</id>
+    <published>2019-05-11T09:57:55-04:00</published>
+    <updated>2019-05-11T09:57:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55027"/>
+    <title>Merit Flexdrum 55027  - 3 Inch X 2-3/4 Inch Segments 80 Grit Unscored Resin Bond Aluminum Oxide 08834155027</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55027-3-inch-x-2-3-4-inch-segments-80-grit-unscored-resin-bond-aluminum-oxide-08834155027-12748130418732.jpg?v=1575443090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            12.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Length_2-3/4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875509804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.14</s:price>
+      <s:sku>CA SAS 55027</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875477036</id>
+    <published>2019-05-11T09:57:52-04:00</published>
+    <updated>2019-05-11T09:57:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55324"/>
+    <title>Merit Flexdrum 55324  - 3 Inch X 4 Inch Segments 50 Grit Unscored Resin Bond Aluminum Oxide 08834155324</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55324-3-inch-x-4-inch-segments-50-grit-unscored-resin-bond-aluminum-oxide-08834155324-12748130320428.jpg?v=1575441738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            13.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">50</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_50</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875477036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.24</s:price>
+      <s:sku>CA SAS 55324</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875411500</id>
+    <published>2019-05-11T09:57:49-04:00</published>
+    <updated>2019-05-11T09:57:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55328"/>
+    <title>Merit Flexdrum 55328  - 3 Inch X 4 Inch Segments 120 Grit Unscored Resin Bond Aluminum Oxide 08834155328</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55328-3-inch-x-4-inch-segments-120-grit-unscored-resin-bond-aluminum-oxide-08834155328-12748130254892.jpg?v=1575441755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            14.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875411500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.74</s:price>
+      <s:sku>CA SAS 55328</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875345964</id>
+    <published>2019-05-11T09:57:49-04:00</published>
+    <updated>2019-05-11T09:57:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55330"/>
+    <title>Merit Flexdrum 55330  - 3 Inch X 4 Inch Segments 180 Grit Unscored Resin Bond Aluminum Oxide 08834155330</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55330-3-inch-x-4-inch-segments-180-grit-unscored-resin-bond-aluminum-oxide-08834155330-12748130189356.jpg?v=1575441616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            17.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">180</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_180</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875345964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.54</s:price>
+      <s:sku>CA SAS 55330</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812875378732</id>
+    <published>2019-05-11T09:57:48-04:00</published>
+    <updated>2019-05-11T09:57:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/merit-55579"/>
+    <title>Merit Flexdrum 55579  - 3 Inch X 5 Inch Segments 60 Grit Unscored Resin Bond Aluminum Oxide 08834155579</title>
+    <s:type>Unscored Assemblies</s:type>
+    <s:vendor>Merit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/unscored-assemblies-merit-flexdrum-55579-3-inch-x-5-inch-segments-60-grit-unscored-resin-bond-aluminum-oxide-08834155579-12748130222124.jpg?v=1575441169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merit<br>
+        <strong>Type: </strong>Unscored Assemblies<br>
+        <strong>Price: </strong>
+            14.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Merit</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Flexdrum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">60</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Mineral </td>
+<td class="egrimes">Aluminum Oxide</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Unscored Assemblies</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CA</s:tag>
+    <s:tag>CA SAS</s:tag>
+    <s:tag>Grit_60</s:tag>
+    <s:tag>Length_5 Inch</s:tag>
+    <s:tag>Line_Flexdrum</s:tag>
+    <s:tag>Mineral_Aluminum Oxide</s:tag>
+    <s:tag>Width_3 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812875378732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.56</s:price>
+      <s:sku>CA SAS 55579</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+</feed>

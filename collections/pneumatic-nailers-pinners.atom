@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-nailers-pinners.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:51:38-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180434988</id>
+    <published>2019-05-11T01:51:38-04:00</published>
+    <updated>2019-05-11T01:51:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8120p"/>
+    <title>King Canada 8120P  - Palm Nailer</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8120p-palm-nailer-12746658644012.jpg?v=1579594416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            62.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Palm nailer</h4> <li class="extra-info">Powerful palm nailer drives bulk, framing, timber and finishing nails up to 4-1/2” (120mm) in length 1/8”- 7/16” (3-11.5mm) nail head range 70-100 PSI operating pressure 1/4” NPT air inlet Ergonomic design weighs only 1.9 lbs Magnetic nail holder for fast and easy nailing Durable hardened steel nose Comes with oiler and hex</li><li class="extra-info">key</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180434988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.72</s:price>
+      <s:sku>AT NAI 8120P</s:sku>
+      <s:grams>963</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180336684</id>
+    <published>2019-05-11T01:51:35-04:00</published>
+    <updated>2019-05-11T01:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8251pn"/>
+    <title>King Canada 8251PN  - Pin Nailer 23 Ga. 1/2 Inch - 2 Inch</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8251pn-pin-nailer-23-ga-1-2-inch-2-inch-12746658152492.jpg?v=1579604734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            132.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">23 gauge headless pin nailer kit</h4> <li class="extra-info">Powerful pin nailer drives standard 23 Ga</li><li class="extra-info">headless pins from 1/2” to 2” Ideal for detailed woodworking, picture frames, molding and decorative trim Pin view finder shows quantity of pins in magazine Safety trigger prevents accidental firing Adjustable 360° air deflector controls the direction of air exhaust 60-90 PSI operating pressure Non slip rubber grip Onboard storage for hex</li><li class="extra-info">key and additional non-marring tip Comes with 1/4” air inlet, 2 removable non-marring tips, oiler, hex</li><li class="extra-info">keys and sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180336684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">132.56</s:price>
+      <s:sku>AT NAI 8251PN</s:sku>
+      <s:grams>1905</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180303916</id>
+    <published>2019-05-11T01:51:35-04:00</published>
+    <updated>2019-05-11T01:51:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8223pn"/>
+    <title>King Canada 8223PN  - Pin Nailer 23 Ga. 1/2 Inch - 1 3/8 Inch</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8223pn-pin-nailer-23-ga-1-2-inch-1-3-8-inch-12746658185260.jpg?v=1579604701"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            65.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">23 gauge headless pin nailer kit</h4> <li class="extra-info">Powerful pin nailer drives standard 23 Ga</li><li class="extra-info">headless pins from 1/2” to 1-3/8” Ideal for detailed woodworking, picture frames, molding and decorative trim Pin view finder shows quantity of pins in magazine Safety trigger prevents accidental firing Adjustable 360° air deflector controls the direction of air exhaust 60-90 PSI operating pressure Non slip rubber grip Onboard storage for hex</li><li class="extra-info">key and additional non-marring tip Comes with 1/4” air inlet, 2 removable non-marring tips, oiler, hex</li><li class="extra-info">keys and sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180303916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.57</s:price>
+      <s:sku>AT NAI 8223PN</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180238380</id>
+    <published>2019-05-11T01:51:34-04:00</published>
+    <updated>2019-05-11T01:51:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8201n"/>
+    <title>King Canada 8201N  - Brad Nailer - 18 Gauge (3/4 Inch - 2 Inch)</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8201n-brad-nailer-18-gauge-3-4-inch-2-inch-12746658218028.jpg?v=1579604404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            57.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Inch x 18 gauge brad nailer kit</h4> <li class="extra-info">Special one piece hardened driver for long, trouble-free performance Nail view finder shows quantity of nails in magazine Quick release latch for clearing jams Adjustable air deflector controls the direction of air exhaust Sequential and bump firing modes Comes with 1/4” air inlet, oiler, hex</li><li class="extra-info">keys and sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180238380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">57.00</s:price>
+      <s:sku>AT NAI 8201N</s:sku>
+      <s:grams>1871</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180172844</id>
+    <published>2019-05-11T01:51:16-04:00</published>
+    <updated>2019-05-11T01:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8245rn"/>
+    <title>King Canada 8245RN  - Nailer Coil Roofing Kit 7/8 Inch - 1 3/4 Inch</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8245rn-nailer-coil-roofing-kit-7-8-inch-1-3-4-inch-12746658119724.jpg?v=1579604821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            195.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Coil roofing nailer kit</h4> <li class="extra-info">Powerful coil roofing nailer drives standard .120 Inch coil roofing nails Special one piece hardened driver for long, trouble-free performance Adjustable air deflector controls the direction of air exhaust Sequential and bump firing modes Depth adjustment device Side mounted wear protectors Comes with 1/4 Inch air inlet, debris shield, safety glasses, oiler, hex</li><li class="extra-info">keys and sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180172844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">195.27</s:price>
+      <s:sku>AT NAI 8245RN</s:sku>
+      <s:grams>14061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180074540</id>
+    <published>2019-05-11T01:51:12-04:00</published>
+    <updated>2019-05-11T01:51:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8210ns"/>
+    <title>King Canada 8210NS  - 2 in 1 Brad Nailer 18 Gauge 3/4 Inch - 2 Inch (Nailer/Stapler)</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8210ns-2-in-1-brad-nailer-18-gauge-3-4-inch-2-inch-nailer-stapler-12746658054188.jpg?v=1579604497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            85.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">18 gauge nailer/stapler kit (2 in 1)</h4> <li class="extra-info">Powerful nailer/stapler drives standard 18 Ga</li><li class="extra-info">brad nails and 18 Ga</li><li class="extra-info">1/4 Inch narrow crown staples Special one piece hardened driver for long, trouble-free performance View finder shows quantity of nails or staples in magazine Quick release latch for clearing jams Adjustable air deflector controls the direction of air exhaust Sequential and bump firing modes Comes with 1/4 Inch air inlet, oiler, hex</li><li class="extra-info">keys and sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180074540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.52</s:price>
+      <s:sku>AT NAI 8210NS</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180041772</id>
+    <published>2019-05-11T01:51:12-04:00</published>
+    <updated>2019-05-11T01:51:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8201n-8101sk"/>
+    <title>King Canada 8201N/8101SK  - 18 Gauge 2 Inch Brad Nailer / 1 Inch Narrow Crown Stapler Combo Kit (8201N/8101SK)</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8201n-8101sk-18-gauge-2-inch-brad-nailer-1-inch-narrow-crown-stapler-combo-kit-8201n-8101sk-12746658086956.jpg?v=1579604583"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            114.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Inch x 18 gauge brad nailer / 1 Inch narrow crown stapler combo kit</h4> <li class="extra-info">Powerful brad nailer model 8201N drives standard 18 Ga</li><li class="extra-info">x 2” brad nails Powerful stapler model 8101S drives standard 18 Ga</li><li class="extra-info">x 1/4” narrow crown staples Special one piece hardened driver for long, trouble-free performance Fastener view finder shows quantity of fasteners in magazine Quick release latch for clearing jams Adjustable air deflector controls the direction of air exhaust Sequential and bump firing modes Comes with 1/4 Inch air inlet, oiler, hex</li><li class="extra-info">keys and sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180041772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">114.03</s:price>
+      <s:sku>AT NAI 8201N 8101SK</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180009004</id>
+    <published>2019-05-11T01:51:11-04:00</published>
+    <updated>2019-05-11T01:51:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8234n"/>
+    <title>King Canada 8234N  - Framing Nailer 34 Degree Clipped Head 2 3/16 Inch - 3 9/16 Inch</title>
+    <s:type>Nailers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-king-canada-8234n-framing-nailer-34-degree-clipped-head-2-3-16-inch-3-9-16-inch-12746658021420.jpg?v=1579604650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers<br>
+        <strong>Price: </strong>
+            175.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">34 degree clipped head framing nailer kit</h4> <li class="extra-info">Powerful framing nailer drives standard 34° clipped head nails Serrated nose tip for positive grip when toe nailing Protective nose tip for decking Special hardened driver for long, trouble free performance 360º directional air deflector Trigger for sequential and bump firing modes 1/4” air inlet Comes with safety glasses, oiler, hex</li><li class="extra-info">keys and carrying case It is recommended to use Senco 34° nails</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180009004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">175.32</s:price>
+      <s:sku>AT NAI 8234N</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812158054444</id>
+    <published>2019-05-11T01:41:28-04:00</published>
+    <updated>2019-05-11T01:41:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-06bt"/>
+    <title>King Canada K-06BT  - Battery Replacement 6V Fits 8235Gfn</title>
+    <s:type>Nailers / Staplers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-staplers-accessories-king-canada-k-06bt-battery-replacement-6v-fits-8235gfn-12746630922284.jpg?v=1579587247"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers / Staplers &amp; Accessories<br>
+        <strong>Price: </strong>
+            42.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6V battery for 8235GFN</h4> <li class="extra-info">6V Ni-MH replacement battery</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers / Staplers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC NAI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812158054444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.75</s:price>
+      <s:sku>AC NAI K-06BT</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+</feed>

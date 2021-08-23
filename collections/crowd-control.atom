@@ -1,0 +1,1569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/crowd-control.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:27:57-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048957996</id>
+    <published>2019-12-04T10:27:57-05:00</published>
+    <updated>2019-12-04T10:27:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9012"/>
+    <title>3M 9012  - 3M Direct Connect, 5-Foot Transmitter Cable, Telephone 9012 7000057745</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-9012-3m-direct-connect-5-foot-transmitter-cable-telephone-9012-7000057745-13120544243756.jpg?v=1580141138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            211.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Direct Connect, 5-Foot Transmitter Cable, Telephone 9012</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048957996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">211.66</s:price>
+      <s:sku>ES CRD 9012</s:sku>
+      <s:grams>267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333887979564</id>
+    <published>2019-12-03T12:07:07-05:00</published>
+    <updated>2019-12-03T12:07:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5429"/>
+    <title>Ideal Innovations 60-5429  - Stop And Go Led Without Flasher &amp; Switch</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5429-stop-and-go-led-without-flasher-switch-13391074885676.png?v=1575009274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            241.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG30 system utilizes two units</li><li class="extra-info">Stop and go signaling systems alerts truck drivers and dock personnel to the safety status of docked or docking trucks</li><li class="extra-info">One outside (communicate with driver) and one inside (communicate with dock operator/attendant) SG10 system is available for applications where opposing signals are not required</li><li class="extra-info">Loading dock warning signs available: Increase dock safety</li><li class="extra-info">High contrast and visibility</li><li class="extra-info">Simple and direct instruction</li><li class="extra-info">Durable and light weight</li><li class="extra-info">Inside of building warning sign 12 Inch x 12 Inch</li><li class="extra-info">Outside of building warning sign 12 Inch x 24 Inch (standard and mirrored text on same sign).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 115 volt AC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333887979564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">241.06</s:price>
+      <s:sku>ES CRD 60-5429</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813376073772</id>
+    <published>2019-05-11T14:23:00-04:00</published>
+    <updated>2019-05-11T14:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5305"/>
+    <title>Ideal Innovations 60-5305  - Ed Dock Guide Light - 120V (Set Of 2)</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5305-ed-dock-guide-light-120v-set-of-2-12749257375788.jpg?v=1579355963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            508.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations LED Loading Dock Guide Light Set provides drivers with a visual target to align the truck trailer with the dock door</li><li class="extra-info">The Guide Light Set is especially useful in low-light environments like enclosed dock bays, and is bright enough to improve visibility of the dock opening even in daylight! The guide lights may also be installed inside the building to mark the door openings for forklift operators and other warehouse personnel.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">120v</li><li class="extra-info"> Long-life LEDs reduce replacement costs and down time.</li><li class="extra-info"> High impact polycarbonate housing resists shocks and vibrations.</li><li class="extra-info"> Uses 50 bright LEDs per light fixture.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813376073772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">508.74</s:price>
+      <s:sku>ES CRD 60-5305</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813376041004</id>
+    <published>2019-05-11T14:23:00-04:00</published>
+    <updated>2019-05-11T14:23:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5304"/>
+    <title>Ideal Innovations 60-5304  - Led Dock Guide Light - 12-24V (Set Of 2)</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5304-led-dock-guide-light-12-24v-set-of-2-12749257506860.jpg?v=1579355905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            508.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations LED Loading Dock Guide Light Set provides drivers with a visual target to align the truck trailer with the dock door</li><li class="extra-info">The Guide Light Set is especially useful in low-light environments like enclosed dock bays, and is bright enough to improve visibility of the dock opening even in daylight! The guide lights may also be installed inside the building to mark the door openings for forklift operators and other warehouse personnel.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">12-24v</li><li class="extra-info"> Long-life LEDs reduce replacement costs and down time.</li><li class="extra-info"> High impact polycarbonate housing resists shocks and vibrations.</li><li class="extra-info"> Uses 50 bright LEDs per light fixture.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813376041004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">508.74</s:price>
+      <s:sku>ES CRD 60-5304</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375615020</id>
+    <published>2019-05-11T14:22:46-04:00</published>
+    <updated>2019-05-11T14:22:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5427"/>
+    <title>Ideal Innovations 60-5427  - Sg30-115Rg-Led Stop &amp; Go Light Set 115V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5427-sg30-115rg-led-stop-go-light-set-115v-12749256917036.jpg?v=1579356633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            522.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG30 system utilizes two units</li><li class="extra-info">Stop and go signaling systems alerts truck drivers and dock personnel to the safety status of docked or docking trucks</li><li class="extra-info">One outside (communicate with driver) and one inside (communicate with dock operator/attendant) SG10 system is available for applications where opposing signals are not required</li><li class="extra-info">Loading dock warning signs available: Increase dock safety</li><li class="extra-info">High contrast and visibility</li><li class="extra-info">Simple and direct instruction</li><li class="extra-info">Durable and light weight</li><li class="extra-info">Inside of building warning sign 12 Inch x 12 Inch</li><li class="extra-info">Outside of building warning sign 12 Inch x 24 Inch (standard and mirrored text on same sign).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 115 volt AC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375615020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">522.83</s:price>
+      <s:sku>ES CRD 60-5427</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375582252</id>
+    <published>2019-05-11T14:22:46-04:00</published>
+    <updated>2019-05-11T14:22:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5428-1"/>
+    <title>Ideal Innovations 60-5428-1  - Sg30-24Rg Incandescent Stop &amp; Go Light Set 24V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5428-1-sg30-24rg-incandescent-stop-go-light-set-24v-12749256884268.jpg?v=1579356694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            374.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG30 system utilizes two units</li><li class="extra-info">Stop and go signaling systems alerts truck drivers and dock personnel to the safety status of docked or docking trucks</li><li class="extra-info">One outside (communicate with driver) and one inside (communicate with dock operator/attendant) SG10 system is available for applications where opposing signals are not required</li><li class="extra-info">Loading dock warning signs available: Increase dock safety</li><li class="extra-info">High contrast and visibility</li><li class="extra-info">Simple and direct instruction</li><li class="extra-info">Durable and light weight</li><li class="extra-info">Inside of building warning sign 12 Inch x 12 Inch</li><li class="extra-info">Outside of building warning sign 12 Inch x 24 Inch (standard and mirrored text on same sign).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 24 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375582252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">374.12</s:price>
+      <s:sku>ES CRD 60-5428-1</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375516716</id>
+    <published>2019-05-11T14:22:45-04:00</published>
+    <updated>2019-05-11T14:22:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5428-2"/>
+    <title>Ideal Innovations 60-5428-2  - Sg30-12Rg Incandescent Stop &amp; Go Light Set 12V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5428-2-sg30-12rg-incandescent-stop-go-light-set-12v-12749256982572.jpg?v=1579356802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            374.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG30 system utilizes two units</li><li class="extra-info">Stop and go signaling systems alerts truck drivers and dock personnel to the safety status of docked or docking trucks</li><li class="extra-info">One outside (communicate with driver) and one inside (communicate with dock operator/attendant) SG10 system is available for applications where opposing signals are not required</li><li class="extra-info">Loading dock warning signs available: Increase dock safety</li><li class="extra-info">High contrast and visibility</li><li class="extra-info">Simple and direct instruction</li><li class="extra-info">Durable and light weight</li><li class="extra-info">Inside of building warning sign 12 Inch x 12 Inch</li><li class="extra-info">Outside of building warning sign 12 Inch x 24 Inch (standard and mirrored text on same sign).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 12 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375516716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">374.12</s:price>
+      <s:sku>ES CRD 60-5428-2</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375483948</id>
+    <published>2019-05-11T14:22:41-04:00</published>
+    <updated>2019-05-11T14:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5429-4"/>
+    <title>Ideal Innovations 60-5429-4  - Sg30-12Rg-Led Stop &amp; Go Light Set 12V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5429-4-sg30-12rg-led-stop-go-light-set-12v-12749256753196.jpg?v=1579356953"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            522.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG30 system utilizes two units</li><li class="extra-info">Stop and go signaling systems alerts truck drivers and dock personnel to the safety status of docked or docking trucks</li><li class="extra-info">One outside (communicate with driver) and one inside (communicate with dock operator/attendant) SG10 system is available for applications where opposing signals are not required</li><li class="extra-info">Loading dock warning signs available: Increase dock safety</li><li class="extra-info">High contrast and visibility</li><li class="extra-info">Simple and direct instruction</li><li class="extra-info">Durable and light weight</li><li class="extra-info">Inside of building warning sign 12 Inch x 12 Inch</li><li class="extra-info">Outside of building warning sign 12 Inch x 24 Inch (standard and mirrored text on same sign).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 24 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375483948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">522.83</s:price>
+      <s:sku>ES CRD 60-5429-4</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375418412</id>
+    <published>2019-05-11T14:22:41-04:00</published>
+    <updated>2019-05-11T14:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5429-2"/>
+    <title>Ideal Innovations 60-5429-2  - Sg10-12Rg-Led Stop &amp; Go Signal Light 12V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5429-2-sg10-12rg-led-stop-go-signal-light-12v-12749256687660.jpg?v=1579356727"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            241.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG10 Signal Light is used in applications where opposing signals are not required</li><li class="extra-info">No flasher or toggle switch (Lights activated by customer supplied relays).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 12 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375418412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">241.06</s:price>
+      <s:sku>ES CRD 60-5429-2</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375385644</id>
+    <published>2019-05-11T14:22:41-04:00</published>
+    <updated>2019-05-11T14:22:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5429-3"/>
+    <title>Ideal Innovations 60-5429-3  - Sg10-24Rg-Led Stop &amp; Go Signal Light 24V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5429-3-sg10-24rg-led-stop-go-signal-light-24v-12749256785964.jpg?v=1579356836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            241.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG10 Signal Light is used in applications where opposing signals are not required</li><li class="extra-info">No flasher or toggle switch (Lights activated by customer supplied relays).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 24 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375385644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">241.06</s:price>
+      <s:sku>ES CRD 60-5429-3</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375352876</id>
+    <published>2019-05-11T14:22:38-04:00</published>
+    <updated>2019-05-11T14:22:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5431"/>
+    <title>Ideal Innovations 60-5431  - Dock Traffic Warning Sign Combo English</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5431-dock-traffic-warning-sign-combo-english-12749256654892.jpg?v=1579356921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            50.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Loading Dock Warning Sign</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black, Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Increase Dock Safety</li><li class="extra-info"> High Contrast and Visibility</li><li class="extra-info"> Simple and Direct Instruction</li><li class="extra-info"> Durable and Lightweight</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_BlackYellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375352876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.12</s:price>
+      <s:sku>ES CRD 60-5431</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375320108</id>
+    <published>2019-05-11T14:22:38-04:00</published>
+    <updated>2019-05-11T14:22:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5429-5"/>
+    <title>Ideal Innovations 60-5429-5  - Sg10-24Rg Incandescent Stop &amp; Go Signal Light 24V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5429-5-sg10-24rg-incandescent-stop-go-signal-light-24v-12749256720428.jpg?v=1579356986"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            158.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG10 Signal Light is used in applications where opposing signals are not required</li><li class="extra-info">No flasher or toggle switch (Lights activated by customer supplied relays).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 24 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375320108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">158.10</s:price>
+      <s:sku>ES CRD 60-5429-5</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375254572</id>
+    <published>2019-05-11T14:22:34-04:00</published>
+    <updated>2019-05-11T14:22:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5432"/>
+    <title>Ideal Innovations 60-5432  - Traffic Lite Safety Sign 12 InchX 12 Inch-English-Inside</title>
+    <s:type>Traffic Light Signs</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-light-signs-ideal-innovations-60-5432-traffic-lite-safety-sign-12-inchx-12-inch-english-inside-12749256622124.jpg?v=1579357172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Light Signs<br>
+        <strong>Price: </strong>
+            23.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Loading Dock Warning Sign</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black, Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Light Signs</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Increase dock safety.</li><li class="extra-info"> High contrast and visibility.</li><li class="extra-info"> Simple and direct instruction.</li><li class="extra-info"> Durable and light weight.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_BlackYellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375254572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.74</s:price>
+      <s:sku>ES CRD 60-5432</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375123500</id>
+    <published>2019-05-11T14:22:31-04:00</published>
+    <updated>2019-05-11T14:22:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5466"/>
+    <title>Ideal Innovations 60-5466  - Sg20-12Rg-Led-Stop &amp; Go Signal Light Master 12V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5466-sg20-12rg-led-stop-go-signal-light-master-12v-12749256130604.jpg?v=1579357203"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            300.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG20 Master Control Unit is designed for use beside the loading dock door on the inside of the building</li><li class="extra-info">Includes flasher and toggle switch.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 12 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375123500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">300.54</s:price>
+      <s:sku>ES CRD 60-5466</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375090732</id>
+    <published>2019-05-11T14:22:30-04:00</published>
+    <updated>2019-05-11T14:22:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5467"/>
+    <title>Ideal Innovations 60-5467  - Sg20-115Rg Incan. Stop&amp;Gosignal Light Master 115V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5467-sg20-115rg-incan-stop-gosignal-light-master-115v-12749255737388.jpg?v=1579357315"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            241.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG20 Master Control Unit is designed for use beside the loading dock door on the inside of the building</li><li class="extra-info">Includes flasher and toggle switch.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 115 volt AC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375090732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">241.06</s:price>
+      <s:sku>ES CRD 60-5467</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813375057964</id>
+    <published>2019-05-11T14:22:30-04:00</published>
+    <updated>2019-05-11T14:22:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5468"/>
+    <title>Ideal Innovations 60-5468  - Sg20-12Rg Incan. Stop&amp;Go Signal Light Master 12V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5468-sg20-12rg-incan-stop-go-signal-light-master-12v-12749255639084.jpg?v=1579357401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            241.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG20 Master Control Unit is designed for use beside the loading dock door on the inside of the building</li><li class="extra-info">Includes flasher and toggle switch.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 12 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813375057964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">241.06</s:price>
+      <s:sku>ES CRD 60-5468</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374959660</id>
+    <published>2019-05-11T14:22:27-04:00</published>
+    <updated>2019-05-11T14:22:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-5470"/>
+    <title>Ideal Innovations 60-5470  - Sg10-12Rg Incandescent Stop &amp; Go Signal Light 12V</title>
+    <s:type>Traffic Control</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/traffic-control-ideal-innovations-60-5470-sg10-12rg-incandescent-stop-go-signal-light-12v-12749255671852.jpg?v=1579357534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Traffic Control<br>
+        <strong>Price: </strong>
+            158.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">SG10 Signal Light is used in applications where opposing signals are not required</li><li class="extra-info">No flasher or toggle switch (Lights activated by customer supplied relays).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">Plastic</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Traffic Control</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Housing: Safety yellow (durable plastic will not rust, pit or corrode).</li><li class="extra-info"> Power source: 12 volt DC operation (consult factory for other options).</li><li class="extra-info"> Lens diameter: 4-1/2 Inch</li><li class="extra-info"> Measures 11-3/8 Inch height by 6-3/8 Inch width by 3-3/4 Inch depth.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_Plastic</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374959660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">158.10</s:price>
+      <s:sku>ES CRD 60-5470</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374926892</id>
+    <published>2019-05-11T14:22:23-04:00</published>
+    <updated>2019-05-11T14:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6510-a-gry"/>
+    <title>Ideal Innovations 60-6510-A-GRY  - 36 Inch Parking Block Grey For Asphalt</title>
+    <s:type>Parking Blocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-blocks-ideal-innovations-60-6510-a-gry-36-inch-parking-block-grey-for-asphalt-12749255114796.jpg?v=1579358042"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Blocks<br>
+        <strong>Price: </strong>
+            32.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Simple, affordable and colorful! Eliminate brittle concrete replacements with 100% recycled plastic parking blocks engineered to prevent warp, crack, chip and rot</li><li class="extra-info">Unlimited design possibilities with modular design and multiple colours - Safety Yellow, Grey or Blue.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Blocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special InchU Inch channel clip.</li><li class="extra-info"> Recommended fastening with 12 Inch spikes or 8 Inch lag bolts with concrete anchors.</li><li class="extra-info"> Specify for asphalt or concrete.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374926892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.03</s:price>
+      <s:sku>ES CRD 60-6510-A-GRY</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374894124</id>
+    <published>2019-05-11T14:22:23-04:00</published>
+    <updated>2019-05-11T14:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6500-a-yel"/>
+    <title>Ideal Innovations 60-6500-A-YEL  - 36 Inch Parking Block Yellow For Asphalt</title>
+    <s:type>Parking Blocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-blocks-ideal-innovations-60-6500-a-yel-36-inch-parking-block-yellow-for-asphalt-12749255508012.jpg?v=1579358009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Blocks<br>
+        <strong>Price: </strong>
+            32.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Simple, affordable and colorful!  Eliminate brittle concrete replacements with 100% recycled plastic parking blocks engineered to prevent warp, crack, chip and rot</li><li class="extra-info"> Unlimited design possibilities with modular design and multiple colours - Safety Yellow, Grey or Blue. </li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Blocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special InchU Inch channel clip.</li><li class="extra-info"> Recommended fastening with 12 Inch spikes or 8 Inch lag bolts with concrete anchors.</li><li class="extra-info"> Specify for asphalt or concrete.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374894124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.03</s:price>
+      <s:sku>ES CRD 60-6500-A-YEL</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374861356</id>
+    <published>2019-05-11T14:22:23-04:00</published>
+    <updated>2019-05-11T14:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6500-c-yel"/>
+    <title>Ideal Innovations 60-6500-C-YEL  - 36 Inch Parking Block Yellow For Concrete</title>
+    <s:type>Parking Blocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-blocks-ideal-innovations-60-6500-c-yel-36-inch-parking-block-yellow-for-concrete-12749255082028.jpg?v=1579358123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Blocks<br>
+        <strong>Price: </strong>
+            32.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Simple, affordable and colorful! Eliminate brittle concrete replacements with 100% recycled plastic parking blocks engineered to prevent warp, crack, chip and rot</li><li class="extra-info">Unlimited design possibilities with modular design and multiple colours - Safety Yellow, Grey or Blue.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Blocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special InchU Inch channel clip.</li><li class="extra-info"> Recommended fastening with 12 Inch spikes or 8 Inch lag bolts with concrete anchors.</li><li class="extra-info"> Specify for asphalt or concrete.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374861356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.03</s:price>
+      <s:sku>ES CRD 60-6500-C-YEL</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374828588</id>
+    <published>2019-05-11T14:22:23-04:00</published>
+    <updated>2019-05-11T14:22:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6510-c-gry"/>
+    <title>Ideal Innovations 60-6510-C-GRY  - 36 Inch Parking Block Grey For Concrete</title>
+    <s:type>Parking Blocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-blocks-ideal-innovations-60-6510-c-gry-36-inch-parking-block-grey-for-concrete-12749255147564.jpg?v=1579358075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Blocks<br>
+        <strong>Price: </strong>
+            32.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Simple, affordable and colorful! Eliminate brittle concrete replacements with 100% recycled plastic parking blocks engineered to prevent warp, crack, chip and rot</li><li class="extra-info">Unlimited design possibilities with modular design and multiple colours - Safety Yellow, Grey or Blue.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Grey</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Blocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special InchU Inch channel clip.</li><li class="extra-info"> Recommended fastening with 12 Inch spikes or 8 Inch lag bolts with concrete anchors.</li><li class="extra-info"> Specify for asphalt or concrete.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Grey</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374828588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.03</s:price>
+      <s:sku>ES CRD 60-6510-C-GRY</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374730284</id>
+    <published>2019-05-11T14:22:20-04:00</published>
+    <updated>2019-05-11T14:22:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6520-a-blu"/>
+    <title>Ideal Innovations 60-6520-A-BLU  - 36 Inch Parking Block Blue For Asphalt</title>
+    <s:type>Parking Blocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-blocks-ideal-innovations-60-6520-a-blu-36-inch-parking-block-blue-for-asphalt-12749255049260.jpg?v=1579358156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Blocks<br>
+        <strong>Price: </strong>
+            32.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Simple, affordable and colorful! Eliminate brittle concrete replacements with 100% recycled plastic parking blocks engineered to prevent warp, crack, chip and rot</li><li class="extra-info">Unlimited design possibilities with modular design and multiple colours - Safety Yellow, Grey or Blue.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Blocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special InchU Inch channel clip.</li><li class="extra-info"> Recommended fastening with 12 Inch spikes or 8 Inch lag bolts with concrete anchors.</li><li class="extra-info"> Specify for asphalt or concrete.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374730284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.03</s:price>
+      <s:sku>ES CRD 60-6520-A-BLU</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374697516</id>
+    <published>2019-05-11T14:22:19-04:00</published>
+    <updated>2019-05-11T14:22:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6520-c-blu"/>
+    <title>Ideal Innovations 60-6520-C-BLU  - 36 Inch Parking Block Blue For Concrete</title>
+    <s:type>Parking Blocks</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-blocks-ideal-innovations-60-6520-c-blu-36-inch-parking-block-blue-for-concrete-12749254852652.jpg?v=1579358277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Blocks<br>
+        <strong>Price: </strong>
+            32.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Simple, affordable and colorful! Eliminate brittle concrete replacements with 100% recycled plastic parking blocks engineered to prevent warp, crack, chip and rot</li><li class="extra-info">Unlimited design possibilities with modular design and multiple colours - Safety Yellow, Grey or Blue.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Blocks</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special InchU Inch channel clip.</li><li class="extra-info"> Recommended fastening with 12 Inch spikes or 8 Inch lag bolts with concrete anchors.</li><li class="extra-info"> Specify for asphalt or concrete.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374697516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.03</s:price>
+      <s:sku>ES CRD 60-6520-C-BLU</s:sku>
+      <s:grams>2267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374664748</id>
+    <published>2019-05-11T14:22:19-04:00</published>
+    <updated>2019-05-11T14:22:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6550-a-blk"/>
+    <title>Ideal Innovations 60-6550-A-BLK  - 36 Inch Econo Light Speed Bump Black For Asphalt</title>
+    <s:type>Parking Safety</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-safety-ideal-innovations-60-6550-a-blk-36-inch-econo-light-speed-bump-black-for-asphalt-12749254819884.jpg?v=1579358246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Safety<br>
+        <strong>Price: </strong>
+            50.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The World's lightest modular rubber speed bump! It will never rot, chip or corrode and is made of recycled PVC.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black, Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">PVC</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Safety</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special channel clip and end cap is also provided for a smooth look.</li><li class="extra-info"> To form a standard speed bump system section (72 Inch long) with hardware (spikes or lags), you will require (2) 36 Inch sections, (2) end caps, and one (1) connector</li><li class="extra-info">Main pieces (36 Inch long) may be added and connected to form larger units.</li><li class="extra-info"> Weighs only 10lbs./pc</li><li class="extra-info">and ships at a fraction of the cost of heavier speed bumps.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_BlackYellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_PVC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374664748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.87</s:price>
+      <s:sku>ES CRD 60-6550-A-BLK</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813374631980</id>
+    <published>2019-05-11T14:22:16-04:00</published>
+    <updated>2019-05-11T14:22:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-6560-a-yel"/>
+    <title>Ideal Innovations 60-6560-A-YEL  - 36 Inch Econo Light Speed Bump Yellow For Asphalt</title>
+    <s:type>Parking Safety</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/parking-safety-ideal-innovations-60-6560-a-yel-36-inch-econo-light-speed-bump-yellow-for-asphalt-12749254787116.jpg?v=1579358400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Parking Safety<br>
+        <strong>Price: </strong>
+            60.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The World's lightest modular rubber speed bump! It will never rot, chip or corrode and is made of recycled PVC.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Material </td>
+<td class="egrimes">PVC</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Parking Safety</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">36 Inch long sections are perfectly joined together with a special channel clip and end cap is also provided for a smooth look.</li><li class="extra-info"> To form a standard speed bump system section (72 Inch long) with hardware (spikes or lags), you will require (2) 36 Inch sections, (2) end caps, and one (1) connector</li><li class="extra-info">Main pieces (36 Inch long) may be added and connected to form larger units.</li><li class="extra-info"> Weighs only 10lbs./pc</li><li class="extra-info">and ships at a fraction of the cost of heavier speed bumps.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>ES</s:tag>
+    <s:tag>ES CRD</s:tag>
+    <s:tag>Material_PVC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813374631980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.29</s:price>
+      <s:sku>ES CRD 60-6560-A-YEL</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+</feed>

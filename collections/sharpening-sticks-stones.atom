@@ -1,0 +1,1577 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/sharpening-sticks-stones.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T11:52:46-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813139718188</id>
+    <published>2019-05-11T11:52:46-04:00</published>
+    <updated>2019-05-11T11:52:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1844"/>
+    <title>JET H1844  - Brake Cylinder Hone (3/4 2-1/2 Inch Range) H1844</title>
+    <s:type>Brake Tools</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/brake-tools-jet-h1844-brake-cylinder-hone-3-4-2-1-2-inch-range-h1844-12748705759276.jpg?v=1579509260"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Brake Tools<br>
+        <strong>Price: </strong>
+            28.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Brake Cylinder Hone</h4> <li class="extra-info">Designed for fast accurate deglazing of cylinders</li><li class="extra-info"> For cylinder diameters 3/4" – 2-1/2"</li><li class="extra-info"> Adjustment plate ensures stones contact cylinder wall with equal pressure</li><li class="extra-info"> Adjustable spring tension to select desired pressure</li><li class="extra-info"> Fits 1/4" or 3/8" drills</li><li class="extra-info"> 220 grit stones remove glaze quickly and leave a smooth finish</li><li class="extra-info"> Replacement stones H1843B (set of 3)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Brake Tools</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">220 grit stones</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Size_1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813139718188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.91</s:price>
+      <s:sku>BA SSS H1844</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813131165740</id>
+    <published>2019-05-11T11:49:38-04:00</published>
+    <updated>2019-05-11T11:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1864"/>
+    <title>JET H1864  - Small Engine Hone (1 Inch 3 Inch Range) H1864</title>
+    <s:type>Cylinder Hones Abrasive</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cylinder-hones-abrasive-jet-h1864-small-engine-hone-1-inch-3-inch-range-h1864-12748686196780.jpg?v=1579511043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cylinder Hones Abrasive<br>
+        <strong>Price: </strong>
+            53.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Small Engine Hone</h4> <li class="extra-info">Designed for fast accurate deglazing of cylinders</li><li class="extra-info"> For cylinder diameters 1" – 3"</li><li class="extra-info"> Flexible drive shaft permits easy access to all cylinders</li><li class="extra-info"> Adjustment plate ensures stones contact cylinder wall with equal pressure</li><li class="extra-info"> Adjustable spring tension to select desired pressure</li><li class="extra-info"> Fits 1/4" or 3/8" drills</li><li class="extra-info"> 220 grit stones remove glaze quickly and leave a smooth finish</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cylinder Hones Abrasive</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9/64 Inch</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Size_9/64 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813131165740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">53.10</s:price>
+      <s:sku>BA SSS H1864</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813089583148</id>
+    <published>2019-05-11T11:33:37-04:00</published>
+    <updated>2019-05-11T11:33:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1843"/>
+    <title>JET H1843  - Engine Hone (2 7 Inch Range) H1843</title>
+    <s:type>Cylinder Hones Abrasive</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cylinder-hones-abrasive-jet-h1843-engine-hone-2-7-inch-range-h1843-12748565905452.jpg?v=1579509327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Cylinder Hones Abrasive<br>
+        <strong>Price: </strong>
+            72.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Large Engine Hone</h4> <li class="extra-info">Designed for fast accurate deglazing of cylinders</li><li class="extra-info"> For cylinder diameters 2" – 7"</li><li class="extra-info"> Flexible drive shaft permits easy access to all cylinders</li><li class="extra-info"> Adjustment plate ensures stones contact cylinder wall with equal pressure</li><li class="extra-info"> Adjustable spring tension to select desired pressure</li><li class="extra-info"> Fits 3/8" or 1/2" drills</li><li class="extra-info"> 280 grit stones remove glaze quickly and leave a smooth finish</li><li class="extra-info"> Replacement stones H1843A (set of 3)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cylinder Hones Abrasive</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">280 grit stones</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Size_1/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813089583148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.39</s:price>
+      <s:sku>BA SSS H1843</s:sku>
+      <s:grams>520</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812837662764</id>
+    <published>2019-05-11T09:43:16-04:00</published>
+    <updated>2019-05-11T09:43:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-07043"/>
+    <title>Carborundum Medalist 07043  - Type 31 Segments Ceramic Alumina Type No 30-Evlp 5X1-1/2X6 05539507043</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-medalist-07043-type-31-segments-ceramic-alumina-type-no-30-evlp-5x1-1-2x6-05539507043-12782321074220.png?v=1578931693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            84.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Medalist</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High-performance, blue-colored ceramic alumina abrasive for fastest stock removal, maximum productivity, and cool cutting</li><li class="extra-info"> High-performance bond provides enhanced segment life</li><li class="extra-info"> Self-sharpening abrasive for less burn on part</li><li class="extra-info"> Induced porosity offers a cool, free cut and excellent chip/coolant flow</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_1-1/2 Inch</s:tag>
+    <s:tag>Line_Medalist</s:tag>
+    <s:tag>Width_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812837662764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.30</s:price>
+      <s:sku>BA SSS 07043</s:sku>
+      <s:grams>1216</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812837400620</id>
+    <published>2019-05-11T09:43:13-04:00</published>
+    <updated>2019-05-11T09:43:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-62911"/>
+    <title>Carborundum Premier Red 62911  - Type 31 Segments Aluminum Oxide Type No Ra30-Gv40P 5X1-1/2X6 05539562911</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-premier-red-62911-type-31-segments-aluminum-oxide-type-no-ra30-gv40p-5x1-1-2x6-05539562911-12782398472236.png?v=1578941156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            45.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Premier Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Performance pink-colored aluminum oxide abrasive offers fast, cool cutting action</li><li class="extra-info"> Premium vitrified bond promotes long life</li><li class="extra-info"> Induced porosity for a cool, free cut</li><li class="extra-info"> Very versatile</li><li class="extra-info"> works well on mild steels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_1-1/2 Inch</s:tag>
+    <s:tag>Line_Premier Red</s:tag>
+    <s:tag>Width_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812837400620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.49</s:price>
+      <s:sku>BA SSS 62911</s:sku>
+      <s:grams>1210</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812837367852</id>
+    <published>2019-05-11T09:43:12-04:00</published>
+    <updated>2019-05-11T09:43:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-07044"/>
+    <title>Carborundum Medalist 07044  - Type 31 Segments Ceramic Alumina Type No 30-Gvlp 5X1-1/2X6 05539507044</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-medalist-07044-type-31-segments-ceramic-alumina-type-no-30-gvlp-5x1-1-2x6-05539507044-12782321238060.png?v=1578931562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            84.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Medalist</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High-performance, blue-colored ceramic alumina abrasive for fastest stock removal, maximum productivity, and cool cutting</li><li class="extra-info"> High-performance bond provides enhanced segment life</li><li class="extra-info"> Self-sharpening abrasive for less burn on part</li><li class="extra-info"> Induced porosity offers a cool, free cut and excellent chip/coolant flow</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_1-1/2 Inch</s:tag>
+    <s:tag>Line_Medalist</s:tag>
+    <s:tag>Width_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812837367852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.30</s:price>
+      <s:sku>BA SSS 07044</s:sku>
+      <s:grams>1250</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812837335084</id>
+    <published>2019-05-11T09:43:12-04:00</published>
+    <updated>2019-05-11T09:43:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-07047"/>
+    <title>Carborundum Medalist 07047  - Type 31 Segments Ceramic Alumina Type Cd 30-Evlp 11-1/4X2-1/4X6 05539507047</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-medalist-07047-type-31-segments-ceramic-alumina-type-cd-30-evlp-11-1-4x2-1-4x6-05539507047-13823275696172.png?v=1628140245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            183.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Medalist</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">2-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">11-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High-performance, blue-colored ceramic alumina abrasive for fastest stock removal, maximum productivity, and cool cutting</li><li class="extra-info"> High-performance bond provides enhanced segment life</li><li class="extra-info"> Self-sharpening abrasive for less burn on part</li><li class="extra-info"> Induced porosity offers a cool, free cut and excellent chip/coolant flow</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_2-1/4 Inch</s:tag>
+    <s:tag>Line_Medalist</s:tag>
+    <s:tag>Width_11-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812837335084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">183.67</s:price>
+      <s:sku>BA SSS 07047</s:sku>
+      <s:grams>3342</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812837236780</id>
+    <published>2019-05-11T09:43:09-04:00</published>
+    <updated>2019-05-11T09:43:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-62912"/>
+    <title>Carborundum Premier Red 62912  - Type 31 Segments Aluminum Oxide Type Cd Ra24-Ev40P 11-1/4X2-1/4X6 05539562912</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-premier-red-62912-type-31-segments-aluminum-oxide-type-cd-ra24-ev40p-11-1-4x2-1-4x6-05539562912-13824369131564.png?v=1628137181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            56.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Premier Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">24</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">2-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">11-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Performance pink-colored aluminum oxide abrasive offers fast, cool cutting action</li><li class="extra-info"> Premium vitrified bond promotes long life</li><li class="extra-info"> Induced porosity for a cool, free cut</li><li class="extra-info"> Very versatile</li><li class="extra-info"> works well on mild steels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_24</s:tag>
+    <s:tag>Height_2-1/4 Inch</s:tag>
+    <s:tag>Line_Premier Red</s:tag>
+    <s:tag>Width_11-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812837236780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.74</s:price>
+      <s:sku>BA SSS 62912</s:sku>
+      <s:grams>3084</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812837138476</id>
+    <published>2019-05-11T09:43:09-04:00</published>
+    <updated>2019-05-11T09:43:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-62907"/>
+    <title>Carborundum Medalist 62907  - Type 31 Segments Ceramic Alumina Type Cd 30-Fvlp 11-1/4X2-1/4X6 05539562907</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-medalist-62907-type-31-segments-ceramic-alumina-type-cd-30-fvlp-11-1-4x2-1-4x6-05539562907-12782398439468.png?v=1578926192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            183.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Medalist</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">2-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">11-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High-performance, blue-colored ceramic alumina abrasive for fastest stock removal, maximum productivity, and cool cutting</li><li class="extra-info"> High-performance bond provides enhanced segment life</li><li class="extra-info"> Self-sharpening abrasive for less burn on part</li><li class="extra-info"> Induced porosity offers a cool, free cut and excellent chip/coolant flow</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_2-1/4 Inch</s:tag>
+    <s:tag>Line_Medalist</s:tag>
+    <s:tag>Width_11-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812837138476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">183.67</s:price>
+      <s:sku>BA SSS 62907</s:sku>
+      <s:grams>3442</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812837204012</id>
+    <published>2019-05-11T09:43:08-04:00</published>
+    <updated>2019-05-11T09:43:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-62914"/>
+    <title>Carborundum Premier Red 62914  - Type 31 Segments Aluminum Oxide Type Cd Ra30-Ev40P 11-1/4X2-1/4X6 05539562914</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-premier-red-62914-type-31-segments-aluminum-oxide-type-cd-ra30-ev40p-11-1-4x2-1-4x6-05539562914-13824371916844.png?v=1628136101"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            56.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Premier Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">2-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">11-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Performance pink-colored aluminum oxide abrasive offers fast, cool cutting action</li><li class="extra-info"> Premium vitrified bond promotes long life</li><li class="extra-info"> Induced porosity for a cool, free cut</li><li class="extra-info"> Very versatile</li><li class="extra-info"> works well on mild steels</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_2-1/4 Inch</s:tag>
+    <s:tag>Line_Premier Red</s:tag>
+    <s:tag>Width_11-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812837204012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.74</s:price>
+      <s:sku>BA SSS 62914</s:sku>
+      <s:grams>3420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812836974636</id>
+    <published>2019-05-11T09:43:05-04:00</published>
+    <updated>2019-05-11T09:43:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-62924"/>
+    <title>Carborundum 62924  - Type 31 Segments Gold Aluminum Oxide Type Cd Gold 30-F* 11-1/4X3X8 05539562924</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-62924-type-31-segments-gold-aluminum-oxide-type-cd-gold-30-f-11-1-4x3x8-05539562924-12782400274476.png?v=1578909752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            75.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">11-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Gray/pink-colored aluminum oxide abrasive offers an excellent value and fast, cool cutting action</li><li class="extra-info"> Advanced vitrified bond promotes long life</li><li class="extra-info"> Induced porosity for a cool, free cut</li><li class="extra-info"> Excellent value for general-purpose use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_3 Inch</s:tag>
+    <s:tag>Width_11-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812836974636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.29</s:price>
+      <s:sku>BA SSS 62924</s:sku>
+      <s:grams>6463</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812836909100</id>
+    <published>2019-05-11T09:43:04-04:00</published>
+    <updated>2019-05-11T09:43:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-62922"/>
+    <title>Carborundum 62922  - Type 31 Segments Gold Aluminum Oxide Type Cd Gold 30-F 11-1/4X2-1/4X6 05539562922</title>
+    <s:type>Segments</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/segments-carborundum-62922-type-31-segments-gold-aluminum-oxide-type-cd-gold-30-f-11-1-4x2-1-4x6-05539562922-13820385558572.png?v=1628136281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Segments<br>
+        <strong>Price: </strong>
+            49.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Surface grinding segments are generally used to grind flat stock or flat surfaces within a workpiece</li><li class="extra-info">The segment moves over the workpiece in a flat plane or vice versa</li><li class="extra-info">Applications can vary from heavy, rapid stock removal to precision tolerance operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">30</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">2-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">11-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Segments</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Gray/pink-colored aluminum oxide abrasive offers an excellent value and fast, cool cutting action</li><li class="extra-info"> Advanced vitrified bond promotes long life</li><li class="extra-info"> Induced porosity for a cool, free cut</li><li class="extra-info"> Excellent value for general-purpose use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Grit_30</s:tag>
+    <s:tag>Height_2-1/4 Inch</s:tag>
+    <s:tag>Width_11-1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812836909100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.23</s:price>
+      <s:sku>BA SSS 62922</s:sku>
+      <s:grams>3383</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812831469612</id>
+    <published>2019-05-11T09:40:42-04:00</published>
+    <updated>2019-05-11T09:40:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09128"/>
+    <title>Carborundum Crystolon 09128  - Crystolon (Silicon Carbide) Benchstones Combination Grit (Bulk) 6X2X1 05539509128</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-carborundum-crystolon-09128-crystolon-silicon-carbide-benchstones-combination-grit-bulk-6x2x1-05539509128-12748037324844.jpg?v=1578930281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            28.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Benchstones are great for hand dimensioning and sharpening of all types of knives, plane blades, chisels, scrapers, or any other tool that needs a flat, sharp edge</li><li class="extra-info">Choose one sharpening stone or a sequence of sharpening stones to quickly restore the cutting edge on all straight-edge tools.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Crystolon</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Sharp, silicon carbide abrasive provides enhanced cutting action and fast stock removal</li><li class="extra-info"> dark gray in color</li><li class="extra-info"> These fast-cutting stones are used to sharpen edges on tools to moderate tolerances quickly</li><li class="extra-info"> Vitrified bond provides long life and excellent form holding</li><li class="extra-info"> The use of oil with sharpening stones enhances the sharpening action and minimizes the clogging of the stone's surface</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Height_1 Inch</s:tag>
+    <s:tag>Line_Crystolon</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812831469612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.38</s:price>
+      <s:sku>BA SSS 09128</s:sku>
+      <s:grams>426</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812831404076</id>
+    <published>2019-05-11T09:40:39-04:00</published>
+    <updated>2019-05-11T09:40:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09126"/>
+    <title>Carborundum Crystolon 09126  - Crystolon (Silicon Carbide) Benchstones Combination Grit (Bulk) 8X2X1 05539509126</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-carborundum-crystolon-09126-crystolon-silicon-carbide-benchstones-combination-grit-bulk-8x2x1-05539509126-13823090229292.jpg?v=1628116656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Benchstones are great for hand dimensioning and sharpening of all types of knives, plane blades, chisels, scrapers, or any other tool that needs a flat, sharp edge</li><li class="extra-info">Choose one sharpening stone or a sequence of sharpening stones to quickly restore the cutting edge on all straight-edge tools.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Crystolon</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Sharp, silicon carbide abrasive provides enhanced cutting action and fast stock removal</li><li class="extra-info"> dark gray in color</li><li class="extra-info"> These fast-cutting stones are used to sharpen edges on tools to moderate tolerances quickly</li><li class="extra-info"> Vitrified bond provides long life and excellent form holding</li><li class="extra-info"> The use of oil with sharpening stones enhances the sharpening action and minimizes the clogging of the stone's surface</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Diameter_8 Inch</s:tag>
+    <s:tag>Height_1 Inch</s:tag>
+    <s:tag>Line_Crystolon</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812831404076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku>BA SSS 09126</s:sku>
+      <s:grams>557</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812831371308</id>
+    <published>2019-05-11T09:40:39-04:00</published>
+    <updated>2019-05-11T09:40:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09107"/>
+    <title>Carborundum 09107  - India (Aluminum Oxide) Benchstones Combination Grit (Bulk) 6X2X1 05539509107</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-carborundum-09107-india-aluminum-oxide-benchstones-combination-grit-bulk-6x2x1-05539509107-12748037357612.jpg?v=1578879678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            26.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Benchstones are great for hand dimensioning and sharpening of all types of knives, plane blades, chisels, scrapers, or any other tool that needs a flat, sharp edge</li><li class="extra-info">Choose one sharpening stone or a sequence of sharpening stones to quickly restore the cutting edge on all straight-edge tools.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Aluminum oxide abrasive for fast, cool cutting action, while maintaining high part tolerance</li><li class="extra-info"> orange/brown in color</li><li class="extra-info"> Aluminum oxide stones produce strong, keen, long-lasting edges on quality tools</li><li class="extra-info"> Vitrified bond provides long life and excellent form holding</li><li class="extra-info"> The use of oil with sharpening stones enhances the sharpening action and minimizes the clogging of the stone's surface</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812831371308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.17</s:price>
+      <s:sku>BA SSS 09107</s:sku>
+      <s:grams>535</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812831338540</id>
+    <published>2019-05-11T09:40:35-04:00</published>
+    <updated>2019-05-11T09:40:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-09105"/>
+    <title>Carborundum 09105  - India (Aluminum Oxide) Benchstones Combination Grit (Bulk) 8X2X1 05539509105</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-carborundum-09105-india-aluminum-oxide-benchstones-combination-grit-bulk-8x2x1-05539509105-12748037095468.jpg?v=1578879718"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            31.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Benchstones are great for hand dimensioning and sharpening of all types of knives, plane blades, chisels, scrapers, or any other tool that needs a flat, sharp edge</li><li class="extra-info">Choose one sharpening stone or a sequence of sharpening stones to quickly restore the cutting edge on all straight-edge tools.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Aluminum oxide abrasive for fast, cool cutting action, while maintaining high part tolerance</li><li class="extra-info"> orange/brown in color</li><li class="extra-info"> Aluminum oxide stones produce strong, keen, long-lasting edges on quality tools</li><li class="extra-info"> Vitrified bond provides long life and excellent form holding</li><li class="extra-info"> The use of oil with sharpening stones enhances the sharpening action and minimizes the clogging of the stone's surface</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812831338540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.29</s:price>
+      <s:sku>BA SSS 09105</s:sku>
+      <s:grams>684</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812831305772</id>
+    <published>2019-05-11T09:40:35-04:00</published>
+    <updated>2019-05-11T09:40:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-07214"/>
+    <title>Carborundum 07214  - Dressing &amp; Finishing Aa150-Hv40 4X3/4X3/4 05539507214</title>
+    <s:type>Dressing &amp; Finishing</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dressing-finishing-carborundum-07214-dressing-finishing-aa150-hv40-4x3-4x3-4-05539507214-13816511037484.jpg?v=1628115403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Dressing &amp; Finishing<br>
+        <strong>Price: </strong>
+            4.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Regular use of properly-selected dressing and finishing sticks will help you achieve maximum performance from your grinding wheels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">40</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dressing &amp; Finishing</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Friable, white aluminum oxide abrasive for free dressing action</li><li class="extra-info"> Vitrified bond provides excellent conformability</li><li class="extra-info"> Aluminum oxide dressing sticks work best on cBN grinding wheels, but can also be used on diamond grinding wheels</li><li class="extra-info"> Clean, open, and reshape grinding wheels to maximize grinding performance</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812831305772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.35</s:price>
+      <s:sku>BA SSS 07214</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812831273004</id>
+    <published>2019-05-11T09:40:31-04:00</published>
+    <updated>2019-05-11T09:40:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-07232"/>
+    <title>Carborundum 07232  - Dressing &amp; Finishing Aa220-Hv40 6X1X1 05539507232</title>
+    <s:type>Dressing &amp; Finishing</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dressing-finishing-carborundum-07232-dressing-finishing-aa220-hv40-6x1x1-05539507232-12748036767788.jpg?v=1578879556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Dressing &amp; Finishing<br>
+        <strong>Price: </strong>
+            10.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Regular use of properly-selected dressing and finishing sticks will help you achieve maximum performance from your grinding wheels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">40</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dressing &amp; Finishing</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Friable, white aluminum oxide abrasive for free dressing action</li><li class="extra-info"> Vitrified bond provides excellent conformability</li><li class="extra-info"> Aluminum oxide dressing sticks work best on cBN grinding wheels, but can also be used on diamond grinding wheels</li><li class="extra-info"> Clean, open, and reshape grinding wheels to maximize grinding performance</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>Grit_40</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812831273004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.01</s:price>
+      <s:sku>BA SSS 07232</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812831240236</id>
+    <published>2019-05-11T09:40:31-04:00</published>
+    <updated>2019-05-11T09:40:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/carborundum-07224"/>
+    <title>Carborundum 07224  - Dressing &amp; Finishing C220-Kvgc 6X1X1 05539507224</title>
+    <s:type>Dressing &amp; Finishing</s:type>
+    <s:vendor>Carborundum</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/dressing-finishing-carborundum-07224-dressing-finishing-c220-kvgc-6x1x1-05539507224-13816514707500.jpg?v=1628116655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Carborundum<br>
+        <strong>Type: </strong>Dressing &amp; Finishing<br>
+        <strong>Price: </strong>
+            12.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Regular use of properly-selected dressing and finishing sticks will help you achieve maximum performance from your grinding wheels.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Carborundum</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Dressing &amp; Finishing</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Black silicon carbide abrasive is sharp and durable</li><li class="extra-info"> Vitrified bond provides excellent conformability</li><li class="extra-info"> Silicon carbide dressing sticks in coarse grit sizes and hard grades are used for dressing conventional vitrified wheels</li><li class="extra-info"> fine grit sizes and softer grades are used for dressing diamond wheels</li><li class="extra-info"> Clean, open, and reshape grinding wheels to maximize grinding performance</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812831240236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.77</s:price>
+      <s:sku>BA SSS 07224</s:sku>
+      <s:grams>170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812637384748</id>
+    <published>2019-05-11T08:26:35-04:00</published>
+    <updated>2019-05-11T08:26:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-cf61-100"/>
+    <title>Gray CF61-100  - Stone Set Coarse 3 Inch Length</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-gray-cf61-100-stone-set-coarse-3-inch-length-12747602722860.png?v=1579272001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            38.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812637384748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.91</s:price>
+      <s:sku>BA SSS CF61-100</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812637351980</id>
+    <published>2019-05-11T08:26:35-04:00</published>
+    <updated>2019-05-11T08:26:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-cf61-12s"/>
+    <title>Gray CF61-12S  - Stone Set Medium 3 Inch Length</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-gray-cf61-12s-stone-set-medium-3-inch-length-12747602657324.png?v=1579271966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            41.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812637351980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.45</s:price>
+      <s:sku>BA SSS CF61-12S</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812637319212</id>
+    <published>2019-05-11T08:26:32-04:00</published>
+    <updated>2019-05-11T08:26:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-cf63-14"/>
+    <title>Gray CF63-14  - Stone Set Fine 1-1/8 Inch Length</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-gray-cf63-14-stone-set-fine-1-1-8-inch-length-12747602362412.png?v=1579272153"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            16.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812637319212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.47</s:price>
+      <s:sku>BA SSS CF63-14</s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812637253676</id>
+    <published>2019-05-11T08:26:31-04:00</published>
+    <updated>2019-05-11T08:26:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-cf61-14s"/>
+    <title>Gray CF61-14S  - Stone Set Fine 3 Inch Length</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-gray-cf61-14s-stone-set-fine-3-inch-length-12747602690092.png?v=1579272088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            41.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812637253676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.45</s:price>
+      <s:sku>BA SSS CF61-14S</s:sku>
+      <s:grams>113</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812543340588</id>
+    <published>2019-05-11T06:55:27-04:00</published>
+    <updated>2019-05-11T06:55:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-95100"/>
+    <title>Sait 95100  - Wood Wedges</title>
+    <s:type>Wedges</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/wedges-sait-95100-wood-wedges-13391083012140.jpg?v=1575004685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Wedges<br>
+        <strong>Price: </strong>
+            1.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">For use with Vitrafied Bonded Floor Rubs Skin packaged in quantities of 2 per package</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Wedges</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For use with Vitrafied Bonded Floor Rubs Skin packaged in quantities of 2 per package</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812543340588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.57</s:price>
+      <s:sku>AC SSS 95100</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812491075628</id>
+    <published>2019-05-11T06:11:29-04:00</published>
+    <updated>2019-05-11T06:11:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-25050"/>
+    <title>Sait 25050  - HR250 8 X 3-1/2 X 1-1/2 Handle 25050</title>
+    <s:type>Sharpening Sticks &amp; Stones</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sharpening-sticks-stones-sait-25050-hr250-8-x-3-1-2-x-1-1-2-handle-25050-12747179130924.jpg?v=1575335394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Sharpening Sticks &amp; Stones<br>
+        <strong>Price: </strong>
+            12.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Finishing</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sharpening Sticks &amp; Stones</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Removes form marks For extra comfort and working overhead For use on: Concrete</li><h2>Product Information</h2><li class="extra-info">Handle</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>BA</s:tag>
+    <s:tag>BA SSS</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812491075628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.15</s:price>
+      <s:sku>BA SSS 25050</s:sku>
+      <s:grams>1723</s:grams>
+    </s:variant>
+  </entry>
+</feed>

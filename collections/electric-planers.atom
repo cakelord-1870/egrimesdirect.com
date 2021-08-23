@@ -1,0 +1,1286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/electric-planers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:48:08-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172800044</id>
+    <published>2019-05-11T01:48:08-04:00</published>
+    <updated>2019-05-11T01:48:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4523"/>
+    <title>King Canada K-4523  - Knives Moulding Stop</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4523-knives-moulding-stop-12746649796652.jpg?v=1579589613"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            149.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Stop moulding cutter set</h4> <li class="extra-info">Stop 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172800044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.66</s:price>
+      <s:sku>AC PLA K-4523</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172734508</id>
+    <published>2019-05-11T01:48:08-04:00</published>
+    <updated>2019-05-11T01:48:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4521"/>
+    <title>King Canada K-4521  - Knives Moulding Cove</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4521-knives-moulding-cove-12746650157100.jpg?v=1579589494"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            132.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Cove moulding cutter set</h4> <li class="extra-info">Cove 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172734508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">132.56</s:price>
+      <s:sku>AC PLA K-4521</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172636204</id>
+    <published>2019-05-11T01:48:04-04:00</published>
+    <updated>2019-05-11T01:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4529"/>
+    <title>King Canada K-4529  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4529-knives-moulding-fancy-casing-12746649632812.jpg?v=1579589737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            179.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy casing moulding cutter set</h4> <li class="extra-info">Fancy casing 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172636204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>AC PLA K-4529</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172603436</id>
+    <published>2019-05-11T01:48:04-04:00</published>
+    <updated>2019-05-11T01:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4527"/>
+    <title>King Canada K-4527  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4527-knives-moulding-fancy-casing-12746649763884.jpg?v=1579589582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            179.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy casing moulding cutter set</h4> <li class="extra-info">Fancy casing 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172603436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>AC PLA K-4527</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172570668</id>
+    <published>2019-05-11T01:48:04-04:00</published>
+    <updated>2019-05-11T01:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4530"/>
+    <title>King Canada K-4530  - Knives Moulding Base</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4530-knives-moulding-base-12746649731116.jpg?v=1579589704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            225.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Base moulding cutter set</h4> <li class="extra-info">Base 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172570668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.21</s:price>
+      <s:sku>AC PLA  K-4530</s:sku>
+      <s:grams>680</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172537900</id>
+    <published>2019-05-11T01:48:01-04:00</published>
+    <updated>2019-05-11T01:48:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4539"/>
+    <title>King Canada K-4539  - Knives Moulding Large Cove</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4539-knives-moulding-large-cove-12746649567276.jpg?v=1579589882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            156.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Large cove moulding cutter set</h4> <li class="extra-info">Large cove 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172537900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">156.78</s:price>
+      <s:sku>AC PLA K-4539</s:sku>
+      <s:grams>499</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172505132</id>
+    <published>2019-05-11T01:48:01-04:00</published>
+    <updated>2019-05-11T01:48:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4538"/>
+    <title>King Canada K-4538  - Knives Moulding Fancy Cove</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4538-knives-moulding-fancy-cove-12746649665580.jpg?v=1579589849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            179.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy cove moulding cutter set</h4> <li class="extra-info">Fancy cove 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172505132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">179.60</s:price>
+      <s:sku>AC PLA K-4538</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172472364</id>
+    <published>2019-05-11T01:48:01-04:00</published>
+    <updated>2019-05-11T01:48:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4533"/>
+    <title>King Canada K-4533  - Knives Moulding Decorative</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4533-knives-moulding-decorative-12746649698348.jpg?v=1579589646"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            225.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Decorative moulding cutter set</h4> <li class="extra-info">Decorative 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172472364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.21</s:price>
+      <s:sku>AC PLA K-4533</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172439596</id>
+    <published>2019-05-11T01:47:58-04:00</published>
+    <updated>2019-05-11T01:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4542"/>
+    <title>King Canada K-4542  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4542-knives-moulding-fancy-casing-12746649534508.jpg?v=1579589973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            82.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy cove moulding cutter set</h4> <li class="extra-info">Fancy casing 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172439596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.67</s:price>
+      <s:sku>AC PLA K-4542</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172406828</id>
+    <published>2019-05-11T01:47:58-04:00</published>
+    <updated>2019-05-11T01:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4541"/>
+    <title>King Canada K-4541  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4541-knives-moulding-fancy-casing-12746649468972.jpg?v=1579590065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy cove moulding cutter set</h4> <li class="extra-info">Fancy casing 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172406828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>AC PLA K-4541</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172374060</id>
+    <published>2019-05-11T01:47:58-04:00</published>
+    <updated>2019-05-11T01:47:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4540"/>
+    <title>King Canada K-4540  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4540-knives-moulding-fancy-casing-12746649600044.jpg?v=1579589817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy cove moulding cutter set</h4> <li class="extra-info">Fancy casing 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172374060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>AC PLA K-4540</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172341292</id>
+    <published>2019-05-11T01:47:54-04:00</published>
+    <updated>2019-05-11T01:47:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4545"/>
+    <title>King Canada K-4545  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4545-knives-moulding-fancy-casing-12746649436204.jpg?v=1579590131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            82.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy cove moulding cutter set</h4> <li class="extra-info">Fancy cove 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172341292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.67</s:price>
+      <s:sku>AC PLA K-4545</s:sku>
+      <s:grams>8618</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172308524</id>
+    <published>2019-05-11T01:47:54-04:00</published>
+    <updated>2019-05-11T01:47:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4547"/>
+    <title>King Canada K-4547  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4547-knives-moulding-fancy-casing-12746649337900.jpg?v=1579590182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            82.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Five bead moulding cutter set</h4> <li class="extra-info">Five bead 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172308524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.67</s:price>
+      <s:sku>AC PLA K-4547</s:sku>
+      <s:grams>10432</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172275756</id>
+    <published>2019-05-11T01:47:54-04:00</published>
+    <updated>2019-05-11T01:47:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4543"/>
+    <title>King Canada K-4543  - Knives Moulding Fancy Casing</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4543-knives-moulding-fancy-casing-12746649501740.jpg?v=1579589940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            82.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Fancy cove moulding cutter set</h4> <li class="extra-info">Fancy cove 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172275756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.67</s:price>
+      <s:sku>AC PLA K-4543</s:sku>
+      <s:grams>8164</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172242988</id>
+    <published>2019-05-11T01:47:54-04:00</published>
+    <updated>2019-05-11T01:47:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4560"/>
+    <title>King Canada K-4560  - Knives Moulding Picture Frame</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4560-knives-moulding-picture-frame-12746649305132.jpg?v=1579590098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Picture frame moulding cutter set</h4> <li class="extra-info">Picture frame 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172242988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.99</s:price>
+      <s:sku>AC PLA K-4560</s:sku>
+      <s:grams>15422</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172210220</id>
+    <published>2019-05-11T01:47:54-04:00</published>
+    <updated>2019-05-11T01:47:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4562k"/>
+    <title>King Canada K-4562K  - Knives Moulding Tongue &amp; Groove</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4562k-knives-moulding-tongue-groove-12746649370668.jpg?v=1579590299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            135.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tongue and groove moulding cutter set</h4> <li class="extra-info">Tongue and groove 3 knives in each set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172210220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.41</s:price>
+      <s:sku>AC PLA K-4562K</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172177452</id>
+    <published>2019-05-11T01:47:50-04:00</published>
+    <updated>2019-05-11T01:47:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-4509k"/>
+    <title>King Canada K-4509K  - Knives Moulding Set 10 Piece</title>
+    <s:type>Planers / Moulders &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-moulders-accessories-king-canada-k-4509k-knives-moulding-set-10-piece-12746649272364.jpg?v=1579589376"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers / Moulders &amp; Accessories<br>
+        <strong>Price: </strong>
+            300.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">High speed steel moulding knife set (10 Piece)</h4> <li class="extra-info">10 piece high speed steel moulding knife set</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers / Moulders &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172177452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">300.75</s:price>
+      <s:sku>AC PLA K-4509K</s:sku>
+      <s:grams>954</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172144684</id>
+    <published>2019-05-11T01:47:50-04:00</published>
+    <updated>2019-05-11T01:47:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-12"/>
+    <title>King Canada KKC-12  - Knives Planer 12 Inch Set 2</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-12-knives-planer-12-inch-set-2-12746649206828.jpg?v=1579578847"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            45.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">12 Inch HSS planer knives set</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172144684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.61</s:price>
+      <s:sku>AC PLA  KKC-12</s:sku>
+      <s:grams>318</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172111916</id>
+    <published>2019-05-11T01:47:50-04:00</published>
+    <updated>2019-05-11T01:47:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-125"/>
+    <title>King Canada KKC-125  - Knives Planer 12 1/2 Inch Reversible Set 2</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-125-knives-planer-12-1-2-inch-reversible-set-2-12746649108524.jpg?v=1579579088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            45.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">12-1/2 Inch HSS planer knives set</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172111916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.61</s:price>
+      <s:sku>AC PLA KKC-125</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172079148</id>
+    <published>2019-05-11T01:47:47-04:00</published>
+    <updated>2019-05-11T01:47:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-15"/>
+    <title>King Canada KKC-15  - Knives Planer 15 Inch Set 3</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-15-knives-planer-15-inch-set-3-12746649141292.jpg?v=1579579022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            105.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">15 Inch HSS planer knives set</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172079148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">105.48</s:price>
+      <s:sku>AC PLA KKC-15</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172046380</id>
+    <published>2019-05-11T01:47:47-04:00</published>
+    <updated>2019-05-11T01:47:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-16"/>
+    <title>King Canada KKC-16  - Knives Planer 16 Inch Set 3</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-16-knives-planer-16-inch-set-3-12746649075756.jpg?v=1579579142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            126.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">16 Inch Planer knives</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172046380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">126.86</s:price>
+      <s:sku>AC PLA KKC-16</s:sku>
+      <s:grams>817</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812172013612</id>
+    <published>2019-05-11T01:47:47-04:00</published>
+    <updated>2019-05-11T01:47:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-13"/>
+    <title>King Canada KKC-13  - Knives Planer 13 Inch Reversible Set 2</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-13-knives-planer-13-inch-reversible-set-2-12746649174060.jpg?v=1579579055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            75.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">13 Inch Planer knives</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812172013612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.54</s:price>
+      <s:sku>AC PLA KKC-13</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812171948076</id>
+    <published>2019-05-11T01:47:43-04:00</published>
+    <updated>2019-05-11T01:47:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-20cb"/>
+    <title>King Canada KKC-20CB  - Knives Planer 20 Inch Carbide Set 4</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-20cb-knives-planer-20-inch-carbide-set-4-12746649010220.jpg?v=1579607284"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            1020.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20 Inch Planer knives</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812171948076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1020.56</s:price>
+      <s:sku>AC PLA  KKC-20CB</s:sku>
+      <s:grams>1816</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812171915308</id>
+    <published>2019-05-11T01:47:43-04:00</published>
+    <updated>2019-05-11T01:47:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-15cb"/>
+    <title>King Canada KKC-15CB  - Knives Planer 15 Inch Carbide Set 3</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-15cb-knives-planer-15-inch-carbide-set-3-12746648944684.jpg?v=1579579179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            659.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">15 Inch Planer knives</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812171915308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">659.94</s:price>
+      <s:sku>AC PLA KKC-15CB</s:sku>
+      <s:grams>908</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812171882540</id>
+    <published>2019-05-11T01:47:42-04:00</published>
+    <updated>2019-05-11T01:47:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kkc-16cb"/>
+    <title>King Canada KKC-16CB  - Knives Planer 16 Inch Carbide Set 3</title>
+    <s:type>Planers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/planers-accessories-king-canada-kkc-16cb-knives-planer-16-inch-carbide-set-3-12746648977452.jpg?v=1579579330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Planers &amp; Accessories<br>
+        <strong>Price: </strong>
+            839.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">16 Inch Planer knives</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Planers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC PLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812171882540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">839.54</s:price>
+      <s:sku>AC PLA KKC-16CB</s:sku>
+      <s:grams>908</s:grams>
+    </s:variant>
+  </entry>
+</feed>

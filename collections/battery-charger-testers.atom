@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/battery-charger-testers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T11:55:06-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813145747500</id>
+    <published>2019-05-11T11:55:06-04:00</published>
+    <updated>2019-05-11T11:55:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1007"/>
+    <title>JET H1007  - Battery Post Terminal Brushes H1007</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/batteries-jet-h1007-battery-post-terminal-brushes-h1007-12748722143276.jpg?v=1579527334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            11.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Battery Post Terminal Brushes</h4> <li class="extra-info">Post &amp; Terminal brushes</li><li class="extra-info"> Remove corrosion quickly and safely</li><li class="extra-info">Cleans battery post and terminals for perfect electrical contact</li><li class="extra-info"> Also useful as a wire cleaning brush for cleaning 1/2" copper pipe before sweating</li><li class="extra-info"> Metal case included</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Batteries</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cleans battery post and terminals for perfect electrical contact</li><li class="extra-info"> 1/2" cleaning brush, use before sweating copper pipe</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813145747500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.16</s:price>
+      <s:sku>SH BAC H1007</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813121466412</id>
+    <published>2019-05-11T11:46:02-04:00</published>
+    <updated>2019-05-11T11:46:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3391"/>
+    <title>JET H3391  - Battery Post And Terminal Cleaner Tool H3391</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/batteries-jet-h3391-battery-post-and-terminal-cleaner-tool-h3391-12748661686316.jpg?v=1579518694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            20.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Way Battery Post and Terminal Cleaner</h4> <li class="extra-info">Cleans dirt and corrosion from battery posts and terminals</li><li class="extra-info"> Positive and negative post scrapers</li><li class="extra-info"> 8-sided reamer tapered for cleaning positive and negative cable clamps</li><li class="extra-info"> Aluminum body with hardened steel scrapers</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Batteries</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cleans dirt and corrosion from battery posts and terminals</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813121466412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.88</s:price>
+      <s:sku>SH BAC H3391</s:sku>
+      <s:grams>162</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813096923180</id>
+    <published>2019-05-11T11:36:39-04:00</published>
+    <updated>2019-05-11T11:36:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h1279"/>
+    <title>JET H1279  - Grip Tight Battery Carrier H1279</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/batteries-jet-h1279-grip-tight-battery-carrier-h1279-12748588056620.jpg?v=1579488088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            33.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Grip-Tight Battery Carrier</h4> <li class="extra-info">For most 6-volt and 12-volt batteries with top or side terminals</li><li class="extra-info"> Rugged zinc plated jaws securely grip batteries from 3" to 7" widths</li><li class="extra-info"> Weight of the battery provides the grip – the heavier the battery the tighter the grip</li><li class="extra-info"> Acid resistant non-conductive rubber strap for sure grip</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Batteries</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4.5mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For batteries up to 7" wide</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>Size_4.5mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813096923180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.77</s:price>
+      <s:sku>SH BAC H1279</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813067333676</id>
+    <published>2019-05-11T11:25:09-04:00</published>
+    <updated>2019-05-11T11:25:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3650"/>
+    <title>JET H3650  - Digital Battery Load Tester / Charging System Analyzer H3650</title>
+    <s:type>Batteries</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/batteries-jet-h3650-digital-battery-load-tester-charging-system-analyzer-h3650-12748504891436.jpg?v=1579519719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Batteries<br>
+        <strong>Price: </strong>
+            94.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Digital Battery Load Tester / Charging System Analyzer</h4> <li class="extra-info">Test 12 volt batteries only up to 1,000 CCA</li><li class="extra-info"> Microprocessor controlled design guarantees an easy &amp; accurate load test and no need to time yourself</li><li class="extra-info"> Unique 3 step design: LED polarity checking function, battery state of charge &amp; charging system test readout</li><li class="extra-info"> Check both battery and charging systems</li><li class="extra-info"> Durable, ventilated enamel steel case</li><li class="extra-info"> Completely portable</li><li class="extra-info"> outside power is not required</li><li class="extra-info"> True 100 amp load capacity – Check and Compare!</li><li class="extra-info"> Tests: battery state of charge, battery cranking ability, Charging system output starter test</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Batteries</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2-3/32 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Test 12 volt batteries up to 1,000 CCA</li><li class="extra-info"> Load capacity: 100AMP</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>Size_2-3/32 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813067333676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.95</s:price>
+      <s:sku>SH BAC H3650</s:sku>
+      <s:grams>1310</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813067038764</id>
+    <published>2019-05-11T11:25:00-04:00</published>
+    <updated>2019-05-11T11:25:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3432"/>
+    <title>JET H3432  - 100 Amp Analogue Load Tester H3432</title>
+    <s:type>Testers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/testers-jet-h3432-100-amp-analogue-load-tester-h3432-12748503810092.jpg?v=1579518966"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Testers<br>
+        <strong>Price: </strong>
+            90.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">100 Amp Analogue Load Tester</h4> <li class="extra-info">Tests 6 and 12 volt batteries up to 1,000 CCA</li><li class="extra-info"> Tests battery state of charge, battery cranking ability, charging system output and starter condition</li><li class="extra-info"> Top mounted rocker switch is more convenient and easy to use</li><li class="extra-info"> Rubber insulated carrying handle for both comfort and safety</li><li class="extra-info"> Unit does not contain asbestos</li><li class="extra-info"> Accurate and shock resistant movement</li><li class="extra-info"> Easy to read meter</li><li class="extra-info"> Heavy duty colour coded, insulated clamps</li><li class="extra-info"> Durable, ventilated blue enamel steel case</li><li class="extra-info"> Complete tests done in 10 seconds</li><li class="extra-info"> Outside power is not required</li><li class="extra-info"> True 100 amp load capacity – Check and Compare!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Testers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2-3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tests 6 and 12 volt batteries up to 1,000 CCA</li><li class="extra-info"> Load capacity: 100AMP</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>Size_2-3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813067038764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.13</s:price>
+      <s:sku>SH BAC H3432</s:sku>
+      <s:grams>1330</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813047869484</id>
+    <published>2019-05-11T11:17:26-04:00</published>
+    <updated>2019-05-11T11:17:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-h3655"/>
+    <title>JET H3655  - 500 Amp Carbon Pile Tester H3655</title>
+    <s:type>Testers</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/testers-jet-h3655-500-amp-carbon-pile-tester-h3655-12748447907884.jpg?v=1579519772"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Testers<br>
+        <strong>Price: </strong>
+            297.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">500 Amp Carbon Pile Tester</h4> <li class="extra-info">500AMP variable load carbon pile tester</li><li class="extra-info"> Colour-coded, temperature compensation pass/fail bands on the voltmeter insures precise battery load test results</li><li class="extra-info"> Separate voltmeter and ammeter, for easy monitoring</li><li class="extra-info"> Tests batteries up to 1000CCA</li><li class="extra-info"> Fully insulated, heavy duty, colour coded battery clamps &amp; wire leads</li><li class="extra-info"> For 12V batteries, alternators, regulators &amp; starters systems</li><li class="extra-info"> Designed with built in 15 second load warning beeper</li><li class="extra-info"> Meets UL and CE standards Please Note: There are many 500 amp carbon pile battery tester and charging system analyzers in the market</li><li class="extra-info">While they all look the same from the outside, our unit has many important features that ensure a premium quality tester</li><li class="extra-info">Our carbon piles are made from the best quality, superior performing materials</li><li class="extra-info">Our steel parts are made with patented "constant-pressure/constant current" steel</li><li class="extra-info">The fasteners and soldering materials and assembly technology insure the components and connection stay secure</li><li class="extra-info">We use heavy duty 4 gauge welders' grade cable wire where competitors may use lighter gauge cable</li><li class="extra-info">These superior components and design qualities offer greater stability and more accurate readings while minimizing heat build up.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Testers</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">For 12V batteries, alternators, regulators and starter systems</li><li class="extra-info"> Separate voltmeter and ampmeter, for easy monitoring</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813047869484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">297.91</s:price>
+      <s:sku>SH BAC H3655</s:sku>
+      <s:grams>4980</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812158119980</id>
+    <published>2019-05-11T01:41:28-04:00</published>
+    <updated>2019-05-11T01:41:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-048cg"/>
+    <title>King Canada K-048CG  - Battery Charger Replacement 4.8V Fits 8150Ct</title>
+    <s:type>Nailers / Staplers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-staplers-accessories-king-canada-k-048cg-battery-charger-replacement-4-8v-fits-8150ct-12746630955052.jpg?v=1579587180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers / Staplers &amp; Accessories<br>
+        <strong>Price: </strong>
+            24.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4.8V charger for cordless stapler</h4> <li class="extra-info">4.8V Charger for cordless stapler</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers / Staplers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812158119980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.22</s:price>
+      <s:sku>SH BAC K-048CG</s:sku>
+      <s:grams>4989</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812158087212</id>
+    <published>2019-05-11T01:41:28-04:00</published>
+    <updated>2019-05-11T01:41:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-06cg"/>
+    <title>King Canada K-06CG  - Battery Charger Replacement 6V Fits 8235Gfn</title>
+    <s:type>Nailers / Staplers &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nailers-staplers-accessories-king-canada-k-06cg-battery-charger-replacement-6v-fits-8235gfn-12746630987820.jpg?v=1579587213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nailers / Staplers &amp; Accessories<br>
+        <strong>Price: </strong>
+            42.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6V Charger for 8235GFN</h4> <li class="extra-info">6V Replacement charger</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nailers / Staplers &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812158087212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.75</s:price>
+      <s:sku>SH BAC K-06CG</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812156612652</id>
+    <published>2019-05-11T01:40:51-04:00</published>
+    <updated>2019-05-11T01:40:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-px-500"/>
+    <title>King Canada PX-500  - Jump Starter / Persona Power Supply 13,600 Mah</title>
+    <s:type>Power Supply</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/power-supply-king-canada-px-500-jump-starter-persona-power-supply-13-600-mah-12746629349420.jpg?v=1579626817"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Power Supply<br>
+        <strong>Price: </strong>
+            139.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Jump starter/personal power supply</h4> <li class="extra-info">Charge or power all electronic devices, jump start a vehicle</li><li class="extra-info"> Power or charge USB 5V electronics, 12V accessories and 16V/19V laptops</li><li class="extra-info"> Reverse polarity, short-circuit, over discharge, reverse charge and overheating protection</li><li class="extra-info"> Comes with 12V charger, 120V wall charger, 8 connectors and cable, jumper cables, USB cable (MiniUSB, MicroUSB, Apple 30-Pin, Apple Lightening) and storage case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Power Supply</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH BAC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812156612652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">139.67</s:price>
+      <s:sku>SH BAC PX-500</s:sku>
+      <s:grams>1360</s:grams>
+    </s:variant>
+  </entry>
+</feed>

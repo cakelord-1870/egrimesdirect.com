@@ -1,0 +1,1653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/headwear.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:24:55-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813211054124</id>
+    <published>2019-05-11T12:24:55-04:00</published>
+    <updated>2019-05-11T12:24:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v2051040-o-s"/>
+    <title>Pioneer V2051040-O/S  - Ultra Cooling Towel V2051040-O/S</title>
+    <s:type>Cooling Products</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cooling-products-pioneer-v2051040-o-s-ultra-cooling-towel-v2051040-o-s-12748891160620.jpg?v=1575394086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Cooling Products<br>
+        <strong>Price: </strong>
+            8.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ultra Cooling Towel</h4> <li class="extra-info">100% PVA foam, ultra-absorbent helps dissipate hot moisture and body heat</li><li class="extra-info"> Activated by soaking into cool water and gently wringing out excess water</li><li class="extra-info"> Packed in hangable plastic tube to keep product cool, soft and reusable</li><li class="extra-info"> Can be tied around head or neck to keep you cool</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cooling Products</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% PVA foam, ultra-absorbent helps dissipate hot moisture and body heat </li><li class="extra-info"> Activated by soaking into cool water and gently wringing out excess water </li><li class="extra-info"> Packed in hangable plastic tube to keep product cool, soft and reusable </li><li class="extra-info"> Can be tied around head or ne</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813211054124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.48</s:price>
+      <s:sku>SA HAN V2051040-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813211021356</id>
+    <published>2019-05-11T12:24:54-04:00</published>
+    <updated>2019-05-11T12:24:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v2051140-o-s"/>
+    <title>Pioneer V2051140-O/S  - Ultra Cooling Headband V2051140-O/S</title>
+    <s:type>Cooling Products</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cooling-products-pioneer-v2051140-o-s-ultra-cooling-headband-v2051140-o-s-12748891029548.jpg?v=1575394054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Cooling Products<br>
+        <strong>Price: </strong>
+            5.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ultra Cooling Headband</h4> <li class="extra-info">100% cotton blue strip head band</li><li class="extra-info"> Lined with 100% cooling PVA foam</li><li class="extra-info"> Activated by soaking into cool water and wringing out excess water gently</li><li class="extra-info"> Easy to tie on forehead, reusable</li><li class="extra-info"> Packed in hangable bag</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cooling Products</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% cotton blue strip head band </li><li class="extra-info"> Lined with 100% cooling PVA foam </li><li class="extra-info"> Activated by soaking into cool water and wringing out excess water gently </li><li class="extra-info"> Easy to tie on forehead, reusable </li><li class="extra-info"> Packed in hangable bag</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813211021356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.06</s:price>
+      <s:sku>SA HAN V2051140-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210857516</id>
+    <published>2019-05-11T12:24:46-04:00</published>
+    <updated>2019-05-11T12:24:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020151-o-s"/>
+    <title>Pioneer V4020151-O/S  - Lined 1-Hole Balaclava V4020151-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-v4020151-o-s-lined-1-hole-balaclava-v4020151-o-s-12748890243116.jpg?v=1575349176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            7.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined 1-Hole Balaclava</h4> <li class="extra-info">Lined</li><li class="extra-info"> 1 hole</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Lined </li><li class="extra-info"> 1 hole</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210857516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.16</s:price>
+      <s:sku>SA HAN V4020151-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210824748</id>
+    <published>2019-05-11T12:24:44-04:00</published>
+    <updated>2019-05-11T12:24:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020361-o-s"/>
+    <title>Pioneer V4020361-O/S  - Lined Toque V4020361-O/S</title>
+    <s:type>Toques</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/toques-pioneer-v4020361-o-s-lined-toque-v4020361-o-s-12748889915436.jpg?v=1575349072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Toques<br>
+        <strong>Price: </strong>
+            6.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined Toque</h4> <li class="extra-info">100% acrylic knitted</li><li class="extra-info"> Lined</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Toques</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% acrylic knitted </li><li class="extra-info"> Lined</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210824748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.69</s:price>
+      <s:sku>SA HAN V4020361-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210791980</id>
+    <published>2019-05-11T12:24:44-04:00</published>
+    <updated>2019-05-11T12:24:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020251-o-s"/>
+    <title>Pioneer V4020251-O/S  - Lined 3-Hole Balaclava V4020251-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-v4020251-o-s-lined-3-hole-balaclava-v4020251-o-s-12748889882668.jpg?v=1575349193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            7.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined 3-Hole Balaclava</h4> <li class="extra-info">Lined</li><li class="extra-info"> 3 holes</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Lined </li><li class="extra-info"> 3 holes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210791980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.16</s:price>
+      <s:sku>SA HAN V4020251-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210759212</id>
+    <published>2019-05-11T12:24:44-04:00</published>
+    <updated>2019-05-11T12:24:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020351-o-s"/>
+    <title>Pioneer V4020351-O/S  - Lined Toque V4020351-O/S</title>
+    <s:type>Toques</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/toques-pioneer-v4020351-o-s-lined-toque-v4020351-o-s-12748889849900.jpg?v=1575349041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Toques<br>
+        <strong>Price: </strong>
+            6.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined Toque</h4> <li class="extra-info">100% acrylic knitted</li><li class="extra-info"> Lined</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Toques</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% acrylic knitted </li><li class="extra-info"> Lined</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210759212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.69</s:price>
+      <s:sku>SA HAN V4020351-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210726444</id>
+    <published>2019-05-11T12:24:40-04:00</published>
+    <updated>2019-05-11T12:24:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020751-o-s"/>
+    <title>Pioneer V4020751-O/S  - Lined Beanie V4020751-O/S</title>
+    <s:type>Beanies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/beanies-pioneer-v4020751-o-s-lined-beanie-v4020751-o-s-12748889161772.jpg?v=1575348920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Beanies<br>
+        <strong>Price: </strong>
+            6.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined Beanie</h4> <li class="extra-info">100% acrylic knitted</li><li class="extra-info"> Lined</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Beanies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% acrylic knitted </li><li class="extra-info"> Lined</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Orange</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210726444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.69</s:price>
+      <s:sku>SA HAN V4020751-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210693676</id>
+    <published>2019-05-11T12:24:40-04:00</published>
+    <updated>2019-05-11T12:24:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020371-o-s"/>
+    <title>Pioneer V4020371-O/S  - Lined Toque V4020371-O/S</title>
+    <s:type>Toques</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/toques-pioneer-v4020371-o-s-lined-toque-v4020371-o-s-12748889948204.jpg?v=1575349057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Toques<br>
+        <strong>Price: </strong>
+            6.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined Toque</h4> <li class="extra-info">100% acrylic knitted</li><li class="extra-info"> Lined</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Toques</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% acrylic knitted </li><li class="extra-info"> Lined</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210693676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.69</s:price>
+      <s:sku>SA HAN V4020371-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210660908</id>
+    <published>2019-05-11T12:24:39-04:00</published>
+    <updated>2019-05-11T12:24:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020761-o-s"/>
+    <title>Pioneer V4020761-O/S  - Lined Beanie V4020761-O/S</title>
+    <s:type>Beanies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/beanies-pioneer-v4020761-o-s-lined-beanie-v4020761-o-s-12748889129004.jpg?v=1575348954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Beanies<br>
+        <strong>Price: </strong>
+            6.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined Beanie</h4> <li class="extra-info">100% acrylic knitted</li><li class="extra-info"> Lined</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Beanies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% acrylic knitted </li><li class="extra-info"> Lined</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210660908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.69</s:price>
+      <s:sku>SA HAN V4020761-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210529836</id>
+    <published>2019-05-11T12:24:35-04:00</published>
+    <updated>2019-05-11T12:24:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4020771-o-s"/>
+    <title>Pioneer V4020771-O/S  - Lined Beanie V4020771-O/S</title>
+    <s:type>Beanies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/beanies-pioneer-v4020771-o-s-lined-beanie-v4020771-o-s-12748888997932.jpg?v=1575348797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Beanies<br>
+        <strong>Price: </strong>
+            6.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Lined Beanie</h4> <li class="extra-info">100% acrylic knitted</li><li class="extra-info"> Lined</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Beanies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">100% acrylic knitted </li><li class="extra-info"> Lined</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210529836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.69</s:price>
+      <s:sku>SA HAN V4020771-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210398764</id>
+    <published>2019-05-11T12:24:30-04:00</published>
+    <updated>2019-05-11T12:24:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520170-o-s"/>
+    <title>Pioneer Nomex V4520170-O/S  - Nomex Iiia 1-Hole Balaclava V4520170-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-nomex-v4520170-o-s-nomex-iiia-1-hole-balaclava-v4520170-o-s-12748888408108.jpg?v=1575408230"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  IIIA 1-Hole Balaclava</h4> <li class="extra-info">Nomex  IIIA life-long flame resistant</li><li class="extra-info"> 1 hole</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex IIIA life-long flame resistant </li><li class="extra-info"> 1 hole</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210398764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SA HAN V4520170-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210333228</id>
+    <published>2019-05-11T12:24:30-04:00</published>
+    <updated>2019-05-11T12:24:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520270-o-s"/>
+    <title>Pioneer Nomex V4520270-O/S  - Nomex Iiia Toque V4520270-O/S</title>
+    <s:type>Toques</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/toques-pioneer-nomex-v4520270-o-s-nomex-iiia-toque-v4520270-o-s-12748888375340.jpg?v=1575408081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Toques<br>
+        <strong>Price: </strong>
+            34.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  IIIA Toque</h4> <li class="extra-info">Nomex  IIIA life-long flame resistant</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Toques</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex IIIA life-long flame resistant</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210333228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.09</s:price>
+      <s:sku>SA HAN V4520270-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210300460</id>
+    <published>2019-05-11T12:24:27-04:00</published>
+    <updated>2019-05-11T12:24:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520470-o-s"/>
+    <title>Pioneer Nomex V4520470-O/S  - Nomex Iiia 3-Hole Balaclava V4520470-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-nomex-v4520470-o-s-nomex-iiia-3-hole-balaclava-v4520470-o-s-12748886802476.jpg?v=1575408116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            45.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  IIIA 3-Hole Balaclava</h4> <li class="extra-info">Nomex  IIIA life-long flame resistant</li><li class="extra-info"> 3 holes</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex IIIA life-long flame resistant </li><li class="extra-info"> 3 holes</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210300460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.85</s:price>
+      <s:sku>SA HAN V4520470-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210267692</id>
+    <published>2019-05-11T12:24:26-04:00</published>
+    <updated>2019-05-11T12:24:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520370-o-s"/>
+    <title>Pioneer Nomex V4520370-O/S  - Nomex Iiia Beanie V4520370-O/S</title>
+    <s:type>Beanies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/beanies-pioneer-nomex-v4520370-o-s-nomex-iiia-beanie-v4520370-o-s-12748888309804.jpg?v=1575408098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Beanies<br>
+        <strong>Price: </strong>
+            34.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  IIIA Beanie</h4> <li class="extra-info">Nomex  IIIA life-long flame resistant</li><li class="extra-info"> Tight-knit for best fit</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Beanies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex IIIA life-long flame resistant </li><li class="extra-info"> Tight-knit for best fit</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210267692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.79</s:price>
+      <s:sku>SA HAN V4520370-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210234924</id>
+    <published>2019-05-11T12:24:26-04:00</published>
+    <updated>2019-05-11T12:24:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520570-o-s"/>
+    <title>Pioneer Nomex V4520570-O/S  - Nomex Iiia Neck Warmer/Windguard V4520570-O/S</title>
+    <s:type>Windguards</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/windguards-pioneer-nomex-v4520570-o-s-nomex-iiia-neck-warmer-windguard-v4520570-o-s-12748886736940.jpg?v=1575407997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Windguards<br>
+        <strong>Price: </strong>
+            22.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  IIIA Neck Warmer/Windguard</h4> <li class="extra-info">Nomex  IIIA life-long flame resistant</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Premium Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Windguards</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex IIIA life-long flame resistant</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Premium Black</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210234924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.57</s:price>
+      <s:sku>SA HAN V4520570-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210202156</id>
+    <published>2019-05-11T12:24:23-04:00</published>
+    <updated>2019-05-11T12:24:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520770-o-s"/>
+    <title>Pioneer Nomex V4520770-O/S  - Nomex Iiia Medium-Knit Balaclava V4520770-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-nomex-v4520770-o-s-nomex-iiia-medium-knit-balaclava-v4520770-o-s-12748886671404.jpg?v=1575407870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            60.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  IIIA Medium-Knit Balaclava</h4> <li class="extra-info">Nomex  IIIA life-long flame resistant</li><li class="extra-info"> 1 hole</li><li class="extra-info"> 4-piece cape/hood design</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Premium Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex IIIA life-long flame resistant </li><li class="extra-info"> 1 hole </li><li class="extra-info"> 4-piece cape/hood design</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Premium Black</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210202156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.40</s:price>
+      <s:sku>SA HAN V4520770-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210169388</id>
+    <published>2019-05-11T12:24:23-04:00</published>
+    <updated>2019-05-11T12:24:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520710-o-s"/>
+    <title>Pioneer Nomex V4520710-O/S  - Nomex Medium-Knit Balaclava V4520710-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-nomex-v4520710-o-s-nomex-medium-knit-balaclava-v4520710-o-s-12748886769708.jpg?v=1575407965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            39.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  Medium-Knit Balaclava</h4> <li class="extra-info">Nomex  life-long flame resistant</li><li class="extra-info"> 1 hole</li><li class="extra-info"> 4-piece cape/hood design</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex life-long flame resistant </li><li class="extra-info"> 1 hole </li><li class="extra-info"> 4-piece cape/hood design</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210169388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.46</s:price>
+      <s:sku>SA HAN V4520710-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210136620</id>
+    <published>2019-05-11T12:24:22-04:00</published>
+    <updated>2019-05-11T12:24:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4520970-o-s"/>
+    <title>Pioneer Nomex V4520970-O/S  - Nomex Iiia Light-Knit Balaclava V4520970-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-nomex-v4520970-o-s-nomex-iiia-light-knit-balaclava-v4520970-o-s-12748886343724.jpg?v=1575407836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            23.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Nomex  IIIA Light-Knit Balaclava</h4> <li class="extra-info">Nomex  IIIA life-long flame resistant</li><li class="extra-info"> ARC 2 rating: ATPV 14 cal/cm</li><li class="extra-info"> 1 hole</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Nomex IIIA life-long flame resistant </li><li class="extra-info"> ARC 2 rating: ATPV 14 cal/cm </li><li class="extra-info"> 1 hole</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210136620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.51</s:price>
+      <s:sku>SA HAN V4520970-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210103852</id>
+    <published>2019-05-11T12:24:18-04:00</published>
+    <updated>2019-05-11T12:24:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4530270-o-s"/>
+    <title>Pioneer V4530270-O/S  - Double Layer One-Hole Balaclava V4530270-O/S</title>
+    <s:type>Balaclavas</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/balaclavas-pioneer-v4530270-o-s-double-layer-one-hole-balaclava-v4530270-o-s-12748886310956.jpg?v=1575371272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Balaclavas<br>
+        <strong>Price: </strong>
+            43.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Layer One-Hole Balaclava</h4> <li class="extra-info">Inherently flame resistant and arc rated Flame-Gard  blend</li><li class="extra-info"> ATPV 40 cal/cm² (Arc Thermal Protective Value)</li><li class="extra-info"> ARC 4 Arc Rating Category</li><li class="extra-info"> Super soft, warm and comfortable</li><li class="extra-info"> Safe long neck design</li><li class="extra-info"> Elastic face line</li><li class="extra-info"> Side slit</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Balaclavas</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Inherently flame resistant and arc rated Flame-Gard blend </li><li class="extra-info"> ATPV 40 cal/cm² (Arc Thermal Protective Value) </li><li class="extra-info"> ARC 4 Arc Rating Category</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210103852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.51</s:price>
+      <s:sku>SA HAN V4530270-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813210038316</id>
+    <published>2019-05-11T12:24:18-04:00</published>
+    <updated>2019-05-11T12:24:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4530370-o-s"/>
+    <title>Pioneer V4530370-O/S  - Double Layer Neck Warmer V4530370-O/S</title>
+    <s:type>Neck Warmers</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/neck-warmers-pioneer-v4530370-o-s-double-layer-neck-warmer-v4530370-o-s-12748885917740.jpg?v=1575371256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Neck Warmers<br>
+        <strong>Price: </strong>
+            17.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Double Layer Neck Warmer</h4> <li class="extra-info">Inherently flame resistant and arc rated Flame-Gard  blend</li><li class="extra-info"> ATPV 40 cal/cm² (Arc Thermal Protective Value)</li><li class="extra-info"> ARC 4 Arc Rating Category</li><li class="extra-info"> Super soft, warm and comfortable</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Neck Warmers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Inherently flame resistant and arc rated Flame-Gard blend </li><li class="extra-info"> ATPV 40 cal/cm² (Arc Thermal Protective Value) </li><li class="extra-info"> ARC 4 Arc Rating Category </li><li class="extra-info"> Super soft, warm and comfortable</li><h2>Product Information</h2><li class="extra-info">Size Range </li><li class="extra-info"> Fit-All</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813210038316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.44</s:price>
+      <s:sku>SA HAN V4530370-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813209186348</id>
+    <published>2019-05-11T12:24:07-04:00</published>
+    <updated>2019-05-11T12:24:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v7012150-o-s"/>
+    <title>Pioneer V7012150-O/S  - Polypropylene Bouffant Cap V7012150-O/S</title>
+    <s:type>Bouffant Caps</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bouffant-caps-pioneer-v7012150-o-s-polypropylene-bouffant-cap-v7012150-o-s-12748884934700.jpg?v=1575334176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Bouffant Caps<br>
+        <strong>Price: </strong>
+            8.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Polypropylene Bouffant Caps - 100-pack</h4> <li class="extra-info">Basis weight 12 GSM tested ASTM D3776</li><li class="extra-info"> Highly breathable, cool and comfortable</li><li class="extra-info"> Protection from dust, dirt and grime, oil and grease</li><li class="extra-info"> For non-hazardous environment applications</li><li class="extra-info"> 100/pkg</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bouffant Caps</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">21 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Basis weight 12 GSM tested ASTM D3776 </li><li class="extra-info"> Highly breathable, cool and comfortable </li><li class="extra-info"> Protection from dust, dirt and grime, oil and grease</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_21 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813209186348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.48</s:price>
+      <s:sku>SA HAN V7012150-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813209153580</id>
+    <published>2019-05-11T12:24:07-04:00</published>
+    <updated>2019-05-11T12:24:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v7012140-o-s"/>
+    <title>Pioneer V7012140-O/S  - Polypropylene Bouffant Cap V7012140-O/S</title>
+    <s:type>Bouffant Caps</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bouffant-caps-pioneer-v7012140-o-s-polypropylene-bouffant-cap-v7012140-o-s-12748885098540.jpg?v=1575334161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Bouffant Caps<br>
+        <strong>Price: </strong>
+            8.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Polypropylene Bouffant Caps - 100-pack</h4> <li class="extra-info">Basis weight 12 GSM tested ASTM D3776</li><li class="extra-info"> Highly breathable, cool and comfortable</li><li class="extra-info"> Protection from dust, dirt and grime, oil and grease</li><li class="extra-info"> For non-hazardous environment applications</li><li class="extra-info"> 100/pkg</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Blue</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bouffant Caps</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">21 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Basis weight 12 GSM tested ASTM D3776 </li><li class="extra-info"> Highly breathable, cool and comfortable </li><li class="extra-info"> Protection from dust, dirt and grime, oil and grease</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Blue</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_21 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813209153580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.48</s:price>
+      <s:sku>SA HAN V7012140-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813206302764</id>
+    <published>2019-05-11T12:22:00-04:00</published>
+    <updated>2019-05-11T12:22:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v4010560-o-s"/>
+    <title>Pioneer V4010560-O/S  - Acrylic Knit Beanie V4010560-O/S</title>
+    <s:type>Beanies</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/beanies-pioneer-v4010560-o-s-acrylic-knit-beanie-v4010560-o-s-12748881330220.jpg?v=1575349302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Beanies<br>
+        <strong>Price: </strong>
+            4.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Acrylic Knit Beanie</h4> <li class="extra-info">100% acrylic knitted</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Beanies</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813206302764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.36</s:price>
+      <s:sku>SA HAN V4010560-O/S</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813002059820</id>
+    <published>2019-05-11T10:48:04-04:00</published>
+    <updated>2019-05-11T10:48:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v1040660-o-s"/>
+    <title>Pioneer V1040660-O/S  - Hi-Viz Ball Cap V1040660-O/S</title>
+    <s:type>Ball Caps</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ball-caps-pioneer-v1040660-o-s-hi-viz-ball-cap-v1040660-o-s-12748348489772.jpg?v=1575389859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Ball Caps<br>
+        <strong>Price: </strong>
+            8.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Viz Ball Caps</h4> <li class="extra-info">Breathable material</li><li class="extra-info"> Reflective binding on edge</li><li class="extra-info"> Adjustable hook and loop closure</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Hi-Viz Yellow/Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ball Caps</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Breathable material </li><li class="extra-info"> Reflective binding on edge </li><li class="extra-info"> Adjustable hook and loop closure</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Hi-Viz Yellow/Green</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813002059820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.48</s:price>
+      <s:sku>SA HAN V1040660-O/S</s:sku>
+      <s:grams>16</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1501319364652</id>
+    <published>2018-11-29T21:08:24-05:00</published>
+    <updated>2018-11-29T21:08:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/viking-62f001000"/>
+    <title>Viking Nomex 62F001000  - Nomex IIIA Knit Toque</title>
+    <s:type>Toques</s:type>
+    <s:vendor>Viking</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/toques-viking-nomex-62f001000-nomex-iiia-knit-toque-12749326745644.png?v=1574913577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Viking<br>
+        <strong>Type: </strong>Toques<br>
+        <strong>Price: </strong>
+            23.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Viking Firewall FR Hard Hat Winter Hood - 9 oz.</h4> <li class="extra-info">Viking Firewall FR Ankle Guard - 9 oz</li><li class="extra-info">Westex by Milliken Flame Resistant Fabric - 88% Cotton / 12% Nylon Black</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Viking</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Nomex</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Toques</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">9 oz</li><li class="extra-info">Westex® by Milliken® Flame Resistant Fabric - 88% cotton/12% nylon (outer shell) 12 oz</li><li class="extra-info">Quilted modacrylic lining with wind and vapour barrier TPP Value: Contact: 10.3, Spaced 11.4 ARC rating ATPV: 35cal/cm² CAT 3 Front drawstring closure with cord</li><h2>Suggested Application</h2><li class="extra-info">Dual Hazard Electrical Arc and Flash Fire protection Oil and Gas Petrochemical Electrical Utility General Industry</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Nomex</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA HAN</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1501319364652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.80</s:price>
+      <s:sku>SA HAN 62F001000</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+</feed>

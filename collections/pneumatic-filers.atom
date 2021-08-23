@@ -1,0 +1,1394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-filers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T03:52:39-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812344700972</id>
+    <published>2019-05-11T03:52:39-04:00</published>
+    <updated>2019-05-11T03:52:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90901"/>
+    <title>Dynabrade 90901  - 90 mm L Curved Rectangular Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90901-90-mm-l-curved-rectangular-swiss-inch0-inch-coarse-reciprocating-file-12782525612076.png?v=1579095122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            23.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Curved Rectangular Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812344700972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>AC FIL 90901</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812344668204</id>
+    <published>2019-05-11T03:52:39-04:00</published>
+    <updated>2019-05-11T03:52:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90900"/>
+    <title>Dynabrade 90900  - 90 mm L Rectangular Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90900-90-mm-l-rectangular-swiss-inch00-inch-very-coarse-reciprocating-file-12782524661804.png?v=1579094995"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            23.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Rectangular Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812344668204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>AC FIL 90900</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812344635436</id>
+    <published>2019-05-11T03:52:36-04:00</published>
+    <updated>2019-05-11T03:52:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90911"/>
+    <title>Dynabrade 90911  - 90 mm L Curved Square Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90911-90-mm-l-curved-square-swiss-inch0-inch-coarse-reciprocating-file-12746808393772.png?v=1579095239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            24.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Curved Square Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812344635436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.01</s:price>
+      <s:sku>AC FIL 90911</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812344569900</id>
+    <published>2019-05-11T03:52:35-04:00</published>
+    <updated>2019-05-11T03:52:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90920"/>
+    <title>Dynabrade 90920  - 90 mm L Three Square Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90920-90-mm-l-three-square-swiss-inch00-inch-very-coarse-reciprocating-file-12746808295468.png?v=1579095274"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            24.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Three Square Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812344569900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.01</s:price>
+      <s:sku>AC FIL 90920</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812344537132</id>
+    <published>2019-05-11T03:52:35-04:00</published>
+    <updated>2019-05-11T03:52:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90910"/>
+    <title>Dynabrade 90910  - 90 mm L Square Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90910-90-mm-l-square-swiss-inch00-inch-very-coarse-reciprocating-file-12746808361004.png?v=1579095028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            24.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Square Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812344537132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.01</s:price>
+      <s:sku>AC FIL 90910</s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812344143916</id>
+    <published>2019-05-11T03:52:06-04:00</published>
+    <updated>2019-05-11T03:52:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90930"/>
+    <title>Dynabrade 90930  - 90 mm L Half Round Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90930-90-mm-l-half-round-swiss-inch00-inch-very-coarse-reciprocating-file-12746808033324.jpg?v=1579095207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            23.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Half Round Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812344143916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>AC FIL 90930</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812344111148</id>
+    <published>2019-05-11T03:52:06-04:00</published>
+    <updated>2019-05-11T03:52:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90931"/>
+    <title>Dynabrade 90931  - 90 mm L Curved Half Round Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90931-90-mm-l-curved-half-round-swiss-inch0-inch-coarse-reciprocating-file-12746807967788.png?v=1579095441"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            23.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Curved Half Round Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812344111148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>AC FIL 90931</s:sku>
+      <s:grams>6</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343947308</id>
+    <published>2019-05-11T03:51:48-04:00</published>
+    <updated>2019-05-11T03:51:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90951"/>
+    <title>Dynabrade 90951  - 90 mm L Curved Round Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90951-90-mm-l-curved-round-swiss-inch0-inch-coarse-reciprocating-file-12746807541804.png?v=1579095799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            23.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">90 mm L Curved Round Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 3 mm x 15 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343947308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.84</s:price>
+      <s:sku>AC FIL 90951</s:sku>
+      <s:grams>7</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343914540</id>
+    <published>2019-05-11T03:51:48-04:00</published>
+    <updated>2019-05-11T03:51:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90981"/>
+    <title>Dynabrade 90981  - 140 mm L Half Round Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90981-140-mm-l-half-round-swiss-inch00-inch-very-coarse-reciprocating-file-12746807509036.png?v=1579095831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            30.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Half Round Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 11 mm W x 2.5 mm Thick x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343914540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.46</s:price>
+      <s:sku>AC FIL 90981</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343881772</id>
+    <published>2019-05-11T03:51:48-04:00</published>
+    <updated>2019-05-11T03:51:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90982"/>
+    <title>Dynabrade 90982  - 140 mm L Round Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90982-140-mm-l-round-swiss-inch00-inch-very-coarse-reciprocating-file-12746807279660.jpg?v=1579095751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            24.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Round Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 06 mm x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343881772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.64</s:price>
+      <s:sku>AC FIL 90982</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343816236</id>
+    <published>2019-05-11T03:51:45-04:00</published>
+    <updated>2019-05-11T03:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90984"/>
+    <title>Dynabrade 90984  - 140 mm L Square Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90984-140-mm-l-square-swiss-inch00-inch-very-coarse-reciprocating-file-12746807214124.png?v=1579095954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            33.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Square Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 06 mm x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343816236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.49</s:price>
+      <s:sku>AC FIL 90984</s:sku>
+      <s:grams>25</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343783468</id>
+    <published>2019-05-11T03:51:45-04:00</published>
+    <updated>2019-05-11T03:51:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90983"/>
+    <title>Dynabrade 90983  - 140 mm L Three Square Swiss Inch00 Inch Very Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90983-140-mm-l-three-square-swiss-inch00-inch-very-coarse-reciprocating-file-12746807181356.png?v=1579095921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            29.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Three Square Swiss Inch00 Inch Very Coarse Reciprocating File</li><li class="extra-info"> 06 mm x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343783468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.56</s:price>
+      <s:sku>AC FIL 90983</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343750700</id>
+    <published>2019-05-11T03:51:42-04:00</published>
+    <updated>2019-05-11T03:51:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90989"/>
+    <title>Dynabrade 90989  - 140 mm L Square Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90989-140-mm-l-square-swiss-inch0-inch-coarse-reciprocating-file-12746806919212.png?v=1579096406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            28.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Square Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 06 mm x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343750700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.36</s:price>
+      <s:sku>AC FIL 90989</s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343717932</id>
+    <published>2019-05-11T03:51:42-04:00</published>
+    <updated>2019-05-11T03:51:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90986"/>
+    <title>Dynabrade 90986  - 140 mm L Half Round Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90986-140-mm-l-half-round-swiss-inch0-inch-coarse-reciprocating-file-12746806951980.png?v=1579096198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            28.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Half Round Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 11 mm W x 2.5 mm Thick x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343717932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.57</s:price>
+      <s:sku>AC FIL 90986</s:sku>
+      <s:grams>23</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343685164</id>
+    <published>2019-05-11T03:51:41-04:00</published>
+    <updated>2019-05-11T03:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90988"/>
+    <title>Dynabrade 90988  - 140 mm L Three Square Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90988-140-mm-l-three-square-swiss-inch0-inch-coarse-reciprocating-file-12746806984748.png?v=1579096231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            28.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Three Square Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 06 mm x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343685164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.57</s:price>
+      <s:sku>AC FIL 90988</s:sku>
+      <s:grams>29</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812343652396</id>
+    <published>2019-05-11T03:51:41-04:00</published>
+    <updated>2019-05-11T03:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90985"/>
+    <title>Dynabrade 90985  - 140 mm L Rectangular Swiss Inch0 Inch Coarse Reciprocating File</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90985-140-mm-l-rectangular-swiss-inch0-inch-coarse-reciprocating-file-12746807148588.png?v=1579096077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            24.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Rectangular Swiss Inch0 Inch Coarse Reciprocating File</li><li class="extra-info"> 06 mm x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Set Quantity </td>
+<td class="egrimes">10</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812343652396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.83</s:price>
+      <s:sku>AC FIL 90985</s:sku>
+      <s:grams>35</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812243578924</id>
+    <published>2019-05-11T02:28:30-04:00</published>
+    <updated>2019-05-11T02:28:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-12200"/>
+    <title>Dynabrade Stockade 12200  - Stockade Reciprocating Filer .4 Hp Straight-Line 13/32 Inch 2400 Spm</title>
+    <s:type>Filers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filers-dynabrade-stockade-12200-stockade-reciprocating-filer-4-hp-straight-line-13-32-inch-2400-spm-12782435008556.png?v=1579125996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Filers<br>
+        <strong>Price: </strong>
+            1374.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Stockade Reciprocating Filer</li><li class="extra-info"> .4 hp, Straight-Line, 13/32 Inch (10 mm), 2,400 SPM</li><li class="extra-info"> Each model has 1/4 Inch round file holder opening for accepting optional files with 1/4 Inch diameter shank.</li><li class="extra-info"> Tool includes safety-lock lever.</li><li class="extra-info"> Also includes built-in air flow regulator.</li><li class="extra-info"> Comes with 12197 File Adapter, for mounting Dynabrade files 6 Inch in length.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Stockade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">1.5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">28 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">2400</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_1.5</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT FIL</s:tag>
+    <s:tag>Height_28 Inch</s:tag>
+    <s:tag>HP_0.5</s:tag>
+    <s:tag>Line_Stockade</s:tag>
+    <s:tag>RPM_2400</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812243578924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1374.65</s:price>
+      <s:sku>AT FIL 12200</s:sku>
+      <s:grams>1312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812234108972</id>
+    <published>2019-05-11T02:20:04-04:00</published>
+    <updated>2019-05-11T02:20:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-12207"/>
+    <title>Dynabrade Stockade 12207  - Stockade Reciprocating Filer / Saw Versatility Kit .4 Hp Straight-Line 13/32 Inch 2400 Spm</title>
+    <s:type>Saws</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/saws-dynabrade-stockade-12207-stockade-reciprocating-filer-saw-versatility-kit-4-hp-straight-line-13-32-inch-2400-spm-12746744594476.jpg?v=1579126204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Saws<br>
+        <strong>Price: </strong>
+            1796.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Stockade Reciprocating Stockade Filer/Saw Versatility Kit</li><li class="extra-info"> .4 hp, Straight-Line, 13/32 Inch (10 mm), 2,400 SPM</li><li class="extra-info"> 12205 Stockade Saw.</li><li class="extra-info"> Three adapters: 12197 for Dynabrade 6 Inch long files</li><li class="extra-info"> 12211 for foundry file</li><li class="extra-info"> 12212 for saw blades.</li><li class="extra-info"> 12183 Saw Guard Assembly (must be used with saw blades).</li><li class="extra-info"> Two 6 Inch long files (90980 Pillar</li><li class="extra-info"> 90983 Triangular)</li><li class="extra-info">One 5-1/2 Inch long foundry file (90905).</li><li class="extra-info"> Two saw blades (90934, 90935).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Stockade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/4 Inch NPT</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Exhaust Type </td>
+<td class="egrimes">Front</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose ID </td>
+<td class="egrimes">3/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.5</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Saws</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">2400</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Thread_1/4 Inch NPT</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT FIL</s:tag>
+    <s:tag>Exhaust Type_Front</s:tag>
+    <s:tag>Hose ID_3/8 Inch</s:tag>
+    <s:tag>HP_0.5</s:tag>
+    <s:tag>Line_Stockade</s:tag>
+    <s:tag>RPM_2400</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812234108972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1796.51</s:price>
+      <s:sku>AT FIL 12207</s:sku>
+      <s:grams>1960</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812134920236</id>
+    <published>2019-05-11T01:18:18-04:00</published>
+    <updated>2019-05-11T01:18:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-12202"/>
+    <title>Dynabrade 12202  - Filer Reciprocating Filer Kit</title>
+    <s:type>Filers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filers-dynabrade-12202-filer-reciprocating-filer-kit-12782434877484.png?v=1579043516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Filers<br>
+        <strong>Price: </strong>
+            1525.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Stockade Reciprocating Filer Versatility Kit</li><li class="extra-info"> .4 hp, Straight-Line, 13/32 Inch (10 mm), 2,400 SPM</li><li class="extra-info"> Kit includes 12201 Stockade Filer (with 12197 File Adapter), three files (90980, 90982, 90984) and 90977 Grit-File Abrasive Kit.</li><li class="extra-info"> 40 abrasive strips (1/4 Inch and 1/2 Inch wide) which mount to spring-steel extenders, to reach areas as small as 1/8 Inch.</li><li class="extra-info"> 80 and 180 grit strips are included, with 4-1/2 Inch and 6 Inch long extenders.</li><li class="extra-info"> Sponge-base and cork-base Dynapad</li><li class="extra-info">platens, which mount to extenders to support abrasive strips.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">98.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/2 Inch NPT</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Exhaust Type </td>
+<td class="egrimes">Side</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose ID </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">3</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">2400</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_98.0</s:tag>
+    <s:tag>Air Thread_1/2 Inch NPT</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT FIL</s:tag>
+    <s:tag>Exhaust Type_Side</s:tag>
+    <s:tag>Height_7 Inch</s:tag>
+    <s:tag>Hose ID_1/2 Inch</s:tag>
+    <s:tag>HP_3</s:tag>
+    <s:tag>RPM_2400</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812134920236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1525.79</s:price>
+      <s:sku>AT FIL 12202</s:sku>
+      <s:grams>1723</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812134887468</id>
+    <published>2019-05-11T01:18:18-04:00</published>
+    <updated>2019-05-11T01:18:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-12201"/>
+    <title>Dynabrade 12201  - Filer Straight .4 Hp</title>
+    <s:type>Filers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filers-dynabrade-12201-filer-straight-4-hp-12746579902508.jpg?v=1579043483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Filers<br>
+        <strong>Price: </strong>
+            1415.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Stockade Reciprocating Filer</li><li class="extra-info"> .4 hp, Straight-Line, 13/32 Inch (10 mm), 2,400 SPM</li><li class="extra-info"> Each model has 1/4 Inch round file holder opening for accepting optional files with 1/4 Inch diameter shank.</li><li class="extra-info"> Tool includes safety-lock lever.</li><li class="extra-info"> Also includes built-in air flow regulator.</li><li class="extra-info"> Comes with 12197 File Adapter, for mounting Dynabrade files 6 Inch in length.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">97.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Thread </td>
+<td class="egrimes">1/2 Inch NPT</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Exhaust Type </td>
+<td class="egrimes">Side</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Hose ID </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">3</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">2400</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_97.0</s:tag>
+    <s:tag>Air Thread_1/2 Inch NPT</s:tag>
+    <s:tag>AT</s:tag>
+    <s:tag>AT FIL</s:tag>
+    <s:tag>Exhaust Type_Side</s:tag>
+    <s:tag>Height_7 Inch</s:tag>
+    <s:tag>Hose ID_1/2 Inch</s:tag>
+    <s:tag>HP_3</s:tag>
+    <s:tag>RPM_2400</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812134887468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1415.39</s:price>
+      <s:sku>AT FIL 12201</s:sku>
+      <s:grams>1460</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812131217452</id>
+    <published>2019-05-11T01:13:29-04:00</published>
+    <updated>2019-05-11T01:13:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-90905"/>
+    <title>Dynabrade 90905  - Aluminum Reciprocating File 6mm x 30mm (Part)</title>
+    <s:type>Reciprocating Files</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/reciprocating-files-dynabrade-90905-aluminum-reciprocating-file-6mm-x-30mm-part-12749616316460.png?v=1579095089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Reciprocating Files<br>
+        <strong>Price: </strong>
+            50.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">140 mm L Aluminum File Type A Flat Reciprocating File</li><li class="extra-info"> 6 mm W x 2.8 mm Thick x 30 mm Long Tang</li><li class="extra-info"> Precision finishing on delicate parts</li><li class="extra-info"> great for use on delicate substrates.</li><li class="extra-info"> Deburring, detail work.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Reciprocating Files</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC FIL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812131217452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.05</s:price>
+      <s:sku>AC FIL 90905</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812104871980</id>
+    <published>2019-05-11T00:51:42-04:00</published>
+    <updated>2019-05-11T00:51:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-12250"/>
+    <title>Dynabrade Dynadie 12250  - Filer Iii Reciprocating 0-1/4</title>
+    <s:type>Filers</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filers-dynabrade-dynadie-12250-filer-iii-reciprocating-0-1-4-12782435401772.png?v=1579134564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Filers<br>
+        <strong>Price: </strong>
+            1341.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Dynadie III Reciprocating Filer</li><li class="extra-info"> .2 hp, Planetary-Geared, 0-1/4 Inch (0-6 mm) Stroke, 5,000 SPM</li><li class="extra-info"> Accepts 1/4 Inch dia</li><li class="extra-info">or 1/8 Inch diameter shanked files</li><li class="extra-info">Files sold separately.</li><li class="extra-info"> Replaces tedious hand filing</li><li class="extra-info">Easily enters narrow slots</li><li class="extra-info">Use on metal, wood, plastic, fiberglass, etc.</li><li class="extra-info"> Variable-length stroke from 0 -1/4 Inch</li><li class="extra-info">Tool runs at 5,000 strokes per minute.</li><li class="extra-info"> Barrel indexes 360 degrees for ideal comfort.</li><li class="extra-info"> Tool includes 94407 Flow-Control Dynaswivel..</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Dynadie</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">5000</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT FIL</s:tag>
+    <s:tag>Line_Dynadie</s:tag>
+    <s:tag>RPM_5000</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812104871980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1341.80</s:price>
+      <s:sku>AT FIL 12250</s:sku>
+      <s:grams>1308</s:grams>
+    </s:variant>
+  </entry>
+</feed>

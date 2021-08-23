@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pneumatic-sandblasters.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:51:41-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180566060</id>
+    <published>2019-05-11T01:51:41-04:00</published>
+    <updated>2019-05-11T01:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-km-036"/>
+    <title>King Canada KM-036  - Ceramic Nozzles Fits Ksb-110N-9 &amp; Ksb-350</title>
+    <s:type>Nozzles</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nozzles-king-canada-km-036-ceramic-nozzles-fits-ksb-110n-9-ksb-350-12746658775084.jpg?v=1579618861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nozzles<br>
+        <strong>Price: </strong>
+            29.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ceramic nozzle kit for KM-035 (4 piece)</h4> <li class="extra-info">Replacement ceramic nozzles 4pc</li><li class="extra-info">kit Dimensions: 4mm, 5mm, 6mm and 7mm</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nozzles</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180566060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.93</s:price>
+      <s:sku>AC SAB KM-036</s:sku>
+      <s:grams>91</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180533292</id>
+    <published>2019-05-11T01:51:41-04:00</published>
+    <updated>2019-05-11T01:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-km-042"/>
+    <title>King Canada KM-042  - Ceramic Nozzles Fits Ksb-10 &amp; Ksb-20</title>
+    <s:type>Nozzles</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nozzles-king-canada-km-042-ceramic-nozzles-fits-ksb-10-ksb-20-12746658709548.jpg?v=1579618893"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Nozzles<br>
+        <strong>Price: </strong>
+            29.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Ceramic nozzles kit for KSB-10 &amp; KSB-20 (4 piece)</h4> <li class="extra-info">4pc</li><li class="extra-info">replacement nozzle kit Dimensions: 2mm, 2.5mm, 3mm and 3.5mm</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nozzles</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180533292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.93</s:price>
+      <s:sku>AC SAB KM-042</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180500524</id>
+    <published>2019-05-11T01:51:41-04:00</published>
+    <updated>2019-05-11T01:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-km-041"/>
+    <title>King Canada KM-041  - Gun Sandblast Replacement Fits Ksb-10 &amp; Ksb-20</title>
+    <s:type>Sandblasters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sandblasters-accessories-king-canada-km-041-gun-sandblast-replacement-fits-ksb-10-ksb-20-12746658807852.jpg?v=1579618985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Sandblasters &amp; Accessories<br>
+        <strong>Price: </strong>
+            45.61
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Replacement sandblast gun for KSB-10 &amp; KSB-20</h4> <li class="extra-info">Fits models KSB-10 and KSB-20</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sandblasters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180500524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.61</s:price>
+      <s:sku>AC SAB KM-041</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180467756</id>
+    <published>2019-05-11T01:51:41-04:00</published>
+    <updated>2019-05-11T01:51:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-km-097"/>
+    <title>King Canada KM-097  - Adhesive Window Protectors Fits Ksb-110N-9</title>
+    <s:type>Sandblasters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sandblasters-accessories-king-canada-km-097-adhesive-window-protectors-fits-ksb-110n-9-12746658676780.jpg?v=1579623064"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Sandblasters &amp; Accessories<br>
+        <strong>Price: </strong>
+            29.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Adhesive window protectors kit for KSB-110N-9 (5 piece)</h4> <li class="extra-info">5 pc</li><li class="extra-info">adhesive window protectors Dimensions: 12 Inch x 16 Inch Fits model KSB-110N-9</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sandblasters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180467756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.93</s:price>
+      <s:sku>AC SAB KM-097</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812180402220</id>
+    <published>2019-05-11T01:51:38-04:00</published>
+    <updated>2019-05-11T01:51:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-km-098"/>
+    <title>King Canada KM-098  - Adhesive Window Protectors Fits Ksb-350</title>
+    <s:type>Sandblasters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sandblasters-accessories-king-canada-km-098-adhesive-window-protectors-fits-ksb-350-12746658611244.jpg?v=1579623211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Sandblasters &amp; Accessories<br>
+        <strong>Price: </strong>
+            29.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Adhesive window protectors kit for KSB-350 (5 piece)</h4> <li class="extra-info">5 pc</li><li class="extra-info">adhesive window protectors Dimensions: 10 Inch x 21 Inch Fits model KSB-350</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sandblasters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812180402220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.93</s:price>
+      <s:sku>AC SAB KM-098</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812179976236</id>
+    <published>2019-05-11T01:51:07-04:00</published>
+    <updated>2019-05-11T01:51:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-ksb-20"/>
+    <title>King Canada KSB-20  - Pneumatic Sandblaster Pressure Abrasive 20 Gallon</title>
+    <s:type>Sandblasters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sandblasters-accessories-king-canada-ksb-20-pneumatic-sandblaster-pressure-abrasive-20-gallon-12746657923116.jpg?v=1579625530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Sandblasters &amp; Accessories<br>
+        <strong>Price: </strong>
+            344.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20 Gallon pressure abrasive sandblaster</h4> <li class="extra-info">Heavy-duty all steel construction Loading abrasive is made simple using the concave funnel top of the tank Safety pressure relief valve 1/2” (I.D.) x 8 ft abrasive feed hose Durable wheels and handle allow for easy mobility and flexible operation Includes media gun, 4 interchangeable nozzles (2, 2.5, 3 and 3.5mm), water separator filter, protective blast hood and teflon tape For optimal performance, a 5 HP air compressor is recommended</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sandblasters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT SAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812179976236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">344.94</s:price>
+      <s:sku>AT SAB KSB-20</s:sku>
+      <s:grams>27251</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812179943468</id>
+    <published>2019-05-11T01:51:07-04:00</published>
+    <updated>2019-05-11T01:51:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-ksb-10"/>
+    <title>King Canada KSB-10  - Pneumatic Sandblaster Pressure Abrasive 10 Gallon</title>
+    <s:type>Sandblasters &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sandblasters-accessories-king-canada-ksb-10-pneumatic-sandblaster-pressure-abrasive-10-gallon-12746657988652.jpg?v=1579624742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Sandblasters &amp; Accessories<br>
+        <strong>Price: </strong>
+            285.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">10 Gallon pressure abrasive sandblaster</h4> <li class="extra-info">Heavy-duty all steel construction Loading abrasive is made simple using the concave funnel top of the tank Safety pressure relief valve 1/2” (I.D.) x 8 ft abrasive feed hose Durable wheels and handle allow for easy mobility and flexible operation Includes media gun, 4 interchangeable nozzles (2, 2.5, 3 and 3.5mm), water separator filter, protective blast hood and teflon tape For optimal performance, a 5 HP air compressor is recommended</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sandblasters &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AT</s:tag>
+    <s:tag>AT SAB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812179943468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">285.07</s:price>
+      <s:sku>AT SAB KSB-10</s:sku>
+      <s:grams>23163</s:grams>
+    </s:variant>
+  </entry>
+</feed>

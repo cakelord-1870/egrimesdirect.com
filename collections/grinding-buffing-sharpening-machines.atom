@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/grinding-buffing-sharpening-machines.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:31:42-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229193772</id>
+    <published>2019-12-04T10:31:42-05:00</published>
+    <updated>2019-12-04T10:31:42-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67912"/>
+    <title>Dynabrade 67912  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 115 V 1 Phase 60 Frequency 800-8000 Sfpm (244-2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67912-2-x-60-l-three-wheel-belt-grinder-1-5-hp-115-v-1-phase-60-frequency-800-8000-sfpm-244-2438-sm-min-12782520205356.png?v=1579108432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            5954.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 115 V, 1 Phase, 60 Frequency, 800-8,000 SFPM (244-2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">64.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">5-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">2</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_64.0</s:tag>
+    <s:tag>Height_5-1/4 Inch</s:tag>
+    <s:tag>HP_2</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229193772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5954.85</s:price>
+      <s:sku>MA GRB 67912</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229357612</id>
+    <published>2019-12-04T10:31:41-05:00</published>
+    <updated>2019-12-04T10:31:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67911"/>
+    <title>Dynabrade 67911  - 2 X 60 L Three Wheel Belt Grinder 3 Hp 460 V 3 Phase 60 Frequency 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67911-2-x-60-l-three-wheel-belt-grinder-3-hp-460-v-3-phase-60-frequency-4000-sfpm-1219-sm-min-12782520238124.png?v=1579108345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            5101.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 3 hp, 460 V, 3 Phase, 60 Frequency, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">41.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">9 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.7</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_41.0</s:tag>
+    <s:tag>Height_9 Inch</s:tag>
+    <s:tag>HP_0.7</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229357612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5101.12</s:price>
+      <s:sku>MA GRB 67911</s:sku>
+      <s:grams>79378</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229259308</id>
+    <published>2019-12-04T10:31:41-05:00</published>
+    <updated>2019-12-04T10:31:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67913"/>
+    <title>Dynabrade 67913  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 230 V 1 Phase 60 Frequency 800-8000 Sfpm (244-2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67913-2-x-60-l-three-wheel-belt-grinder-1-5-hp-230-v-1-phase-60-frequency-800-8000-sfpm-244-2438-sm-min-12782520270892.png?v=1579108521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            5954.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 230 V, 1 Phase, 60 Frequency, 800-8,000 SFPM (244-2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229259308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5954.85</s:price>
+      <s:sku>MA GRB 67913</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229455916</id>
+    <published>2019-12-04T10:31:40-05:00</published>
+    <updated>2019-12-04T10:31:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67909"/>
+    <title>Dynabrade 67909  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 460 V 3 Phase 60 Frequency 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67909-2-x-60-l-three-wheel-belt-grinder-1-5-hp-460-v-3-phase-60-frequency-4000-sfpm-1219-sm-min-12746742693932.jpg?v=1579108400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4715.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 460 V, 3 Phase, 60 Frequency, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229455916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4715.96</s:price>
+      <s:sku>MA GRB 67909</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229390380</id>
+    <published>2019-12-04T10:31:40-05:00</published>
+    <updated>2019-12-04T10:31:40-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67910"/>
+    <title>Dynabrade 67910  - 2 X 60 L Three Wheel Belt Grinder 3 Hp 230 V 3 Phase 60 Frequency 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67910-2-x-60-l-three-wheel-belt-grinder-3-hp-230-v-3-phase-60-frequency-4000-sfpm-1219-sm-min-12782520336428.png?v=1579108313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            5101.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 3 hp, 230 V, 3 Phase, 60 Frequency, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">41.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">9 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.7</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_41.0</s:tag>
+    <s:tag>Height_9 Inch</s:tag>
+    <s:tag>HP_0.7</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229390380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5101.12</s:price>
+      <s:sku>MA GRB 67910</s:sku>
+      <s:grams>79378</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229554220</id>
+    <published>2019-12-04T10:31:39-05:00</published>
+    <updated>2019-12-04T10:31:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67904"/>
+    <title>Dynabrade 67904  - 2 X 60 L Three Wheel Belt Grinder 3 Hp 230 V 3 Phase 60 Frequency 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67904-2-x-60-l-three-wheel-belt-grinder-3-hp-230-v-3-phase-60-frequency-8000-sfpm-2438-sm-min-12782520074284.png?v=1579108041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            5040.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 3 hp, 230 V, 3 Phase, 60 Frequency, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">34.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1-7/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">1</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_34.0</s:tag>
+    <s:tag>Height_1-7/8 Inch</s:tag>
+    <s:tag>HP_1</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229554220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5040.46</s:price>
+      <s:sku>MA GRB 67904</s:sku>
+      <s:grams>79378</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229488684</id>
+    <published>2019-12-04T10:31:39-05:00</published>
+    <updated>2019-12-04T10:31:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67905"/>
+    <title>Dynabrade 67905  - 2 X 60 L Three Wheel Belt Grinder 3 Hp 460 V 3 Phase 60 Frequency 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67905-2-x-60-l-three-wheel-belt-grinder-3-hp-460-v-3-phase-60-frequency-8000-sfpm-2438-sm-min-12782520139820.png?v=1579108072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            5040.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 3 hp, 460 V, 3 Phase, 60 Frequency, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">35.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.7</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_35.0</s:tag>
+    <s:tag>Height_1-3/4 Inch</s:tag>
+    <s:tag>HP_0.7</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229488684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5040.46</s:price>
+      <s:sku>MA GRB 67905</s:sku>
+      <s:grams>79378</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812230635564</id>
+    <published>2019-12-04T10:31:38-05:00</published>
+    <updated>2019-12-04T10:31:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67903"/>
+    <title>Dynabrade 67903  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 460 V 3 Phase 60 Frequency 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67903-2-x-60-l-three-wheel-belt-grinder-1-5-hp-460-v-3-phase-60-frequency-8000-sfpm-2438-sm-min-12746742792236.jpg?v=1579107865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4715.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 460 V, 3 Phase, 60 Frequency, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812230635564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4715.96</s:price>
+      <s:sku>MA GRB 67903</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812230570028</id>
+    <published>2019-12-04T10:31:38-05:00</published>
+    <updated>2019-12-04T10:31:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67902"/>
+    <title>Dynabrade 67902  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 230 V 3 Phase 60 Frequency 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67902-2-x-60-l-three-wheel-belt-grinder-1-5-hp-230-v-3-phase-60-frequency-8000-sfpm-2438-sm-min-12782520107052.png?v=1579107832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4715.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch(1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 230 V, 3 Phase, 60 Frequency, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">10 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">1.86</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Height_10 Inch</s:tag>
+    <s:tag>HP_1.86</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812230570028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4715.96</s:price>
+      <s:sku>MA GRB 67902</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812229586988</id>
+    <published>2019-12-04T10:31:38-05:00</published>
+    <updated>2019-12-04T10:31:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67908"/>
+    <title>Dynabrade 67908  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 230 V 3 Phase 60 Frequency 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67908-2-x-60-l-three-wheel-belt-grinder-1-5-hp-230-v-3-phase-60-frequency-4000-sfpm-1219-sm-min-12782520303660.png?v=1579108194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4715.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 230 V, 3 Phase, 60 Frequency, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812229586988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4715.96</s:price>
+      <s:sku>MA GRB 67908</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232241196</id>
+    <published>2019-12-04T10:31:37-05:00</published>
+    <updated>2019-12-04T10:31:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67906"/>
+    <title>Dynabrade 67906  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 115 V 1 Phase 60 Frequency 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67906-2-x-60-l-three-wheel-belt-grinder-1-5-hp-115-v-1-phase-60-frequency-4000-sfpm-1219-sm-min-12782520008748.png?v=1579108161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4396.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 115 V, 1 Phase, 60 Frequency, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232241196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4396.01</s:price>
+      <s:sku>MA GRB 67906</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812231323692</id>
+    <published>2019-12-04T10:31:37-05:00</published>
+    <updated>2019-12-04T10:31:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67907"/>
+    <title>Dynabrade 67907  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 230 V 1 Phase 60 Frequency 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67907-2-x-60-l-three-wheel-belt-grinder-1-5-hp-230-v-1-phase-60-frequency-4000-sfpm-1219-sm-min-12782520172588.png?v=1579108278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4396.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 230 V, 1 Phase, 60 Frequency, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812231323692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4396.01</s:price>
+      <s:sku>MA GRB 67907</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232372268</id>
+    <published>2019-12-04T10:31:36-05:00</published>
+    <updated>2019-12-04T10:31:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67901"/>
+    <title>Dynabrade 67901  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 230 V 1 Phase 60 Frequency 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67901-2-x-60-l-three-wheel-belt-grinder-1-5-hp-230-v-1-phase-60-frequency-8000-sfpm-2438-sm-min-12746743447596.jpg?v=1579107799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4300.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 230 V, 1 Phase, 60 Frequency, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232372268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4300.47</s:price>
+      <s:sku>MA GRB 67901</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232405036</id>
+    <published>2019-12-04T10:31:35-05:00</published>
+    <updated>2019-12-04T10:31:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67900"/>
+    <title>Dynabrade 67900  - 2 X 60 L Three Wheel Belt Grinder 1.5 Hp 115 V 1 Phase 60 Frequency 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67900-2-x-60-l-three-wheel-belt-grinder-1-5-hp-115-v-1-phase-60-frequency-8000-sfpm-2438-sm-min-12746743480364.jpg?v=1579107629"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4300.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2 Inch (51 mm) W x 60 Inch (1,524 mm) L Three Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 115 V, 1 Phase, 60 Frequency, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> This Dynabrade Bench &amp; Pedestal Belt Grinder
+is a versatile three-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts that are 2 Inch wide by 60 Inch long (51 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade Bench &amp; Pedestal Belt Grinder is ideal for a variety of applications, including grinding, deburring, finishing, shaping, fitting, plus removing flash and parting lines</li><li class="extra-info">Machine design allows smooth grinding from contact wheel, and sanding or finishing from slack of belt</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Amazing versatility ? grind from contact wheel or platen</li><li class="extra-info"> finish from slack of belt</li><li class="extra-info">Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate angle grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67965 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232405036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4300.47</s:price>
+      <s:sku>MA GRB 67900</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812318552108</id>
+    <published>2019-12-04T10:31:03-05:00</published>
+    <updated>2019-12-04T10:31:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-68100"/>
+    <title>Dynabrade 68100  - Coolant Filtration System 230 V 1 Phase 60 Hz</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-dynabrade-68100-coolant-filtration-system-230-v-1-phase-60-hz-12782520434732.png?v=1579108587"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            5161.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Coolant Filtration System</li><li class="extra-info"> 230 V, 1 Phase, 60 Hz</li><li class="extra-info"> Superfinishing requires very clean coolant</li><li class="extra-info">If the coolant is not filtered, the grinding residue will act as an abrasive slurry, which can affect the final finish</li><li class="extra-info">Dynabrade?s Coolant Filtration System
+filters the coolant to 1?, eliminating this problem.</li><li class="extra-info"> 2-stage filters to prevent 1-micron filter from clogging prematurely</li><li class="extra-info">40 gallon tank ? removable for cleaning</li><li class="extra-info">Unit on casters for easy portability.</li><li class="extra-info"> Compact construction</li><li class="extra-info">Transparent Tank for viewing coolant level</li><li class="extra-info">Easy access for changing filters</li><li class="extra-info">Self-priming Centrifugal Pump</li><li class="extra-info">GFCI protection.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">8.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.1</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_8.0</s:tag>
+    <s:tag>Height_1-1/2 Inch</s:tag>
+    <s:tag>HP_0.1</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812318552108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5161.68</s:price>
+      <s:sku>MA GRB 68100</s:sku>
+      <s:grams>62142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812318519340</id>
+    <published>2019-12-04T10:31:03-05:00</published>
+    <updated>2019-12-04T10:31:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-68000"/>
+    <title>Dynabrade 68000  - Coolant Filtration System 115 V (Ac) 1 Phase 60 Hz</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-dynabrade-68000-coolant-filtration-system-115-v-ac-1-phase-60-hz-12782520369196.png?v=1579108554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            4952.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Coolant Filtration System</li><li class="extra-info"> 115 V (AC), 1 Phase, 60 Hz</li><li class="extra-info"> Superfinishing requires very clean coolant</li><li class="extra-info">If the coolant is not filtered, the grinding residue will act as an abrasive slurry, which can affect the final finish</li><li class="extra-info">Dynabrade?s Coolant Filtration System
+filters the coolant to 1?, eliminating this problem.</li><li class="extra-info"> 2-stage filters to prevent 1-micron filter from clogging prematurely</li><li class="extra-info">40 gallon tank ? removable for cleaning</li><li class="extra-info">Unit on casters for easy portability.</li><li class="extra-info"> Compact construction</li><li class="extra-info">Transparent Tank for viewing coolant level</li><li class="extra-info">Easy access for changing filters</li><li class="extra-info">Self-priming Centrifugal Pump</li><li class="extra-info">GFCI protection.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">8.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">1-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.1</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_8.0</s:tag>
+    <s:tag>Height_1-1/2 Inch</s:tag>
+    <s:tag>HP_0.1</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812318519340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4952.59</s:price>
+      <s:sku>MA GRB 68000</s:sku>
+      <s:grams>62142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812322811948</id>
+    <published>2019-12-04T10:31:02-05:00</published>
+    <updated>2019-12-04T10:31:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-68101"/>
+    <title>Dynabrade 68101  - Coolant Filtration System 230 V 1 Phase 50 Hz</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-dynabrade-68101-coolant-filtration-system-230-v-1-phase-50-hz-12782520467500.png?v=1579108766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            5033.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Coolant Filtration System</li><li class="extra-info"> 230 V, 1 Phase, 50 Hz</li><li class="extra-info"> Superfinishing requires very clean coolant</li><li class="extra-info">If the coolant is not filtered, the grinding residue will act as an abrasive slurry, which can affect the final finish</li><li class="extra-info">Dynabrade?s Coolant Filtration System
+filters the coolant to 1?, eliminating this problem.</li><li class="extra-info"> 2-stage filters to prevent 1-micron filter from clogging prematurely</li><li class="extra-info">40 gallon tank ? removable for cleaning</li><li class="extra-info">Unit on casters for easy portability.</li><li class="extra-info"> Compact construction</li><li class="extra-info">Transparent Tank for viewing coolant level</li><li class="extra-info">Easy access for changing filters</li><li class="extra-info">Self-priming Centrifugal Pump</li><li class="extra-info">GFCI protection.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">14.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.25</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_14.0</s:tag>
+    <s:tag>Height_3-1/2 Inch</s:tag>
+    <s:tag>HP_0.25</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812322811948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5033.71</s:price>
+      <s:sku>MA GRB 68101</s:sku>
+      <s:grams>62142</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812323729452</id>
+    <published>2019-05-11T03:32:43-04:00</published>
+    <updated>2019-05-11T03:32:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-64880"/>
+    <title>Dynabrade 64880  - Cutlery Grinder 115 Volt Variable Speed</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-64880-cutlery-grinder-115-volt-variable-speed-12782514962476.png?v=1579093831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            9182.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Cutlery Grinder, 115 Volt Variable Speed</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">14.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.25</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_14.0</s:tag>
+    <s:tag>Height_3-1/2 Inch</s:tag>
+    <s:tag>HP_0.25</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812323729452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9182.73</s:price>
+      <s:sku>MA GRB 64880</s:sku>
+      <s:grams>64410</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812323631148</id>
+    <published>2019-05-11T03:32:42-04:00</published>
+    <updated>2019-05-11T03:32:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-65015"/>
+    <title>Dynabrade 65015  - Precision Tool Post Grinder</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-65015-precision-tool-post-grinder-12782515257388.png?v=1579115401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            6405.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Precision Tool Post Grinder</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">14.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Pressure </td>
+<td class="egrimes">90 (6.2)</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">3-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.25</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_14.0</s:tag>
+    <s:tag>Air Pressure_90 (6.2)</s:tag>
+    <s:tag>Height_3-1/2 Inch</s:tag>
+    <s:tag>HP_0.25</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812323631148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6405.28</s:price>
+      <s:sku>MA GRB 65015</s:sku>
+      <s:grams>51709</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232896556</id>
+    <published>2019-05-11T02:18:30-04:00</published>
+    <updated>2019-05-11T02:18:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67600"/>
+    <title>Dynabrade 67600  - 12 Inch Diameter Bench &amp; Pedestal Disc Grinder 1725 Rpm 1 Hp 115 V 1 Phase</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67600-12-inch-diameter-bench-pedestal-disc-grinder-1725-rpm-1-hp-115-v-1-phase-12782517289004.png?v=1579106598"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            3029.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">12 Inch (305 mm) Dia</li><li class="extra-info">Bench &amp; Pedestal Disc Grinder</li><li class="extra-info"> 1,725 RPM, 1 hp, 115 V, 1 Phase</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Disc Grinder powers abrasive discs 12 Inch (305 mm) in diameter.</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Disc Grinder is ideal for a variety of applications, including grinding and deburring castings or fabricated parts</li><li class="extra-info">Also used for shaping, flat grinding and contouring on metal, wood and plastic</li><li class="extra-info">Machine design allows quick disc change, and easy adjustment of work table for optimum efficiency</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Adjustable work table with miter ensures accurate angle grinding</li><li class="extra-info">Runs in forward and reverse modes.</li><li class="extra-info"> Fully guarded with adjustable work rest to meet all OSHA standards</li><li class="extra-info">Quick and easy disc change minimizes downtime and increases efficiency.</li><li class="extra-info"> Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711 mm) to 38 Inch (965 mm), with capacity up to 300 lbs (136 kg).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">43.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">4-2/3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.7</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Diameter </td>
+<td class="egrimes">12 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">1725</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_43.0</s:tag>
+    <s:tag>Height_4-2/3 Inch</s:tag>
+    <s:tag>HP_0.7</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>Max Diameter_12 Inch</s:tag>
+    <s:tag>RPM_1725</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232896556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3029.74</s:price>
+      <s:sku>MA GRB 67600</s:sku>
+      <s:grams>65770</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232831020</id>
+    <published>2019-05-11T02:18:29-04:00</published>
+    <updated>2019-05-11T02:18:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67601"/>
+    <title>Dynabrade 67601  - 12 Inch Diameter Disc Grinder 1725 Rpm 1 Hp 230 V 1 Phase</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67601-12-inch-diameter-disc-grinder-1725-rpm-1-hp-230-v-1-phase-12746743873580.jpg?v=1579106878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            3029.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">12 Inch (305 mm) Dia</li><li class="extra-info">Disc Grinder</li><li class="extra-info"> 1,725 RPM, 1 hp, 230 V, 1 Phase</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Disc Grinder powers abrasive discs 12 Inch (305 mm) in diameter.</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Disc Grinder is ideal for a variety of applications, including grinding and deburring castings or fabricated parts</li><li class="extra-info">Also used for shaping, flat grinding and contouring on metal, wood and plastic</li><li class="extra-info">Machine design allows quick disc change, and easy adjustment of work table for optimum efficiency</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Adjustable work table with miter ensures accurate angle grinding</li><li class="extra-info">Runs in forward and reverse modes.</li><li class="extra-info"> Fully guarded with adjustable work rest to meet all OSHA standards</li><li class="extra-info">Quick and easy disc change minimizes downtime and increases efficiency.</li><li class="extra-info"> Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711 mm) to 38 Inch (965 mm), with capacity up to 300 lbs (136 kg).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Air Flow </td>
+<td class="egrimes">32.0</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Height </td>
+<td class="egrimes">7-1/8 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> HP </td>
+<td class="egrimes">0.7</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Max Diameter </td>
+<td class="egrimes">12 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> RPM </td>
+<td class="egrimes">1725</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Air Flow_32.0</s:tag>
+    <s:tag>Height_7-1/8 Inch</s:tag>
+    <s:tag>HP_0.7</s:tag>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>Max Diameter_12 Inch</s:tag>
+    <s:tag>RPM_1725</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232831020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3029.74</s:price>
+      <s:sku>MA GRB 67601</s:sku>
+      <s:grams>65770</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232470572</id>
+    <published>2019-05-11T02:18:11-04:00</published>
+    <updated>2019-05-11T02:18:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67800"/>
+    <title>Dynabrade 67800  - 2-1/2 X 60 L 2 Wheel Belt Grinder 1.5 Hp 115 V 1 Phase 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67800-2-1-2-x-60-l-2-wheel-belt-grinder-1-5-hp-115-v-1-phase-8000-sfpm-2438-sm-min-12782518632492.png?v=1579106754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4163.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2-1/2 Inch (64 mm) W x 60 Inch (152 cm) L 2 Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 115 V, 1 Phase, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is a versatile two-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts 2-1/2 Inch wide by 60 Inch long (64 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is ideal for heavy-duty grinding applications, working from the contact wheel or platen pad</li><li class="extra-info">Machine design allows rotation of housing from vertical to horizontal positions, for optimum grinding efficiency</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate bevel grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67966 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232470572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4163.99</s:price>
+      <s:sku>MA GRB 67800</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232339500</id>
+    <published>2019-05-11T02:17:45-04:00</published>
+    <updated>2019-05-11T02:17:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67801"/>
+    <title>Dynabrade 67801  - 2-1/2 X 60 L 2 Wheel Belt Grinder 1.5 Hp 230 V 1 Phase 8000 Sfpm (2438 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67801-2-1-2-x-60-l-2-wheel-belt-grinder-1-5-hp-230-v-1-phase-8000-sfpm-2438-sm-min-12782518665260.png?v=1579106844"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4163.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2-1/2 Inch (64 mm) W x 60 Inch (152 cm) L 2 Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 230 V, 1 Phase, 8,000 SFPM (2,438 SM/Min)</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is a versatile two-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts 2-1/2 Inch wide by 60 Inch long (64 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is ideal for heavy-duty grinding applications, working from the contact wheel or platen pad</li><li class="extra-info">Machine design allows rotation of housing from vertical to horizontal positions, for optimum grinding efficiency</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate bevel grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67966 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232339500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4163.99</s:price>
+      <s:sku>MA GRB 67801</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232273964</id>
+    <published>2019-05-11T02:17:21-04:00</published>
+    <updated>2019-05-11T02:17:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67807"/>
+    <title>Dynabrade 67807  - 2-1/2 X 60 L 2 Wheel Belt Grinder 1.5 Hp 230 V 1 Phase 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67807-2-1-2-x-60-l-2-wheel-belt-grinder-1-5-hp-230-v-1-phase-4000-sfpm-1219-sm-min-12782518861868.png?v=1579107241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4329.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2-1/2 Inch (64 mm) W x 60 Inch (152 cm) L 2 Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 230 V, 1 Phase, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is a versatile two-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts 2-1/2 Inch wide by 60 Inch long (64 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is ideal for heavy-duty grinding applications, working from the contact wheel or platen pad</li><li class="extra-info">Machine design allows rotation of housing from vertical to horizontal positions, for optimum grinding efficiency</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate bevel grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67966 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232273964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4329.29</s:price>
+      <s:sku>MA GRB 67807</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812232208428</id>
+    <published>2019-05-11T02:17:20-04:00</published>
+    <updated>2019-05-11T02:17:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-67806"/>
+    <title>Dynabrade 67806  - 2-1/2 X 60 L 2 Wheel Belt Grinder 1.5 Hp 115 V 1 Phase 4000 Sfpm (1219 Sm/Min)</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-dynabrade-67806-2-1-2-x-60-l-2-wheel-belt-grinder-1-5-hp-115-v-1-phase-4000-sfpm-1219-sm-min-12746743513132.jpg?v=1579107081"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            4329.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">2-1/2 Inch (64 mm) W x 60 Inch (152 cm) L 2 Wheel Belt Grinder</li><li class="extra-info"> 1.5 hp, 115 V, 1 Phase, 4,000 SFPM (1,219 SM/Min)</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is a versatile two-wheel belt grinding machine</li><li class="extra-info">It powers abrasive belts 2-1/2 Inch wide by 60 Inch long (64 mm x 1,524 mm).</li><li class="extra-info"> Dynabrade's Bench &amp; Pedestal Belt Grinder is ideal for heavy-duty grinding applications, working from the contact wheel or platen pad</li><li class="extra-info">Machine design allows rotation of housing from vertical to horizontal positions, for optimum grinding efficiency</li><li class="extra-info">Offered in complete range of electrical configurations.</li><li class="extra-info"> Fully guarded to meet all OSHA standards</li><li class="extra-info">Work rest is adjustable to ensure accurate bevel grinding.</li><li class="extra-info"> Quick and easy belt change minimizes downtime and increases efficiency</li><li class="extra-info">Can be bench-mounted or attached to optional 67500 Pedestal Stand, as shown</li><li class="extra-info">Pedestal Stand offers height adjustment of 28 Inch (711mm) to 38 Inch (965), with capacity up to 300 lbs</li><li class="extra-info">(136 kg)</li><li class="extra-info"> Optional 67966 Vacuum Scoop also available, for efficient capture of dust and debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA GRB</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812232208428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4329.29</s:price>
+      <s:sku>MA GRB 67806</s:sku>
+      <s:grams>74842</s:grams>
+    </s:variant>
+  </entry>
+</feed>

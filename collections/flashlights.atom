@@ -1,0 +1,685 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/flashlights.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-09-23T18:38:30-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4058107641900</id>
+    <published>2019-09-23T18:38:30-04:00</published>
+    <updated>2019-09-23T18:38:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-jlfl-100"/>
+    <title>Startech JLFL-100  - Led Flashlight 500 Lumens 849818</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-startech-jlfl-100-led-flashlight-500-lumens-849818-12423766016044.jpg?v=1575184075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            112.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">LED Flashlight - 500 Lumens</h4> <li class="extra-info">Highly efficient Cree Surface Mounted Diodes (SMD) element produces an intense ultra-bright white light</li><li class="extra-info"> SMD technology is more robust and produces more light than standard LED bulbs</li><li class="extra-info"> Up to 100,000 hours lifetime</li><li class="extra-info"> Machined aluminum reflector gathers and focuses light for maximum output</li><li class="extra-info"> Advanced Focus System allows user to focus from spot to wide angle beam</li><li class="extra-info"> Aircraft grade aluminum body for durability and resistance to corrosion</li><li class="extra-info"> Premium Stage III anodization resists scratches and meets military specifications</li><li class="extra-info"> IPX-6 water resistant rating</li><li class="extra-info"> Drop tested to 1.5 meters</li><li class="extra-info"> Gold plated contacts prevent corrosion</li><li class="extra-info"> 5-way switch cycles between 100%, 50%, 25%, flashing, and SOS model</li><li class="extra-info"> Tail mounted switch for tactical applications (except model 849818 - JLFL-500)</li><li class="extra-info"> Reverse polarity protection prevents damage if batteries are inserted incorrectly</li><li class="extra-info"> Includes batteries, lanyard, and spare o-rings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">10 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">SMD Technology</li><li class="extra-info"> Up to 100,000 hours lifetime</li><h2>Product Information</h2><li class="extra-info">Run Time @ 50% : 10 hrs</li><li class="extra-info"> Run Time @ 25% : 20 hrs</li><li class="extra-info"> Beam Distance : 300 m</li><li class="extra-info"> Batteries : 2 x D</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_10 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>Size_11/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4058107641900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">112.32</s:price>
+      <s:sku>SH FLL 849818</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813125496876</id>
+    <published>2019-05-11T11:47:34-04:00</published>
+    <updated>2019-05-11T11:47:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-isfl-120"/>
+    <title>Startech ISFL-120  - 6-3/4 Inch Intrinsically Safe Flash Light 849702</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-startech-isfl-120-6-3-4-inch-intrinsically-safe-flash-light-849702-12748673417260.jpg?v=1575160975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            84.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6-3/4 Inch Intrinsically Safe Flashlight</h4> <li class="extra-info">Intrinsically safe flashlights for use where flammable gasses, vapours, and liquids or combustible dusts and ignitable fibres are present</li><li class="extra-info"> Certified to cULus Class I Division I, Class II Division I, and Class III Division I – the highest standards in the world</li><li class="extra-info"> Totally sealed to prevent micro sparks from exiting flashlight</li><li class="extra-info"> IP67 waterproof to 1m</li><li class="extra-info"> Specially designed valve permits hydrogen gas produced by batteries to exit flashlight, preventing accumulations that could be ignited by internal sparks</li><li class="extra-info"> Security screw is designed to prevent casual replacement of batteries while working in volatile environments</li><li class="extra-info"> Cree XP-E SMD element produces extremely bright light while providing excellent run time</li><li class="extra-info"> High and low output modes</li><li class="extra-info"> Drop tested to 1m</li><li class="extra-info"> Complete with belt clip</li><li class="extra-info"> Can be mounted to hard hat with optional clip set (849709) - model 849702 (ISFL-120) only</li><li class="extra-info"> Includes 4 AA batteries</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">6-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Intrinsically safe flashlights for use where flammable gasses, vapours, and liquids or combustible dusts and ignitable fibres are present</li><li class="extra-info"> Certified to cULus Class I Division I, Class II Division I, and Class III Division I – the highest standards in the </li><h2>Product Information</h2><li class="extra-info">Beam Distance - High Power : 230 m</li><li class="extra-info"> Beam Distance - Low Power : 110 m</li><li class="extra-info"> Batteries : 4 x AA</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_6-3/4 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813125496876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">84.53</s:price>
+      <s:sku>SH FLL 849702</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813125464108</id>
+    <published>2019-05-11T11:47:31-04:00</published>
+    <updated>2019-05-11T11:47:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-hmc-100"/>
+    <title>Startech HMC-100  - Helmet Mounting Clip Set 849709</title>
+    <s:type>Helmets &amp; Accessories</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/helmets-accessories-startech-hmc-100-helmet-mounting-clip-set-849709-12748673318956.jpg?v=1575161111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Helmets &amp; Accessories<br>
+        <strong>Price: </strong>
+            16.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Helmet Mounting Clip Set</h4> <li class="extra-info">Allows mounting on brim or in accessory slot of most safety helmets</li><li class="extra-info"> Fits model ISFL-120 only</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Helmets &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813125464108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.86</s:price>
+      <s:sku>SH FLL 849709</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813125431340</id>
+    <published>2019-05-11T11:47:30-04:00</published>
+    <updated>2019-05-11T11:47:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-fbc-1"/>
+    <title>Startech FBC-1  - Belt Clip For Is Flashlights 849708</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-startech-fbc-1-belt-clip-for-is-flashlights-849708-12748673384492.jpg?v=1575161127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            10.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Belt Clip for IS Flashlights</h4> <li class="extra-info">Replacement belt clip for Intrinsically Safe flashlights</li><li class="extra-info"> Fits model ISFL-120 and ISFL-124</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-1/8 Inch - 7 NC</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>Size_1-1/8 Inch - 7 NC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813125431340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.46</s:price>
+      <s:sku>SH FLL 849708</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813125398572</id>
+    <published>2019-05-11T11:47:30-04:00</published>
+    <updated>2019-05-11T11:47:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-jlpl-100"/>
+    <title>Startech JLPL-100  - Led Penlight 100 Lumens 849802</title>
+    <s:type>Penlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/penlights-startech-jlpl-100-led-penlight-100-lumens-849802-12748673220652.jpg?v=1575183850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Penlights<br>
+        <strong>Price: </strong>
+            49.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">LED Penlight - 100 Lumens</h4> <li class="extra-info">Highly efficient Cree Surface Mounted Diodes (SMD) element produces an intense ultra-bright white light</li><li class="extra-info"> SMD technology is more robust and produces more light than standard LED bulbs</li><li class="extra-info"> Up to 100,000 hours lifetime</li><li class="extra-info"> Machined aluminum reflector gathers and focuses light for maximum output</li><li class="extra-info"> Advanced Focus System allows user to focus from spot to wide angle beam</li><li class="extra-info"> Aircraft grade aluminum body for durability and resistance to corrosion</li><li class="extra-info"> Premium Stage III anodization resists scratches and meets military specifications</li><li class="extra-info"> IPX-6 water resistant rating</li><li class="extra-info"> Drop tested to 1.5 meters</li><li class="extra-info"> Gold plated contacts prevent corrosion</li><li class="extra-info"> Tail mounted switch for tactical applications</li><li class="extra-info"> Reverse polarity protection prevents damage if batteries are inserted incorrectly</li><li class="extra-info"> Includes batteries, lanyard, and spare o-rings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Penlights</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">SMD Technology</li><li class="extra-info"> Up to 100,000 hours lifetime</li><h2>Product Information</h2><li class="extra-info">Beam Distance : 50 m</li><li class="extra-info"> Batteries : 2 x AAA</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_5-3/4 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>Size_11mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813125398572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.46</s:price>
+      <s:sku>SH FLL 849802</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813125365804</id>
+    <published>2019-05-11T11:47:27-04:00</published>
+    <updated>2019-05-11T11:47:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-jlfl-150"/>
+    <title>Startech JLFL-150  - Led Flashlight 150 Lumens 849812</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-startech-jlfl-150-led-flashlight-150-lumens-849812-12748673253420.jpg?v=1575183971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            59.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">LED Flashlight - 150 Lumens</h4> <li class="extra-info">Highly efficient Cree Surface Mounted Diodes (SMD) element produces an intense ultra-bright white light</li><li class="extra-info"> SMD technology is more robust and produces more light than standard LED bulbs</li><li class="extra-info"> Up to 100,000 hours lifetime</li><li class="extra-info"> Machined aluminum reflector gathers and focuses light for maximum output</li><li class="extra-info"> Advanced Focus System allows user to focus from spot to wide angle beam</li><li class="extra-info"> Aircraft grade aluminum body for durability and resistance to corrosion</li><li class="extra-info"> Premium Stage III anodization resists scratches and meets military specifications</li><li class="extra-info"> IPX-6 water resistant rating</li><li class="extra-info"> Drop tested to 1.5 meters</li><li class="extra-info"> Gold plated contacts prevent corrosion</li><li class="extra-info"> 5-way switch cycles between 100%, 50%, 25%, flashing, and SOS model</li><li class="extra-info"> Tail mounted switch for tactical applications (except model 849818 - JLFL-500)</li><li class="extra-info"> Reverse polarity protection prevents damage if batteries are inserted incorrectly</li><li class="extra-info"> Includes batteries, lanyard, and spare o-rings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">6-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">SMD Technology</li><li class="extra-info"> Up to 100,000 hours lifetime</li><h2>Product Information</h2><li class="extra-info">Run Time @ 50% : 4 hrs</li><li class="extra-info"> Run Time @ 25% : 8 hrs</li><li class="extra-info"> Beam Distance : 200 m</li><li class="extra-info"> Batteries : 2 x AA</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_6-1/2 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>Size_11mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813125365804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">59.12</s:price>
+      <s:sku>SH FLL 849812</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813125300268</id>
+    <published>2019-05-11T11:47:27-04:00</published>
+    <updated>2019-05-11T11:47:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-jlfl-230"/>
+    <title>Startech JLFL-230  - Led Flashlight 230 Lumens 849817</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-startech-jlfl-230-led-flashlight-230-lumens-849817-12748673286188.jpg?v=1575183955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            66.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">LED Flashlight - 230 Lumens</h4> <li class="extra-info">Highly efficient Cree Surface Mounted Diodes (SMD) element produces an intense ultra-bright white light</li><li class="extra-info"> SMD technology is more robust and produces more light than standard LED bulbs</li><li class="extra-info"> Up to 100,000 hours lifetime</li><li class="extra-info"> Machined aluminum reflector gathers and focuses light for maximum output</li><li class="extra-info"> Advanced Focus System allows user to focus from spot to wide angle beam</li><li class="extra-info"> Aircraft grade aluminum body for durability and resistance to corrosion</li><li class="extra-info"> Premium Stage III anodization resists scratches and meets military specifications</li><li class="extra-info"> IPX-6 water resistant rating</li><li class="extra-info"> Drop tested to 1.5 meters</li><li class="extra-info"> Gold plated contacts prevent corrosion</li><li class="extra-info"> 5-way switch cycles between 100%, 50%, 25%, flashing, and SOS model</li><li class="extra-info"> Tail mounted switch for tactical applications (except model 849818 - JLFL-500)</li><li class="extra-info"> Reverse polarity protection prevents damage if batteries are inserted incorrectly</li><li class="extra-info"> Includes batteries, lanyard, and spare o-rings</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">5-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">11/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">SMD Technology</li><li class="extra-info"> Up to 100,000 hours lifetime</li><h2>Product Information</h2><li class="extra-info">Run Time @ 50% : 12 hrs</li><li class="extra-info"> Run Time @ 25% : 24 hrs</li><li class="extra-info"> Beam Distance : 200 m</li><li class="extra-info"> Batteries : 3 x AAA</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_5-1/2 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>Size_11/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813125300268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.41</s:price>
+      <s:sku>SH FLL 849817</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813125267500</id>
+    <published>2019-05-11T11:47:26-04:00</published>
+    <updated>2019-05-11T11:47:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-jlfl-600u"/>
+    <title>Startech JLFL-600U  - Led Flashlight 600 Lumens With Usb Charger 849819</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-startech-jlfl-600u-led-flashlight-600-lumens-with-usb-charger-849819-12748672958508.jpg?v=1575183989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            78.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">LED Flashlight - 600 Lumens - with USB charger</h4> <li class="extra-info">Highly efficient Cree SMD element produces an intense ultra-bright white light</li><li class="extra-info"> SMD technology is more robust and produces more light than standard LED bulbs</li><li class="extra-info"> Up to 100,000 hours lifetime</li><li class="extra-info"> Machined aluminum reflector gathers and focuses light for maximum output</li><li class="extra-info"> Advanced Focus System allows user to focus from spot to wide angle beam</li><li class="extra-info"> Aircraft grade aluminum body for durability and resistance to corrosion</li><li class="extra-info"> Premium Stage III anodization resists scratches and meets military specifications</li><li class="extra-info"> IPX-6 water resistant rating</li><li class="extra-info"> Drop tested to 1.5 meters</li><li class="extra-info"> Gold plated contacts prevent corrosion</li><li class="extra-info"> 5-way switch cycles between 100%, 50%, 25%, flashing, and SOS model</li><li class="extra-info"> Tail mounted switch for tactical applications</li><li class="extra-info"> Reverse polarity protection prevents damage if batteries are inserted incorrectly</li><li class="extra-info"> Includes lanyard, and spare o-rings</li><li class="extra-info"> Can be charged via included USB cable or use with 3 x AAA batteries (not included)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">6-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">10mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">SMD Technology</li><li class="extra-info"> Up to 100,000 hours lifetime</li><h2>Product Information</h2><li class="extra-info">Run Time @ 50% : 3.5 hrs</li><li class="extra-info"> Run Time @ 25% : 7 hrs</li><li class="extra-info"> Beam Distance : 150 m</li><li class="extra-info"> Batteries : USB Cable or 3 x AAA</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_6-1/2 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>Size_10mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813125267500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">78.46</s:price>
+      <s:sku>SH FLL 849819</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812998553644</id>
+    <published>2019-05-11T10:46:24-04:00</published>
+    <updated>2019-05-11T10:46:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-cpl-110"/>
+    <title>Startech CPL-110  - Cob Penlight 849808</title>
+    <s:type>Penlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/penlights-startech-cpl-110-cob-penlight-849808-12748337217580.jpg?v=1575161229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Penlights<br>
+        <strong>Price: </strong>
+            15.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">COB Penlight</h4> <li class="extra-info">Combination flashlight and worklight in a handy, compact size</li><li class="extra-info"> COB (Chip On Board) technology provides long life, robust construction, and a more diffused, natural light</li><li class="extra-info"> Magnetic pocket clip allows light to be mounted to metal surfaces for hands-free operation</li><li class="extra-info"> 5 function switch cycles from 100% - 50% - flashing worklight – flashlight – off</li><li class="extra-info"> Soft touch grip is resistant to shop chemicals</li><li class="extra-info"> Includes 3 x AAA batteries</li><li class="extra-info"> Distributors: Sold in 12 piece display only</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">6-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Penlights</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Combination flashlight and worklight</li><li class="extra-info"> Magnetic pocket clip</li><h2>Product Information</h2><li class="extra-info">Run Time @ 50% : 8 hrs</li><li class="extra-info"> Batteries : 3 x AAA</li><li class="extra-info"> Lumens - High/Low/Flash : 110/55/18</li><li class="extra-info"> Run Time @ 100% : 4.5 hrs</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_6-1/2 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812998553644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.65</s:price>
+      <s:sku>SH FLL 849808</s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812157628460</id>
+    <published>2019-05-11T01:41:21-04:00</published>
+    <updated>2019-05-11T01:41:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-k-022lf"/>
+    <title>King Canada K-022LF  - Flashlight Cordless 1 + 6 Leds 20V Max Lithium-Ion</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-king-canada-k-022lf-flashlight-cordless-1-6-leds-20v-max-lithium-ion-12746630823980.jpg?v=1579587063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            32.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20V max lithium-ion led cordless flashlight</h4> <li class="extra-info">Single 110 lumens LED flashlight, 40 lumens 6 LED floodlight or 150 lumens dual-light Cordless, rechargeable, long-lasting and portable for job site, home or in your car LED last longer, consume less energy and stay cool to the touch even after hours of usage Top mounted 360˚ swivel folding metal hook and lower mounted fold down plastic hook for lighting at virtually any angle Three-way integrated switch, both LED or single LED On/Off Non-slip soft grip</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812157628460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.77</s:price>
+      <s:sku>SH FLL K-022LF</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124736073772</id>
+    <published>2018-08-04T20:49:06-04:00</published>
+    <updated>2018-08-04T20:49:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/startech-isfl-124"/>
+    <title>Startech ISFL-124  - 9 Inch Intrinsically Safe Flash Light 849703</title>
+    <s:type>Flashlights</s:type>
+    <s:vendor>Startech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/flashlights-startech-isfl-124-9-inch-intrinsically-safe-flash-light-849703-12748673351724.jpg?v=1575160990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Startech<br>
+        <strong>Type: </strong>Flashlights<br>
+        <strong>Price: </strong>
+            96.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">9 Inch Intrinsically Safe Flashlight</h4> <li class="extra-info">Intrinsically safe flashlights for use where flammable gasses, vapours, and liquids or combustible dusts and ignitable fibres are present</li><li class="extra-info"> Certified to cULus Class I Division I, Class II Division I, and Class III Division I – the highest standards in the world</li><li class="extra-info"> Totally sealed to prevent micro sparks from exiting flashlight</li><li class="extra-info"> IP67 waterproof to 1 m</li><li class="extra-info"> Specially designed valve permits hydrogen gas produced by batteries to exit flashlight, preventing accumulations that could be ignited by internal sparks</li><li class="extra-info"> Security screw is designed to prevent casual replacement of batteries while working in volatile environments</li><li class="extra-info"> Cree XP-E SMD element produces extremely bright light while providing excellent run time</li><li class="extra-info"> High and low output modes</li><li class="extra-info"> Drop tested to 1 m</li><li class="extra-info"> Complete with 2 position belt clip</li><li class="extra-info"> Includes 3 C batteries</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Startech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">9 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Flashlights</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Intrinsically safe flashlights for use where flammable gasses, vapours, and liquids or combustible dusts and ignitable fibres are present</li><li class="extra-info"> Certified to cULus Class I Division I, Class II Division I, and Class III Division I – the highest standards in the </li><h2>Product Information</h2><li class="extra-info">Beam Distance - High Power : 185 m</li><li class="extra-info"> Beam Distance - Low Power : 120 m</li><li class="extra-info"> Batteries : 3 x C</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_9 Inch</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH FLL</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124736073772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">96.58</s:price>
+      <s:sku>SH FLL 849703</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+</feed>

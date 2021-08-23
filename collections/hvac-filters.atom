@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/hvac-filters.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:07:23-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254986731564</id>
+    <published>2019-10-16T00:07:23-04:00</published>
+    <updated>2019-10-16T00:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ea02dc-6c"/>
+    <title>3M EA02DC-6C  - Filtrete Healthy Living Elite Allergen Filter, Mpr 2200, 20 in x 20 in x 1 in 7100016707</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-ea02dc-6c-filtrete-healthy-living-elite-allergen-filter-mpr-2200-20-in-x-20-in-x-1-in-ea02disc-6c-7100016707-13179538440236.jpg?v=1580085533"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            30.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Filtrete Healthy Living Elite Allergen Filter, MPR 2200, 20 in x 20 in x 1 in</h4> <li class="extra-info">A healthy home begins with cleaner air</li><li class="extra-info">Improve the air quality in your house by reducing the amount of airborne allergens with a Filtrete™ Healthy Living Elite Allergen Filter</li><li class="extra-info">Using electrostatic technology, this high-performance filter proactively captures dust, bacteria, germs, viruses and allergens from the air, and is five times better than non-electrostatic filters at capturing small particles</li><li class="extra-info">For maximum performance, replace your Filtrete™ Filter seasonally (every 90 days) to ensure you and your household are breathing cleaner air.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attracts and captures large and microscopic airborne allergens</li><li class="extra-info"> Carries a 2200 Microparticle Performance Rating (MPR)</li><li class="extra-info"> Five times better than non-electrostatic filters at capturing small particles</li><li class="extra-info"> Lasts up to three months</li><li class="extra-info"> Noticeably fresher air</li><li class="extra-info"> For residential use only</li><li class="extra-info"> Bacteria and Viruses: 8</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254986731564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.49</s:price>
+      <s:sku>HV FLT EA02DC-6C</s:sku>
+      <s:grams>521</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254986698796</id>
+    <published>2019-10-16T00:07:23-04:00</published>
+    <updated>2019-10-16T00:07:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2004dc-6-c"/>
+    <title>3M 2004DC-6-C  - Filtrete Healthy Living Ultra Allergen Filter, Mpr 1500, 14 in x 25 in x 1 in 2004Disc-6-C 7100038777</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-2004dc-6-c-filtrete-healthy-living-ultra-allergen-filter-mpr-1500-14-in-x-25-in-x-1-in-2004disc-6-c-7100038777-13120446660652.jpg?v=1580201220"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Filtrete Healthy Living Ultra Allergen Filter, MPR 1500, 14 in x 25 in x 1 in</h4> <li class="extra-info">A healthy home begins with cleaner air</li><li class="extra-info">Improve the air quality in your house by reducing the amount of airborne allergens with a Filtrete™ Healthy Living Ultra Allergen Filter</li><li class="extra-info">Using electrostatic technology, this high-performance filter proactively captures dust, bacteria, germs, viruses and allergens from the air, and is three times better than non-electrostatic filters at capturing small particles</li><li class="extra-info">For maximum performance, replace your Filtrete™ Filter seasonally (every 90 days) to ensure you and your household are breathing cleaner air.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attracts and captures large airborne allergens from air passing through the filter</li><li class="extra-info"> Carries a 1500 Microparticle Performance Rating (MPR)</li><li class="extra-info"> Three times better than non-electrostatic filters at capturing small particles</li><li class="extra-info"> Lasts up to three months</li><li class="extra-info"> Noticeably fresher air</li><li class="extra-info"> For residential use only</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254986698796</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.83</s:price>
+      <s:sku>HV FLT 2004DC-6-C</s:sku>
+      <s:grams>367</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254940626988</id>
+    <published>2019-10-15T22:39:28-04:00</published>
+    <updated>2019-10-15T22:39:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9850dc-na"/>
+    <title>3M Filtrete 9850DC-NA  - Filtrete Clean Living Basic Dust Filter -L Mpr 300 16 in x 20 in x 1 in (40.5 cm x 51 cm x 2.5 cm) 1 Per Pack 7000137169</title>
+    <s:type>Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filters-3m-filtrete-9850dc-na-filtrete-clean-living-basic-dust-filter-l-mpr-300-16-in-x-20-in-x-1-in-40-5-cm-x-51-cm-x-2-5-cm-1-per-pack-7000137169-13120362676268.jpg?v=1580089889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            8.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Filtrete Clean Living Basic Dust Filter, MPR 300, 16 in x 20 in x 1 in</h4> <li class="extra-info">A healthy home begins with cleaner air</li><li class="extra-info">Improve the air quality in your house by reducing the amount of airborne allergens with a Filtrete™ Clean Living Basic Dust Filter</li><li class="extra-info">This electrostatically-charged air cleaning filter attracts and captures large airborne allergens like household dust and lint, keeping the air in your home clean and pure</li><li class="extra-info">For maximum performance, replace your Filtrete™ Filter seasonally (every 90 days) to ensure you and your household are breathing cleaner air.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Filtrete</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filters</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attracts and captures particles like household dust and lint</li><li class="extra-info"> Outperforms fibreglass, washable and non-electrostatic pleated 1-inch (2.5 cm) filters</li><li class="extra-info"> Carries a 300 Microparticle Performance Rating (MPR)</li><li class="extra-info"> Lasts up to three months</li><li class="extra-info"> Ideal for high-velocity heating and cooling systems</li><li class="extra-info"> Noticeably fresher air</li><li class="extra-info"> For residential use only</li><h2>Suggested Application</h2><li class="extra-info">Capture and reduce the amount of airborne allergens and viruses in your home</li><li class="extra-info">Use with Filtrete™ Whole House Air Fresheners to keep your home smelling just the way you like</li><li class="extra-info">Replace your filter seasonally for best performance (every 90 days)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>Line_Filtrete</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254940626988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.29</s:price>
+      <s:sku>HV FLT 9850DC-NA</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254940561452</id>
+    <published>2019-10-15T22:39:28-04:00</published>
+    <updated>2019-10-15T22:39:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9853dc-na"/>
+    <title>3M Filtrete 9853DC-NA  - Filtrete Clean Living Basic Dust Filter Mpr 300 20 in x 25 in x 1 in (51 cm x 63.5 cm x 2.5 cm) 1 Per Pack 7000137172</title>
+    <s:type>Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filters-3m-filtrete-9853dc-na-filtrete-clean-living-basic-dust-filter-mpr-300-20-in-x-25-in-x-1-in-51-cm-x-63-5-cm-x-2-5-cm-1-per-pack-7000137172-13120362643500.jpg?v=1580089857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            8.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Filtrete Clean Living Basic Dust Filter, MPR 300, 20 in x 25 in x 1 in</h4> <li class="extra-info">A healthy home begins with cleaner air</li><li class="extra-info">Improve the air quality in your house by reducing the amount of airborne allergens with a Filtrete™ Clean Living Basic Dust Filter</li><li class="extra-info">This electrostatically-charged air cleaning filter attracts and captures large airborne allergens like household dust and lint, keeping the air in your home clean and pure</li><li class="extra-info">For maximum performance, replace your Filtrete™ Filter seasonally (every 90 days) to ensure you and your household are breathing cleaner air.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Filtrete</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filters</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attracts and captures particles like household dust and lint</li><li class="extra-info"> Outperforms fibreglass, washable and non-electrostatic pleated 1-inch (2.5 cm) filters</li><li class="extra-info"> Carries a 300 Microparticle Performance Rating (MPR)</li><li class="extra-info"> Lasts up to three months</li><li class="extra-info"> Ideal for high-velocity heating and cooling systems</li><li class="extra-info"> Noticeably fresher air</li><li class="extra-info"> For residential use only</li><h2>Suggested Application</h2><li class="extra-info">Capture and reduce the amount of airborne allergens and viruses in your home</li><li class="extra-info">Use with Filtrete™ Whole House Air Fresheners to keep your home smelling just the way you like</li><li class="extra-info">Replace your filter seasonally for best performance (every 90 days)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>Line_Filtrete</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254940561452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.29</s:price>
+      <s:sku>HV FLT 9853DC-NA</s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254940528684</id>
+    <published>2019-10-15T22:39:26-04:00</published>
+    <updated>2019-10-15T22:39:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fapf02"/>
+    <title>3M FAPF02  - Refill Filter -4(Br) 7000011079</title>
+    <s:type>Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filters-3m-fapf02-refill-filter-4-br-7000011079-13120362709036.jpg?v=1580091453"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            21.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">REFILL FILTER FAPF02-4(BR) 480PK/PALLET</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254940528684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.63</s:price>
+      <s:sku>HV FLT FAPF02</s:sku>
+      <s:grams>185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737151807532</id>
+    <published>2019-03-16T02:06:16-04:00</published>
+    <updated>2019-03-16T02:06:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9801dc-6-c"/>
+    <title>3M Filtrete 9801DC-6-C  - Filtrete Allergen Defense Micro Allergen Filter 9801Disc-6 Mpr 1000 16x25x1 7100038678</title>
+    <s:type>Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filters-3m-filtrete-9801dc-6-c-filtrete-allergen-defense-micro-allergen-filter-9801disc-6-mpr-1000-16x25x1-7100038678-12749150486572.jpg?v=1580089980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            16.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Filtrete Allergen Defense Micro Allergen Filter, MPR 1000, 16 in x 25 in x 1 in</h4> <li class="extra-info">A healthy home begins with cleaner air</li><li class="extra-info">Improve the air quality in your house by reducing the amount of airborne allergens with a Filtrete™ Allergen Defense Micro Allergen Filter</li><li class="extra-info">Using electrostatic technology, this high-performance filter turns your central heating and cooling system into a whole-house air cleaner by attracting and capturing microscopic allergens like pet dander, smoke and household dust, while also taking care of larger airborne allergens such as mould spores and pollen</li><li class="extra-info">For maximum performance, replace your Filtrete™ Filter seasonally (every 90 days) to ensure you and your household are breathing cleaner air.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Filtrete</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filters</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attracts and captures microscopic allergens like pet dander, smoke, household dust, and large allergens like pollen and mold spores</li><li class="extra-info"> Carries a 1000 Microparticle Performance Rating (MPR)</li><li class="extra-info"> Lasts up to three months</li><li class="extra-info"> Outperforms fibreglass, washable, and non-electrostatic pleated 1-inch (2.5 cm) filters</li><li class="extra-info"> Noticeably fresher air</li><li class="extra-info"> For residential use only</li><h2>Suggested Application</h2><li class="extra-info">Capture and reduce the amount of airborne allergens and viruses in your home</li><li class="extra-info">Use with Filtrete™ Whole House Air Fresheners to keep your home smelling just the way you like</li><li class="extra-info">Replace your filter seasonally for best performance (every 90 days)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>Line_Filtrete</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737151807532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.91</s:price>
+      <s:sku>HV FLT 9801DC-6-C</s:sku>
+      <s:grams>346</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737151578156</id>
+    <published>2019-03-16T02:06:13-04:00</published>
+    <updated>2019-03-16T02:06:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-fapf03"/>
+    <title>3M FAPF03  - Filtrete Replacement Air Filter Media -4(Lr) 7000011080</title>
+    <s:type>Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filters-3m-fapf03-filtrete-replacement-air-filter-media-4-lr-7000011080-12794718322732.jpg?v=1580091418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            24.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Filtrete Air Cleaning Filter Refill Pack</h4> <li class="extra-info">A healthy home begins with cleaner air</li><li class="extra-info">Improve the air quality in your house by reducing the amount of airborne allergens with Filtrete™ Air Cleaning Filter</li><li class="extra-info">This filter is 99.9% effective at capturing large allergens like pollen, mold spores and dust mite debris.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Taiwan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filters</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attract and capture large allergens like pollen, mold spores and dust mite debris</li><li class="extra-info"> Captures 99.9% of large airborne particles and allergens like pollen, mold and dust mite debris</li><h2>Suggested Application</h2><li class="extra-info">Capture and reduce airborne particles like lint, dust, dust mite debris, mould spores and pollen</li><li class="extra-info">Replace your filter seasonally for best performance (every 90 days)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737151578156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.88</s:price>
+      <s:sku>HV FLT FAPF03</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1144951930924</id>
+    <published>2018-08-13T21:38:52-04:00</published>
+    <updated>2018-08-13T21:38:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-2001dc-6-c"/>
+    <title>3M Filtrete 2001DC-6-C  - Filtrete Healthy Living Ultra Allergen Filter Mpr 1500 16x25x1 7100017832</title>
+    <s:type>Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filters-3m-filtrete-2001dc-6-c-filtrete-healthy-living-ultra-allergen-filter-mpr-1500-16x25x1-7100017832-12795013136428.jpg?v=1580305089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filters<br>
+        <strong>Price: </strong>
+            22.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Filtrete Healthy Living Ultra Allergen Filter, MPR 1500, 16 in x 25 in x 1 in</h4> <li class="extra-info">A healthy home begins with cleaner air</li><li class="extra-info">Improve the air quality in your house by reducing the amount of airborne allergens with a Filtrete™ Healthy Living Ultra Allergen Filter</li><li class="extra-info">Using electrostatic technology, this high-performance filter proactively captures dust, bacteria, germs, viruses and allergens from the air, and is three times better than non-electrostatic filters at capturing small particles</li><li class="extra-info">For maximum performance, replace your Filtrete™ Filter seasonally (every 90 days) to ensure you and your household are breathing cleaner air.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Filtrete</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filters</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Attracts and captures large airborne allergens from air passing through the filter</li><li class="extra-info"> Carries a 1500 Microparticle Performance Rating (MPR)</li><li class="extra-info"> Three times better than non-electrostatic filters at capturing small particles</li><li class="extra-info"> Lasts up to three months</li><li class="extra-info"> Noticeably fresher air</li><li class="extra-info"> For residential use only</li><h2>Suggested Application</h2><li class="extra-info">Capture and reduce the amount of airborne allergens and viruses in your home</li><li class="extra-info">Use with Filtrete™ Whole House Air Fresheners to keep your home smelling just the way you like</li><li class="extra-info">Replace your filter seasonally for best performance (every 90 days)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>HV</s:tag>
+    <s:tag>HV FLT</s:tag>
+    <s:tag>Line_Filtrete</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1144951930924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.83</s:price>
+      <s:sku>HV FLT 2001DC-6-C</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+  </entry>
+</feed>

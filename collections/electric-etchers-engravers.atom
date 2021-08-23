@@ -1,0 +1,1144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/electric-etchers-engravers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T15:06:02-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813417623596</id>
+    <published>2019-05-11T15:06:02-04:00</published>
+    <updated>2019-05-11T15:06:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l339"/>
+    <title>Walter 53L339  - Empty Spray Bottle/Surfox-N 53L339</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l339-empty-spray-bottle-surfox-n-53l339-13937483218988.jpg?v=1579958251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813417623596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.21</s:price>
+      <s:sku>ET ETC 53L339</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813417558060</id>
+    <published>2019-05-11T15:06:02-04:00</published>
+    <updated>2019-05-11T15:06:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l353"/>
+    <title>Walter 53L353  - Surfox Renew Empty Sprayer 53L353</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l353-surfox-renew-empty-sprayer-53l353-13937483808812.jpg?v=1579960416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813417558060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.13</s:price>
+      <s:sku>ET ETC 53L353</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813417361452</id>
+    <published>2019-05-11T15:05:59-04:00</published>
+    <updated>2019-05-11T15:05:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l354"/>
+    <title>Walter 53L354  - Surfox Pre-Weld Sprayer 53L354</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l354-surfox-pre-weld-sprayer-53l354-13937483841580.jpg?v=1580459981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813417361452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.13</s:price>
+      <s:sku>ET ETC 53L354</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813416149036</id>
+    <published>2019-05-11T15:05:37-04:00</published>
+    <updated>2019-05-11T15:05:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a001"/>
+    <title>Walter 54A001  - Surfox-T 100Ml-Pkg/6 54A001</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a001-surfox-t-100ml-pkg-6-54a001-13937485774892.jpg?v=1580460419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            62.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-T</h4> <li class="extra-info">This heavy-duty electrolyte solution is composed of phosphoric acid and other additives which makes it ideal for the most demanding weld cleaning applications</li><li class="extra-info">SURFOX-T is formulated for cleaning TIG, SPOT and PULSED MIG welds (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy-duty formula</li><h2>Product Information</h2><li class="extra-info">Safe alternative to pickling paste and harsh acids</li><li class="extra-info"> Free from hydrofluoric acid and nitric acid ASTM A967 (ASTM 380) certified for passivation NSF registered for food plant applications</li><li class="extra-info"> Formulated for the most demanding TIG, SPOT and PULSED MIG weld cleaning applications</li><li class="extra-info"> Removes light scaling.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813416149036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.17</s:price>
+      <s:sku>ET ETC 54A001</s:sku>
+      <s:grams>444</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813416116268</id>
+    <published>2019-05-11T15:05:34-04:00</published>
+    <updated>2019-05-11T15:05:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a003"/>
+    <title>Walter 54A003  - Surfox-T Weld Sprayer 500Ml 54A003</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a003-surfox-t-weld-sprayer-500ml-54a003-13937485807660.jpg?v=1580460606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813416116268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.42</s:price>
+      <s:sku>ET ETC 54A003</s:sku>
+      <s:grams>254</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813416083500</id>
+    <published>2019-05-11T15:05:32-04:00</published>
+    <updated>2019-05-11T15:05:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a025"/>
+    <title>Walter 54A025  - Surfox-N 3.78 L 54A025</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a025-surfox-n-3-78-l-54a025-13937486135340.jpg?v=1580460693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            20.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-N</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Neutralize SURFOX-T</li><li class="extra-info"> SURFOX Renew</li><li class="extra-info"> clean SURFOX-G.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813416083500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.67</s:price>
+      <s:sku>ET ETC 54A025</s:sku>
+      <s:grams>1782</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813416050732</id>
+    <published>2019-05-11T15:05:32-04:00</published>
+    <updated>2019-05-11T15:05:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a006"/>
+    <title>Walter 54A006  - Surfox-T Weld/ 5L 54A006</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a006-surfox-t-weld-5l-54a006-13937486037036.jpg?v=1579957530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            95.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-T</h4> <li class="extra-info">This heavy-duty electrolyte solution is composed of phosphoric acid and other additives which makes it ideal for the most demanding weld cleaning applications</li><li class="extra-info">SURFOX-T is formulated for cleaning TIG, SPOT and PULSED MIG welds (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy-duty formula</li><h2>Product Information</h2><li class="extra-info">Safe alternative to pickling paste and harsh acids</li><li class="extra-info"> Free from hydrofluoric acid and nitric acid ASTM A967 (ASTM 380) certified for passivation NSF registered for food plant applications</li><li class="extra-info"> Formulated for the most demanding TIG, SPOT and PULSED MIG weld cleaning applications</li><li class="extra-info"> Removes light scaling.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813416050732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.01</s:price>
+      <s:sku>ET ETC 54A006</s:sku>
+      <s:grams>3311</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813416017964</id>
+    <published>2019-05-11T15:05:32-04:00</published>
+    <updated>2019-05-11T15:05:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a007"/>
+    <title>Walter 54A007  - Surfox-T Weld/20L 54A007</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a007-surfox-t-weld-20l-54a007-13937486069804.jpg?v=1579957563"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            360.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-T</h4> <li class="extra-info">This heavy-duty electrolyte solution is composed of phosphoric acid and other additives which makes it ideal for the most demanding weld cleaning applications</li><li class="extra-info">SURFOX-T is formulated for cleaning TIG, SPOT and PULSED MIG welds (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy-duty formula</li><h2>Product Information</h2><li class="extra-info">Safe alternative to pickling paste and harsh acids</li><li class="extra-info"> Free from hydrofluoric acid and nitric acid ASTM A967 (ASTM 380) certified for passivation NSF registered for food plant applications</li><li class="extra-info"> Formulated for the most demanding TIG, SPOT and PULSED MIG weld cleaning applications</li><li class="extra-info"> Removes light scaling.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813416017964</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">360.87</s:price>
+      <s:sku>ET ETC 54A007</s:sku>
+      <s:grams>13453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415985196</id>
+    <published>2019-05-11T15:05:31-04:00</published>
+    <updated>2019-05-11T15:05:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a008"/>
+    <title>Walter 54A008  - Surfox-T Weld/208L 54A008</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a008-surfox-t-weld-208l-54a008-13937486102572.jpg?v=1580460659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2615.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-T</h4> <li class="extra-info">This heavy-duty electrolyte solution is composed of phosphoric acid and other additives which makes it ideal for the most demanding weld cleaning applications</li><li class="extra-info">SURFOX-T is formulated for cleaning TIG, SPOT and PULSED MIG welds (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy-duty formula</li><h2>Product Information</h2><li class="extra-info">Safe alternative to pickling paste and harsh acids</li><li class="extra-info"> Free from hydrofluoric acid and nitric acid ASTM A967 (ASTM 380) certified for passivation NSF registered for food plant applications</li><li class="extra-info"> Formulated for the most demanding TIG, SPOT and PULSED MIG weld cleaning applications</li><li class="extra-info"> Removes light scaling.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415985196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2615.51</s:price>
+      <s:sku>ET ETC 54A008</s:sku>
+      <s:grams>95254</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415952428</id>
+    <published>2019-05-11T15:05:31-04:00</published>
+    <updated>2019-05-11T15:05:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a005"/>
+    <title>Walter 54A005  - Surfox-T Weld 1.5L 54A005</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a005-surfox-t-weld-1-5l-54a005-13937486004268.jpg?v=1580460540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-T</h4> <li class="extra-info">This heavy-duty electrolyte solution is composed of phosphoric acid and other additives which makes it ideal for the most demanding weld cleaning applications</li><li class="extra-info">SURFOX-T is formulated for cleaning TIG, SPOT and PULSED MIG welds (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Heavy-duty formula</li><h2>Product Information</h2><li class="extra-info">Safe alternative to pickling paste and harsh acids</li><li class="extra-info"> Free from hydrofluoric acid and nitric acid ASTM A967 (ASTM 380) certified for passivation NSF registered for food plant applications</li><li class="extra-info"> Formulated for the most demanding TIG, SPOT and PULSED MIG weld cleaning applications</li><li class="extra-info"> Removes light scaling.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415952428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.63</s:price>
+      <s:sku>ET ETC 54A005</s:sku>
+      <s:grams>966</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415919660</id>
+    <published>2019-05-11T15:05:28-04:00</published>
+    <updated>2019-05-11T15:05:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a031"/>
+    <title>Walter 54A031  - Surfox Marking Solution 100Ml 54A031</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a031-surfox-marking-solution-100ml-54a031-13937486430252.jpg?v=1579957497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-M</h4> <li class="extra-info">SURFOX-M is an electrolyte solution specially conceived to permanently black mark stainless steel on AC (alternating current) mode</li><li class="extra-info">This oxidation process will leave a dark mark on the surface of stainless steel without altering it</li><li class="extra-info">Marking on stainless steel is resistant against mechanical and chemical attacks.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Stainless Steel Marking Electrolyte (black)</li><h2>Product Information</h2><li class="extra-info">Compatible with both permanent and disposable stencils</li><li class="extra-info"> Leaves a black, permanent marking on the stainless steel surface</li><li class="extra-info"> For marking of company logos, barcodes, QR codes, serial numbers, text and other information on stainless steel surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415919660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.38</s:price>
+      <s:sku>ET ETC 54A031</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415886892</id>
+    <published>2019-05-11T15:05:28-04:00</published>
+    <updated>2019-05-11T15:05:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a028"/>
+    <title>Walter 54A028  - Surfox-N 208L 54A028</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a028-surfox-n-208l-54a028-13937486397484.jpg?v=1580460573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            796.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-N</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Neutralize SURFOX-T</li><li class="extra-info"> SURFOX Renew</li><li class="extra-info"> clean SURFOX-G.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415886892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">796.32</s:price>
+      <s:sku>ET ETC 54A028</s:sku>
+      <s:grams>95254</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415755820</id>
+    <published>2019-05-11T15:05:24-04:00</published>
+    <updated>2019-05-11T15:05:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a041"/>
+    <title>Walter 54A041  - Surfox Etching Solution 100Ml 54A041</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a041-surfox-etching-solution-100ml-54a041-13937486692396.jpg?v=1579957381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-E</h4> <li class="extra-info">SURFOX-E is an electrolyte solution specially conceived to permanently etch into the material on DC (direct current) mode which is available on MINI SURFOX and SURFOX 204 machines</li><li class="extra-info">Similar to polishing, the etching of stainless steel will remove material and alter the surface.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Stainless Steel Etching Electrolyte (white)</li><h2>Product Information</h2><li class="extra-info">Compatible with both permanent and disposable stencils</li><li class="extra-info"> Leaves a white, permanent etching in stainless steel</li><li class="extra-info"> For etching company logos, text, barcodes, QR codes, serial numbers and other information in stainless steel</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415755820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.29</s:price>
+      <s:sku>ET ETC 54A041</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415723052</id>
+    <published>2019-05-11T15:05:22-04:00</published>
+    <updated>2019-05-11T15:05:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a066"/>
+    <title>Walter 54A066  - Surfox-G / 5L 54A066</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a066-surfox-g-5l-54a066-13937487118380.jpg?v=1580460812"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-G</h4> <li class="extra-info">SURFOX-G is specially designed for the electrochemical cleaning of TIG welds on stainless steel and is NSF registered to be used in food plants</li><li class="extra-info">SURFOX-G successfully removes heat tint from welded areas on stainless steel and dissolves free iron to enhance passivation (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">pH neutral electrolyte solution</li><h2>Product Information</h2><li class="extra-info">NSF Registered</li><li class="extra-info"> Non corrosive formula</li><li class="extra-info"> Less fumes</li><li class="extra-info"> Salt based technology</li><li class="extra-info"> Safe, pH neutral solution</li><li class="extra-info"> Lower environmental impact</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415723052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.47</s:price>
+      <s:sku>ET ETC 54A066</s:sku>
+      <s:grams>3129</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415690284</id>
+    <published>2019-05-11T15:05:21-04:00</published>
+    <updated>2019-05-11T15:05:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a061"/>
+    <title>Walter 54A061  - Surfox-G / 100Ml Pkg/6 54A061</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a061-surfox-g-100ml-pkg-6-54a061-13937487020076.jpg?v=1580460928"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            52.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-G</h4> <li class="extra-info">SURFOX-G is specially designed for the electrochemical cleaning of TIG welds on stainless steel and is NSF registered to be used in food plants</li><li class="extra-info">SURFOX-G successfully removes heat tint from welded areas on stainless steel and dissolves free iron to enhance passivation (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">pH neutral electrolyte solution</li><h2>Product Information</h2><li class="extra-info">NSF Registered</li><li class="extra-info"> Non corrosive formula</li><li class="extra-info"> Less fumes</li><li class="extra-info"> Salt based technology</li><li class="extra-info"> Safe, pH neutral solution</li><li class="extra-info"> Lower environmental impact</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415690284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">52.59</s:price>
+      <s:sku>ET ETC 54A061</s:sku>
+      <s:grams>408</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415657516</id>
+    <published>2019-05-11T15:05:21-04:00</published>
+    <updated>2019-05-11T15:05:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a068"/>
+    <title>Walter 54A068  - Surfox-G Electrolyte Sol. 208L 54A068</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a068-surfox-g-electrolyte-sol-208l-54a068-13937487052844.jpg?v=1580461019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2479.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX-G</h4> <li class="extra-info">SURFOX-G is specially designed for the electrochemical cleaning of TIG welds on stainless steel and is NSF registered to be used in food plants</li><li class="extra-info">SURFOX-G successfully removes heat tint from welded areas on stainless steel and dissolves free iron to enhance passivation (6 per package).</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">pH neutral electrolyte solution</li><h2>Product Information</h2><li class="extra-info">NSF Registered</li><li class="extra-info"> Non corrosive formula</li><li class="extra-info"> Less fumes</li><li class="extra-info"> Salt based technology</li><li class="extra-info"> Safe, pH neutral solution</li><li class="extra-info"> Lower environmental impact</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415657516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2479.39</s:price>
+      <s:sku>ET ETC 54A068</s:sku>
+      <s:grams>128366</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415624748</id>
+    <published>2019-05-11T15:05:19-04:00</published>
+    <updated>2019-05-11T15:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a076"/>
+    <title>Walter 54A076  - Surfox Pre Weld/5L 54A076</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a076-surfox-pre-weld-5l-54a076-13937487478828.jpg?v=1579957257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            55.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Pre-Weld</h4> <li class="extra-info">Formulated for preparing and degreasing metallic surfaces prior to welding.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Reduced VOC content when compared to solvent based surface cleaners</li><li class="extra-info"> Replacement for surface preparation solvents such as acetone</li><li class="extra-info"> Ready to use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415624748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">55.71</s:price>
+      <s:sku>ET ETC 54A076</s:sku>
+      <s:grams>2358</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415591980</id>
+    <published>2019-05-11T15:05:18-04:00</published>
+    <updated>2019-05-11T15:05:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a077"/>
+    <title>Walter 54A077  - Surfox Pre Weld 20L 54A077</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a077-surfox-pre-weld-20l-54a077-13937487544364.jpg?v=1580462764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Pre-Weld</h4> <li class="extra-info">Formulated for preparing and degreasing metallic surfaces prior to welding.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Reduced VOC content when compared to solvent based surface cleaners</li><li class="extra-info"> Replacement for surface preparation solvents such as acetone</li><li class="extra-info"> Ready to use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415591980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">269.19</s:price>
+      <s:sku>ET ETC 54A077</s:sku>
+      <s:grams>9638</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415559212</id>
+    <published>2019-05-11T15:05:18-04:00</published>
+    <updated>2019-05-11T15:05:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a073"/>
+    <title>Walter 54A073  - Surfox Pre Weld 500Ml 54A073</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a073-surfox-pre-weld-500ml-54a073-13937487282220.jpg?v=1580460896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Pre-Weld</h4> <li class="extra-info">Formulated for preparing and degreasing metallic surfaces prior to welding.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Reduced VOC content when compared to solvent based surface cleaners</li><li class="extra-info"> Replacement for surface preparation solvents such as acetone</li><li class="extra-info"> Ready to use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415559212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku>ET ETC 54A073</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415526444</id>
+    <published>2019-05-11T15:05:16-04:00</published>
+    <updated>2019-05-11T15:05:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a085"/>
+    <title>Walter 54A085  - Surfox Renew 3.78 L 54A085</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a085-surfox-renew-3-78-l-54a085-13937487577132.jpg?v=1579957322"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Renew</h4> <li class="extra-info">Highly concentrated, gel-like cleaner for removing rust and mineral deposits from stainless steel</li><li class="extra-info">Removes contaminants without attacking the parent material</li><li class="extra-info">Must be neutralized with SURFOX-N™ after use.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Gel formulation allows the product to cling to inclined surfaces </li><li class="extra-info">Concentrated formula - can be diluted up to 1:40 with water</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415526444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku>ET ETC 54A085</s:sku>
+      <s:grams>1933</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415493676</id>
+    <published>2019-05-11T15:05:16-04:00</published>
+    <updated>2019-05-11T15:05:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a087"/>
+    <title>Walter 54A087  - Surfox Renew 20L 54A087</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a087-surfox-renew-20l-54a087-13937487609900.jpg?v=1580462851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            209.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Renew</h4> <li class="extra-info">Highly concentrated, gel-like cleaner for removing rust and mineral deposits from stainless steel</li><li class="extra-info">Removes contaminants without attacking the parent material</li><li class="extra-info">Must be neutralized with SURFOX-N™ after use.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Gel formulation allows the product to cling to inclined surfaces </li><li class="extra-info">Concentrated formula - can be diluted up to 1:40 with water</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415493676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">209.19</s:price>
+      <s:sku>ET ETC 54A087</s:sku>
+      <s:grams>10913</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415460908</id>
+    <published>2019-05-11T15:05:15-04:00</published>
+    <updated>2019-05-11T15:05:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a083"/>
+    <title>Walter 54A083  - Surfox Renew,500Ml 54A083</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a083-surfox-renew-500ml-54a083-13937487511596.jpg?v=1579957290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            15.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Renew</h4> <li class="extra-info">Highly concentrated, gel-like cleaner for removing rust and mineral deposits from stainless steel</li><li class="extra-info">Removes contaminants without attacking the parent material</li><li class="extra-info">Must be neutralized with SURFOX-N™ after use.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Gel formulation allows the product to cling to inclined surfaces </li><li class="extra-info">Concentrated formula - can be diluted up to 1:40 with water</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415460908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.83</s:price>
+      <s:sku>ET ETC 54A083</s:sku>
+      <s:grams>299</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415428140</id>
+    <published>2019-05-11T15:05:12-04:00</published>
+    <updated>2019-05-11T15:05:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a097"/>
+    <title>Walter 54A097  - Surfox Shine 20L 54A097</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a097-surfox-shine-20l-54a097-13937487740972.jpg?v=1580462819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            292.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Shine</h4> <li class="extra-info">An innovative, non-hazardous product that removes light contaminants from stainless steel in one easy step.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Cleaner and protector for stainless steel</li><h2>Product Information</h2><li class="extra-info">Silicone-free, VOC-free, solvent-free, non-flammable, phosphate-free, biodegradable</li><li class="extra-info"> Leaves a uniform finish without streaking</li><li class="extra-info"> Ready to use</li><li class="extra-info"> Not controlled under WHMIS</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415428140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">292.53</s:price>
+      <s:sku>ET ETC 54A097</s:sku>
+      <s:grams>9185</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415395372</id>
+    <published>2019-05-11T15:05:12-04:00</published>
+    <updated>2019-05-11T15:05:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a095"/>
+    <title>Walter 54A095  - Surfox Shine 3.78 L 54A095</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a095-surfox-shine-3-78-l-54a095-13937487708204.jpg?v=1579957174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Shine</h4> <li class="extra-info">An innovative, non-hazardous product that removes light contaminants from stainless steel in one easy step.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Cleaner and protector for stainless steel</li><h2>Product Information</h2><li class="extra-info">Silicone-free, VOC-free, solvent-free, non-flammable, phosphate-free, biodegradable</li><li class="extra-info"> Leaves a uniform finish without streaking</li><li class="extra-info"> Ready to use</li><li class="extra-info"> Not controlled under WHMIS</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415395372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.59</s:price>
+      <s:sku>ET ETC 54A095</s:sku>
+      <s:grams>1933</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813415362604</id>
+    <published>2019-05-11T15:05:12-04:00</published>
+    <updated>2019-05-11T15:05:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-54a093"/>
+    <title>Walter 54A093  - Surfox Shine 500Ml 54A093</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-54a093-surfox-shine-500ml-54a093-13937487642668.jpg?v=1580462941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">SURFOX Shine</h4> <li class="extra-info">An innovative, non-hazardous product that removes light contaminants from stainless steel in one easy step.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Cleaner and protector for stainless steel</li><h2>Product Information</h2><li class="extra-info">Silicone-free, VOC-free, solvent-free, non-flammable, phosphate-free, biodegradable</li><li class="extra-info"> Leaves a uniform finish without streaking</li><li class="extra-info"> Ready to use</li><li class="extra-info"> Not controlled under WHMIS</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ET</s:tag>
+    <s:tag>ET ETC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813415362604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.63</s:price>
+      <s:sku>ET ETC 54A093</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+</feed>

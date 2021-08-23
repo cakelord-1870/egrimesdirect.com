@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/non-woven-abrasives.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-07T00:40:37-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4352526614572</id>
+    <published>2019-12-07T00:40:37-05:00</published>
+    <updated>2019-12-07T00:40:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-h-c41-7-5x4-4x2-1"/>
+    <title>3M H-C41-7.5X4.4X2-1/  - Commercial Size Sponge C4 7.5 in x 4.375 in x 2.06 in 7000144999</title>
+    <s:type>Non-woven Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/non-woven-pads-3m-h-c41-7-5x4-4x2-1-commercial-size-sponge-c4-7-5-in-x-4-375-in-x-2-06-in-7000144999-13427277987884.jpg?v=1579667819"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Non-woven Pads<br>
+        <strong>Price: </strong>
+            77.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Commercial Size Sponge C41, 7.5 in x 4.375 in x 2.06 in, 24/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Non-woven Pads</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4352526614572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.66</s:price>
+      <s:sku>NW NPA H-C41-7.5X4.4X2-1/</s:sku>
+      <s:grams>3900</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037063212</id>
+    <published>2019-12-04T10:30:27-05:00</published>
+    <updated>2019-12-04T10:30:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-3700plg-hog-24"/>
+    <title>3M F-3700PLG-HOG-24  - 3700Plg Super Hog&apos;S Hair Pads 24 in, Gray, F-3700Plg-Hog-24 7000126627</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-3700plg-hog-24-3700plg-super-hog-s-hair-pads-24-in-gray-f-3700plg-hog-24-7000126627-13120528941100.jpg?v=1580083050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            69.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3700PLG Super Hog's Hair Pads 24 in, Gray, 5/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037063212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.13</s:price>
+      <s:sku>NW NPA F-3700PLG-HOG-24</s:sku>
+      <s:grams>2304</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037128748</id>
+    <published>2019-12-04T10:30:26-05:00</published>
+    <updated>2019-12-04T10:30:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-7400plg-blk-17"/>
+    <title>3M F-7400PLG-BLK-17  - 7400Plg High Performance Stripping Pad 17 in, F-7400Plg-Blk-17 7000126604</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-7400plg-blk-17-7400plg-high-performance-stripping-pad-17-in-f-7400plg-blk-17-7000126604-13120529072172.jpg?v=1580305561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">7400PLG High Performance Stripping Pad 17 in, 5/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037128748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.07</s:price>
+      <s:sku>NW NPA F-7400PLG-BLK-17</s:sku>
+      <s:grams>1746</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037095980</id>
+    <published>2019-12-04T10:30:26-05:00</published>
+    <updated>2019-12-04T10:30:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-3700plg-hog-19"/>
+    <title>3M F-3700PLG-HOG-19  - 3700Plg Super Hog&apos;S Hair Pads 19 in, Gray, F-3700Plg-Hog-19 7000126622</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-3700plg-hog-19-3700plg-super-hog-s-hair-pads-19-in-gray-f-3700plg-hog-19-7000126622-13120529039404.jpg?v=1580307012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3700PLG Super Hog's Hair Pads 19 in, Gray, 5/case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037095980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.99</s:price>
+      <s:sku>NW NPA F-3700PLG-HOG-19</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037194284</id>
+    <published>2019-12-04T10:30:25-05:00</published>
+    <updated>2019-12-04T10:30:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-08606-19"/>
+    <title>3M F-08606-19  - 3M Carpet Bonnet Pad, F-08606, 483 mm (19 in) F-08606-19 7000126601</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-08606-19-3m-carpet-bonnet-pad-f-08606-483-mm-19-in-f-08606-19-7000126601-13120529170476.jpg?v=1580097602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            102.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Carpet Bonnet Pad, F-08606, 483 mm (19 in)</h4> <li class="extra-info">3M™ Carpet Bonnet Pads feature a non-woven construction and a low-profile design to allow floor machines to glide easily over carpet, helping to reduce operator fatigue and improve cleaning efficiency</li><li class="extra-info">Available in a wide range of sizes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Non-woven construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037194284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">102.37</s:price>
+      <s:sku>NW NPA F-08606-19</s:sku>
+      <s:grams>920</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037161516</id>
+    <published>2019-12-04T10:30:25-05:00</published>
+    <updated>2019-12-04T10:30:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-08607-20"/>
+    <title>3M F-08607-20  - 3M Carpet Bonnet Pad, F-08607-20, 508 mm (20 in) F-08607-20 7000126602</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-08607-20-3m-carpet-bonnet-pad-f-08607-20-508-mm-20-in-f-08607-20-7000126602-13120529137708.jpg?v=1580096461"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            111.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Carpet Bonnet Pad, F-08607-20, 508 mm (20 in)</h4> <li class="extra-info">3M™ Carpet Bonnet Pads feature a non-woven construction and a low-profile design to allow floor machines to glide easily over carpet, helping to reduce operator fatigue and improve cleaning efficiency</li><li class="extra-info">Available in a wide range of sizes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Non-woven construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037161516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">111.62</s:price>
+      <s:sku>NW NPA F-08607-20</s:sku>
+      <s:grams>993</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037718572</id>
+    <published>2019-12-04T10:30:15-05:00</published>
+    <updated>2019-12-04T10:30:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8447-18"/>
+    <title>3M 8447-18  - 3M Scotch-Brite Between Coats Disc 8447, 18 in, 10 cs, Maroon Very Fine 8447-18 7000126206</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8447-18-3m-scotch-brite-between-coats-disc-8447-18-in-10-cs-maroon-very-fine-8447-18-7000126206-13120529661996.jpg?v=1580154065"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Brite(TM) Between Coats Disc 8447, 18 in, 10 cs, Maroon Very Fine</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037718572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.24</s:price>
+      <s:sku>NW NDI 8447-18</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037784108</id>
+    <published>2019-12-04T10:30:14-05:00</published>
+    <updated>2019-12-04T10:30:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-23093"/>
+    <title>3M 23093  - 3M Scotch-Brite Between Coats Disc 8447, 16 in, BCP 16 10 cs, Maroon Very Fine 23093 7000126204</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-23093-3m-scotch-brite-between-coats-disc-8447-16-in-bcp-16-10-cs-maroon-very-fine-23093-7000126204-13120529760300.jpg?v=1580180610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.30
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Brite(TM) Between Coats Disc 8447, 16 in, BCP 16 10 cs, Maroon Very Fine</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037784108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.30</s:price>
+      <s:sku>NW NPA 23093</s:sku>
+      <s:grams>1220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037751340</id>
+    <published>2019-12-04T10:30:14-05:00</published>
+    <updated>2019-12-04T10:30:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8447-17"/>
+    <title>3M 8447-17  - 3M Scotch-Brite Between Coats Disc 8447, 17 in, 10 cs, Maroon Very Fine 8447-17 7000126205</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8447-17-3m-scotch-brite-between-coats-disc-8447-17-in-10-cs-maroon-very-fine-8447-17-7000126205-13120529694764.jpg?v=1580154096"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Brite(TM) Between Coats Disc 8447, 17 in, 10 cs, Maroon Very Fine</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037751340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.06</s:price>
+      <s:sku>NW NDI 8447-17</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255037849644</id>
+    <published>2019-12-04T10:30:12-05:00</published>
+    <updated>2019-12-04T10:30:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-3400-tan-27"/>
+    <title>3M F-3400-TAN-27  - 3M Burnish Pad, 3400, tan, 686 mm (27 in) F-3400-TAN-27 7000126174</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-3400-tan-27-3m-burnish-pad-3400-tan-686-mm-27-in-f-3400-tan-27-7000126174-13120529793068.jpg?v=1580084010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            99.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Burnish Pad, 3400, tan, 686 mm (27 in)</h4> <li class="extra-info">3M™ Tan Burnish Pad 3400 is a floor maintenance burnishing pad that produces a brilliant gloss while removing scuffs and marks and is the industry standard for consistent performance and long life</li><li class="extra-info">Made of polyester fibre in a non-woven web construction, this pad offers exceptional durability and life</li><li class="extra-info">The fibres are bonded to the web structure with a durable resin system that permeates the entire pad.Its durable construction make these pads ideal for use on harder finishes and high traffic conditions.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Produces brilliant wet-look in gloss</li><li class="extra-info"> Designed for exceptional durability, life and superior mark removal</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255037849644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.56</s:price>
+      <s:sku>NW NPA F-3400-TAN-27</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038046252</id>
+    <published>2019-12-04T10:30:10-05:00</published>
+    <updated>2019-12-04T10:30:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-3500-nbt-18"/>
+    <title>3M F-3500-NBT-18  - 3M Natural Blend Tan Pad, 3500, 457 mm (18 in) F-3500-NBT-18 7000126083</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-3500-nbt-18-3m-natural-blend-tan-pad-3500-457-mm-18-in-f-3500-nbt-18-7000126083-13120529924140.jpg?v=1580296655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Natural Blend Tan Pad, 3500, 457 mm (18 in)</h4> <li class="extra-info">The 3M™ Natural Blend Tan Pad 3500 is made of natural hair and synthetic fibres designed for optimum mark removal</li><li class="extra-info">For use on harder finishes or in high-traffic areas, this pad removes scratches and marks while it polishes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">For use on harder finishes and high traffic conditions</li><li class="extra-info"> Removes marks and scuffs while polishing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NPA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038046252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.08</s:price>
+      <s:sku>NW NPA F-3500-NBT-18</s:sku>
+      <s:grams>1564</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038373932</id>
+    <published>2019-12-04T10:30:05-05:00</published>
+    <updated>2019-12-04T10:30:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-885101"/>
+    <title>3M STA-885101  - Standard Abrasives Surface Conditioning FE Belt 885101, 1/2 in x 24 in MED, 10 per case STA-885101 7000121944</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-885101-standard-abrasives-surface-conditioning-fe-belt-885101-1-2-in-x-24-in-med-10-per-case-sta-885101-7000121944-13120530251820.jpg?v=1578809122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Surface Conditioning FE Belt 885101, 1/2 in x 24 in MED, 10 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82BnY_1Nv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038373932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku>NW NBE STA-885101</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038341164</id>
+    <published>2019-12-04T10:30:05-05:00</published>
+    <updated>2019-12-04T10:30:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-888055"/>
+    <title>3M STA-888055  - Standard Abrasives Surface Conditioning RC Belt 888055, 3/4 in x 18 in MED, 10 per case STA-888055 7000121947</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-888055-standard-abrasives-surface-conditioning-rc-belt-888055-3-4-in-x-18-in-med-10-per-case-sta-888055-7000121947-13120530219052.jpg?v=1578809243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Surface Conditioning RC Belt 888055, 3/4 in x 18 in MED, 10 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtvo8m9Ov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038341164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.48</s:price>
+      <s:sku>NW NBE STA-888055</s:sku>
+      <s:grams>308</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038406700</id>
+    <published>2019-12-04T10:30:04-05:00</published>
+    <updated>2019-12-04T10:30:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-885091"/>
+    <title>3M STA-885091  - Standard Abrasives Surface Conditioning FE Belt 885091, 3/4 in x 18 in MED, 10 per case STA-885091 7000121941</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-885091-standard-abrasives-surface-conditioning-fe-belt-885091-3-4-in-x-18-in-med-10-per-case-sta-885091-7000121941-13120530284588.jpg?v=1578809036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Surface Conditioning FE Belt 885091, 3/4 in x 18 in MED, 10 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82BnY_1Nv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NBE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038406700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.58</s:price>
+      <s:sku>NW NBE STA-885091</s:sku>
+      <s:grams>471</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038767148</id>
+    <published>2019-12-04T10:30:00-05:00</published>
+    <updated>2019-12-04T10:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-856708"/>
+    <title>3M STA-856708  - Standard Abrasives Buff and Blend HP Disc 856708, 6 in x 3/4 in A VFN, 10 per case STA-856708 7000121897</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-856708-standard-abrasives-buff-and-blend-hp-disc-856708-6-in-x-3-4-in-a-vfn-10-per-case-sta-856708-7000121897-13120530612268.jpg?v=1578807796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Buff and Blend HP Disc 856708, 6 in x 3/4 in A VFN, 10 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtvPYtxOv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038767148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.02</s:price>
+      <s:sku>NW NDI STA-856708</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038734380</id>
+    <published>2019-12-04T10:30:00-05:00</published>
+    <updated>2019-12-04T10:30:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-858882"/>
+    <title>3M STA-858882  - Standard Abrasives Metal Finishing Wheel 858882, 12 in x 2 in x 5 in 5A MED, 1 per case STA-858882 7000121898</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-858882-standard-abrasives-metal-finishing-wheel-858882-12-in-x-2-in-x-5-in-5a-med-1-per-case-sta-858882-7000121898-13120530579500.jpg?v=1578807830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            344.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Metal Finishing Wheel 858882, 12 in x 2 in x 5 in 5A MED, 1 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtxN8tGov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NWH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038734380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">344.16</s:price>
+      <s:sku>NW NWH STA-858882</s:sku>
+      <s:grams>1823</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038832684</id>
+    <published>2019-12-04T10:29:59-05:00</published>
+    <updated>2019-12-04T10:29:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-855193"/>
+    <title>3M STA-855193  - Standard Abrasives Deburring Wheel 855193, 6 in x 1 in x 1 in 10S FIN, 3 per case STA-855193 7000121893</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-855193-standard-abrasives-deburring-wheel-855193-6-in-x-1-in-x-1-in-10s-fin-3-per-case-sta-855193-7000121893-13120530677804.jpg?v=1578807715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Deburring Wheel 855193, 6 in x 1 in x 1 in 10S FIN, 3 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtx4Y_Sov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NWH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038832684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.06</s:price>
+      <s:sku>NW NWH STA-855193</s:sku>
+      <s:grams>430</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038799916</id>
+    <published>2019-12-04T10:29:59-05:00</published>
+    <updated>2019-12-04T10:29:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-856191"/>
+    <title>3M STA-856191  - Standard Abrasives Multi-Finish Wheel 856191, 6 in x 1 in x 1 in 2S CRS, 3 per case STA-856191 7000121894</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-856191-standard-abrasives-multi-finish-wheel-856191-6-in-x-1-in-x-1-in-2s-crs-3-per-case-sta-856191-7000121894-13120530645036.jpg?v=1578807920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            44.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Multi-Finish Wheel 856191, 6 in x 1 in x 1 in 2S CRS, 3 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtx48mZ4v70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NWH</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038799916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.60</s:price>
+      <s:sku>NW NWH STA-856191</s:sku>
+      <s:grams>344</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038898220</id>
+    <published>2019-12-04T10:29:58-05:00</published>
+    <updated>2019-12-04T10:29:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-847618"/>
+    <title>3M STA-847618  - Standard Abrasives Surface Conditioning GP Disc 847618, 5 in x 5/8 in Hole MED, 10 per inner 100 per case STA-847618 7000121877</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-847618-standard-abrasives-surface-conditioning-gp-disc-847618-5-in-x-5-8-in-hole-med-10-per-inner-100-per-case-sta-847618-7000121877-13120530743340.jpg?v=1578819352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Surface Conditioning GP Disc 847618, 5 in x 5/8 in Hole MED, 10 per inner 100 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtv5x2xNv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038898220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.15</s:price>
+      <s:sku>NW NDI STA-847618</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038865452</id>
+    <published>2019-12-04T10:29:58-05:00</published>
+    <updated>2019-12-04T10:29:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-853408"/>
+    <title>3M STA-853408  - Standard Abrasives Buff and Blend HP Disc 853408, 4 in x 1/4 in A VFN, 10 per case STA-853408 7000121890</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-853408-standard-abrasives-buff-and-blend-hp-disc-853408-4-in-x-1-4-in-a-vfn-10-per-case-sta-853408-7000121890-13120530710572.jpg?v=1578819562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Buff and Blend HP Disc 853408, 4 in x 1/4 in A VFN, 10 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtvPYtxOv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038865452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.29</s:price>
+      <s:sku>NW NDI STA-853408</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038996524</id>
+    <published>2019-12-04T10:29:57-05:00</published>
+    <updated>2019-12-04T10:29:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-840710"/>
+    <title>3M STA-840710  - Standard Abrasives Buff and Blend GP Disc 840710, 6 in x 1/2 in A MED, 10 per case STA-840710 7000121863</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-840710-standard-abrasives-buff-and-blend-gp-disc-840710-6-in-x-1-2-in-a-med-10-per-case-sta-840710-7000121863-13120530939948.jpg?v=1578818999"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Buff and Blend GP Disc 840710, 6 in x 1/2 in A MED, 10 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtv5xmUov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038996524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.51</s:price>
+      <s:sku>NW NDI STA-840710</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038963756</id>
+    <published>2019-12-04T10:29:57-05:00</published>
+    <updated>2019-12-04T10:29:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-844510"/>
+    <title>3M STA-844510  - Standard Abrasives Buff and Blend GP Disc 844510, 4-1/2 in x 3/8 in A MED, 10 per case STA-844510 7000121871</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-844510-standard-abrasives-buff-and-blend-gp-disc-844510-4-1-2-in-x-3-8-in-a-med-10-per-case-sta-844510-7000121871-13120530907180.jpg?v=1578819148"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Buff and Blend GP Disc 844510, 4-1/2 in x 3/8 in A MED, 10 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtv5xmUov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038963756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.53</s:price>
+      <s:sku>NW NDI STA-844510</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038930988</id>
+    <published>2019-12-04T10:29:57-05:00</published>
+    <updated>2019-12-04T10:29:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-am21876"/>
+    <title>3M AM21876  - Standard Abrasives Surface Conditioning FE Disc 847614, 5 in x 5/8 in Hole VFN, 10 per inner 100 per case AM21876 7000121876</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-am21876-standard-abrasives-surface-conditioning-fe-disc-847614-5-in-x-5-8-in-hole-vfn-10-per-inner-100-per-case-am21876-7000121876-13120530776108.jpg?v=1580282968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Surface Conditioning FE Disc 847614, 5 in x 5/8 in Hole VFN, 10 per inner 100 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82BnY_1Nv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NDI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038930988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.96</s:price>
+      <s:sku>NW NDI AM21876</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039094828</id>
+    <published>2019-12-04T10:29:55-05:00</published>
+    <updated>2019-12-04T10:29:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-830010"/>
+    <title>3M STA-830010  - Standard Abrasives A/O Buff and Blend GP Roll 830010, 4 in x 30 ft A MED, 3 per case STA-830010 7000121837</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-830010-standard-abrasives-a-o-buff-and-blend-gp-roll-830010-4-in-x-30-ft-a-med-3-per-case-sta-830010-7000121837-13120531038252.jpg?v=1578807352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            107.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) A/O Buff and Blend GP Roll 830010, 4 in x 30 ft A MED, 3 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtv5xmUov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW NRO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039094828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.37</s:price>
+      <s:sku>NW NRO STA-830010</s:sku>
+      <s:grams>1846</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255039193132</id>
+    <published>2019-12-04T10:29:54-05:00</published>
+    <updated>2019-12-04T10:29:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sta-724274"/>
+    <title>3M STA-724274  - Standard Abrasives Buff and Blend Circle Buff GP 724274, 2 in x 1 Ply x 8-32 A MED, 25 per inner 250 per case STA-724274 7000121818</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sta-724274-standard-abrasives-buff-and-blend-circle-buff-gp-724274-2-in-x-1-ply-x-8-32-a-med-25-per-inner-250-per-case-sta-724274-7000121818-13120531136556.jpg?v=1578796996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.13
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Standard Abrasives(TM) Buff and Blend Circle Buff GP 724274, 2 in x 1 Ply x 8-32 A MED, 25 per inner 250 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMYtv5xmUov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>NW</s:tag>
+    <s:tag>NW SST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255039193132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.13</s:price>
+      <s:sku>NW SST STA-724274</s:sku>
+      <s:grams>258</s:grams>
+    </s:variant>
+  </entry>
+</feed>

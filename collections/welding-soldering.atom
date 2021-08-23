@@ -1,0 +1,1061 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/welding-soldering.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T15:07:57-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422768172</id>
+    <published>2019-05-11T15:07:57-04:00</published>
+    <updated>2019-05-11T15:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f002"/>
+    <title>Walter 53F002  - E-Weld Aerosol/400Ml 53F002</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f002-e-weld-aerosol-400ml-53f002-13937472897068.jpg?v=1579960534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD</h4> <li class="extra-info">E-WELD™ is a safe, natural solution that protects the work piece from weld spatter to keep you from having to perform time-consuming, costly rework.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">General purpose anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Contains temporary corrosion inhibitors</li><li class="extra-info"> Green color for a better view on workpiece</li><li class="extra-info"> Prevents weld spatter from sticking</li><li class="extra-info"> Ultrafine spray for complete coverage</li><li class="extra-info"> Will not harm painted surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422768172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.22</s:price>
+      <s:sku>WE CHE 53F002</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422702636</id>
+    <published>2019-05-11T15:07:57-04:00</published>
+    <updated>2019-05-11T15:07:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f103"/>
+    <title>Walter 53F103  - E-Weld Gel 200G 53F103</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f103-e-weld-gel-200g-53f103-13937473388588.jpg?v=1579960502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD GEL</h4> <li class="extra-info">Superior anti-spatter gel for protecting welding nozzles and contact tips.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Anti-spatter gel</li><h2>Product Information</h2><li class="extra-info">Contains no chlorinated compounds</li><li class="extra-info"> Silicone-free</li><li class="extra-info"> Extends torch life Faster</li><li class="extra-info"> easier cleaning of nozzle and contact tips</li><li class="extra-info"> Non-toxic</li><li class="extra-info"> Prevents build-up of weld spatter and flux</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422702636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.21</s:price>
+      <s:sku>WE CHE 53F103</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422735404</id>
+    <published>2019-05-11T15:07:56-04:00</published>
+    <updated>2019-05-11T15:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f203"/>
+    <title>Walter 53F203  - E-Weld Sprayer/500Ml 53F203</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f203-e-weld-sprayer-500ml-53f203-13937473617964.jpg?v=1579960617"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD</h4> <li class="extra-info">E-WELD™ is a safe, natural solution that protects the work piece from weld spatter to keep you from having to perform time-consuming, costly rework.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">General purpose anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Contains temporary corrosion inhibitors</li><li class="extra-info"> Green color for a better view on workpiece</li><li class="extra-info"> Prevents weld spatter from sticking</li><li class="extra-info"> Ultrafine spray for complete coverage</li><li class="extra-info"> Will not harm painted surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422735404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.05</s:price>
+      <s:sku>WE CHE 53F203</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422473260</id>
+    <published>2019-05-11T15:07:53-04:00</published>
+    <updated>2019-05-11T15:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f205"/>
+    <title>Walter 53F205  - E-Weld Liquide 3.78 L 53F205</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f205-e-weld-liquide-3-78-l-53f205-13937473683500.jpg?v=1579960684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            79.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD</h4> <li class="extra-info">E-WELD™ is a safe, natural solution that protects the work piece from weld spatter to keep you from having to perform time-consuming, costly rework.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">General purpose anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Contains temporary corrosion inhibitors</li><li class="extra-info"> Green color for a better view on workpiece</li><li class="extra-info"> Prevents weld spatter from sticking</li><li class="extra-info"> Ultrafine spray for complete coverage</li><li class="extra-info"> Will not harm painted surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422473260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.89</s:price>
+      <s:sku>WE CHE 53F205</s:sku>
+      <s:grams>1778</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422374956</id>
+    <published>2019-05-11T15:07:52-04:00</published>
+    <updated>2019-05-11T15:07:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f208"/>
+    <title>Walter 53F208  - E-Weld Liquid/208L 53F208</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f208-e-weld-liquid-208l-53f208-13937474666540.jpg?v=1580465165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1564.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD</h4> <li class="extra-info">E-WELD™ is a safe, natural solution that protects the work piece from weld spatter to keep you from having to perform time-consuming, costly rework.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">General purpose anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Contains temporary corrosion inhibitors</li><li class="extra-info"> Green color for a better view on workpiece</li><li class="extra-info"> Prevents weld spatter from sticking</li><li class="extra-info"> Ultrafine spray for complete coverage</li><li class="extra-info"> Will not harm painted surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422374956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1564.68</s:price>
+      <s:sku>WE CHE 53F208</s:sku>
+      <s:grams>98973</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422342188</id>
+    <published>2019-05-11T15:07:52-04:00</published>
+    <updated>2019-05-11T15:07:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f207"/>
+    <title>Walter 53F207  - E-Weld Liquide/20 L 53F207</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f207-e-weld-liquide-20-l-53f207-13937473749036.jpg?v=1580459861"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            354.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD</h4> <li class="extra-info">E-WELD™ is a safe, natural solution that protects the work piece from weld spatter to keep you from having to perform time-consuming, costly rework.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">General purpose anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Contains temporary corrosion inhibitors</li><li class="extra-info"> Green color for a better view on workpiece</li><li class="extra-info"> Prevents weld spatter from sticking</li><li class="extra-info"> Ultrafine spray for complete coverage</li><li class="extra-info"> Will not harm painted surfaces</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422342188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">354.96</s:price>
+      <s:sku>WE CHE 53F207</s:sku>
+      <s:grams>9534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422211116</id>
+    <published>2019-05-11T15:07:49-04:00</published>
+    <updated>2019-05-11T15:07:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f253"/>
+    <title>Walter 53F253  - E-Weld 3 500 Ml 53F253</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f253-e-weld-3-500-ml-53f253-13937474404396.jpg?v=1579960776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 3</h4> <li class="extra-info">E-WELD 3 is a unique, high performing anti-spatter solution that protect workpieces from adherence of high energy spatter and eliminates costly spatter removal operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High temperature anti-spatter solution</li><h2>Product Information</h2><li class="extra-info">Water base formulation - biodegradable, non-flammable, odourless</li><li class="extra-info"> Multifonctional product - can also be used as a cleaner / degreaser</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Contains corrosion inhibitors for short term corrosion protection</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422211116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku>WE CHE 53F253</s:sku>
+      <s:grams>267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422178348</id>
+    <published>2019-05-11T15:07:49-04:00</published>
+    <updated>2019-05-11T15:07:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f212"/>
+    <title>Walter 53F212  - E-Weld Nozzle Aerosol/400Ml 53F212</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f212-e-weld-nozzle-aerosol-400ml-53f212-13937474306092.jpg?v=1580465098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            40.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD NOZZLE Kit</h4> <li class="extra-info">Extend the life of welding nozzles and reduce downtime spent scraping out spatter with E-WELD Nozzle</li><li class="extra-info">This highly concentrated anti-spatter evenly coats the exterior and interior surface of your welding nozzle to prevent spatter from adhering to the nozzle</li><li class="extra-info">This prevents obstructions and allows the gas to flow freely, resulting in a higher quality weld</li><li class="extra-info">This is an extremely economical solution, as the easy applicator dispenses a thin layer that can provide protection for up to 8 hours</li><li class="extra-info">This is an ideal solution for MIG welding, plasma cutting and laser cutting as the E-WELD Nozzle can withstand high temperatures (up to 1000° C) and reduce your consumable spend.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Total nozzle protection for best efficiency</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422178348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.55</s:price>
+      <s:sku>WE CHE 53F212</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422145580</id>
+    <published>2019-05-11T15:07:48-04:00</published>
+    <updated>2019-05-11T15:07:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f255"/>
+    <title>Walter 53F255  - E-Weld 3 3.78 L 53F255</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f255-e-weld-3-3-78-l-53f255-13937474535468.jpg?v=1580465337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            90.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 3</h4> <li class="extra-info">E-WELD 3 is a unique, high performing anti-spatter solution that protect workpieces from adherence of high energy spatter and eliminates costly spatter removal operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High temperature anti-spatter solution</li><h2>Product Information</h2><li class="extra-info">Water base formulation - biodegradable, non-flammable, odourless</li><li class="extra-info"> Multifonctional product - can also be used as a cleaner / degreaser</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Contains corrosion inhibitors for short term corrosion protection</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422145580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.66</s:price>
+      <s:sku>WE CHE 53F255</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813422112812</id>
+    <published>2019-05-11T15:07:48-04:00</published>
+    <updated>2019-05-11T15:07:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f257"/>
+    <title>Walter 53F257  - E-Weld 3/ 20 L 53F257</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f257-e-weld-3-20-l-53f257-13937474961452.jpg?v=1580465015"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            388.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 3</h4> <li class="extra-info">E-WELD 3 is a unique, high performing anti-spatter solution that protect workpieces from adherence of high energy spatter and eliminates costly spatter removal operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High temperature anti-spatter solution</li><h2>Product Information</h2><li class="extra-info">Water base formulation - biodegradable, non-flammable, odourless</li><li class="extra-info"> Multifonctional product - can also be used as a cleaner / degreaser</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Contains corrosion inhibitors for short term corrosion protection</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813422112812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">388.93</s:price>
+      <s:sku>WE CHE 53F257</s:sku>
+      <s:grams>9743</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421981740</id>
+    <published>2019-05-11T15:07:45-04:00</published>
+    <updated>2019-05-11T15:07:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f403"/>
+    <title>Walter 53F403  - E-Weld 4 /500Ml 53F403</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f403-e-weld-4-500ml-53f403-13937474994220.jpg?v=1580465216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            14.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 4</h4> <li class="extra-info">E-WELD 4 is Walter's premium anti-spatter that guarantees porosity-free welds</li><li class="extra-info">E-WELD 4 is guaranteed to protect work pieces from spatter and ensure clean welds, eliminating the need for time-consuming, costly rework by preventing weld porosity and weld cracks from forming</li><li class="extra-info">E-WELD 4 also retracts in the presence of heat, leaving the welding area clean of liquid</li><li class="extra-info">This is the ultimate anti-spatter for saving time and improving the quality of your work!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Premium anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Excellent corrosion resistance - ideal for ferrous alloys and corrosion sensitive parts</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Formulation based on natural plant extracts - biodegradable, non-flammable, pleasant citrus scent</li><li class="extra-info"> Helps prevent weld porosity and weld cracking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421981740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.44</s:price>
+      <s:sku>WE CHE 53F403</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421948972</id>
+    <published>2019-05-11T15:07:45-04:00</published>
+    <updated>2019-05-11T15:07:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f258"/>
+    <title>Walter 53F258  - E-Weld 3/ 208L 53F258</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f258-e-weld-3-208l-53f258-13937474863148.jpg?v=1580465133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2493.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 3</h4> <li class="extra-info">E-WELD 3 is a unique, high performing anti-spatter solution that protect workpieces from adherence of high energy spatter and eliminates costly spatter removal operations.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">High temperature anti-spatter solution</li><h2>Product Information</h2><li class="extra-info">Water base formulation - biodegradable, non-flammable, odourless</li><li class="extra-info"> Multifonctional product - can also be used as a cleaner / degreaser</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Contains corrosion inhibitors for short term corrosion protection</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421948972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2493.05</s:price>
+      <s:sku>WE CHE 53F258</s:sku>
+      <s:grams>101141</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421916204</id>
+    <published>2019-05-11T15:07:44-04:00</published>
+    <updated>2019-05-11T15:07:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f405"/>
+    <title>Walter 53F405  - E-Weld 4/ 3.78 L 53F405</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f405-e-weld-4-3-78-l-53f405-13937475223596.jpg?v=1580465458"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            89.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 4</h4> <li class="extra-info">E-WELD 4 is Walter's premium anti-spatter that guarantees porosity-free welds</li><li class="extra-info">E-WELD 4 is guaranteed to protect work pieces from spatter and ensure clean welds, eliminating the need for time-consuming, costly rework by preventing weld porosity and weld cracks from forming</li><li class="extra-info">E-WELD 4 also retracts in the presence of heat, leaving the welding area clean of liquid</li><li class="extra-info">This is the ultimate anti-spatter for saving time and improving the quality of your work!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Premium anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Excellent corrosion resistance - ideal for ferrous alloys and corrosion sensitive parts</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Formulation based on natural plant extracts - biodegradable, non-flammable, pleasant citrus scent</li><li class="extra-info"> Helps prevent weld porosity and weld cracking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421916204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.81</s:price>
+      <s:sku>WE CHE 53F405</s:sku>
+      <s:grams>1778</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421883436</id>
+    <published>2019-05-11T15:07:44-04:00</published>
+    <updated>2019-05-11T15:07:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f407"/>
+    <title>Walter 53F407  - E-Weld 4/ 20 L 53F407</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f407-e-weld-4-20-l-53f407-13937475190828.jpg?v=1580464980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            380.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 4</h4> <li class="extra-info">E-WELD 4 is Walter's premium anti-spatter that guarantees porosity-free welds</li><li class="extra-info">E-WELD 4 is guaranteed to protect work pieces from spatter and ensure clean welds, eliminating the need for time-consuming, costly rework by preventing weld porosity and weld cracks from forming</li><li class="extra-info">E-WELD 4 also retracts in the presence of heat, leaving the welding area clean of liquid</li><li class="extra-info">This is the ultimate anti-spatter for saving time and improving the quality of your work!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Premium anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Excellent corrosion resistance - ideal for ferrous alloys and corrosion sensitive parts</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Formulation based on natural plant extracts - biodegradable, non-flammable, pleasant citrus scent</li><li class="extra-info"> Helps prevent weld porosity and weld cracking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421883436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">380.89</s:price>
+      <s:sku>WE CHE 53F407</s:sku>
+      <s:grams>9534</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421817900</id>
+    <published>2019-05-11T15:07:44-04:00</published>
+    <updated>2019-05-11T15:07:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f408"/>
+    <title>Walter 53F408  - E-Weld 4/ 208 L 53F408</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f408-e-weld-4-208-l-53f408-13937475256364.jpg?v=1580465369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2086.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD 4</h4> <li class="extra-info">E-WELD 4 is Walter's premium anti-spatter that guarantees porosity-free welds</li><li class="extra-info">E-WELD 4 is guaranteed to protect work pieces from spatter and ensure clean welds, eliminating the need for time-consuming, costly rework by preventing weld porosity and weld cracks from forming</li><li class="extra-info">E-WELD 4 also retracts in the presence of heat, leaving the welding area clean of liquid</li><li class="extra-info">This is the ultimate anti-spatter for saving time and improving the quality of your work!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Premium anti-spatter emulsion</li><h2>Product Information</h2><li class="extra-info">Excellent corrosion resistance - ideal for ferrous alloys and corrosion sensitive parts</li><li class="extra-info"> Works equally wet or after the product is dry</li><li class="extra-info"> Excellent paint adhesion properties - no special cleaning required for post welding coating operations</li><li class="extra-info"> Compatible with aluminium, steel and stainless steel</li><li class="extra-info"> VOC free, Solvent free and silicone free</li><li class="extra-info"> Formulation based on natural plant extracts - biodegradable, non-flammable, pleasant citrus scent</li><li class="extra-info"> Helps prevent weld porosity and weld cracking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421817900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2086.24</s:price>
+      <s:sku>WE CHE 53F408</s:sku>
+      <s:grams>98973</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813421621292</id>
+    <published>2019-05-11T15:07:40-04:00</published>
+    <updated>2019-05-11T15:07:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53f605"/>
+    <title>Walter 53F605  - E-Weld Plasma 10Kg 53F605</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53f605-e-weld-plasma-10kg-53f605-13937475289132.jpg?v=1580465401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            299.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD PLASMA</h4> <li class="extra-info">E-WELD PLASMA™ is a ceramic anti-spatter solution that is applied to laser and plasma cutting tables to reduce the buildup of slag over time</li><li class="extra-info">By using our ergonomic arm-mounted sprayer, you can quickly coat large surface areas</li><li class="extra-info">This simple preventative measure keeps the slag from adhering to the slats in cutting tables, allowing it to be easily removed before it builds up and becomes problematic</li><li class="extra-info">This significantly decreases the amount of time and effort needed to clean slag off cutting tables, which saves you a great deal of labor time – and associated costs – in plant maintenance.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Long lasting protection for laser and plasma cutting tables</li><h2>Product Information</h2><li class="extra-info">Ceramic formula provides long lasting protection</li><li class="extra-info"> even in the presence of extreme heat</li><li class="extra-info"> Arm-mounted spray gun applicator allows you to quickly and easily dispense the product across large surface areas</li><li class="extra-info"> Each 10 kg container provides enough antispatter to cover 50-100 square meters</li><li class="extra-info"> E-Weld Plasma can be painted on manually or sprayed on with the applicator</li><li class="extra-info"> just stir the solution prior to use</li><li class="extra-info"> Use a degreaser like Surfox Pre-Weld to clean slats prior to use to ensure a strong, adhesive coating</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813421621292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.52</s:price>
+      <s:sku>WE CHE 53F605</s:sku>
+      <s:grams>4871</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813419196460</id>
+    <published>2019-05-11T15:06:35-04:00</published>
+    <updated>2019-05-11T15:06:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l107"/>
+    <title>Walter 53L107  - 1 L Pump Sprayer/E-Weld 4 53L107</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l107-1-l-pump-sprayer-e-weld-4-53l107-13937481121836.jpg?v=1579959484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            60.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-Weld-4 Industrial Sprayer 900ml</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Product Information</h2><li class="extra-info">Adjustable spray nozzle</li><li class="extra-info"> Wide neck</li><li class="extra-info"> Thick walled polyethylene bottle</li><li class="extra-info"> Operating Pressure 40 psi</li><li class="extra-info"> Built in Safety Valve</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813419196460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.89</s:price>
+      <s:sku>WE CHE 53L107</s:sku>
+      <s:grams>217</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813418999852</id>
+    <published>2019-05-11T15:06:29-04:00</published>
+    <updated>2019-05-11T15:06:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l121"/>
+    <title>Walter 53L121  - E-Weld Nozzle Applicator 53L121</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l121-e-weld-nozzle-applicator-53l121-13937481482284.jpg?v=1580467528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD NOZZLE Kit</h4> <li class="extra-info">Extend the life of welding nozzles and reduce downtime spent scraping out spatter with E-WELD Nozzle</li><li class="extra-info">This highly concentrated anti-spatter evenly coats the exterior and interior surface of your welding nozzle to prevent spatter from adhering to the nozzle</li><li class="extra-info">This prevents obstructions and allows the gas to flow freely, resulting in a higher quality weld</li><li class="extra-info">This is an extremely economical solution, as the easy applicator dispenses a thin layer that can provide protection for up to 8 hours</li><li class="extra-info">This is an ideal solution for MIG welding, plasma cutting and laser cutting as the E-WELD Nozzle can withstand high temperatures (up to 1000° C) and reduce your consumable spend.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Total nozzle protection for best efficiency</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813418999852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.95</s:price>
+      <s:sku>WE CHE 53L121</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813418836012</id>
+    <published>2019-05-11T15:06:26-04:00</published>
+    <updated>2019-05-11T15:06:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l126"/>
+    <title>Walter 53L126  - E-Weld Plasma Hand Sprayer 53L126</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l126-e-weld-plasma-hand-sprayer-53l126-13937481515052.jpg?v=1580467737"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            278.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813418836012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">278.07</s:price>
+      <s:sku>WE CHE 53L126</s:sku>
+      <s:grams>870</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813418082348</id>
+    <published>2019-05-11T15:06:11-04:00</published>
+    <updated>2019-05-11T15:06:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l321"/>
+    <title>Walter 53L321  - Empty Spray Bottle/E-Weld 53L321</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l321-empty-spray-bottle-e-weld-53l321-13937482825772.jpg?v=1579958695"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Refillable Trigger Sprayer</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Empty refillable trigger sprayer</li><h2>Product Information</h2><li class="extra-info">Complete with a trigger</li><li class="extra-info"> Graduated plastic 950 ml bottles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813418082348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.66</s:price>
+      <s:sku>WE CHE 53L321</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813418049580</id>
+    <published>2019-05-11T15:06:10-04:00</published>
+    <updated>2019-05-11T15:06:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l320"/>
+    <title>Walter 53L320  - Empty Spray Bottle/E-Weld 3 53L320</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l320-empty-spray-bottle-e-weld-3-53l320-13937482858540.jpg?v=1579958729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Refillable Trigger Sprayer</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   <h2>Extra Product Information</h2><li class="extra-info">Empty refillable trigger sprayer</li><h2>Product Information</h2><li class="extra-info">Complete with a trigger</li><li class="extra-info"> Graduated plastic 950 ml bottles</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813418049580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.66</s:price>
+      <s:sku>WE CHE 53L320</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813417820204</id>
+    <published>2019-05-11T15:06:07-04:00</published>
+    <updated>2019-05-11T15:06:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53l338"/>
+    <title>Walter 53L338  - Empty Spray Bottle/E-Weld 4 53L338</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-53l338-empty-spray-bottle-e-weld-4-53l338-13937483022380.jpg?v=1579958285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            6.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813417820204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.57</s:price>
+      <s:sku>WE CHE 53L338</s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121621213228</id>
+    <published>2018-08-03T13:57:02-04:00</published>
+    <updated>2018-08-03T13:57:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53-f-912"/>
+    <title>Walter 53-F 912  - E-Weld Nozzle Shield Spray 400Ml</title>
+    <s:type>Nozzles</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/nozzles-walter-53-f-912-e-weld-nozzle-shield-spray-400ml-13937472864300.jpg?v=1580464891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Nozzles<br>
+        <strong>Price: </strong>
+            48.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-WELD NOZZLE Kit</h4> <li class="extra-info">Extend the life of welding nozzles and reduce downtime spent scraping out spatter with E-WELD Nozzle</li><li class="extra-info">This highly concentrated anti-spatter evenly coats the exterior and interior surface of your welding nozzle to prevent spatter from adhering to the nozzle</li><li class="extra-info">This prevents obstructions and allows the gas to flow freely, resulting in a higher quality weld</li><li class="extra-info">This is an extremely economical solution, as the easy applicator dispenses a thin layer that can provide protection for up to 8 hours</li><li class="extra-info">This is an ideal solution for MIG welding, plasma cutting and laser cutting as the E-WELD Nozzle can withstand high temperatures (up to 1000° C) and reduce your consumable spend.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Nozzles</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Total nozzle protection for best efficiency</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>WE</s:tag>
+    <s:tag>WE CHE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121621213228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.77</s:price>
+      <s:sku>WE CHE SPRAY 400 ML</s:sku>
+      <s:grams>208</s:grams>
+    </s:variant>
+  </entry>
+</feed>

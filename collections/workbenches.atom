@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/workbenches.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T12:10:17-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813186314284</id>
+    <published>2019-05-11T12:10:17-04:00</published>
+    <updated>2019-05-11T12:10:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jwb-5925"/>
+    <title>JET JWB-5925  - 2 Drawer Workbench Heavy Duty 843003</title>
+    <s:type>Workbenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/workbenches-jet-jwb-5925-2-drawer-workbench-heavy-duty-843003-12748826673196.jpg?v=1579538648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Workbenches<br>
+        <strong>Price: </strong>
+            897.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Drawer Workbench - Heavy Duty</h4> <li class="extra-info">Top shelf holds up to 1,750 lbs</li><li class="extra-info"> Lower shelf holds up to 550 lbs</li><li class="extra-info"> Drawers holds up to 85 lbs each</li><li class="extra-info"> Full extension ball bearing drawer slides</li><li class="extra-info"> 2" wall around sides and back</li><li class="extra-info"> Rolled edges for added strength and rigidity</li><li class="extra-info"> Electrostatic over baked powder coat paint finish</li><li class="extra-info"> Top - 3mm rolled edge, shelf - 2mm rolled edge</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">59 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Workbenches</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">59" W x 25" D x 34-1/2" H</li><h2>Product Information</h2><li class="extra-info">Shelves : 2</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH WBN</s:tag>
+    <s:tag>Width_59 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813186314284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">897.52</s:price>
+      <s:sku>MH WBN 843003</s:sku>
+      <s:grams>121965</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813186150444</id>
+    <published>2019-05-11T12:10:14-04:00</published>
+    <updated>2019-05-11T12:10:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jttd-1000"/>
+    <title>JET JTTD-1000  - Tear Down Table / Workbench Heavy Duty 843012</title>
+    <s:type>Workbenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/workbenches-jet-jttd-1000-tear-down-table-workbench-heavy-duty-843012-12748826443820.jpg?v=1579537954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Workbenches<br>
+        <strong>Price: </strong>
+            1015.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tear Down Table / Workbench - Heavy Duty</h4> <li class="extra-info">Fluids drain through table top into a removable plastic container (included)</li><li class="extra-info"> Comes with locking storage drawer on ball bearing slides</li><li class="extra-info"> Multiple shelf locations gives added versatility</li><li class="extra-info"> Square tube leg design gives added strength and stability to table top</li><li class="extra-info"> Large 4" heavy duty swivel casters (2 locking)</li><li class="extra-info"> Table top features 1/2" rim</li><li class="extra-info"> Extra heavy duty construction</li><li class="extra-info"> Capacity: 1,000 lbs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">47 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Workbenches</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">47" W x 31-1/2" D x 39-3/4" H</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH WBN</s:tag>
+    <s:tag>Size_9/16 Inch</s:tag>
+    <s:tag>Width_47 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813186150444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1015.21</s:price>
+      <s:sku>MH WBN 843012</s:sku>
+      <s:grams>116966</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813185658924</id>
+    <published>2019-05-11T12:10:07-04:00</published>
+    <updated>2019-05-11T12:10:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jwb-7925"/>
+    <title>JET JWB-7925  - 3 Shelf Workbench Heavy Duty 843002</title>
+    <s:type>Workbenches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/workbenches-jet-jwb-7925-3-shelf-workbench-heavy-duty-843002-12748826411052.jpg?v=1579538729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Workbenches<br>
+        <strong>Price: </strong>
+            1040.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Shelf Workbench - Heavy Duty</h4> <li class="extra-info">Top shelf holds up to 1,750 lbs</li><li class="extra-info"> Lower shelves hold up to 550 lbs each</li><li class="extra-info"> 2" wall around sides and back</li><li class="extra-info"> Rolled edges for added strength and rigidity</li><li class="extra-info"> Electrostatic oven baked powder coat paint finish</li><li class="extra-info"> Top - 3mm rolled edge, Shelves - 2mm rolled edge</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">79 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Workbenches</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH WBN</s:tag>
+    <s:tag>Width_79 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813185658924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1040.57</s:price>
+      <s:sku>MH WBN 843002</s:sku>
+      <s:grams>121965</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812668645420</id>
+    <published>2019-05-11T08:38:21-04:00</published>
+    <updated>2019-05-11T08:38:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-98001b"/>
+    <title>Gray 98001B  - Work Bench</title>
+    <s:type>Workbenches</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/workbenches-gray-98001b-work-bench-12747667603500.png?v=1579266356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Workbenches<br>
+        <strong>Price: </strong>
+            792.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">1/2 Inch fibre board work surface included.</li><li class="extra-info"> Modular design allows for storage expansion by adding middle chest and/or wall cabinet.</li><li class="extra-info"> Included foot pads are height adjustable to suit the user on uneven shop floors</li><li class="extra-info">Automotive style power coat paint in hammer-tone texture provides superior scratch and corrosion resistance.Overall Dimensions: 30'' L x 61.5'' W x 31.5'' H</li><li class="extra-info"> Weight: 134 lb.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Workbenches</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MH</s:tag>
+    <s:tag>MH WBN</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812668645420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">792.33</s:price>
+      <s:sku>MH WBN 98001B</s:sku>
+      <s:grams>72121</s:grams>
+    </s:variant>
+  </entry>
+</feed>

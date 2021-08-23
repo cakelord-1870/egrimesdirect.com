@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pouch-label-tapes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:25:32-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293275942956</id>
+    <published>2019-12-04T10:25:32-05:00</published>
+    <updated>2019-12-04T10:25:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8315cp-1-3-8x23x6-custom"/>
+    <title>3M 8315CP-1 3/8X23X6  - 3M Custom Printed Carry Handle 8315CP 3-4 color 1-3/8 in x 23 in x 6 in 25 handles per pad 80 pads per case 8315CP-1 3/8X23X6 7100178268</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8315cp-1-3-8x23x6-3m-custom-printed-carry-handle-8315cp-3-4-color-1-3-8-in-x-23-in-x-6-in-25-handles-per-pad-80-pads-per-case-8315cp-1-3-8x23x6-7100178268-13223251148844.jpg?v=1580230655"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            314.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Custom Printed Carry Handle 8315CP, 3-4 color, 1-3/8 in x 23 in x 6 in, 25 handles per pad, 80 pads per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293275942956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">314.80</s:price>
+      <s:sku>TA POU 8315CP-1 3/8X23X6</s:sku>
+      <s:grams>739</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255025004588</id>
+    <published>2019-10-16T00:32:08-04:00</published>
+    <updated>2019-10-16T00:32:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8330cp-1_3-8x23x6"/>
+    <title>3M 8330CP-1_3/8X23X6  - 3M Custom Printed Carry Handle 8330CP 1-2 color 1-3/8 in x 23 in x 6 in 25 handles per pad 80 pads per case 8330CP-1_3/8X23X6 7100029400</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8330cp-1-3-8x23x6-3m-custom-printed-carry-handle-8330cp-1-2-color-1-3-8-in-x-23-in-x-6-in-25-handles-per-pad-80-pads-per-case-8330cp-1-3-8x23x6-7100029400-13120516653100.jpg?v=1580231970"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            292.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Custom Printed Carry Handle 8330CP, 1-2 color, 1-3/8 in x 23 in x 6 in, 25 handles per pad, 80 pads per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255025004588</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">292.31</s:price>
+      <s:sku>TA POU 8330CP-1_3/8X23X6</s:sku>
+      <s:grams>1306</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255000526892</id>
+    <published>2019-10-16T00:16:04-04:00</published>
+    <updated>2019-10-16T00:16:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8330cp-rstd-vrais"/>
+    <title>3M 8330CP-RSTD VRAIS  - 3M Custom Printed Carry Handle 8330CP 1 3/8 in x 23 in x 6 in 80 pads per case Restricted to Vrais Richess 8330CP-RSTD VRAIS 7100153261</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8330cp-rstd-vrais-3m-custom-printed-carry-handle-8330cp-1-3-8-in-x-23-in-x-6-in-80-pads-per-case-restricted-to-vrais-richess-8330cp-rstd-vrais-7100153261-13120473727020.jpg?v=1580232004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            344.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Custom Printed Carry Handle 8330CP, 1 3/8 in x 23 in x 6 in, 80 pads per case, Restricted to Vrais Richess</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255000526892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">344.04</s:price>
+      <s:sku>TA POU 8330CP-RSTD VRAIS</s:sku>
+      <s:grams>1369</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254999117868</id>
+    <published>2019-10-16T00:15:09-04:00</published>
+    <updated>2019-10-16T00:15:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8315cp-1-3-8x23x6"/>
+    <title>3M 8315CP-1-3/8X23X6  - 3M Custom Printed Carry Handle 8315CP 1 3/8 in x 23 in x 6 in 25 handles per pad 80 pads per case Restricted to Home Hardware 8315CP-1-3/8X23X6 7100180295</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8315cp-1-3-8x23x6-3m-custom-printed-carry-handle-8315cp-1-3-8-in-x-23-in-x-6-in-25-handles-per-pad-80-pads-per-case-restricted-to-home-hardware-8315cp-1-3-8x23x6-7100180295-1312047.jpg?v=1580154810"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            410.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Custom Printed Carry Handle 8315CP, 1 3/8 in x 23 in x 6 in, 25 handles per pad, 80 pads per case, Restricted to Home Hardware</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254999117868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">410.26</s:price>
+      <s:sku>TA POU  8315CP-1-3/8X23X6</s:sku>
+      <s:grams>839</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736533737516</id>
+    <published>2019-03-15T19:06:44-04:00</published>
+    <updated>2019-03-15T19:06:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3750p-2x6-clr"/>
+    <title>3M 3750P-2X6-CLR  - Tape Sheets 3750P Clear 2 Inch x 6 Inch 25 Sheets Per Pad 40 Pads Per Carton 7000048510</title>
+    <s:type>Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pads-3m-3750p-2x6-clr-tape-sheets-3750p-clear-2-inch-x-6-inch-25-sheets-per-pad-40-pads-per-carton-7000048510-12747092688940.jpg?v=1580182806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Pads<br>
+        <strong>Price: </strong>
+            66.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Tape Sheet,s 3750P, clear, 2 in x 6 in</h4> <li class="extra-info">The 3M™ Tape Sheets 3750P feature a polypropylene backing with a rubber resin adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pads</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Tape Sheets 3750P are pre-cut tape sheets in a pad format for convenient and easy repair of damaged packages in industrial and commercial applications</li><li class="extra-info">Ideal for protecting labels, recuperated repair, sealing envelopes and small packages and other</li><h2>Product Information</h2><li class="extra-info">Strong rubber adhesive</li><li class="extra-info"> Excellent adhesion to many surfaces</li><li class="extra-info"> Pads are convenient and portable, requiring no dispenser</li><li class="extra-info"> Padded format allows for blade free, no knife operation</li><h2>Suggested Application</h2><li class="extra-info">Food and beverage, bulk paper products, general industrial, in-store retail, commercial, home and garden</li><li class="extra-info">Helping to protect, sealing, packaging, document holding, protection, attaching and securing</li><li class="extra-info">Ideal for helping to protect labels, sealing envelopes, s</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736533737516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.97</s:price>
+      <s:sku>TA POU 3750P-2X6-CLR</s:sku>
+      <s:grams>766</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122363834412</id>
+    <published>2018-08-03T20:04:47-04:00</published>
+    <updated>2018-08-03T20:04:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-832-6x10"/>
+    <title>3M Scotch 832-6X10  - Pouch Tape Sheets in Clear 6 Inch x 10 Inch 7000051824</title>
+    <s:type>Pouch Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pouch-tapes-3m-scotch-832-6x10-scotch-pouch-tape-sheets-832-clear-6-inch-x-10-inch-7000051824-12747078598700.jpg?v=1580343090"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Pouch Tapes<br>
+        <strong>Price: </strong>
+            5.94
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Pouch Tape Sheets, 832, clear, 6 in x 10 in</h4> <li class="extra-info">These Scotch® Pouch Tape Sheets 832 is a clear polypropylene backing with a synthetic rubber resin adhesive.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">10 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pouch Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These Scotch® Pouch Tape Sheets 832 are linerless, easy to dispense, and offer a strong adhesive for attaching and protecting shipping documents, promotional items, packing lists, information and work instructions</li><li class="extra-info">The tape has a bright printed border pro</li><h2>Product Information</h2><li class="extra-info">Aggressive adhesive helps to prevent rubbing off, to reduce chance of lost or delayed packages</li><li class="extra-info"> Conformable film accommodates bulky shipping documents</li><li class="extra-info"> See-through window for easy document identification</li><li class="extra-info"> Backing is printed with a bright orange border and a printed message: InchDocuments Enclosed Inch</li><h2>Suggested Application</h2><li class="extra-info">Food and beverage, bulk paper products, general industrial, in-store retail, commercial, home and garden</li><li class="extra-info">Helping to protect, sealing, packaging, document holding, protection, attaching and securing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_10 Inch</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122363834412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.94</s:price>
+      <s:sku>TA POU 832-6X10</s:sku>
+      <s:grams>70</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122253406252</id>
+    <published>2018-08-03T18:44:44-04:00</published>
+    <updated>2018-08-03T18:44:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-830-cn-5x6"/>
+    <title>3M Scotch Pad 830-CN-5X6  - Pouch Tape Pads &quot;Documents Enclosed&quot; Fre-Eng (5 Inch x 6 Inch) 7000126013</title>
+    <s:type>Tape Pads</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pouch-tapes-3m-scotch-830-cn-5x6-scotch-pad-pouch-tape-pads-830cn-inchdocuments-enclosed-inch-fre-eng-5-inch-x-6-inch-7000126013-12747114414124.jpg?v=1580047291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Tape Pads<br>
+        <strong>Price: </strong>
+            2.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch Pad Pouch Tape Pads 830CN,Documents Enclosed, Fre-Eng, 5 in x 6 in</h4> <li class="extra-info">3M Scotch Pad Pouch Tape Pads 830CN are case priced and feature a InchDocuments Enclosed Inch description.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch Pad</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tape Pads</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These 3M™ Scotch® Pad™ Pouch Tape Pads 830CN are case priced</li><li class="extra-info">There are 25 pouches per pad, 40 pads per box, and 200 pads per case.</li><h2>Product Information</h2><li class="extra-info">Documents Enclosed message included</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_6 Inch</s:tag>
+    <s:tag>Line_Scotch Pad</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>Width_5 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122253406252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.12</s:price>
+      <s:sku>TA POU 830-CN-5X6</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121793998892</id>
+    <published>2018-08-03T15:29:17-04:00</published>
+    <updated>2018-08-03T15:29:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8315-1-3-8x17x3"/>
+    <title>3M 8315-1-3/8X17X3  - 8315 Carry Handle 1-3/8 Inchx 17 Inch x 3 Inch 80 Per Case 7100058825</title>
+    <s:type>Carry Handles</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/carry-handles-3m-8315-1-3-8x17x3-8315-carry-handle-1-3-8-inchx-17-inch-x-3-inch-80-per-case-7100058825-31574519546005.jpg?v=1628353710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Carry Handles<br>
+        <strong>Price: </strong>
+            337.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8315 CARRY HANDLE 1 3/8INX17INX3IN 80/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Carry Handles</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121793998892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">337.47</s:price>
+      <s:sku>TA POU 8315-1-3/8X17X3</s:sku>
+      <s:grams>3560</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121792491564</id>
+    <published>2018-08-03T15:28:20-04:00</published>
+    <updated>2018-08-03T15:28:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8330-1-3-8x23x6-wh"/>
+    <title>3M 8330-1-3/8X23X6-WH  - 8330 Carry HandWt 1-3/8 Inchx 23 Inch x 6 Inch 80 Per Case 7100054963</title>
+    <s:type>Carry Handles</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/carry-handles-3m-8330-1-3-8x23x6-wh-8330-carry-handwt-1-3-8-inchx-23-inch-x-6-inch-80-per-case-7100054963-13972263436332.jpg?v=1627667680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Carry Handles<br>
+        <strong>Price: </strong>
+            399.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8330 CARRY HDL WT 1-3/8INX23INX6IN 80/CV</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Carry Handles</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121792491564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">399.01</s:price>
+      <s:sku>TA POU 8330-1-3/8X23X6-WH</s:sku>
+      <s:grams>6531</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121790263340</id>
+    <published>2018-08-03T15:26:30-04:00</published>
+    <updated>2018-08-03T15:26:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8326-1-3-8x23x6"/>
+    <title>3M 8326-1-3/8X23X6  - 8315 Carry Handle 1-3/8 Inch x 23 Inch x 6 Inch 7100050882</title>
+    <s:type>Carry Handles</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/carry-handles-3m-8326-1-3-8x23x6-8315-carry-handle-1-3-8-inch-x-23-inch-x-6-inch-7100050882-31568877944981.jpg?v=1628356239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Carry Handles<br>
+        <strong>Price: </strong>
+            371.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8315 CARRY HANDLE 1 3/8IN X 23IN X 6IN</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Carry Handles</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121790263340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">371.22</s:price>
+      <s:sku>TA POU 8326-1-3/8X23X6</s:sku>
+      <s:grams>5170</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121789902892</id>
+    <published>2018-08-03T15:26:12-04:00</published>
+    <updated>2018-08-03T15:26:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8310-1x17x3-wht"/>
+    <title>3M 8310-1X17X3-WHT  - Carry Handle 8310 White 1 Inch x 17 Inch x 3 Inch 7100049685</title>
+    <s:type>Carry Handles</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/carry-handles-3m-8310-1x17x3-wht-carry-handle-8310-white-1-inch-x-17-inch-x-3-inch-7100049685-12749022756908.jpg?v=1580144582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Carry Handles<br>
+        <strong>Price: </strong>
+            300.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Carry Handle 8310 White 1IN x 17IN x 3IN</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Carry Handles</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121789902892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">300.11</s:price>
+      <s:sku>TA POU 8310-1X17X3-WHT</s:sku>
+      <s:grams>4762</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121788264492</id>
+    <published>2018-08-03T15:25:41-04:00</published>
+    <updated>2018-08-03T15:25:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8330-1-3-8x38x6-wh"/>
+    <title>3M 8330-1-3/8X38X6-WH  - Carry Handle 8330 White 1 3/8 Inch x 38 Inch x 6 Inch 7100045461</title>
+    <s:type>Carry Handles</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/carry-handles-3m-8330-1-3-8x38x6-wh-carry-handle-8330-white-1-3-8-inch-x-38-inch-x-6-inch-7100045461-12749022593068.jpg?v=1580231937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Carry Handles<br>
+        <strong>Price: </strong>
+            491.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">CARRY HANDLE 8330 WHITE, 1 3/8 X 38 X 6</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Carry Handles</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA POU</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121788264492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">491.11</s:price>
+      <s:sku>TA POU 8330-1-3/8X38X6-WH</s:sku>
+      <s:grams>13925</s:grams>
+    </s:variant>
+  </entry>
+</feed>

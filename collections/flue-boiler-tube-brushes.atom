@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/flue-boiler-tube-brushes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-04-09T14:41:28-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1768998895660</id>
+    <published>2019-04-09T14:41:28-04:00</published>
+    <updated>2019-04-09T14:41:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-04270"/>
+    <title>Sait 04270  - 1/2 Inch 80X Nylon Tube Brush</title>
+    <s:type>Tube Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tube-brushes-sait-04270-1-2-inch-80x-nylon-tube-brush-12747240931372.jpg?v=1575314838"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Tube Brushes<br>
+        <strong>Price: </strong>
+            10.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Available in silicon carbide grain</li><li class="extra-info"> Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tube Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Available in silicon carbide grain Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather For use on: Aluminum, Metal, Stainless, Wood</li><h2>Suggested Application</h2><li class="extra-info">For use on: Aluminum, Metal, Stainless, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Size_1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW FLU</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1768998895660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.01</s:price>
+      <s:sku>WW FLU 04270</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1768998469676</id>
+    <published>2019-04-09T14:41:17-04:00</published>
+    <updated>2019-04-09T14:41:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-04285"/>
+    <title>Sait 04285  - 5/8 Inch 120X Nylon Tube Brush</title>
+    <s:type>Tube Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tube-brushes-sait-04285-5-8-inch-120x-nylon-tube-brush-12747240505388.jpg?v=1575314700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Tube Brushes<br>
+        <strong>Price: </strong>
+            10.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Available in silicon carbide grain</li><li class="extra-info"> Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tube Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Available in silicon carbide grain Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather For use on: Aluminum, Metal, Stainless, Wood</li><h2>Suggested Application</h2><li class="extra-info">For use on: Aluminum, Metal, Stainless, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Size_5/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW FLU</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1768998469676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.15</s:price>
+      <s:sku>WW FLU 04285</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1768997978156</id>
+    <published>2019-04-09T14:41:05-04:00</published>
+    <updated>2019-04-09T14:41:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-04275"/>
+    <title>Sait 04275  - 1 Inch 80X Nylon Tube Brush</title>
+    <s:type>Tube Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tube-brushes-sait-04275-1-inch-80x-nylon-tube-brush-12747239686188.jpg?v=1575314821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Tube Brushes<br>
+        <strong>Price: </strong>
+            10.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Available in silicon carbide grain</li><li class="extra-info"> Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tube Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Available in silicon carbide grain Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather For use on: Aluminum, Metal, Stainless, Wood</li><h2>Suggested Application</h2><li class="extra-info">For use on: Aluminum, Metal, Stainless, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Size_1 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW FLU</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1768997978156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.20</s:price>
+      <s:sku>WW FLU 04275</s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1768995192876</id>
+    <published>2019-04-09T14:37:16-04:00</published>
+    <updated>2019-04-09T14:37:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-04280"/>
+    <title>Sait 04280  - 1-1/4 Inch 80X Nylon Tube Brush</title>
+    <s:type>Tube Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tube-brushes-sait-04280-1-1-4-inch-80x-nylon-tube-brush-12747223367724.jpg?v=1575314717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Tube Brushes<br>
+        <strong>Price: </strong>
+            14.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Available in silicon carbide grain</li><li class="extra-info"> Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">80</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tube Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1 1/4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Available in silicon carbide grain Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather For use on: Aluminum, Metal, Stainless, Wood</li><h2>Suggested Application</h2><li class="extra-info">For use on: Aluminum, Metal, Stainless, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grit_80</s:tag>
+    <s:tag>Size_1 1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW FLU</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1768995192876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.31</s:price>
+      <s:sku>WW FLU 04280</s:sku>
+      <s:grams>39</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1768994865196</id>
+    <published>2019-04-09T14:36:49-04:00</published>
+    <updated>2019-04-09T14:36:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/sait-04290"/>
+    <title>Sait 04290  - 1 Inch 120X Nylon Tube Brush</title>
+    <s:type>Tube Brushes</s:type>
+    <s:vendor>Sait</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/tube-brushes-sait-04290-1-inch-120x-nylon-tube-brush-12747220647980.jpg?v=1575314733"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sait<br>
+        <strong>Type: </strong>Tube Brushes<br>
+        <strong>Price: </strong>
+            15.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Available in silicon carbide grain</li><li class="extra-info"> Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Sait</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Cleaning</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Grit </td>
+<td class="egrimes">120</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Tube Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Available in silicon carbide grain Use on steel, aluminum, copper, brass, stainless steel, super alloys, plastics, composites, ceramics, wood, leather For use on: Aluminum, Metal, Stainless, Wood</li><h2>Suggested Application</h2><li class="extra-info">For use on: Aluminum, Metal, Stainless, Wood</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Grit_120</s:tag>
+    <s:tag>Size_1 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW FLU</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1768994865196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.25</s:price>
+      <s:sku>WW FLU 04290</s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+</feed>

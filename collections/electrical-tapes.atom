@@ -1,0 +1,1320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/electrical-tapes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:51-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255034900524</id>
+    <published>2019-12-04T10:30:51-05:00</published>
+    <updated>2019-12-04T10:30:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-60-1x36"/>
+    <title>3M 60-1X36  - 3M PTFE Film Tape 60 60-1X36 7000132176</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-60-1x36-3m-ptfe-film-tape-60-60-1x36-7000132176-13972807843884.jpg?v=1628023415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            108.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M PTFE Film Tape 60</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255034900524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">108.03</s:price>
+      <s:sku>TA ELE 60-1X36</s:sku>
+      <s:grams>199</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255034834988</id>
+    <published>2019-12-04T10:30:51-05:00</published>
+    <updated>2019-12-04T10:30:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-60-1-2x36"/>
+    <title>3M 60-1/2X36  - 3M PTFE Film Tape 60 60-1/2X36 7000132181</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-60-1-2x36-3m-ptfe-film-tape-60-60-1-2x36-7000132181-13120526975020.jpg?v=1580236141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            54.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M PTFE Film Tape 60</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255034834988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.03</s:price>
+      <s:sku>TA ELE 60-1/2X36</s:sku>
+      <s:grams>95</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255034933292</id>
+    <published>2019-12-04T10:30:50-05:00</published>
+    <updated>2019-12-04T10:30:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-58-15-1-2x72"/>
+    <title>3M 58-15-1/2X72  - Polyester Film Electrical Tape 58 (15-1/2 inch x 72 Yards) bulk SLITTER/DIST log roll 7000132141</title>
+    <s:type>Electrical Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/electrical-tapes-3m-58-15-1-2x72-polyester-film-electrical-tape-58-15-1-2-inch-x-72-yards-bulk-slitter-dist-log-roll-7000132141-13962163028012.jpg?v=1628081017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Electrical Tapes<br>
+        <strong>Price: </strong>
+            353.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) 58 Polyester Film Electrical Tape, EMT 15 1/2 X 72 yard, bulk SLITTER/DIST, log roll</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">72 Yards</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">15-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Electrical Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_72 Yards</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>Width_15-1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255034933292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">353.98</s:price>
+      <s:sku>TA ELE 58-15-1/2X72</s:sku>
+      <s:grams>3202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255038242860</id>
+    <published>2019-12-04T10:30:07-05:00</published>
+    <updated>2019-12-04T10:30:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-856-2x72"/>
+    <title>3M 856-2X72  - 3M Polyester Film Tape 856 Transparent, 2 in x 72 yd, 24 per case 856-2X72 7000124058</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-856-2x72-3m-polyester-film-tape-856-transparent-2-in-x-72-yd-24-per-case-856-2x72-7000124058-13961453797420.jpg?v=1628163815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyester Film Tape 856 Transparent, 2 in x 72 yd, 24 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255038242860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.50</s:price>
+      <s:sku>TA ELE 856-2X72</s:sku>
+      <s:grams>204</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048826924</id>
+    <published>2019-12-04T10:27:59-05:00</published>
+    <updated>2019-12-04T10:27:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sls"/>
+    <title>3M SLS  - 3M ScotchCode Self-Laminating Write-On Wire Marker Dispenser SLS, 49653, 0.15 in - 0.49 in wire O.D., 1 in x 2.5 in (2.54 cm x 6.35 cm) SLS 7000058136</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sls-3m-scotchcode-self-laminating-write-on-wire-marker-dispenser-sls-49653-0-15-in-0-49-in-wire-o-d-1-in-x-2-5-in-2-54-cm-x-6-35-cm-sls-7000058136-13120544112684.jpg?v=1578774920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            50.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M ScotchCode Self-Laminating Write-On Wire Marker Dispenser SLS, 49653, 0.15 in - 0.49 in wire O.D., 1 in x 2.5 in (2.54 cm x 6.35 cm)</h4> <li class="extra-info">3M™ ScotchCode™ Self-Laminating Write-On Wire Marker Dispenser is a large, wire marker dispenser that comes with 3M™ ScotchCode™ Write-On Wire Marker Tape and one 3M™ ScotchCode™ Marker Pen</li><li class="extra-info">This dispenser ensures easy identification of wire and cable, as well as household, automotive, plumbing and sporting equipment</li><li class="extra-info">The convenient and self-laminating wire marker offers a protective shield over the legend</li><li class="extra-info">The uniquely designed dispenser features a durable plastic construction, which safeguards the die-cut adhesive markers</li><li class="extra-info">It also includes a tape that has transparent vinyl film with an acrylic, pressure-sensitive adhesive for firm adhesion</li><li class="extra-info">The tape withstands a wide temperature range of -40 to 176 degrees Fahrenheit (-40 to 80 degrees Celsius), making it ideal for industrial electrical applications.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lzNvM82vnY_Blv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Dispenses self-laminating wire markers</li><li class="extra-info"> Acrylic, pressure-sensitive adhesive ensures firm adhesion</li><li class="extra-info"> Application temperature 50°F to 120°F (10°C to 49°C)</li><li class="extra-info"> Durable plastic construction</li><li class="extra-info"> Includes SLS tape and 1 SMP pen</li><li class="extra-info"> Marking area measures 1 in x 2.125 in (2.54 cm x 5.4 cm)</li><li class="extra-info"> RoHS 2011/65/EU Compliant‎</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048826924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.28</s:price>
+      <s:sku>TA ELE SLS</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048892460</id>
+    <published>2019-12-04T10:27:58-05:00</published>
+    <updated>2019-12-04T10:27:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-std-x"/>
+    <title>3M STD-X  - 3M ScotchCode Wire Marker Tape Dispenser, STD-X, empty STD-X 7000058134</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-std-x-3m-scotchcode-wire-marker-tape-dispenser-std-x-empty-std-x-7000058134-13120544178220.jpg?v=1578809476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M ScotchCode Wire Marker Tape Dispenser, STD-X, empty</h4> <li class="extra-info">3M™ ScotchCode™ Wire Marker Tape Dispenser is a compact, carry-along dispenser that provides a fast, convenient system for marking wires, cables or hoses</li><li class="extra-info">It includes a special end loop to hook the unit on a belt or tool pouch</li><li class="extra-info">The pre-printed tapes have a high-tack, acrylic adhesive to resist solvents, oil and water while adhering firmly to insulation surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Compact and lightweight dispenser is designed for easy handling</li><li class="extra-info"> Easy to refill, holds up to 10 different rolls</li><li class="extra-info"> Easy to refill, holds up to 10 different rolls</li><li class="extra-info"> Dispenser only</li><li class="extra-info"> Durable plastic construction</li><li class="extra-info"> Features an end loop to easily suspend it from a tool pouch or belt</li><li class="extra-info"> Operating temperatures from -40°F to 250°F (-40°C to 121°C)</li><li class="extra-info"> RoHS 2011/65/EU Compliant</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048892460</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.65</s:price>
+      <s:sku>TA ELE STD-X</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255048859692</id>
+    <published>2019-12-04T10:27:58-05:00</published>
+    <updated>2019-12-04T10:27:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-sls-r"/>
+    <title>3M SLS-R  - 3M ScotchCode Write-On Wire Marker SLS Refill Roll, SLS-R, 1 in x 2.5 in (2.54 cm x 6.35 cm) SLS-R 7000058135</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-sls-r-3m-scotchcode-write-on-wire-marker-sls-refill-roll-sls-r-1-in-x-2-5-in-2-54-cm-x-6-35-cm-sls-r-7000058135-13120544145452.jpg?v=1578774951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M ScotchCode Write-On Wire Marker SLS Refill Roll, SLS-R, 1 in x 2.5 in (2.54 cm x 6.35 cm)</h4> <li class="extra-info">3M™ Wire Marker Write-On Tape Refill is a replacement roll for the 3M™ ScotchCode™ Wire Marker Write-On Dispenser</li><li class="extra-info">The dispenser ensures easy identification of wire and cable as well as household, automotive, plumbing and sporting equipment.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Self–laminating wire markers</li><li class="extra-info"> Acrylic, pressure-sensitive adhesive ensures firm adhesion</li><li class="extra-info"> Application temperature 50°F to 120°F (10°C to 49°C)</li><li class="extra-info"> Marking area measures 1 in x 2.31 in (2.54 cm x 5.87 cm)</li><li class="extra-info"> RoHS 2011/65/EU Compliant‎</li><li class="extra-info"> Marking area measures 1 in x 2.5 in (2.54 cm x 6.35 cm)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255048859692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.78</s:price>
+      <s:sku>TA ELE SLS-R</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255050825772</id>
+    <published>2019-12-04T10:27:31-05:00</published>
+    <updated>2019-12-04T10:27:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8991-1x72-blu"/>
+    <title>3M 8991-1X72-BLU  - 8991 Blue 1 in x 72 Yd 36/Cs 8991-1x72-Blu 7000049778</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8991-1x72-blu-8991-blue-1-in-x-72-yd-36-cs-8991-1x72-blu-7000049778-13120546144300.jpg?v=1580141253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            11.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8991 BLUE 1 IN X 72 YD 36/CS</h4> <li class="extra-info">Thin and conformable, 3M™ Polyester Tape 8991 is a general purpose tape that excels in high temperature masking operations such as powder coat painting</li><li class="extra-info">Coated with a silicone adhesive, this tape bonds to a variety of difficult surfaces</li><li class="extra-info">It is chemical resistant and performs under a wide range of temperatures and environments.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Works in demanding conditions and high temperatures ranging from -6°F (-5°C) to 4°F (24°C)</li><li class="extra-info"> Clean removal during high-temperature applications including powdercoat masking, flashbreaker, and bag sealing applications</li><li class="extra-info"> Polyester film offers excellent thermal and chemical resistance while maintaining flexibility</li><li class="extra-info"> Silicone adhesive provides clean removal from a variety of surfaces</li><li class="extra-info"> Translucent blue backing provides easy identification and positioning</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255050825772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.84</s:price>
+      <s:sku>TA ELE 8991-1X72-BLU</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255050760236</id>
+    <published>2019-12-04T10:27:31-05:00</published>
+    <updated>2019-12-04T10:27:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8991-2x72-blu"/>
+    <title>3M 8991-2X72-BLU  - 8991 Blue 2 in x 72 Yd 24/Cs 8991-2x72-Blu 7000049779</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8991-2x72-blu-8991-blue-2-in-x-72-yd-24-cs-8991-2x72-blu-7000049779-13959804649516.jpg?v=1628163446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">8991 BLUE 2 IN X 72 YD 24/CS</h4> <li class="extra-info">Thin and conformable, 3M™ Polyester Tape 8991 is a general purpose tape that excels in high temperature masking operations such as powder coat painting</li><li class="extra-info">Coated with a silicone adhesive, this tape bonds to a variety of difficult surfaces</li><li class="extra-info">It is chemical resistant and performs under a wide range of temperatures and environments.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Works in demanding conditions and high temperatures ranging from -6°F (-5°C) to 4°F (24°C)</li><li class="extra-info"> Clean removal during high-temperature applications including powdercoat masking, flashbreaker, and bag sealing applications</li><li class="extra-info"> Polyester film offers excellent thermal and chemical resistance while maintaining flexibility</li><li class="extra-info"> Silicone adhesive provides clean removal from a variety of surfaces</li><li class="extra-info"> Translucent blue backing provides easy identification and positioning</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255050760236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.55</s:price>
+      <s:sku>TA ELE 8991-2X72-BLU</s:sku>
+      <s:grams>312</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051350060</id>
+    <published>2019-12-04T10:27:28-05:00</published>
+    <updated>2019-12-04T10:27:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-850-1-1-2x72-blk"/>
+    <title>3M 850-1-1/2X72-BLK  - 3M Polyester Film Tape, 850, black, 1.5 in x 72.0 yd x 1.9 mil (3.8 cm x 65.8 m x 0.0 mm) 850-1-1/2X72-BLK 7000048772</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-850-1-1-2x72-blk-3m-polyester-film-tape-850-black-1-5-in-x-72-0-yd-x-1-9-mil-3-8-cm-x-65-8-m-x-0-0-mm-850-1-1-2x72-blk-7000048772-13120546373676.jpg?v=1580226692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            87.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Polyester Film Tape, 850, black, 1.5 in x 72.0 yd x 1.9 mil (3.8 cm x 65.8 m x 0.0 mm)</h4> <li class="extra-info">For splicing applications requiring quick stick and an aggressive, permanent hold, use 3M™ Polyester Film Tape 850</li><li class="extra-info">Used in a variety of applications, including web processing, label protection, and marking</li><li class="extra-info">This tape is available in various colours, as well as a transparent.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Aggressive, acrylic adhesive provides quick stick and excellent long-term holding in splicing applications</li><li class="extra-info"> Thin, high-strength polyester film meets low caliper requirements which won't interfere with most machinery processes</li><li class="extra-info"> Polyester backing resists tearing and protects surfaces from abrasion and rough handling</li><li class="extra-info"> Temperature resistance enables tape to perform in high temperature operations</li><li class="extra-info"> Transparent and silver versions meet a variety of aerospace specifications</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051350060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">87.34</s:price>
+      <s:sku>TA ELE 850-1-1/2X72-BLK</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051284524</id>
+    <published>2019-12-04T10:27:28-05:00</published>
+    <updated>2019-12-04T10:27:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-396-1-2x36"/>
+    <title>3M 396-1/2X36  - 3M Super Bond Film Tape 396 Transparent, 1/2 in x 36 yd, 72 per case 396-1/2X36 7000048788</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-396-1-2x36-3m-super-bond-film-tape-396-transparent-1-2-in-x-36-yd-72-per-case-396-1-2x36-7000048788-13120546439212.jpg?v=1580170654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            9.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Super Bond Film Tape 396 Transparent, 1/2 in x 36 yd, 72 per case</h4> <li class="extra-info">3M™ Super Bond Film Tape 396 offers the thin caliper tensile strength of polyester and high immediate holding strength of rubber adhesive for creating butt splices on low surface energy materials such as polyethylene and other difficult-to-adhere-to surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polyester backing offers abrasion, chemical and thermal resistance</li><li class="extra-info"> Rubber resin adhesive provides aggressive grab to irregular surfaces</li><li class="extra-info"> Ideal for use on polyethylene and other low surface energy materials</li><li class="extra-info"> Good temperature resistance from 40°F to 200°F (4°C to 93°C)</li><li class="extra-info"> Often used in butt splicing and core starting applications</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051284524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.40</s:price>
+      <s:sku>TA ELE 396-1/2X36</s:sku>
+      <s:grams>68</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051251756</id>
+    <published>2019-12-04T10:27:28-05:00</published>
+    <updated>2019-12-04T10:27:28-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-850-pta-24x72"/>
+    <title>3M 850-PTA-24X72  - 3M Polyester Film Tape, 850, transparent, 24.0 in x 72.0 yd x 1.9 mil (61.0 cm x 65.8 m x 0.05 mm) 850-PTA-24X72 7000048789</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-850-pta-24x72-3m-polyester-film-tape-850-transparent-24-0-in-x-72-0-yd-x-1-9-mil-61-0-cm-x-65-8-m-x-0-05-mm-850-pta-24x72-7000048789-13971393577004.jpg?v=1628096859"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            223.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Polyester Film Tape, 850, transparent, 24.0 in x 72.0 yd x 1.9 mil (61.0 cm x 65.8 m x 0.05 mm)</h4> <li class="extra-info">For splicing applications requiring quick stick and an aggressive, permanent hold, use 3M™ Polyester Film Tape 850</li><li class="extra-info">Used in a variety of applications, including web processing, label protection, and marking</li><li class="extra-info">This tape is available in various colours, as well as a transparent.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0u1M8tBl82ZlvViI17zHvu07Y9ztSSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Aggressive, acrylic adhesive provides quick stick and excellent long-term holding in splicing applications</li><li class="extra-info"> Thin, high-strength polyester film meets low caliper requirements which won't interfere with most machinery processes</li><li class="extra-info"> Polyester backing resists tearing and protects surfaces from abrasion and rough handling</li><li class="extra-info"> Temperature resistance enables tape to perform in high temperature operations</li><li class="extra-info"> Transparent and silver versions meet a variety of aerospace specifications</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051251756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">223.00</s:price>
+      <s:sku>TA ELE 850-PTA-24X72</s:sku>
+      <s:grams>3288</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051415596</id>
+    <published>2019-12-04T10:27:27-05:00</published>
+    <updated>2019-12-04T10:27:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5413-1-1-2x36"/>
+    <title>3M 5413-1-1/2X36  - 3M Polyimide Film Tape 5413 Amber, 1 1/2 in x 36 yd 2.7 mil, 6 per case Boxed 5413-1-1/2X36 7000048690</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-5413-1-1-2x36-3m-polyimide-film-tape-5413-amber-1-1-2-in-x-36-yd-2-7-mil-6-per-case-boxed-5413-1-1-2x36-7000048690-13120546406444.jpg?v=1580223212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            132.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyimide Film Tape 5413 Amber, 1 1/2 in x 36 yd 2.7 mil, 6 per case Boxed</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051415596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">132.83</s:price>
+      <s:sku>TA ELE 5413-1-1/2X36</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051448364</id>
+    <published>2019-12-04T10:27:26-05:00</published>
+    <updated>2019-12-04T10:27:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5413-12x36-2-7-blk"/>
+    <title>3M 5413-12X36-2.7-BLK  - 3M Polyimide Film Tape 5413 Amber, 12 in x 36 yd 2.7 mil, 1 per case Bulk 5413-12X36-2.7-BLK 7000048687</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-5413-12x36-2-7-blk-3m-polyimide-film-tape-5413-amber-12-in-x-36-yd-2-7-mil-1-per-case-bulk-5413-12x36-2-7-blk-7000048687-13120546504748.jpg?v=1580223333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1038.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyimide Film Tape 5413 Amber, 12 in x 36 yd 2.7 mil, 1 per case Bulk</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZ0v4Y_ZPY_xMv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051448364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1038.19</s:price>
+      <s:sku>TA ELE 5413-12X36-2.7-BLK</s:sku>
+      <s:grams>771</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051612204</id>
+    <published>2019-12-04T10:27:24-05:00</published>
+    <updated>2019-12-04T10:27:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8412-2x72"/>
+    <title>3M 8412-2X72  - 3M Polyester Tape 8412 Transparent, 2 in x 72 yd 6.3 mil, 24 per case Bulk 8412-2X72 7000048491</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8412-2x72-3m-polyester-tape-8412-transparent-2-in-x-72-yd-6-3-mil-24-per-case-bulk-8412-2x72-7000048491-13961602662444.jpg?v=1628164169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            130.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyester Tape 8412 Transparent, 2 in x 72 yd 6.3 mil, 24 per case Bulk</h4> <li class="extra-info">3M™ Polyester Tape 8412 is a transparent polyester film tape with excellent tensile strength and abrasion resistance</li><li class="extra-info">It features a tough polyester backing and an acrylic adhesive</li><li class="extra-info">3M™ Polyester Tape 8412 can be used for many heavy-duty, permanent edging, and reinforcing types of applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polyester backing provides strength and puncture resistance</li><li class="extra-info"> Tough film provides excellent tensile strength, abrasion and edge tear resistance</li><li class="extra-info"> Heavy duty, highly transparent tape resists yellowing over time</li><li class="extra-info"> Acrylic adhesive adheres to a wide variety of substrates</li><li class="extra-info"> Good temperature resistance and long term aging</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051612204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">130.88</s:price>
+      <s:sku>TA ELE 8412-2X72</s:sku>
+      <s:grams>344</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051677740</id>
+    <published>2019-12-04T10:27:23-05:00</published>
+    <updated>2019-12-04T10:27:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-483-1x36-blk"/>
+    <title>3M 483-1X36-BLK  - 3M Polyethylene Tape 483 Black, 1 in x 36 yd 5.3 mil, 36 per case Bulk 483-1X36-BLK 7000048441</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-483-1x36-blk-3m-polyethylene-tape-483-black-1-in-x-36-yd-5-3-mil-36-per-case-bulk-483-1x36-blk-7000048441-13968916545580.jpg?v=1628025754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyethylene Tape 483 Black, 1 in x 36 yd 5.3 mil, 36 per case Bulk</h4> <li class="extra-info">Constructed with an extremely conformable backing, 3M™ Polyethylene Tape 483 is a 5-mil (0.13 mm) tape designed to be used in a wide variety of general purpose applications, including sealing, holding, coding, moisture proofing and protecting</li><li class="extra-info">This tape is coated with a rubber adhesive that bonds well and removes cleanly from most surfaces</li><li class="extra-info">3M™ Polyethylene Tape 483 is available in a variety of vivid colors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Extremely flexible backing enables tape to stretch and conform to textured and irregular surfaces</li><li class="extra-info"> Polyethylene backing has a low water vapour transmission rate and provides good solvent and alkali resistance</li><li class="extra-info"> Rubber adhesive bonds well and removes cleanly from most surfaces</li><li class="extra-info"> Vivid colors and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Vivid colours and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Black tape has excellent UV resistance and can be used outdoors for up to 12 months</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051677740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.59</s:price>
+      <s:sku>TA ELE 483-1X36-BLK</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051743276</id>
+    <published>2019-12-04T10:27:22-05:00</published>
+    <updated>2019-12-04T10:27:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-483-1x36-wht"/>
+    <title>3M 483-1X36-WHT  - 3M Polyethylene Tape, 483, white, 1.0 in x 36.0 yd x 5.3 mil (2.5 cm x 32.9 m x 0.1 mm) 483-1X36-WHT 7000048439</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-483-1x36-wht-3m-polyethylene-tape-483-white-1-0-in-x-36-0-yd-x-5-3-mil-2-5-cm-x-32-9-m-x-0-1-mm-483-1x36-wht-7000048439-13968911958060.jpg?v=1628024855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Polyethylene Tape, 483, white, 1.0 in x 36.0 yd x 5.3 mil (2.5 cm x 32.9 m x 0.1 mm)</h4> <li class="extra-info">Constructed with an extremely conformable backing, 3M™ Polyethylene Tape 483 is a 5-mil (0.13 mm) tape designed to be used in a wide variety of general purpose applications, including sealing, holding, coding, moisture proofing and protecting</li><li class="extra-info">This tape is coated with a rubber adhesive that bonds well and removes cleanly from most surfaces</li><li class="extra-info">3M™ Polyethylene Tape 483 is available in a variety of vivid colors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Extremely flexible backing enables tape to stretch and conform to textured and irregular surfaces</li><li class="extra-info"> Polyethylene backing has a low water vapour transmission rate and provides good solvent and alkali resistance</li><li class="extra-info"> Rubber adhesive bonds well and removes cleanly from most surfaces</li><li class="extra-info"> Vivid colors and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Vivid colours and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Black tape has excellent UV resistance and can be used outdoors for up to 12 months</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051743276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.59</s:price>
+      <s:sku>TA ELE 483-1X36-WHT</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051710508</id>
+    <published>2019-12-04T10:27:22-05:00</published>
+    <updated>2019-12-04T10:27:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-483-2x36-wht"/>
+    <title>3M 483-2X36-WHT  - 3M Polyethylene Tape, 483, white, 2.0 in x 36.0 yd x 5.3 mil (5.1 cm x 32.9 m x 0.1 mm) 483-2X36-WHT 7000048440</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-483-2x36-wht-3m-polyethylene-tape-483-white-2-0-in-x-36-0-yd-x-5-3-mil-5-1-cm-x-32-9-m-x-0-1-mm-483-2x36-wht-7000048440-13964510724140.jpg?v=1628025395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Polyethylene Tape, 483, white, 2.0 in x 36.0 yd x 5.3 mil (5.1 cm x 32.9 m x 0.1 mm)</h4> <li class="extra-info">Constructed with an extremely conformable backing, 3M™ Polyethylene Tape 483 is a 5-mil (0.13 mm) tape designed to be used in a wide variety of general purpose applications, including sealing, holding, coding, moisture proofing and protecting</li><li class="extra-info">This tape is coated with a rubber adhesive that bonds well and removes cleanly from most surfaces</li><li class="extra-info">3M™ Polyethylene Tape 483 is available in a variety of vivid colors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Extremely flexible backing enables tape to stretch and conform to textured and irregular surfaces</li><li class="extra-info"> Polyethylene backing has a low water vapour transmission rate and provides good solvent and alkali resistance</li><li class="extra-info"> Rubber adhesive bonds well and removes cleanly from most surfaces</li><li class="extra-info"> Vivid colors and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Vivid colours and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Black tape has excellent UV resistance and can be used outdoors for up to 12 months</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051710508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.19</s:price>
+      <s:sku>TA ELE 483-2X36-WHT</s:sku>
+      <s:grams>244</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051841580</id>
+    <published>2019-12-04T10:27:21-05:00</published>
+    <updated>2019-12-04T10:27:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-855-2x72"/>
+    <title>3M 855-2X72  - 3M High Temperature Nylon Film Tape 855 White, 2 in x 72 yd 3.2 mil, 24 per case Bulk 855-2X72 7000048412</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-855-2x72-3m-high-temperature-nylon-film-tape-855-white-2-in-x-72-yd-3-2-mil-24-per-case-bulk-855-2x72-7000048412-13961483255852.jpg?v=1628097576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            107.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) High Temperature Nylon Film Tape 855 White, 2 in x 72 yd 3.2 mil, 24 per case Bulk</h4> <li class="extra-info">3M™ High Temperature Nylon Film Tape 855 is designed for high-temperature applications</li><li class="extra-info">The 3.2 mil (0.09 mm) thick tape features a non-silicone rubber adhesive on a tough nylon backing that applies easily, removes cleanly, and withstands short temperature bake cycles of 400°F/204°C without leaving residue.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lzNvl8_9oY_9Pv70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Excellent for high-temperature applications needing a non-silicone adhesive</li><li class="extra-info"> Rubber adhesive designed to remove cleanly after short high temperature bake cycles 400°F and 204°C</li><li class="extra-info"> Tough nylon backing adds temperature resistance</li><li class="extra-info"> Elongation properties make for effective masking and faster removal</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051841580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.36</s:price>
+      <s:sku>TA ELE 855-2X72</s:sku>
+      <s:grams>394</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051776044</id>
+    <published>2019-12-04T10:27:21-05:00</published>
+    <updated>2019-12-04T10:27:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3m7000048434"/>
+    <title>3M 3M7000048434  - 851 Poc 1 x 144 Yd Bulk 7000048434</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3m7000048434-851-poc-1-x-144-yd-bulk-7000048434-13120546766892.jpg?v=1580170255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            71.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">851 POC 1 X 144 YD BULK</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051776044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.84</s:price>
+      <s:sku>TA ELE 3M7000048434</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051907116</id>
+    <published>2019-12-04T10:27:20-05:00</published>
+    <updated>2019-12-04T10:27:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-850-2x72-blk"/>
+    <title>3M 850-2X72-BLK  - 3M Polyester Film Tape 850 Black, 2 in x 72 yd 1.9 mil, 24 per case Bulk 850-2X72-BLK 7000048409</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-850-2x72-blk-3m-polyester-film-tape-850-black-2-in-x-72-yd-1-9-mil-24-per-case-bulk-850-2x72-blk-7000048409-13961528901676.jpg?v=1628163993"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            116.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyester Film Tape 850 Black, 2 in x 72 yd 1.9 mil, 24 per case Bulk</h4> <li class="extra-info">For splicing applications requiring quick stick and an aggressive, permanent hold, use 3M™ Polyester Film Tape 850</li><li class="extra-info">Used in a variety of applications, including web processing, label protection, and marking</li><li class="extra-info">This tape is available in various colours, as well as a transparent.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUl8mSPx2B4v70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Aggressive, acrylic adhesive provides quick stick and excellent long-term holding in splicing applications</li><li class="extra-info"> Thin, high-strength polyester film meets low caliper requirements which won't interfere with most machinery processes</li><li class="extra-info"> Polyester backing resists tearing and protects surfaces from abrasion and rough handling</li><li class="extra-info"> Temperature resistance enables tape to perform in high temperature operations</li><li class="extra-info"> Transparent and silver versions meet a variety of aerospace specifications</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051907116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">116.45</s:price>
+      <s:sku>TA ELE 850-2X72-BLK</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051874348</id>
+    <published>2019-12-04T10:27:20-05:00</published>
+    <updated>2019-12-04T10:27:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-853-2x72"/>
+    <title>3M 853-2X72  - 3M Polyester Film Tape 853 Transparent, 2 in x 72 yd 2.2 mil, 24 per case Bu 853-2X72 7000048411</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-853-2x72-3m-polyester-film-tape-853-transparent-2-in-x-72-yd-2-2-mil-24-per-case-bu-853-2x72-7000048411-13120546865196.jpg?v=1580153374"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            75.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyester Film Tape 853 Transparent, 2 in x 72 yd 2.2 mil, 24 per case Bu</h4> <li class="extra-info">Comprised of a strong polyester backing and coated with an aggressive acrylic adhesive, 3M™ Polyester Film Tape 853 is a solvent-resistant tape that is ideal for applications where exposure to chemicals is a concern</li><li class="extra-info">This tape meets demanding applications in a variety of industries.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUl8mUnx_xOv70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Thin, high-strength polyester backing resists tearing and protects surfaces from abrasion</li><li class="extra-info"> Transparent backing allows visibility of information protected by the tape</li><li class="extra-info"> Resistant to many solvents including jet engine fuel, hydraulic fluid, and lubricating oils</li><li class="extra-info"> Temperature resistance enables tape to perform in high temperature operations</li><li class="extra-info"> Aggressive acrylic adhesive provides quick stick and excellent long-term holding</li><li class="extra-info"> Meets flammability requirements of FAR 25.853(a) Appendix F Part I (a)(1)(ii)</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051874348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.67</s:price>
+      <s:sku>TA ELE 853-2X72</s:sku>
+      <s:grams>276</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051972652</id>
+    <published>2019-12-04T10:27:19-05:00</published>
+    <updated>2019-12-04T10:27:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-3m7000048392"/>
+    <title>3M 3M7000048392  - 851 Poc 1 x 72 Yd Bulk 7000048392</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-3m7000048392-851-poc-1-x-72-yd-bulk-7000048392-13120546930732.jpg?v=1580170288"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            31.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">851 POC 1 X 72 YD BULK</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051972652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.99</s:price>
+      <s:sku>TA ELE 3M7000048392</s:sku>
+      <s:grams>217</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255051939884</id>
+    <published>2019-12-04T10:27:19-05:00</published>
+    <updated>2019-12-04T10:27:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-483-2x36-blk"/>
+    <title>3M 483-2X36-BLK  - 3M Polyethylene Tape, 483, black, 2.0 in x 36.0 yd x 5.3 mil (5.1 cm x 32.9 m x 0.1 mm) 483-2X36-BLK 7000048407</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-483-2x36-blk-3m-polyethylene-tape-483-black-2-0-in-x-36-0-yd-x-5-3-mil-5-1-cm-x-32-9-m-x-0-1-mm-483-2x36-blk-7000048407-13964505743404.jpg?v=1627086561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            45.19
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Polyethylene Tape, 483, black, 2.0 in x 36.0 yd x 5.3 mil (5.1 cm x 32.9 m x 0.1 mm)</h4> <li class="extra-info">Constructed with an extremely conformable backing, 3M™ Polyethylene Tape 483 is a 5-mil (0.13 mm) tape designed to be used in a wide variety of general purpose applications, including sealing, holding, coding, moisture proofing and protecting</li><li class="extra-info">This tape is coated with a rubber adhesive that bonds well and removes cleanly from most surfaces</li><li class="extra-info">3M™ Polyethylene Tape 483 is available in a variety of vivid colors.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Extremely flexible backing enables tape to stretch and conform to textured and irregular surfaces</li><li class="extra-info"> Polyethylene backing has a low water vapour transmission rate and provides good solvent and alkali resistance</li><li class="extra-info"> Rubber adhesive bonds well and removes cleanly from most surfaces</li><li class="extra-info"> Vivid colors and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Vivid colours and smooth backing provide excellent glossy appearance</li><li class="extra-info"> Black tape has excellent UV resistance and can be used outdoors for up to 12 months</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255051939884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.19</s:price>
+      <s:sku>TA ELE 483-2X36-BLK</s:sku>
+      <s:grams>240</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255052005420</id>
+    <published>2019-12-04T10:27:18-05:00</published>
+    <updated>2019-12-04T10:27:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8412-1x72"/>
+    <title>3M 8412-1X72  - 3M Polyester Tape 8412 Transparent, 1 in x 72 yd 6.3 mil, 36 per case Bulk 8412-1X72 7000048390</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-8412-1x72-3m-polyester-tape-8412-transparent-1-in-x-72-yd-6-3-mil-36-per-case-bulk-8412-1x72-7000048390-13961596993580.jpg?v=1628164352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            65.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Polyester Tape 8412 Transparent, 1 in x 72 yd 6.3 mil, 36 per case Bulk</h4> <li class="extra-info">3M™ Polyester Tape 8412 is a transparent polyester film tape with excellent tensile strength and abrasion resistance</li><li class="extra-info">It features a tough polyester backing and an acrylic adhesive</li><li class="extra-info">3M™ Polyester Tape 8412 can be used for many heavy-duty, permanent edging, and reinforcing types of applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polyester backing provides strength and puncture resistance</li><li class="extra-info"> Tough film provides excellent tensile strength, abrasion and edge tear resistance</li><li class="extra-info"> Heavy duty, highly transparent tape resists yellowing over time</li><li class="extra-info"> Acrylic adhesive adheres to a wide variety of substrates</li><li class="extra-info"> Good temperature resistance and long term aging</li><li class="extra-info"> Waterproof and easily removable</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA ELE</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255052005420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.44</s:price>
+      <s:sku>TA ELE 8412-1X72</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+</feed>

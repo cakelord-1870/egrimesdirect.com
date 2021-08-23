@@ -1,0 +1,1347 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/wire-knot-wheels.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-03T12:07:18-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4333704609836</id>
+    <published>2019-12-03T12:07:18-05:00</published>
+    <updated>2019-12-03T12:07:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/norton-70022"/>
+    <title>Norton 70022  - Stringer Bead Knot Wire Brushes For Steel Carbon Steel 4X.020X5/8-11 66253370022</title>
+    <s:type>Knot Wheels</s:type>
+    <s:vendor>Norton</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/knot-wheels-norton-70022-stringer-bead-knot-wire-brushes-for-steel-carbon-steel-4x-020x5-8-11-66253370022-13391080128556.png?v=1575006615"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Norton<br>
+        <strong>Type: </strong>Knot Wheels<br>
+        <strong>Price: </strong>
+            9.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Norton</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Knot Wheels</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4333704609836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.56</s:price>
+      <s:sku>WW KNW 70022</s:sku>
+      <s:grams>229</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426864172</id>
+    <published>2019-05-11T15:09:34-04:00</published>
+    <updated>2019-05-11T15:09:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w311"/>
+    <title>Walter 13W311  - Allsteel 3 Inch 5/8-11 Knot Cup Brush 13W311</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w311-allsteel-3-inch-5-8-11-knot-cup-brush-13w311-13937349820460.jpg?v=1580405858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            16.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426864172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.17</s:price>
+      <s:sku>WW KNW 13W311</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426798636</id>
+    <published>2019-05-11T15:09:33-04:00</published>
+    <updated>2019-05-11T15:09:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w312"/>
+    <title>Walter 13W312  - Allsteel 3 Inch 5/8-11 St Knot Cup Brush 13W312</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w312-allsteel-3-inch-5-8-11-st-knot-cup-brush-13w312-13937349853228.jpg?v=1580405702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            37.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426798636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.03</s:price>
+      <s:sku>WW KNW 13W312</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426602028</id>
+    <published>2019-05-11T15:09:30-04:00</published>
+    <updated>2019-05-11T15:09:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w441"/>
+    <title>Walter 13W441  - Allsteel 4X5/8-11 Knot Saucer Brush 13W441</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w441-allsteel-4x5-8-11-knot-saucer-brush-13w441-13937350115372.jpg?v=1580013298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426602028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.03</s:price>
+      <s:sku>WW KNW 13W441</s:sku>
+      <s:grams>108</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426569260</id>
+    <published>2019-05-11T15:09:30-04:00</published>
+    <updated>2019-05-11T15:09:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w461"/>
+    <title>Walter 13W461  - Allsteel 4.5X3/16 Inch Stringer Whl Brush 13W461</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w461-allsteel-4-5x3-16-inch-stringer-whl-brush-13w461-13937350148140.jpg?v=1580013331"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426569260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.95</s:price>
+      <s:sku>WW KNW 13W461</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426438188</id>
+    <published>2019-05-11T15:09:27-04:00</published>
+    <updated>2019-05-11T15:09:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w541"/>
+    <title>Walter 13W541  - Allsteel 5X5/8-11 Saucer Brush 13W541</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w541-allsteel-5x5-8-11-saucer-brush-13w541-13937350279212.jpg?v=1580385902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            19.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426438188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.82</s:price>
+      <s:sku>WW KNW 13W541</s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426339884</id>
+    <published>2019-05-11T15:09:24-04:00</published>
+    <updated>2019-05-11T15:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w561"/>
+    <title>Walter 13W561  - Allsteel 5X1/4X5/8-11 Stringer Whl Brush 13W561</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w561-allsteel-5x1-4x5-8-11-stringer-whl-brush-13w561-13937350475820.jpg?v=1580393497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            25.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426339884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.03</s:price>
+      <s:sku>WW KNW 13W561</s:sku>
+      <s:grams>145</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426307116</id>
+    <published>2019-05-11T15:09:24-04:00</published>
+    <updated>2019-05-11T15:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w651"/>
+    <title>Walter 13W651  - Allsteel 6X3/8X5/8-11 Knot Whl Brush 13W651</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w651-allsteel-6x3-8x5-8-11-knot-whl-brush-13w651-13937350606892.jpg?v=1580393281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426307116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.21</s:price>
+      <s:sku>WW KNW 13W651</s:sku>
+      <s:grams>272</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426274348</id>
+    <published>2019-05-11T15:09:24-04:00</published>
+    <updated>2019-05-11T15:09:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w551"/>
+    <title>Walter 13W551  - Allsteel 5X3/8X5/8-11 Knot Whl Brush 13W551</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w551-allsteel-5x3-8x5-8-11-knot-whl-brush-13w551-13937350443052.jpg?v=1580393335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            27.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426274348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.12</s:price>
+      <s:sku>WW KNW 13W551</s:sku>
+      <s:grams>181</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426241580</id>
+    <published>2019-05-11T15:09:21-04:00</published>
+    <updated>2019-05-11T15:09:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w761"/>
+    <title>Walter 13W761  - Allsteel 6-7/8X1/4 Inch Stringer Whl Brush 13W761</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w761-allsteel-6-7-8x1-4-inch-stringer-whl-brush-13w761-13937350672428.jpg?v=1580393248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            36.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426241580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.51</s:price>
+      <s:sku>WW KNW 13W761</s:sku>
+      <s:grams>317</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813426143276</id>
+    <published>2019-05-11T15:09:21-04:00</published>
+    <updated>2019-05-11T15:09:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-13w661"/>
+    <title>Walter 13W661  - Allsteel 6X1/4X5/8-11 Stringer Whl Brush 13W661</title>
+    <s:type></s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/walter-13w661-allsteel-6x1-4x5-8-11-stringer-whl-brush-13w661-13937350639660.jpg?v=1580393369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            29.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813426143276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.21</s:price>
+      <s:sku>WW KNW 13W661</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813132541996</id>
+    <published>2019-05-11T11:50:12-04:00</published>
+    <updated>2019-05-11T11:50:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-3k114"/>
+    <title>JET 3K114  - 3-1/4 X (3/8-1/2) Knot Twisted Wire Wheel Unthreaded 550310</title>
+    <s:type>Full Cable Twist Knot Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/full-cable-twist-knot-wheels-jet-3k114-3-1-4-x-3-8-1-2-knot-twisted-wire-wheel-unthreaded-550310-12748689276972.jpg?v=1579363406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Full Cable Twist Knot Wheels<br>
+        <strong>Price: </strong>
+            26.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3-1/4 x (3/8-1/2) Knot Twisted Wire Wheel - Unthreaded</h4> <li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><li class="extra-info"> Full cable twist brushes are made with tightly wound, low flex tufts which offer a very aggressive high impact brushing action with best control at the surface contact area</li><li class="extra-info"> The best brush for weld cleaning, weld spatter and scale removal, cleaning, deburring and flash removal where surface finish is a low priority</li><li class="extra-info"> Also used in pipe joining for cleaning scale and spatter following welding</li><li class="extra-info"> Available in high quality carbon steel</li><li class="extra-info">6" and 8" brushes come with round center holes for use on end grinders and bench grinders - 3-1/4" brush is popular in the automotive trades for use on die grinders</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">3-1/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Full Cable Twist Knot Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">7/8 Inch - 14 NF</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><h2>Product Information</h2><li class="extra-info">Thread Size : 3/8 Inch-1/2</li><li class="extra-info"> Face Width : 1/2 Inch</li><li class="extra-info"> Wire Diameter : .014 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 25,000 RPM</li><li class="extra-info"> Pkg Qty : 1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_3-1/4 Inch</s:tag>
+    <s:tag>Size_7/8 Inch - 14 NF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813132541996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.26</s:price>
+      <s:sku>WW KNW 550310</s:sku>
+      <s:grams>120</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813117370412</id>
+    <published>2019-05-11T11:44:30-04:00</published>
+    <updated>2019-05-11T11:44:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-4sb120-t"/>
+    <title>JET 4SB120-T  - 4 X 1/4 X 5/8-11 Nc Stringer Bead Brush 553432</title>
+    <s:type>Stringer Bead Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/stringer-bead-brushes-jet-4sb120-t-4-x-1-4-x-5-8-11-nc-stringer-bead-brush-553432-12748647628844.jpg?v=1579364879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Stringer Bead Brushes<br>
+        <strong>Price: </strong>
+            30.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 x 1/4 x 5/8-11 NC Stringer Bead Brush</h4> <li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for optimum life and performance</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in pipe joining applications</li><li class="extra-info"> Stringer bead brushes can also be used wherever a controlled, aggressive brushing action is required on confined surface contact areas</li><li class="extra-info"> The superior balance and high knot count of our brush ensures smooth but aggressive brushing action for fast material removal</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Stringer Bead Brushes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for optimum life and performance</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in pipe joining applications</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/4 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 20,000 RPM</li><li class="extra-info"> Pkg Qty : 12</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813117370412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.25</s:price>
+      <s:sku>WW KNW 553432</s:sku>
+      <s:grams>186</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813117239340</id>
+    <published>2019-05-11T11:44:24-04:00</published>
+    <updated>2019-05-11T11:44:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-4sb120sst"/>
+    <title>JET 4SB120SST  - 4 X 1/4 X 5/8-11 Nc Stainless Steel Stringer Bead Brush 553441</title>
+    <s:type>Stringer Bead Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/stringer-bead-brushes-jet-4sb120sst-4-x-1-4-x-5-8-11-nc-stainless-steel-stringer-bead-brush-553441-12748646481964.jpg?v=1579364794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Stringer Bead Brushes<br>
+        <strong>Price: </strong>
+            47.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 x 1/4 x 5/8-11 NC Stainless Steel Stringer Bead Brush</h4> <li class="extra-info">These high performance brushes are made from top quality #302 stainless steel wire that will not contaminate stainless steel materials</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in stainless steel pipe joining applications</li><li class="extra-info"> The superior balance and high knot count of our brush ensures smooth but aggressive brushing action and long brush life</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Stringer Bead Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5/16 Inch - 24NF</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality #302 stainless steel wire that will not contaminate stainless steel materials</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/4 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 20,000 RPM</li><li class="extra-info"> Pkg Qty : 12</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Size_5/16 Inch - 24NF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813117239340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.36</s:price>
+      <s:sku>WW KNW 553441</s:sku>
+      <s:grams>189</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813106196524</id>
+    <published>2019-05-11T11:40:09-04:00</published>
+    <updated>2019-05-11T11:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-5k-123t"/>
+    <title>JET 5K 123T  - 5 X 1/2 X 5/8-11Nc Standard Face Knot Wire Wheel Threaded 553322</title>
+    <s:type>Full Cable Twist Knot Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/full-cable-twist-knot-wheels-jet-5k-123t-5-x-1-2-x-5-8-11nc-standard-face-knot-wire-wheel-threaded-553322-12748617908268.jpg?v=1579406280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Full Cable Twist Knot Wheels<br>
+        <strong>Price: </strong>
+            43.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 x 1/2 x 5/8-11NC Standard Face Knot Wire Wheel Threaded</h4> <li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><li class="extra-info"> Full cable twist brushes are made with tightly wound, low flex tufts which offer a very aggressive high impact brushing action with best control at the surface contact area</li><li class="extra-info"> The best brush for weld cleaning, weld spatter and scale removal, cleaning, deburring and flash removal where surface finish is a low priority</li><li class="extra-info"> Also used in pipe joining for cleaning scale and spatter following welding</li><li class="extra-info"> Available in high quality carbon steel</li><li class="extra-info">6" and 8" brushes come with round center holes for use on end grinders and bench grinders - 3-1/4" brush is popular in the automotive trades for use on die grinders</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Full Cable Twist Knot Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">7/8 Inch - 9 NC</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/2 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 15,000 RPM</li><li class="extra-info"> Pkg Qty : 12</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_5 Inch</s:tag>
+    <s:tag>Size_7/8 Inch - 9 NC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813106196524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">43.15</s:price>
+      <s:sku>WW KNW 553322</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813106163756</id>
+    <published>2019-05-11T11:40:09-04:00</published>
+    <updated>2019-05-11T11:40:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-4k-123t"/>
+    <title>JET 4K 123T  - 4 X 1/2 X 5/8-11Nc Standard Face Knot Wire Wheel Threaded 553327</title>
+    <s:type>Full Cable Twist Knot Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/full-cable-twist-knot-wheels-jet-4k-123t-4-x-1-2-x-5-8-11nc-standard-face-knot-wire-wheel-threaded-553327-12748617449516.jpg?v=1579364728"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Full Cable Twist Knot Wheels<br>
+        <strong>Price: </strong>
+            31.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 x 1/2 x 5/8-11NC Standard Face Knot Wire Wheel Threaded</h4> <li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><li class="extra-info"> Full cable twist brushes are made with tightly wound, low flex tufts which offer a very aggressive high impact brushing action with best control at the surface contact area</li><li class="extra-info"> The best brush for weld cleaning, weld spatter and scale removal, cleaning, deburring and flash removal where surface finish is a low priority</li><li class="extra-info"> Also used in pipe joining for cleaning scale and spatter following welding</li><li class="extra-info"> Available in high quality carbon steel</li><li class="extra-info">6" and 8" brushes come with round center holes for use on end grinders and bench grinders - 3-1/4" brush is popular in the automotive trades for use on die grinders</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Full Cable Twist Knot Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">7/16 Inch - 20 NF</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/2 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 20,000 RPM</li><li class="extra-info"> Pkg Qty : 12</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_4 Inch</s:tag>
+    <s:tag>Size_7/16 Inch - 20 NF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813106163756</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.56</s:price>
+      <s:sku>WW KNW 553327</s:sku>
+      <s:grams>280</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813097152556</id>
+    <published>2019-05-11T11:36:44-04:00</published>
+    <updated>2019-05-11T11:36:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-5sb-120t"/>
+    <title>JET 5SB 120T  - 5 X 1/4 X 5/8-11 Nc Stringer Bead Brush 553451</title>
+    <s:type>Stringer Bead Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/stringer-bead-brushes-jet-5sb-120t-5-x-1-4-x-5-8-11-nc-stringer-bead-brush-553451-12748588580908.jpg?v=1579406312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Stringer Bead Brushes<br>
+        <strong>Price: </strong>
+            40.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 x 1/4 x 5/8-11 NC Stringer Bead Brush</h4> <li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for optimum life and performance</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in pipe joining applications</li><li class="extra-info"> Stringer bead brushes can also be used wherever a controlled, aggressive brushing action is required on confined surface contact areas</li><li class="extra-info"> The superior balance and high knot count of our brush ensures smooth but aggressive brushing action for fast material removal</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Stringer Bead Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9/16 Inch - 18 NF</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for optimum life and performance</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in pipe joining applications</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/4 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 15,000 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_5 Inch</s:tag>
+    <s:tag>Size_9/16 Inch - 18 NF</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813097152556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.60</s:price>
+      <s:sku>WW KNW 553451</s:sku>
+      <s:grams>388</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813095252012</id>
+    <published>2019-05-11T11:36:04-04:00</published>
+    <updated>2019-05-11T11:36:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-5sb-120sst"/>
+    <title>JET 5SB 120SST  - 5 X 1/4 X 5/8-11 Nc Stainless Steel Stringer Bead Brush 553462</title>
+    <s:type>Stringer Bead Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/stringer-bead-brushes-jet-5sb-120sst-5-x-1-4-x-5-8-11-nc-stainless-steel-stringer-bead-brush-553462-12748583960620.jpg?v=1579406369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Stringer Bead Brushes<br>
+        <strong>Price: </strong>
+            65.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 x 1/4 x 5/8-11 NC Stainless Steel Stringer Bead Brush</h4> <li class="extra-info">These high performance brushes are made from top quality #302 stainless steel wire that will not contaminate stainless steel materials</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in stainless steel pipe joining applications</li><li class="extra-info"> The superior balance and high knot count of our brush ensures smooth but aggressive brushing action and long brush life</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">5 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Stringer Bead Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5/16 Inch - 18 NC</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality #302 stainless steel wire that will not contaminate stainless steel materials</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/4 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 15,000 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_5 Inch</s:tag>
+    <s:tag>Size_5/16 Inch - 18 NC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813095252012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.66</s:price>
+      <s:sku>WW KNW 553462</s:sku>
+      <s:grams>409</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813093122092</id>
+    <published>2019-05-11T11:35:07-04:00</published>
+    <updated>2019-05-11T11:35:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-bk4520t"/>
+    <title>JET BK4520T  - 4-1/2 X 5/8-11 Nc Knot Twisted Conical Brush 554309</title>
+    <s:type>Conical Bevel Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/conical-bevel-brushes-jet-bk4520t-4-1-2-x-5-8-11-nc-knot-twisted-conical-brush-554309-12748578455596.jpg?v=1579464597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Conical Bevel Brushes<br>
+        <strong>Price: </strong>
+            30.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4-1/2 x 5/8-11 NC Knot Twisted Conical Brush</h4> <li class="extra-info">High speed knotted conical brushes are ideal for heavy clean-up of weld spatter, slag, rust paint and scale in hard-to-reach areas</li><li class="extra-info"> Ideal for cleaning filet welds, corners and other hard-to-reach areas</li><li class="extra-info"> Heavy duty industrial piano wire used to manufacture these brushes ensures long life, superior productivity and increased safety</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Conical Bevel Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">10mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">High speed knotted conical brushes are ideal for heavy clean-up of weld spatter, slag, rust paint and scale in hard-to-reach areas</li><h2>Product Information</h2><li class="extra-info">Threaded Arbor Hole : 5/8 Inch-11NC</li><li class="extra-info"> Wire Diameter : .020 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 12,500 RPM</li><li class="extra-info"> Pkg Qty : 1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_10mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813093122092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.90</s:price>
+      <s:sku>WW KNW 554309</s:sku>
+      <s:grams>448</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813091287084</id>
+    <published>2019-05-11T11:34:27-04:00</published>
+    <updated>2019-05-11T11:34:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-bk520t"/>
+    <title>JET BK520T  - 5 X 5/8-11Nc Knot Twisted Conical (Bevel) Brush High Performance 554311</title>
+    <s:type>Conical Bevel Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/conical-bevel-brushes-jet-bk520t-5-x-5-8-11nc-knot-twisted-conical-bevel-brush-high-performance-554311-12748571082796.jpg?v=1579464564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Conical Bevel Brushes<br>
+        <strong>Price: </strong>
+            32.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 x 5/8-11NC Knot Twisted Conical (Bevel) Brush - High Performance</h4> <li class="extra-info">High speed knotted conical brushes are ideal for heavy clean-up of weld spatter, slag, rust paint and scale in hard-to-reach areas</li><li class="extra-info"> Ideal for cleaning filet welds, corners and other hard-to-reach areas</li><li class="extra-info"> Heavy duty industrial piano wire used to manufacture these brushes ensures long life, superior productivity and increased safety</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Conical Bevel Brushes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">High speed knotted conical brushes are ideal for heavy clean-up of weld spatter, slag, rust paint and scale in hard-to-reach areas</li><h2>Product Information</h2><li class="extra-info">Threaded Arbor Hole : 5/8 Inch-11NC</li><li class="extra-info"> Wire Diameter : .020 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 11,000 RPM</li><li class="extra-info"> Pkg Qty : 1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813091287084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.36</s:price>
+      <s:sku>WW KNW 554311</s:sku>
+      <s:grams>475</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813090664492</id>
+    <published>2019-05-11T11:34:10-04:00</published>
+    <updated>2019-05-11T11:34:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-6sb-120sst4"/>
+    <title>JET 6SB 120SST4  - 6 X 1/4 X 5/8-11 Nc Stainless Steel Stringer Bead Brush 553411</title>
+    <s:type>Stringer Bead Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/stringer-bead-brushes-jet-6sb-120sst4-6-x-1-4-x-5-8-11-nc-stainless-steel-stringer-bead-brush-553411-12748568756268.jpg?v=1579460486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Stringer Bead Brushes<br>
+        <strong>Price: </strong>
+            74.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1/4 x 5/8-11 NC Stainless Steel Stringer Bead Brush</h4> <li class="extra-info">These high performance brushes are made from top quality #302 stainless steel wire that will not contaminate stainless steel materials</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in stainless steel pipe joining applications</li><li class="extra-info"> The superior balance and high knot count of our brush ensures smooth but aggressive brushing action and long brush life</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Stringer Bead Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/8 Inch - 24NC</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality #302 stainless steel wire that will not contaminate stainless steel materials</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/4 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 10,000 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Size_3/8 Inch - 24NC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813090664492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.75</s:price>
+      <s:sku>WW KNW 553411</s:sku>
+      <s:grams>493</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813090140204</id>
+    <published>2019-05-11T11:33:54-04:00</published>
+    <updated>2019-05-11T11:33:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-6sb-120t4"/>
+    <title>JET 6SB 120T4  - 6 X 1/4 X 5/8-11 Nc Stringer Bead Brush 553401</title>
+    <s:type>Stringer Bead Brushes</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/stringer-bead-brushes-jet-6sb-120t4-6-x-1-4-x-5-8-11-nc-stringer-bead-brush-553401-12748567543852.jpg?v=1579460519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Stringer Bead Brushes<br>
+        <strong>Price: </strong>
+            44.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1/4 x 5/8-11 NC Stringer Bead Brush</h4> <li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for optimum life and performance</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in pipe joining applications</li><li class="extra-info"> Stringer bead brushes can also be used wherever a controlled, aggressive brushing action is required on confined surface contact areas</li><li class="extra-info"> The superior balance and high knot count of our brush ensures smooth but aggressive brushing action for fast material removal</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Stringer Bead Brushes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9/16 Inch - 12 NC</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for optimum life and performance</li><li class="extra-info"> They are specifically designed for root and hot pass weld cleaning in pipe joining applications</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/4 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 10,000 RPM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Size_9/16 Inch - 12 NC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813090140204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.79</s:price>
+      <s:sku>WW KNW 553401</s:sku>
+      <s:grams>503</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813088731180</id>
+    <published>2019-05-11T11:33:17-04:00</published>
+    <updated>2019-05-11T11:33:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-8006-1"/>
+    <title>JET 8006/1  - 6 X (5/8-1/2) Knot Twisted Wire Wheel Unthreaded 550303</title>
+    <s:type>Full Cable Twist Knot Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/full-cable-twist-knot-wheels-jet-8006-1-6-x-5-8-1-2-knot-twisted-wire-wheel-unthreaded-550303-12748563382316.jpg?v=1579494447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Full Cable Twist Knot Wheels<br>
+        <strong>Price: </strong>
+            58.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x (5/8-1/2) Knot Twisted Wire Wheel - Unthreaded</h4> <li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><li class="extra-info"> Full cable twist brushes are made with tightly wound, low flex tufts which offer a very aggressive high impact brushing action with best control at the surface contact area</li><li class="extra-info"> The best brush for weld cleaning, weld spatter and scale removal, cleaning, deburring and flash removal where surface finish is a low priority</li><li class="extra-info"> Also used in pipe joining for cleaning scale and spatter following welding</li><li class="extra-info"> Available in high quality carbon steel</li><li class="extra-info">6" and 8" brushes come with round center holes for use on end grinders and bench grinders - 3-1/4" brush is popular in the automotive trades for use on die grinders</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Full Cable Twist Knot Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">7/16 Inch - 14 NC</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These high performance brushes are made from top quality USA high carbon steel wire for maximum performance and life</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-1/2</li><li class="extra-info"> Face Width : 1/2 Inch</li><li class="extra-info"> Wire Diameter : .020 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 9,000 RPM</li><li class="extra-info"> Pkg Qty : 1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Size_7/16 Inch - 14 NC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813088731180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">58.91</s:price>
+      <s:sku>WW KNW 550303</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813086732332</id>
+    <published>2019-05-11T11:32:47-04:00</published>
+    <updated>2019-05-11T11:32:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-6k-123t"/>
+    <title>JET 6K 123T  - 6 X 1/2 X 5/8-11Nc Standard Face Knot Wire Wheel Threaded 553302</title>
+    <s:type>Full Cable Twist Knot Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/full-cable-twist-knot-wheels-jet-6k-123t-6-x-1-2-x-5-8-11nc-standard-face-knot-wire-wheel-threaded-553302-12748559056940.jpg?v=1579460397"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Full Cable Twist Knot Wheels<br>
+        <strong>Price: </strong>
+            45.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 1/2 x 5/8-11NC Standard Face Knot Wire Wheel Threaded</h4> <li class="extra-info">These general purpose brushes are designed to offer great performance at an outstanding price</li><li class="extra-info"> Made with high quality carbon steel wire for long life</li><li class="extra-info"> Ideal for a variety of general automotive and industrial jobs</li><li class="extra-info"> Each brush comes in its own clamshell package for in-store display purposes</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Full Cable Twist Knot Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/8 Inch - 16NC</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">These general purpose brushes are designed to offer great performance at an outstanding price</li><li class="extra-info"> Made with high quality carbon steel wire for long life</li><h2>Product Information</h2><li class="extra-info">Thread Size : 5/8 Inch-11NC</li><li class="extra-info"> Face Width : 1/2 Inch</li><li class="extra-info"> Wire Diameter : .022 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 10,000 RPM</li><li class="extra-info"> Pkg Qty : 12</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_6 Inch</s:tag>
+    <s:tag>Size_3/8 Inch - 16NC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813086732332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.72</s:price>
+      <s:sku>WW KNW 553302</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813080965164</id>
+    <published>2019-05-11T11:30:30-04:00</published>
+    <updated>2019-05-11T11:30:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-bk620t"/>
+    <title>JET BK620T  - 6 X 5/8 Inch-11Nc Knot Twisted Conical (Bevel) Brush 554316</title>
+    <s:type>Knot Wheels</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/knot-wheels-jet-bk620t-6-x-5-8-inch-11nc-knot-twisted-conical-bevel-brush-554316-12748545392684.jpg?v=1579464687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Knot Wheels<br>
+        <strong>Price: </strong>
+            44.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 x 5/8 Inch-11NC Knot Twisted Conical (Bevel) Brush</h4> <li class="extra-info">High speed knotted conical brushes are ideal for heavy clean-up of weld spatter, slag, rust paint and scale in hard-to-reach areas</li><li class="extra-info"> Ideal for cleaning filet welds, corners and other hard-to-reach areas</li><li class="extra-info"> Heavy duty industrial piano wire used to manufacture these brushes ensures long life, superior productivity and increased safety</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Knot Wheels</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">High speed knotted conical brushes are ideal for heavy clean-up of weld spatter, slag, rust paint and scale in hard-to-reach areas</li><h2>Product Information</h2><li class="extra-info">Wire Diameter : .020 Inch</li><li class="extra-info"> Max</li><li class="extra-info">Speed : 9,000 RPM</li><li class="extra-info"> Pkg Qty : 1</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Size_1/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>WW</s:tag>
+    <s:tag>WW KNW</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813080965164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.79</s:price>
+      <s:sku>WW KNW 554316</s:sku>
+      <s:grams>744</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,883 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/brooms-mops.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-04T10:30:47-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255035129900</id>
+    <published>2019-12-04T10:30:47-05:00</published>
+    <updated>2019-12-04T10:30:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-16hld"/>
+    <title>3M F-ESC-16HLD  - 3M Easy Scrub Pad Holder, F-ESC-16HLD, 40.6 cm (16 in) F-ESC-16HLD 7000131233</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-esc-16hld-3m-easy-scrub-pad-holder-f-esc-16hld-40-6-cm-16-in-f-esc-16hld-7000131233-13120527368236.jpg?v=1580080446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            18.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Pad Holder, F-ESC-16HLD, 40.6 cm (16 in)</h4> <li class="extra-info">3M™ Easy Scrub Pad Holder is used for fast, efficient and lightweight cleaning</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Easy to clean</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255035129900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.47</s:price>
+      <s:sku>JS MOP F-ESC-16HLD</s:sku>
+      <s:grams>444</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255032770604</id>
+    <published>2019-10-16T00:37:01-04:00</published>
+    <updated>2019-10-16T00:37:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-sp"/>
+    <title>3M F-ESC-SP  - 3M Easy Scrub Quick Filling Pour Spout, F-ESC-SP, 2 L (0.5 gal) F-ESC-SP 7000141383</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-esc-sp-3m-easy-scrub-quick-filling-pour-spout-f-esc-sp-2-l-0-5-gal-f-esc-sp-7000141383-13120525303852.jpg?v=1580305980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            23.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Quick Filling Pour Spout, F-ESC-SP, 2 L (0.5 gal)</h4> <li class="extra-info">3M Easy Scrub Quick Filling Pour Spout allows for the quick refill of 3M Easy Scrub Flat Mop System.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255032770604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.64</s:price>
+      <s:sku>JS MOP F-ESC-SP</s:sku>
+      <s:grams>27</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255029526572</id>
+    <published>2019-10-16T00:35:06-04:00</published>
+    <updated>2019-10-16T00:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-73-15"/>
+    <title>3M F-73-15  - 3M #73 XTRA DTY FLOOR BRUSH 15 IN X 3 5/8 IN 120/22MIL 1/CS F-73-15 7010340935</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-73-15-3m-73-xtra-dty-floor-brush-15-in-x-3-5-8-in-120-22mil-1-cs-f-73-15-7010340935-13179538571308.jpg?v=1580081130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            357.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M #73 XTRA DTY FLOOR BRUSH 15 IN X 3 5/8 IN 120/22MIL 1/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255029526572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">357.33</s:price>
+      <s:sku>JS MOP F-73-15</s:sku>
+      <s:grams>997</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255029493804</id>
+    <published>2019-10-16T00:35:06-04:00</published>
+    <updated>2019-10-16T00:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-73-20"/>
+    <title>3M F-73-20  - 3M #73 XTRA DUTY FLOOR BRUSH 20 IN X 3 5/8 IN 120/22MIL 1/CS F-73-20 7010340936</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-73-20-3m-73-xtra-duty-floor-brush-20-in-x-3-5-8-in-120-22mil-1-cs-f-73-20-7010340936-13120521437228.jpg?v=1580080738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            375.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M #73 XTRA DUTY FLOOR BRUSH 20 IN X 3 5/8 IN 120/22MIL 1/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255029493804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">375.81</s:price>
+      <s:sku>JS MOP F-73-20</s:sku>
+      <s:grams>1859</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028609068</id>
+    <published>2019-10-16T00:34:31-04:00</published>
+    <updated>2019-10-16T00:34:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-73-13"/>
+    <title>3M F-73-13  - 73 xd Brush 13in x 3 5/8in 2/Cs F-73-13 7010383572</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-73-13-73-xd-brush-13in-x-3-5-8in-2-cs-f-73-13-7010383572-13120520159276.jpg?v=1580080888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            248.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">73 XD BRUSH 13IN X 3 5/8IN 2/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028609068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">248.63</s:price>
+      <s:sku>JS MOP F-73-13</s:sku>
+      <s:grams>635</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255028543532</id>
+    <published>2019-10-16T00:34:28-04:00</published>
+    <updated>2019-10-16T00:34:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-53-13"/>
+    <title>3M F-53-13  - 3M #53 GEN PURP FLOOR BRUSH 13 IN X 3 5/8 IN 320/22MIL 2/CS F-53-13 7010383578</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-53-13-3m-53-gen-purp-floor-brush-13-in-x-3-5-8-in-320-22mil-2-cs-f-53-13-7010383578-13120519995436.jpg?v=1580082093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            269.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M #53 GEN PURP FLOOR BRUSH 13 IN X 3 5/8 IN 320/22MIL 2/CS</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255028543532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">269.09</s:price>
+      <s:sku>JS MOP F-53-13</s:sku>
+      <s:grams>353</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4255003344940</id>
+    <published>2019-10-16T00:17:59-04:00</published>
+    <updated>2019-10-16T00:17:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esx-startkit"/>
+    <title>3M F-ESX-STARTKIT  - 3M Easy Scrub Express Starter Kit, F-ESX-STARTKIT 7100139536</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-esx-startkit-3m-easy-scrub-express-starter-kit-f-esx-startkit-7100139536-13179538636844.jpg?v=1580302528"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            144.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Express Starter Kit, F-ESX-STARTKIT</h4> <li class="extra-info">3M™ Easy Scrub Express Starter Kit, FS includes one 3M™ Easy Scrub Express Flat Mop Tool, 12 3M™ Easy Scrub Express Bottles, one 3M™ Easy Scrub Express Cady, 10 18-inch (45.7 cm) 3M™ Flat Mops, 1/2 gallon (2.3 litre) 3M™ Easy Scrub Pour Jug, a training DVD, 3 blank sheets label stock and label CD.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Interchangeable bottles allow for quick change of chemicals</li><li class="extra-info"> Operator-controlled dispensing mechanism helps cut chemical waste</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4255003344940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">144.49</s:price>
+      <s:sku>JS MOP F-ESX-STARTKIT</s:sku>
+      <s:grams>3016</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254995972140</id>
+    <published>2019-10-16T00:13:04-04:00</published>
+    <updated>2019-10-16T00:13:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-tb"/>
+    <title>3M F-ESC-TB  - 3M Easy Scrub Top Button, F-ESC-TB 7100129602</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-esc-tb-3m-easy-scrub-top-button-f-esc-tb-7100129602-13120470188076.jpg?v=1580302449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            4.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254995972140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.63</s:price>
+      <s:sku>AC MOP F-ESC-TB</s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254995939372</id>
+    <published>2019-10-16T00:13:02-04:00</published>
+    <updated>2019-10-16T00:13:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-etrp-dust-cart"/>
+    <title>3M F-ETRP-DUST-CART  - 3M Easy Trap Duster Sweep &amp; Dust Sheets, F-ETRP-DUST-CART, 30 ft (9.1 m) roll, 5 in x 6 in (12.7 cm x 15.24 cm) F-ETRP-DUST-CART 7100081547</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-etrp-dust-cart-3m-easy-trap-duster-sweep-dust-sheets-f-etrp-dust-cart-30-ft-9-1-m-roll-5-in-x-6-in-12-7-cm-x-15-24-cm-f-etrp-dust-cart-7100081547-13120470220844.jpg?v=1580302616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            13.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254995939372</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.63</s:price>
+      <s:sku>AC MOP F-ETRP-DUST-CART</s:sku>
+      <s:grams>2735</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254995906604</id>
+    <published>2019-10-16T00:13:01-04:00</published>
+    <updated>2019-10-16T00:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-etrp-dust-lrg"/>
+    <title>3M F-ETRP-DUST-LRG  - 3M Easy Trap Duster Sweep &amp; Dust Sheets, F-ETRP-DUST-LRG, 125 ft (38.1 m) roll, 8 in x 6 in (20.3 cm x 15.24 cm) F-ETRP-DUST-LRG 7100081545</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-etrp-dust-lrg-3m-easy-trap-duster-sweep-dust-sheets-f-etrp-dust-lrg-125-ft-38-1-m-roll-8-in-x-6-in-20-3-cm-x-15-24-cm-f-etrp-dust-lrg-7100081545-13120470122540.jpg?v=1580302650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254995906604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.68</s:price>
+      <s:sku>AC MOP F-ETRP-DUST-LRG</s:sku>
+      <s:grams>1329</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254995873836</id>
+    <published>2019-10-16T00:13:01-04:00</published>
+    <updated>2019-10-16T00:13:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-etrp-dust-std"/>
+    <title>3M F-ETRP-DUST-STD  - 3M Easy Trap Duster Sweep &amp; Dust Sheets, F-ETRP-DUST-STD, 125 ft (38.1 m) roll, 5 in x 6 in (12.7 cm x 15.24 cm) F-ETRP-DUST-STD 7100081544</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-f-etrp-dust-std-3m-easy-trap-duster-sweep-dust-sheets-f-etrp-dust-std-125-ft-38-1-m-roll-5-in-x-6-in-12-7-cm-x-15-24-cm-f-etrp-dust-std-7100081544-13120470155308.jpg?v=1580091658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            93.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254995873836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">93.87</s:price>
+      <s:sku>AC MOP F-ETRP-DUST-STD</s:sku>
+      <s:grams>1936</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145003212844</id>
+    <published>2018-08-13T22:05:19-04:00</published>
+    <updated>2018-08-13T22:05:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-18ccb"/>
+    <title>3M F-ESC-18CCB  - Easy Scrub Flat Mop Blue 18 in 10 Per Bag 4 Ba 7000126856</title>
+    <s:type>Mops</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mops-3m-f-esc-18ccb-easy-scrub-flat-mop-blue-18-in-10-per-bag-4-ba-7000126856-12746891493420.jpg?v=1580080289"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Mops<br>
+        <strong>Price: </strong>
+            463.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Flat Mop, F-ESC-18CCB, blue, 457.2 mm (18 in)</h4> <li class="extra-info">For use with the 3M™ Easy Scrub Flat Mop System</li><li class="extra-info">This microfibre flat map is connects securely to nearly any hook and loop mop frame, and is colour-coded to help reduce potential cross-contamination.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">South Korea</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mops</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Connects to nearly any hook and loop mop frame</li><li class="extra-info"> Available in three different sizes</li><li class="extra-info"> Coloured borders help reduce potential cross-contamination</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145003212844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">463.66</s:price>
+      <s:sku>JS MOP F-ESC-18CCB</s:sku>
+      <s:grams>4717</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122243444780</id>
+    <published>2018-08-03T18:38:07-04:00</published>
+    <updated>2018-08-03T18:38:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esh-24pad"/>
+    <title>3M F-ESH-24PAD  - Easy Shine Applicator Pad 24 in 7000126809</title>
+    <s:type>Applicators</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/applicators-3m-f-esh-24pad-easy-shine-applicator-pad-24-in-7000126809-12746891132972.jpg?v=1580091960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Applicators<br>
+        <strong>Price: </strong>
+            175.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Shine Floor Finish Applicator Pad, F-ESH24PAD, 610 mm (24 in)</h4> <li class="extra-info">3M™ Easy Shine Floor Finish Applicator Pad is designed to apply a very thin layer of floor finish to hard floors such as stone, concrete or terrazzo</li><li class="extra-info">This 24 in (610 mm) pad holds and releases just the right amount of floor finish to get the exact amount needed on the hard surface.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">South Korea</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Applicators</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Applies very thin layer of floor finish to hard floors</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122243444780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">175.24</s:price>
+      <s:sku>AC MOP F-ESH-24PAD</s:sku>
+      <s:grams>317</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122221850668</id>
+    <published>2018-08-03T18:21:56-04:00</published>
+    <updated>2018-08-03T18:21:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-flmop"/>
+    <title>3M F-ESC-FLMOP  - Easy Scrub Flat Mop White 18 in 10 Per Bag 10 Ba 7000127862</title>
+    <s:type>Mops</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/mops-3m-f-esc-flmop-easy-scrub-flat-mop-white-18-in-10-per-bag-10-ba-7000127862-31604701462677.jpg?v=1628247517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Mops<br>
+        <strong>Price: </strong>
+            1159.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Flat Mop, F-ESC-FLMOP, white, 457.2 mm (18 in)</h4> <li class="extra-info">For use with the 3M™ Easy Scrub Flat Mop System</li><li class="extra-info">This microfibre flat map is connects securely to nearly any hook and loop mop frame, and is colour-coded to help reduce potential cross-contamination.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">South Korea</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Mops</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Connects to nearly any hook and loop mop frame</li><li class="extra-info"> Available in three different sizes</li><li class="extra-info"> Coloured borders help reduce potential cross-contamination</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122221850668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1159.16</s:price>
+      <s:sku>JS MOP F-ESC-FLMOP</s:sku>
+      <s:grams>14220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122221817900</id>
+    <published>2018-08-03T18:21:52-04:00</published>
+    <updated>2018-08-03T18:21:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esh-18pad"/>
+    <title>3M F-ESH-18PAD  - Easy Shine Applicator Pad 18 in 7000127861</title>
+    <s:type>Applicators</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/applicators-3m-f-esh-18pad-easy-shine-applicator-pad-18-in-7000127861-13981197205548.jpg?v=1627961874"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Applicators<br>
+        <strong>Price: </strong>
+            127.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Shine Floor Finish Applicator Pad, F-ESH18PAD, 460 mm (18 in)</h4> <li class="extra-info">3M™ Easy Shine Floor Finish Applicator Pad is designed to apply a very thin layer of floor finish to hard floors such as stone, concrete or terrazzo</li><li class="extra-info">This 18 in (460 mm) pad holds and releases just the right amount of floor finish to get the exact amount needed on the hard surface.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">South Korea</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Applicators</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Applies very thin layer of floor finish to hard floors</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122221817900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">127.45</s:price>
+      <s:sku>AC MOP F-ESH-18PAD</s:sku>
+      <s:grams>1632</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122202157100</id>
+    <published>2018-08-03T18:07:21-04:00</published>
+    <updated>2018-08-03T18:07:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-pj-1-2g"/>
+    <title>3M F-ESC-PJ-1/2G  - Easy Scrub Pour Jug 1.5 Gallons 7000141375</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-3m-f-esc-pj-1-2g-easy-scrub-pour-jug-1-5-gallons-7000141375-12794980237356.jpg?v=1580305898"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            49.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Pour Jug, F-ESC-PJ-1/2G, 2 L (0.5 gal)</h4> <li class="extra-info">3M™ Easy Scrub Pour Jug is designed to help fill 3M™ Easy Scrub Express bottles</li><li class="extra-info">This jug can hold 2 litres (0.5 gallon) of liquid.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122202157100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.46</s:price>
+      <s:sku>AC MOP F-ESC-PJ-1/2G</s:sku>
+      <s:grams>997</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121960263724</id>
+    <published>2018-08-03T16:39:47-04:00</published>
+    <updated>2018-08-03T16:39:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-f-esc-tool"/>
+    <title>3M F-ESC-TOOL  - Easy Scrub Flat Mop Tool With Pad Holder 16 in 7000052514</title>
+    <s:type>Pad Holders</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/pad-holders-3m-f-esc-tool-easy-scrub-flat-mop-tool-with-pad-holder-16-in-7000052514-31600295215253.jpg?v=1628311043"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Pad Holders<br>
+        <strong>Price: </strong>
+            184.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Easy Scrub Flat Mop with Pad Holder, F-ESC-TOOL, 406 mm (16 in)</h4> <li class="extra-info">For use with the 3M™ Easy Scrub Flat Mop System</li><li class="extra-info">This microfibre flat map is connects securely to nearly any hook and loop mop frame, and is colour-coded to help reduce potential cross-contamination.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Pad Holders</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Connects to nearly any hook and loop mop frame</li><li class="extra-info"> Available in three different sizes</li><li class="extra-info"> Coloured borders help reduce potential cross-contamination</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>JS</s:tag>
+    <s:tag>JS MOP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121960263724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">184.63</s:price>
+      <s:sku>JS MOP F-ESC-TOOL</s:sku>
+      <s:grams>1533</s:grams>
+    </s:variant>
+  </entry>
+</feed>

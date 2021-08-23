@@ -1,0 +1,1391 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/oil-skimmers-filters-aerators.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-15T22:26:25-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933286956</id>
+    <published>2019-10-15T22:26:25-04:00</published>
+    <updated>2019-10-15T22:26:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5527407"/>
+    <title>3M 5527407  - 5560907 Wf Cartridge Ap420-7 7100040509</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5527407-5560907-wf-cartridge-ap420-7-7100040509-13120351731756.jpg?v=1580158174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            116.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5560907 WF CTG AP420-7</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933286956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">116.85</s:price>
+      <s:sku>SH SFA 5527407</s:sku>
+      <s:grams>1202</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933254188</id>
+    <published>2019-10-15T22:26:20-04:00</published>
+    <updated>2019-10-15T22:26:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5541705"/>
+    <title>3M 5541705  - 5541731 Wf Cartridge Ap117Np 7100057796</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5541705-5541731-wf-cartridge-ap117np-7100057796-13120351600684.jpg?v=1580225044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            29.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5541731 WF CTG AP117NP</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933254188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.33</s:price>
+      <s:sku>SH SFA 5541705</s:sku>
+      <s:grams>4399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933188652</id>
+    <published>2019-10-15T22:26:04-04:00</published>
+    <updated>2019-10-15T22:26:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ap43010"/>
+    <title>3M AP43010  - Ap43011 Wf Cartridge Scale 7100051446</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-ap43010-ap43011-wf-cartridge-scale-7100051446-13120350519340.jpg?v=1580269290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            77.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">AP43011 WF CTG SCALE</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933188652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">77.98</s:price>
+      <s:sku>SH SFA AP43010</s:sku>
+      <s:grams>893</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933155884</id>
+    <published>2019-10-15T22:25:59-04:00</published>
+    <updated>2019-10-15T22:25:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-uvblst-1"/>
+    <title>3M UVBLST-1  - Ultraviolet Ballast For Uv-8 Ultraviolet Disi x 7000137234</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-uvblst-1-ultraviolet-ballast-for-uv-8-ultraviolet-disi-x-7000137234-13120350453804.jpg?v=1578831555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            149.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M ULTRAVIOLET BALLAST FOR 3MUV-8 ULTRAVIOLET DISI - X</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933155884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.75</s:price>
+      <s:sku>SH SFA UVBLST-1</s:sku>
+      <s:grams>2000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254933123116</id>
+    <published>2019-10-15T22:25:59-04:00</published>
+    <updated>2019-10-15T22:25:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-uvqs-1"/>
+    <title>3M UVQS-1  - Ultraviolet Quartz Sleeve For Uv-8 Ultraviolet x 7000137233</title>
+    <s:type>Sleeves</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/sleeves-3m-uvqs-1-ultraviolet-quartz-sleeve-for-uv-8-ultraviolet-x-7000137233-13120350355500.jpg?v=1578831590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Sleeves<br>
+        <strong>Price: </strong>
+            45.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M ULTRAVIOLET QUARTZ SLEEVE FOR 3MUV-8 ULTRAVIOLE - X</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Sleeves</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254933123116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.72</s:price>
+      <s:sku>SH SFA UVQS-1</s:sku>
+      <s:grams>190</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813437775916</id>
+    <published>2019-05-11T15:13:04-04:00</published>
+    <updated>2019-05-11T15:13:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-2405c-kdcf-2400"/>
+    <title>King Canada KC-2405C/KDCF-2400  - Dust Collector, 1 HP, 110V, 700 CFM w/Canister Filter KC-2405C/KDCF-2400</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-kc-2405c-kdcf-2400-dust-collector-1-hp-110v-700-cfm-w-canister-filter-kc-2405c-kdcf-2400-12749463617580.jpg?v=1579600806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            719.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1 HP dust collector with canister filter</h4> <li class="extra-info">Powerful 1 HP, 120V heavy-duty TEFC motor and solid construction to effectively handle the collection of wood chips and sawdust 700 CFM air suction capacity</li><li class="extra-info"> Aluminum impeller is precision balanced and designed for maximum air flow performance</li><li class="extra-info"> Paddle switch with removable safety key</li><li class="extra-info"> Washable 1 Micron upper felt dust bag for optimal air flow efficiency and reusable clear plastic lower dust bags (3)</li><li class="extra-info"> Sturdy base with 4 swivel casters and handle for maneuverability</li><li class="extra-info"> 4” diameter inlet port</li><li class="extra-info"> 1 Micron canister filter, offering optimum air flow efficiency</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813437775916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">719.81</s:price>
+      <s:sku>SH SFA KC-2405C/KDCF-2400</s:sku>
+      <s:grams>31751</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813310767148</id>
+    <published>2019-05-11T13:33:08-04:00</published>
+    <updated>2019-05-11T13:33:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5617904"/>
+    <title>3M 5617904  - 5617931 SYS AP EASY Complete 7100049872</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5617904-5617931-sys-ap-easy-complete-7100049872-12749111459884.jpg?v=1580225373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            167.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5617931 SYS AP EASY COMPLETE</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813310767148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">167.14</s:price>
+      <s:sku>SH SFA 5617904</s:sku>
+      <s:grams>6894</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813185527852</id>
+    <published>2019-05-11T12:10:03-04:00</published>
+    <updated>2019-05-11T12:10:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-joidrlp"/>
+    <title>JET JOIDRLP  - 17 Us Gallon (64 Litre) Low Profile Polypropylene Oil Drain 350514</title>
+    <s:type>Oil Drains</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/oil-drains-jet-joidrlp-17-us-gallon-64-litre-low-profile-polypropylene-oil-drain-350514-12748826640428.jpg?v=1579547704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Oil Drains<br>
+        <strong>Price: </strong>
+            581.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">17 US Gallon (64 Litre) Low Profile Polypropylene Oil Drain</h4> <li class="extra-info">Ideal for draining oil where a pit or hoist is not available</li><li class="extra-info"> 17 US Gallon tank with integrated baffle captures oil and minimizes spillage during transport</li><li class="extra-info"> Convenient rotary hand pump for fast evacuation to large oil collection tanks</li><li class="extra-info"> Large metal screen keeps foreign matter out of recovery tank</li><li class="extra-info"> Long steel handle eases moving and positioning of drain</li><li class="extra-info"> Shipping Weight: 46 lb (21 kg)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Oil Drains</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Ideal for draining oil where a pit or hoist is not available</li><li class="extra-info"> Convenient rotary hand pump for fast evacuation to large oil collection tanks</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>Size_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813185527852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">581.36</s:price>
+      <s:sku>SH SFA 350514</s:sku>
+      <s:grams>32990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813185495084</id>
+    <published>2019-05-11T12:10:03-04:00</published>
+    <updated>2019-05-11T12:10:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-joidrlpaf"/>
+    <title>JET JOIDRLPAF  - 17 Us Gallon (64 Litre) Low Profile Polypropylene Antifreeze Drain 350520</title>
+    <s:type>Oil Drains</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/oil-drains-jet-joidrlpaf-17-us-gallon-64-litre-low-profile-polypropylene-antifreeze-drain-350520-12748826378284.jpg?v=1579547825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Oil Drains<br>
+        <strong>Price: </strong>
+            628.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">17 US Gallon (64 Litre) Low Profile Polypropylene Antifreeze Drain</h4> <li class="extra-info">Ideal for draining antifreeze where a pit or hoist is not available</li><li class="extra-info"> 17 US Gallon tank with integrated baffle captures antifreeze and minimizes spillage during transport</li><li class="extra-info"> Convenient rotary hand pump for fast evacuation to large collection tanks</li><li class="extra-info"> Aluminum pump body specifically designed to pump corrosive antifreeze</li><li class="extra-info"> Large metal screen keeps foreign matter out of recovery tank</li><li class="extra-info"> Long steel handle eases moving and positioning of drain</li><li class="extra-info"> Shipping Weight: 46 lb (21 kg)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Oil Drains</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Ideal for draining antifreeze where a pit or hoist is not available</li><li class="extra-info"> Convenient rotary hand pump for fast evacuation to large oil collection tanks</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>Size_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813185495084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">628.17</s:price>
+      <s:sku>SH SFA 350520</s:sku>
+      <s:grams>32990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813185167404</id>
+    <published>2019-05-11T12:09:57-04:00</published>
+    <updated>2019-05-11T12:09:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-50390"/>
+    <title>JET 50390  - 24 Us Gallon (90 Litre) Waste Oil Drain Heavy Duty 350511</title>
+    <s:type>Oil Drains</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/oil-drains-jet-50390-24-us-gallon-90-litre-waste-oil-drain-heavy-duty-350511-12748825722924.jpg?v=1579386630"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Oil Drains<br>
+        <strong>Price: </strong>
+            842.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">24 US Gallon (90 Litre) Waste Oil Drain - Heavy Duty</h4> <li class="extra-info">Large 90 litre steel recovery tank</li><li class="extra-info"> 78" long drainage hose</li><li class="extra-info"> Tank mounted oil-level sight gauge</li><li class="extra-info"> Convenient tool tray</li><li class="extra-info"> 16" diameter collection funnel holds 18 litres of oil</li><li class="extra-info"> 23" diameter collection funnel adaptor included to expand oil catch area</li><li class="extra-info"> Shut off valve between collection funnel and tank allows fluid inspection prior to draining oil</li><li class="extra-info"> Uses air to pressurize tank, allowing quick and easy fluid evacuation (maximum 7 PSI)</li><li class="extra-info"> Pressure regulator included</li><li class="extra-info"> Adjustable bowl height from 40" to 79" high</li><li class="extra-info"> Uses gravity to drain waste oil from engines, gear boxes, and differentials</li><li class="extra-info"> Shipping weight: 60 lbs (27 kg)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Oil Drains</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">78" long drainage hose</li><li class="extra-info"> Tank mounted oil-level sight gauge</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813185167404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">842.63</s:price>
+      <s:sku>SH SFA 350511</s:sku>
+      <s:grams>32990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813185101868</id>
+    <published>2019-05-11T12:09:57-04:00</published>
+    <updated>2019-05-11T12:09:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-joidr68gd"/>
+    <title>JET JOIDR68GD  - 18 Us Gallon (68 Litre) Waste Oil Drain 350512</title>
+    <s:type>Oil Drains</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/oil-drains-jet-joidr68gd-18-us-gallon-68-litre-waste-oil-drain-350512-12748826148908.jpg?v=1579547653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Oil Drains<br>
+        <strong>Price: </strong>
+            428.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">18 US Gallon (68 Litre) Waste Oil Drain</h4> <li class="extra-info">68 litre steel recovery tank</li><li class="extra-info"> 8' drainage hose doubles as an oil level sight gauge</li><li class="extra-info"> 14" metal collection funnel holds 10 litres of oil</li><li class="extra-info"> Shut off valve between funnel and tank allows fluid inspection prior to draining oil</li><li class="extra-info"> Uses air to pressurize tank, allowing quick and easy fluid evacuation (maximum 10 PSI)</li><li class="extra-info"> Pressure regulator included</li><li class="extra-info"> Adjustable bowl height from 46 to 75"</li><li class="extra-info"> Uses gravity to drain waste oil from engines, gear boxes and differentials</li><li class="extra-info"> Shipping weight: 58 lb (26 kg)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Oil Drains</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">68 litre steel recovery tank</li><li class="extra-info"> Adjustable bowl height from 46" to 75"</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813185101868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">428.80</s:price>
+      <s:sku>SH SFA 350512</s:sku>
+      <s:grams>32990</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813072674860</id>
+    <published>2019-05-11T11:27:15-04:00</published>
+    <updated>2019-05-11T11:27:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jmep-8"/>
+    <title>JET JMEP-8  - 9L Manual Fluid Extraction Pump 350551</title>
+    <s:type>Oil Drains</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/oil-drains-jet-jmep-8-9l-manual-fluid-extraction-pump-350551-12748518785068.jpg?v=1579560903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Oil Drains<br>
+        <strong>Price: </strong>
+            196.26
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">9L Manual Fluid Extraction Pump</h4> <li class="extra-info">Quickly and efficiently evacuates a multitude of fluids, including engine oil, transmission fluids, gear oil, coolant, and brake fluid</li><li class="extra-info"> Includes one brake line flex hose, two dipstick hoses, and a line clearing tool</li><li class="extra-info"> Features a durable rust and corrosion resistant polyethylene construction</li><li class="extra-info"> Quick-drain pour spout</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Oil Drains</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Quickly and efficiently evacuates a multitude of fluids, including engine oil, transmission fluids, gear oil, coolant, and brake fluid</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813072674860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">196.26</s:price>
+      <s:sku>SH SFA 350551</s:sku>
+      <s:grams>1028</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813037350956</id>
+    <published>2019-05-11T11:13:22-04:00</published>
+    <updated>2019-05-11T11:13:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-joidrlpm"/>
+    <title>JET JOIDRLPM  - 15 Us Gallon (56 Litre) Low Profile Steel Tank Oil Drain 350515</title>
+    <s:type>Oil Drains</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/oil-drains-jet-joidrlpm-15-us-gallon-56-litre-low-profile-steel-tank-oil-drain-350515-12748418089004.jpg?v=1579547739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Oil Drains<br>
+        <strong>Price: </strong>
+            613.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">15 US Gallon (56 Litre) Low Profile Steel Tank Oil Drain</h4> <li class="extra-info">Ideal for draining oil where a pit or hoist is not available</li><li class="extra-info"> 15 US Gallon tank with integrated baffle captures oil and minimizes spillage during transport</li><li class="extra-info"> Convenient rotary hand pump for fast evacuation to large oil collection tanks</li><li class="extra-info"> Large metal screen keeps foreign matter out of recovery tank</li><li class="extra-info"> Long steel handle eases moving and positioning of drain</li><li class="extra-info"> Shipping Weight: 46 lb (21 kg)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Oil Drains</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">15mm</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Ideal for draining oil where a pit or hoist is not available</li><li class="extra-info"> Convenient rotary hand pump for fast evacuation to large oil collection tanks</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>Size_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813037350956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">613.07</s:price>
+      <s:sku>SH SFA 350515</s:sku>
+      <s:grams>33005</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134506028</id>
+    <published>2019-03-16T01:58:18-04:00</published>
+    <updated>2019-03-16T01:58:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5529902"/>
+    <title>3M 5529902  - Aqua-Pure Whole House Std. Diameter Water Filtration System Model Ap11T 7000001617</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5529902-aqua-pure-whole-house-std-diameter-water-filtration-system-model-ap11t-7000001617-12749112311852.jpg?v=1580225012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            73.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Aqua-Pure(R) Whole House Std. Dia. Water Filtration System, Model AP11T, 4 per case, 5529902</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134506028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">73.08</s:price>
+      <s:sku>SH SFA 5529902</s:sku>
+      <s:grams>1220</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134473260</id>
+    <published>2019-03-16T01:58:15-04:00</published>
+    <updated>2019-03-16T01:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5592406"/>
+    <title>3M 5592406  - 5620406 Ap Water Filter Cartridge 5 Micron Single Wrap 36 Pack 7100000558</title>
+    <s:type>Water Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/water-filters-3m-5592406-5620406-ap-water-filter-cartridge-5-micron-single-wrap-36-pack-7100000558-12749111853100.jpg?v=1580157778"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Water Filters<br>
+        <strong>Price: </strong>
+            7.53
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5620406 AP WTR FILTR CTG 36 PK 5 MICRON SINGLE WRAP 36 PACK</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Water Filters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134473260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.53</s:price>
+      <s:sku>SH SFA 5592406</s:sku>
+      <s:grams>161</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134440492</id>
+    <published>2019-03-16T01:58:15-04:00</published>
+    <updated>2019-03-16T01:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5530002"/>
+    <title>3M 5530002  - Aqua-Pure Whole House Std. Dia.Water Filtration System Model Ap101T 7100008195</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5530002-aqua-pure-whole-house-std-dia-water-filtration-system-model-ap101t-7100008195-12749112246316.jpg?v=1580224979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            80.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Aqua-Pure(R) Whole House Std. Dia.Water Filtration System, Model AP101T, 4 per case, 5530002</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134440492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.78</s:price>
+      <s:sku>SH SFA 5530002</s:sku>
+      <s:grams>1288</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134407724</id>
+    <published>2019-03-16T01:58:15-04:00</published>
+    <updated>2019-03-16T01:58:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5530008"/>
+    <title>3M 5530008  - Aqua-Pure Whole House Std. Diameter Water Filter Housing Model Ap102T 7000001639</title>
+    <s:type>Water Filters</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/water-filters-3m-5530008-aqua-pure-whole-house-std-diameter-water-filter-housing-model-ap102t-7000001639-12749111787564.jpg?v=1580158019"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Water Filters<br>
+        <strong>Price: </strong>
+            160.01
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Aqua-Pure(R) Whole House Std. Dia. Water Filter Housing, Model AP102T, 2 per case, 5530008</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Water Filters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134407724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.01</s:price>
+      <s:sku>SH SFA 5530008</s:sku>
+      <s:grams>1896</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134309420</id>
+    <published>2019-03-16T01:58:11-04:00</published>
+    <updated>2019-03-16T01:58:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5608401"/>
+    <title>3M Aqua Pure 5608401  - Aqua Pure Under Sink Reverse Osmosis Replacement Membrane Cartridge Model Ap-5500Rm 7000125410</title>
+    <s:type>Replacement Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-parts-3m-aqua-pure-5608401-aqua-pure-under-sink-reverse-osmosis-replacement-membrane-cartridge-model-ap-5500rm-7000125410-12749111820332.jpg?v=1580115176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Replacement Parts<br>
+        <strong>Price: </strong>
+            144.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Aqua Pure Under Sink Reverse Osmosis Replacement Membrane Cartridge, Model AP-5500RM, 5608401</h4> <li class="extra-info">A premium performance dual action replacement membrane cartridge for 3M™ Aqua Pure™ Reverse Osmosis Drinking Water Filtration Systems</li><li class="extra-info">For best results, replace filter every 6 months.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Aqua Pure</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">South Korea</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Parts</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Better tasting water</li><li class="extra-info"> Reduces contaminants in water</li><li class="extra-info"> Sanitary Quick Change (SQC) design, an industry first for this application, allows for fast and easy cartridge change-outs without the need of a filter wrench</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Aqua Pure</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134309420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">144.89</s:price>
+      <s:sku>SH SFA 5608401</s:sku>
+      <s:grams>3166</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134145580</id>
+    <published>2019-03-16T01:58:09-04:00</published>
+    <updated>2019-03-16T01:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5618007"/>
+    <title>3M 5618007  - 561804 Cartridge Ap Easy Complete 7100049876</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5618007-561804-cartridge-ap-easy-complete-7100049876-12749111427116.jpg?v=1580157570"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            83.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5618044 CTG AP EASY COMPLETE</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134145580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">83.38</s:price>
+      <s:sku>SH SFA 5618007</s:sku>
+      <s:grams>458</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134211116</id>
+    <published>2019-03-16T01:58:08-04:00</published>
+    <updated>2019-03-16T01:58:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5620601"/>
+    <title>3M Aqua Pure 5620601  - Aqua Pure Whole House Narrow Diameter Replacement Filter Model Ap124-2C 7000051058</title>
+    <s:type>Replacement Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-parts-3m-aqua-pure-5620601-aqua-pure-whole-house-narrow-diameter-replacement-filter-model-ap124-2c-7000051058-12749111263276.jpg?v=1580269450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Replacement Parts<br>
+        <strong>Price: </strong>
+            14.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Aqua Pure Whole House Narrow Diameter Replacement Filter, Model AP124-2C, 5620601</h4> <li class="extra-info">Replacement cartridge that helps improve the taste of water by reducing undesirable chlorine taste and odour (CTO) and particulate.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Aqua Pure</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Diameter </td>
+<td class="egrimes">2-1/2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">9-3/4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Aqua Pure™ Filter Cartridge is a sediment cartridge made from an exclusive Progressive Porosity Process that entangles and entraps larger sediment particles toward the outer diameter and progressively smaller particles toward the cartridge core</li><li class="extra-info">T</li><h2>Product Information</h2><li class="extra-info">Helps protect home's piping system and plumbing fixtures</li><li class="extra-info"> Effective filtration of unwanted chlorine taste and odour (CTO)</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Diameter_2-1/2 Inch</s:tag>
+    <s:tag>Length_9-3/4 Inch</s:tag>
+    <s:tag>Line_Aqua Pure</s:tag>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134211116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.15</s:price>
+      <s:sku>SH SFA 5620601</s:sku>
+      <s:grams>1995</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134178348</id>
+    <published>2019-03-16T01:58:08-04:00</published>
+    <updated>2019-03-16T01:58:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5620404"/>
+    <title>3M 5620404  - Aqua-Pure Brand By Whole House 7000029441</title>
+    <s:type>Replacement Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-parts-3m-5620404-aqua-pure-brand-by-whole-house-7000029441-12794749616172.jpg?v=1580157656"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Replacement Parts<br>
+        <strong>Price: </strong>
+            17.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Aqua-Pure Brand by 3M Whole House Standard Diameter Replacement Filter, Model AP110-NP, 5620404</h4> <li class="extra-info">A large capacity, 25 micron replacement cartridge uses a modified carbon block filtration system help reduce undesirable chlorine taste and odour (CTO) and sediments in your drinking water.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Parts</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">A sediment cartridge made from an exclusive Progressive Porosity Process that entangles and entraps larger sediment particles toward the outer diameter and progressively smaller particles toward the cartridge core</li><li class="extra-info">This allows even loading for maximum car</li><h2>Product Information</h2><li class="extra-info">Helps protect home's piping system and plumbing fixtures</li><li class="extra-info"> 25 nominal micron rating</li><li class="extra-info"> Incorporates carbon block filtration</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134178348</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.06</s:price>
+      <s:sku>SH SFA 5620404</s:sku>
+      <s:grams>390</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737134014508</id>
+    <published>2019-03-16T01:58:05-04:00</published>
+    <updated>2019-03-16T01:58:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5631201"/>
+    <title>3M 5631201  - Wf Cartridge Ap5527 7100049858</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5631201-wf-cartridge-ap5527-7100049858-12795069759532.jpg?v=1580225496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            103.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5631201 WF CTG AP5527</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737134014508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">103.66</s:price>
+      <s:sku>SH SFA 5631201</s:sku>
+      <s:grams>1317</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737133785132</id>
+    <published>2019-03-16T01:58:03-04:00</published>
+    <updated>2019-03-16T01:58:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ap43110"/>
+    <title>3M AP43110  - Ap43111 Wf Cartridge Ap431 7100051432</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-ap43110-ap43111-wf-cartridge-ap431-7100051432-12749111033900.jpg?v=1580269383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            36.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">AP43111 WF CTG AP431</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737133785132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.66</s:price>
+      <s:sku>SH SFA AP43110</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737133752364</id>
+    <published>2019-03-16T01:58:02-04:00</published>
+    <updated>2019-03-16T01:58:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5632108"/>
+    <title>3M 5632108  - Wf Cartridge C-Cs-Ff 7100049862</title>
+    <s:type>Filtration</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filtration-3m-5632108-wf-cartridge-c-cs-ff-7100049862-12795070021676.jpg?v=1580225585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filtration<br>
+        <strong>Price: </strong>
+            33.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5632108 WF CTG C-CS-FF</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Mexico</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filtration</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737133752364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.42</s:price>
+      <s:sku>SH SFA 5632108</s:sku>
+      <s:grams>693</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124685217836</id>
+    <published>2018-08-04T20:28:20-04:00</published>
+    <updated>2018-08-04T20:28:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5621006"/>
+    <title>3M 5621006  - Aqua-Pure Whole House Large Diametre Replacement Filter Cartridge Ap917Hd Blue 29 in x 4.5 in (73.6 cm x 11.4 cm) 7100039299</title>
+    <s:type>Replacement Parts</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/replacement-parts-3m-5621006-aqua-pure-whole-house-large-diametre-replacement-filter-cartridge-ap917hd-blue-29-in-x-4-5-in-73-6-cm-x-11-4-cm-7100039299-31533414187157.jpg?v=1628375852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Replacement Parts<br>
+        <strong>Price: </strong>
+            182.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5621006 WTR FILTER CTG AP917</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Replacement Parts</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH SFA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124685217836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">182.36</s:price>
+      <s:sku>SH SFA 5621006</s:sku>
+      <s:grams>3143</s:grams>
+    </s:variant>
+  </entry>
+</feed>

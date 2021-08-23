@@ -1,0 +1,916 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/polishes-cleaners.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:04:46-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254982766636</id>
+    <published>2019-10-16T00:04:46-04:00</published>
+    <updated>2019-10-16T00:04:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-c-resilient"/>
+    <title>3M C-RESILIENT  - Resilient Floor Protector 1 Gal Bag 2/Cs C-Resilient 7100177995</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-c-resilient-resilient-floor-protector-1-gal-bag-2-cs-c-resilient-7100177995-13120442925100.jpg?v=1580112538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            276.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Resilient Floor Protector 1 gal bag 2/cs</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0Gmx2GnY_9mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254982766636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">276.96</s:price>
+      <s:sku>SP PSC C-RESILIENT</s:sku>
+      <s:grams>8554</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930993196</id>
+    <published>2019-10-15T22:25:14-04:00</published>
+    <updated>2019-10-15T22:25:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-38984"/>
+    <title>3M 38984  - Specialty Adhesive Remover 32 Fl Oz (0.95 L) 7000142719</title>
+    <s:type>Adhesive Remover</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesive-remover-3m-38984-specialty-adhesive-remover-32-fl-oz-0-95-l-7000142719-13120343736364.jpg?v=1580173979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesive Remover<br>
+        <strong>Price: </strong>
+            46.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Specialty Adhesive Remover, 38984, 32 fl oz (0.95 L)</h4> <li class="extra-info">3M™ Specialty Adhesive Remover is a VOC compliant (70%) solvent-based specialty adhesive remover designed to remove reactive adhesives from a variety of substrates</li><li class="extra-info">Reactive adhesives include adhesives that require a hardener or catalyst in order for the bond to occur</li><li class="extra-info">Examples of reactive adhesives include, but are not limited to: epoxies, urethanes and silicones.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMYtUoY_Gov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Bonding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesive Remover</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">38 oz</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">VOC compliant</li><li class="extra-info"> (70%) solvent-based</li><li class="extra-info"> Specialty adhesive remover</li><h2>Suggested Application</h2><li class="extra-info">Designed to remove reactive adhesives from a variety of substrates</li><li class="extra-info">Great for removing epoxy, urethane and silicone based adhesives</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>Volume_38 oz</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930993196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">46.55</s:price>
+      <s:sku>SP PSC 38984</s:sku>
+      <s:grams>961</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930960428</id>
+    <published>2019-10-15T22:25:14-04:00</published>
+    <updated>2019-10-15T22:25:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-38987"/>
+    <title>3M 38987  - Specialty Adhesive Remover Aerosol Clear 15 Fl Oz (445 ml) 7000142720</title>
+    <s:type>Adhesive Remover</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesive-remover-3m-38987-specialty-adhesive-remover-aerosol-clear-15-fl-oz-445-ml-7000142720-13120343867436.jpg?v=1580206384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesive Remover<br>
+        <strong>Price: </strong>
+            21.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Specialty Adhesive Remover Aerosol, 38987, clear, 15 fl oz (445 ml)</h4> <li class="extra-info">3M™ Specialty Adhesive Remover Aerosol is a VOC compliant (70%) solvent-based specialty adhesive remover designed to remove reactive adhesives from a variety of substrates</li><li class="extra-info">Reactive adhesives include adhesives that require a hardener or catalyst in order for the bond to occur</li><li class="extra-info">Examples of reactive adhesives include, but are not limited to: epoxies, urethanes and silicones.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Bonding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesive Remover</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">15 oz</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">VOC compliant</li><li class="extra-info"> (70%) solvent-based</li><li class="extra-info"> Specialty adhesive remover</li><h2>Suggested Application</h2><li class="extra-info">Designed to remove reactive adhesives from a variety of substrates</li><li class="extra-info">Great for removing epoxy, urethane and silicone based adhesives</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>Volume_15 oz</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930960428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.23</s:price>
+      <s:sku>SP PSC 38987</s:sku>
+      <s:grams>580</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254930927660</id>
+    <published>2019-10-15T22:25:07-04:00</published>
+    <updated>2019-10-15T22:25:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-novec-flux-remover"/>
+    <title>3M Novec NOVEC FLUX REMOVER  - Novec Flux Remover 7100079668</title>
+    <s:type>Polishes &amp; Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/polishes-cleaners-3m-novec-novec-flux-remover-novec-flux-remover-7100079668-13120343605292.jpg?v=1580054699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Polishes &amp; Cleaners<br>
+        <strong>Price: </strong>
+            25.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Novec Flux Remover, can, 6 per pack</h4> <li class="extra-info">3M™ Novec™ Flux Remover is a strong, non-flammable cleaner ideal for removal of a wide variety of solder fluxes used in electronic manufacturing and repair - including rosin-based and many no-clean and lead-free fluxes.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUm8tBm8m9Pv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Novec</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Polishes &amp; Cleaners</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Non-corrosive</li><li class="extra-info"> Fast drying, no residue</li><li class="extra-info"> Low odour</li><li class="extra-info"> Non-flammable</li><li class="extra-info"> Non-ozone depleting</li><li class="extra-info"> Low toxicity degreasing fluid</li><li class="extra-info"> Low Global Warming Potential</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Novec</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254930927660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.59</s:price>
+      <s:sku>SP PSC NOVEC FLUX REMOVER</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253779755052</id>
+    <published>2019-10-15T14:08:34-04:00</published>
+    <updated>2019-10-15T14:08:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-6084"/>
+    <title>3M Perfect-it 6084  - Perfect-It Clean &amp; Shine Spray 0608 16 Oz. (473 ml) 7000142685</title>
+    <s:type>Automobile Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/automobile-cleaners-3m-perfect-it-6084-perfect-it-clean-shine-spray-0608-16-oz-473-ml-7000142685-13119661637676.jpg?v=1580322610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Automobile Cleaners<br>
+        <strong>Price: </strong>
+            14.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Perfect-It Clean and Shine Spray, 06084, 16 oz. (473 ml)</h4> <li class="extra-info">3M™ Perfect-It™ Clean and Shine Spray, 06084, cleans up compound and polish residue, while leaving behind a high gloss shine</li><li class="extra-info">The fine-mist formula is silicone-free, safe for paint shops and recommended for use with a 3M™ Perfect-It™ Detailing Cloth.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMxtBm8tSMv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Perfect-it</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Off-White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Automobile Cleaners</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High gloss shine</li><li class="extra-info"> Paint shop safe</li><li class="extra-info"> Contains no silicones</li><li class="extra-info"> Use with 3M™ Perfect-It™ Detailing Cloth</li><h2>Suggested Application</h2><li class="extra-info">Use to clean-up compound and polish residue</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Off-White</s:tag>
+    <s:tag>Line_Perfect-it</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253779755052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.57</s:price>
+      <s:sku>SP PSC 6084</s:sku>
+      <s:grams>544</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736151203884</id>
+    <published>2019-03-15T14:51:40-04:00</published>
+    <updated>2019-03-15T14:51:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-c-10097-21oz"/>
+    <title>3M C-10097-21OZ  - Aerosol 7000141256</title>
+    <s:type>Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cleaners-3m-c-10097-21oz-aerosol-7000141256-12746605920300.jpg?v=1580112418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Cleaners<br>
+        <strong>Price: </strong>
+            11.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M 1019 Stainless Steel Cleaner and Polish, C-10097, 21 oz aerosol (0.6 L)</h4> <li class="extra-info">The 3M Stainless Steel Cleaner and Polish is ideal for stainless steel, chrome, laminated plastics and aluminum surfaces</li><li class="extra-info">With a high-gloss formula, it wipes clean with no streaks or buildup, resists fingerprints and masks surface blemishes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cleaners</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Stainless Steel Cleaner and Polish is NSF A-7 registered</li><li class="extra-info">It also meets the requirements of the NSF Non-food Compounds Registration Program for metal cleaners and polishes for non-food contact surfaces.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736151203884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.73</s:price>
+      <s:sku>SP PSC SS 21.5 OZ</s:sku>
+      <s:grams>801</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1144361877548</id>
+    <published>2018-08-13T16:22:25-04:00</published>
+    <updated>2018-08-13T16:22:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ap115-4oz"/>
+    <title>3M AP115-4OZ  - Silane Glass Treatment Ap115 Clear 4 Oz 7000001327</title>
+    <s:type>Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cleaners-3m-ap115-4oz-silane-glass-treatment-ap115-clear-4-oz-7000001327-12794675855404.jpg?v=1580269205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Cleaners<br>
+        <strong>Price: </strong>
+            9.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Silane Glass Treatment, AP115, clear, 4 oz</h4> <li class="extra-info">3M™ Silane Glass Treatment is an IPA based silane glass treatment that is used in conjunction with 3M™ VHB™ Tape to promote adhesion</li><li class="extra-info">It is easy to apply using the 4 fl</li><li class="extra-info">oz</li><li class="extra-info">(118 mL) spray bottle and is also available in a 1 gal (3.78 L) bulk bottle</li><li class="extra-info">It is clear in colour.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMx_9l8telv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cleaners</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Silane Glass Treatment is used to promote adhesion of 3M™ VHB™ Tapes to uncoated glass surfaces</li><li class="extra-info">Glass is hydrophilic (water loving) in nature, and may lead to performance issues over time in humid or wet environments due to water vapour undercutting </li><h2>Product Information</h2><li class="extra-info">Promotes adhesion of 3M™ VHB™ Tapes to uncoated glass surfaces</li><li class="extra-info"> Creates a hydrophobic surface on uncoated glass to protect the 3M™ VHB™ Tape bondline</li><li class="extra-info"> Available in 4 fl</li><li class="extra-info">Oz (118 mL) spray bottle or 1 gal (3.78 L) bulk bottle</li><li class="extra-info"> Durable and easy to apply</li><li class="extra-info"> Clear in colour</li><h2>Suggested Application</h2><li class="extra-info">Used to promote adhesion of 3M™ VHB™ Tapes to uncoated glass surfaces</li><li class="extra-info">Ideal for construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1144361877548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.74</s:price>
+      <s:sku>SP PSC AP115-4OZ</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122319728684</id>
+    <published>2018-08-03T19:34:00-04:00</published>
+    <updated>2018-08-03T19:34:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8908"/>
+    <title>3M 8908  - Accessory Stripe &amp; Adhesive Remover 18 Fl. Oz 7000119675</title>
+    <s:type>Adhesive Remover</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesive-remover-3m-8908-accessory-stripe-adhesive-remover-18-fl-oz-7000119675-31606970941589.jpg?v=1628201079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesive Remover<br>
+        <strong>Price: </strong>
+            35.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Woodgrain and Stripe Remover, 08908, 18 oz. (510 g)</h4> <li class="extra-info">3M™ Woodgrain and Stripe Remover, 08908, is a fast-acting remover that can be used on all acrylic enamel painted metal surfaces</li><li class="extra-info">The remover cleans off adhesive residue after woodgrain vinyl or vinyl stripes have been removed</li><li class="extra-info">This 3M™ Woodgrain and Stripe Adhesive Remover, 08908, will not harm cured acrylic, enamel or base-coat paints.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00x4xte4x2ZPv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Bonding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesive Remover</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">532 ml</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cleans off adhesive residue after woodgrain vinyl or vinyl stripes have been removed</li><li class="extra-info">Fast-acting remover can be used on all acrylic enamel painted metal surfaces</li><li class="extra-info">Eighteen ounce aerosol can.</li><h2>Product Information</h2><li class="extra-info">Cleans off adhesive residue</li><li class="extra-info"> Waterproof</li><li class="extra-info"> Will not harm cured acrylic enamel or base-coat paints</li><h2>Suggested Application</h2><li class="extra-info">Fast removal of adhesive on woodgrain films and stripes</li><li class="extra-info">Fast removal of adhesive on woodgrain films and stripes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>Volume_532 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122319728684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.45</s:price>
+      <s:sku>SP PSC 08908 18 OZ</s:sku>
+      <s:grams>716</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122319564844</id>
+    <published>2018-08-03T19:33:55-04:00</published>
+    <updated>2018-08-03T19:33:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8907"/>
+    <title>3M 8907  - Woodgrain &amp; Stripe Adhesive Remover 0 18 Oz. (510 G) 7000119674</title>
+    <s:type>Adhesive Remover</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesive-remover-3m-8907-woodgrain-stripe-adhesive-remover-0-18-oz-510-g-7000119674-31606918611093.jpg?v=1628202160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesive Remover<br>
+        <strong>Price: </strong>
+            35.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Woodgrain and Stripe Adhesive Remover, 08907, 18 oz. (510 g)</h4> <li class="extra-info">3M™ Woodgrain and Stripe Remover, 08907, has a jelly-like consistency that keeps the remover in place on vertical surfaces to promote fast action when sprayed from the aerosol can</li><li class="extra-info">This product is ideal for removing woodgrain vinyl and vinyl stripes from acrylic enamel surfaces.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9Nj4xt9P82BOvV8J17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Bonding</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">White</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesive Remover</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Volume </td>
+<td class="egrimes">532 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Consistency helps keep remover in place</li><li class="extra-info"> Waterproof</li><li class="extra-info"> Time and money is saved on repair and repaint</li><h2>Suggested Application</h2><li class="extra-info">Removes vinyl woodgrain and stripes from baked on paints such as acrylic enamels and base-coat clear-coats</li><li class="extra-info">Suitable for automotive applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_White</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>Volume_532 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122319564844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.45</s:price>
+      <s:sku>SP PSC 8907</s:sku>
+      <s:grams>716</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121700806700</id>
+    <published>2018-08-03T14:38:18-04:00</published>
+    <updated>2018-08-03T14:38:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-9413na"/>
+    <title>3M Scotch-Brite 9413NA  - Scotch-Brite Contour Surface Paint &amp; Varnish Remover 7000052005</title>
+    <s:type>Polishes &amp; Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/polishes-cleaners-3m-scotch-brite-9413na-scotch-brite-contour-surface-paint-varnish-remover-7000052005-12749109264428.jpg?v=1580035892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Polishes &amp; Cleaners<br>
+        <strong>Price: </strong>
+            7.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch-Brite Contour Surface Paint and Varnish Remover 9413NA</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Brite</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Polishes &amp; Cleaners</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Scotch-Brite</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121700806700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.67</s:price>
+      <s:sku>SP PSC 9413NA</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121688322092</id>
+    <published>2018-08-03T14:30:43-04:00</published>
+    <updated>2018-08-03T14:30:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-38081"/>
+    <title>3M 38081  - Adhesive Remover 5 Gallons (US) / 18.92 L 7000045720</title>
+    <s:type>Adhesive Remover</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesive-remover-3m-38081-adhesive-remover-5-gallons-us-18-92-l-7000045720-31596871352469.jpg?v=1628236377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesive Remover<br>
+        <strong>Price: </strong>
+            142.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Adhesive Remover, 38081, 5 Gallon (US)/8.9 L, 1 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlYtZmx_94v70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesive Remover</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121688322092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">142.55</s:price>
+      <s:sku>SP PSC 38081</s:sku>
+      <s:grams>16782</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121680425004</id>
+    <published>2018-08-03T14:25:49-04:00</published>
+    <updated>2018-08-03T14:25:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-c-25047-946ml"/>
+    <title>3M Sharpshooter C-25047-946ML  - Sharpshooter Extra Strength No-Rinse Mark Remover Quart 7000029810</title>
+    <s:type>Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cleaners-3m-sharpshooter-c-25047-946ml-sharpshooter-extra-strength-no-rinse-mark-remover-quart-7000029810-13809952423980.jpg?v=1627713936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Cleaners<br>
+        <strong>Price: </strong>
+            125.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Sharpshooter Extra Strength No-Rinse Mark Remover, 16861, 0.95 L (0.25 gal)</h4> <li class="extra-info">No-rinse formula cleaner for quick, easy removal of soil and grease</li><li class="extra-info">This powerful cleaner penetrates and loosens buildup quickly.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNU4Y_1Ox21mv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Sharpshooter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cleaners</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Convenient and efficient</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Sharpshooter</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121680425004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.22</s:price>
+      <s:sku>SP PSC C-25047-946ML</s:sku>
+      <s:grams>13922</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121660895276</id>
+    <published>2018-08-03T14:14:56-04:00</published>
+    <updated>2018-08-03T14:14:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-ap115-gal"/>
+    <title>3M AP115-GAL  - Silane Glass Treatment AP115 Clear 1 Gallon 7000001328</title>
+    <s:type>Cleaners</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/cleaners-3m-ap115-gal-silane-glass-treatment-ap115-clear-1-gallon-7000001328-12794675888172.jpg?v=1580269257"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Cleaners<br>
+        <strong>Price: </strong>
+            69.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Silane Glass Treatment, AP115, clear, 1 gallon</h4> <li class="extra-info">3M™ Silane Glass Treatment is an IPA based silane glass treatment that is used in conjunction with 3M™ VHB™ Tape to promote adhesion</li><li class="extra-info">It is easy to apply using the 4 fl</li><li class="extra-info">oz</li><li class="extra-info">(118 mL) spray bottle and is also available in a 1 gal (3.78 L) bulk bottle</li><li class="extra-info">It is clear in colour.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l0u1Mx_9l8telvViI17zHvu07Y9ztSSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Cleaners</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Silane Glass Treatment is used to promote adhesion of 3M™ VHB™ Tapes to uncoated glass surfaces</li><li class="extra-info">Glass is hydrophilic (water loving) in nature, and may lead to performance issues over time in humid or wet environments due to water vapour undercutting </li><h2>Product Information</h2><li class="extra-info">Promotes adhesion of 3M™ VHB™ Tapes to uncoated glass surfaces</li><li class="extra-info"> Creates a hydrophobic surface on uncoated glass to protect the 3M™ VHB™ Tape bondline</li><li class="extra-info"> Available in 4 fl</li><li class="extra-info">Oz (118 mL) spray bottle or 1 gal (3.78 L) bulk bottle</li><li class="extra-info"> Durable and easy to apply</li><li class="extra-info"> Clear in colour</li><h2>Suggested Application</h2><li class="extra-info">Used to promote adhesion of 3M™ VHB™ Tapes to uncoated glass surfaces</li><li class="extra-info">Ideal for construction</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121660895276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.23</s:price>
+      <s:sku>SP PSC AP115-GAL</s:sku>
+      <s:grams>3562</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121624358956</id>
+    <published>2018-08-03T13:58:23-04:00</published>
+    <updated>2018-08-03T13:58:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-38080"/>
+    <title>3M 38080  - Adhesive Remover 1 Gallon (US) 8.9 L 7000000614</title>
+    <s:type>Adhesive Remover</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adhesive-remover-3m-38080-adhesive-remover-1-gallon-us-8-9-l-7000000614-31581657923733.jpg?v=1628346333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Adhesive Remover<br>
+        <strong>Price: </strong>
+            27.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Adhesive Remover, 38080, 1 Gallon (US)/8.9 L, 4 per case</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xlYtZmx_94v70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adhesive Remover</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121624358956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.96</s:price>
+      <s:sku>SP PSC 38080</s:sku>
+      <s:grams>3438</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121621311532</id>
+    <published>2018-08-03T13:57:04-04:00</published>
+    <updated>2018-08-03T13:57:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-53-g-403"/>
+    <title>Walter 53-G 403  - Sprayable Stainless Shine 500Ml</title>
+    <s:type>Polishes &amp; Cleaners</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/polishes-cleaners-walter-53-g-403-sprayable-stainless-shine-500ml-13383376797740.jpg?v=1580348340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Polishes &amp; Cleaners<br>
+        <strong>Price: </strong>
+            20.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">E-NOX SHINE</h4> <li class="extra-info">E-NOX SHINE™ is a surface cleaner designed to remove light contaminants such as dust, light oils, and fingerprints prior to shipping</li><li class="extra-info">Creates a thin, invisible protective film to preserve the quality of your work until it reaches its final destination</li><li class="extra-info">NSF category P1, registration #131393</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Polishes &amp; Cleaners</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Stainless steel cleaner/protector</li><h2>Product Information</h2><li class="extra-info">Uniform finish, no streaking</li><li class="extra-info"> Nonflammable, solvent-free, silicone-free, phosphate-free</li><li class="extra-info"> Nonhazardous Biodegradable NSF Registered</li><li class="extra-info"> Ready to use</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SP</s:tag>
+    <s:tag>SP PSC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121621311532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.97</s:price>
+      <s:sku>SP PSC SSW 500ML</s:sku>
+      <s:grams>249</s:grams>
+    </s:variant>
+  </entry>
+</feed>

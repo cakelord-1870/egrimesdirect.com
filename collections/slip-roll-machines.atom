@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/slip-roll-machines.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:42:12-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812159561772</id>
+    <published>2019-05-11T01:42:12-04:00</published>
+    <updated>2019-05-11T01:42:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-1220"/>
+    <title>King Canada KC-1220  - Metal Shear Brake &amp; Roll 12 Inch X 20 Gauge</title>
+    <s:type>Metal Forming Machines &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/metal-forming-machines-accessories-king-canada-kc-1220-metal-shear-brake-roll-12-inch-x-20-gauge-12746634199084.jpg?v=1579595127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Metal Forming Machines &amp; Accessories<br>
+        <strong>Price: </strong>
+            689.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">12 Inch x 20 gauge 3 in 1 brake, shear &amp; roll</h4> <li class="extra-info">Sturdy cast-iron frame Bed is precision ground for an accurate working surface Dual edge, reversible shear blade One female InchV” shaped die Slip rolls are precision turned, ground and polished with wire grooves Includes adjustable length stop, height stop block and extension bars with 90° angles</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Metal Forming Machines &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA MWM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812159561772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">689.88</s:price>
+      <s:sku>MA MWM KC-1220</s:sku>
+      <s:grams>43147</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812159234092</id>
+    <published>2019-05-11T01:42:01-04:00</published>
+    <updated>2019-05-11T01:42:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-n616"/>
+    <title>King Canada KC-N616  - Hand Notcher 4 Ton 16 Gauge</title>
+    <s:type>Metal Forming Machines &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/metal-forming-machines-accessories-king-canada-kc-n616-hand-notcher-4-ton-16-gauge-12746632953900.jpg?v=1579603930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Metal Forming Machines &amp; Accessories<br>
+        <strong>Price: </strong>
+            900.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4 Ton hand notcher</h4> <li class="extra-info">Heavy cast-iron construction allows the Notcher to be used to shear 6” of material up to its rated capacity Notch angles of more than 90° through a 2-step process Triangular ram accurately controls the alignment of the cutting head at all times</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Metal Forming Machines &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA MWM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812159234092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">900.83</s:price>
+      <s:sku>MA MWM KC-N616</s:sku>
+      <s:grams>84932</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812158971948</id>
+    <published>2019-05-11T01:41:52-04:00</published>
+    <updated>2019-05-11T01:41:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-s2422"/>
+    <title>King Canada KC-S2422  - Slip Roll 24 Inch X 22 Gauge</title>
+    <s:type>Metal Forming Machines &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/metal-forming-machines-accessories-king-canada-kc-s2422-slip-roll-24-inch-x-22-gauge-12746632167468.jpg?v=1579604168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Metal Forming Machines &amp; Accessories<br>
+        <strong>Price: </strong>
+            749.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">24 Inch x 22 gauge slip roll</h4> <li class="extra-info">Heavy cast-iron construction with front mounted handle for easy placement and release of workpiece Precision-turned tool steel rolls with wire grooves are ground and polished to offer accuracy and stability Hardened steel gearing Large roll adjusting screws facilitate lifting the upper roll for easy removal of material</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Metal Forming Machines &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA MWM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812158971948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">749.74</s:price>
+      <s:sku>MA MWM KC-S2422</s:sku>
+      <s:grams>131541</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812158939180</id>
+    <published>2019-05-11T01:41:48-04:00</published>
+    <updated>2019-05-11T01:41:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-s5016"/>
+    <title>King Canada KC-S5016  - Slip Roll 50 Inch X 16 Gauge</title>
+    <s:type>Metal Forming Machines &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/metal-forming-machines-accessories-king-canada-kc-s5016-slip-roll-50-inch-x-16-gauge-12746632134700.jpg?v=1579604252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Metal Forming Machines &amp; Accessories<br>
+        <strong>Price: </strong>
+            2100.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">50 Inch x 16 gauge slip roll</h4> <li class="extra-info">Heavy cast-iron construction with front mounted handle for easy placement and release of workpiece Precision-turned tool steel rolls with wire grooves are ground and polished to offer accuracy and stability Hardened steel gearing Large roll adjusting screws facilitate lifting the upper roll for easy removal of material</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Metal Forming Machines &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA MWM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812158939180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2100.99</s:price>
+      <s:sku>MA MWM KC-S5016</s:sku>
+      <s:grams>279323</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812158906412</id>
+    <published>2019-05-11T01:41:48-04:00</published>
+    <updated>2019-05-11T01:41:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-s3622"/>
+    <title>King Canada KC-S3622  - Slip Roll 36 Inch X 22 Gauge</title>
+    <s:type>Metal Forming Machines &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/metal-forming-machines-accessories-king-canada-kc-s3622-slip-roll-36-inch-x-22-gauge-12746632396844.jpg?v=1579606803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Metal Forming Machines &amp; Accessories<br>
+        <strong>Price: </strong>
+            900.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">36 Inch x 22 gauge slip roll</h4> <li class="extra-info">Heavy cast-iron construction with front mounted handle for easy placement and release of workpiece Precision-turned tool steel rolls with wire grooves are ground and polished to offer accuracy and stability Hardened steel gearing Large roll adjusting screws facilitate lifting the upper roll for easy removal of material</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Metal Forming Machines &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA MWM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812158906412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">900.83</s:price>
+      <s:sku>MA MWM KC-S3622</s:sku>
+      <s:grams>97649</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812154646572</id>
+    <published>2019-05-11T01:39:03-04:00</published>
+    <updated>2019-05-11T01:39:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-kc-f5216"/>
+    <title>King Canada KC-F5216  - Metal Foot Shear 52 Inch Cutting Length 16 Gauge Capacity (Mild Steel)</title>
+    <s:type>Metal Forming Machines &amp; Accessories</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/metal-forming-machines-accessories-king-canada-kc-f5216-metal-foot-shear-52-inch-cutting-length-16-gauge-capacity-mild-steel-12746627285036.jpg?v=1579603864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Metal Forming Machines &amp; Accessories<br>
+        <strong>Price: </strong>
+            3151.48
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">52 Inch x 16 gauge foot shear</h4> <li class="extra-info">Sturdy cast-iron frame with truss bars for added stability Ideal for precise shearing of mild steel up to 16 Gauge, as well as plastic, zinc, aluminum, brass, copper and lead Shear bed is precision ground for an accurate working surface Double locking back-gauges have embossed scales and vernier wheels for fine adjustments Safety features include positive pedal stops and transparent finger guards Precision tool steel blades Includes table gauges and front mounted extension arms for holding larger pieces of material</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Metal Forming Machines &amp; Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>MA</s:tag>
+    <s:tag>MA MWM</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812154646572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3151.48</s:price>
+      <s:sku>MA MWM KC-F5216</s:sku>
+      <s:grams>545022</s:grams>
+    </s:variant>
+  </entry>
+</feed>

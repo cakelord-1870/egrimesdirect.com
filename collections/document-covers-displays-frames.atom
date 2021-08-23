@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/document-covers-displays-frames.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-16T00:05:24-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254983585836</id>
+    <published>2019-10-16T00:05:24-04:00</published>
+    <updated>2019-10-16T00:05:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1075c-2x2"/>
+    <title>3M 1075C-2X2  - 3M ScotchPad Hang Tab 1075C 1075C-2X2 7000126130</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-1075c-2x2-3m-scotchpad-hang-tab-1075c-1075c-2x2-7000126130-13966250246188.jpg?v=1628002542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            72.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) ScotchPad(TM) Hang Tab 1075C</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OP</s:tag>
+    <s:tag>OP DOC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254983585836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.81</s:price>
+      <s:sku>OP DOC 1075C-2X2</s:sku>
+      <s:grams>9071</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736548778028</id>
+    <published>2019-03-15T19:10:30-04:00</published>
+    <updated>2019-03-15T19:10:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1075-2x2"/>
+    <title>3M ScotchPad 1075-2X2  - Scotchpad Hang Tab 1075 Clear 2 in x 2 in 10 Tabs Per Pad 50 Pads Per Carton 10 Carto 7000001899</title>
+    <s:type>Hanging</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hanging-3m-scotchpad-1075-2x2-scotchpad-hang-tab-1075-clear-2-in-x-2-in-10-tabs-per-pad-50-pads-per-carton-10-carto-7000001899-12794744832044.jpg?v=1578798678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hanging<br>
+        <strong>Price: </strong>
+            37.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) ScotchPad(TM) Hang Tab 1075 Clear, 2 in x 2 in, 10 tabs per pad 50 pads per carton 10 cartons per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ScotchPad</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hanging</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_ScotchPad</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP DOC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736548778028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.37</s:price>
+      <s:sku>OP DOC 1075-2X2</s:sku>
+      <s:grams>317</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736548745260</id>
+    <published>2019-03-15T19:10:30-04:00</published>
+    <updated>2019-03-15T19:10:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1076-2x2"/>
+    <title>3M ScotchPad 1076-2X2  - Scotchpad Hang Tab 1076 Clear 2 in x 2 in 10 Tabs Per Pad 50 Pads Per Carton 10 Carto 7000051800</title>
+    <s:type>Hanging</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hanging-3m-scotchpad-1076-2x2-scotchpad-hang-tab-1076-clear-2-in-x-2-in-10-tabs-per-pad-50-pads-per-carton-10-carto-7000051800-12794814365740.jpg?v=1578798745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hanging<br>
+        <strong>Price: </strong>
+            39.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) ScotchPad(TM) Hang Tab 1076 Clear, 2 in x 2 in, 10 tabs per pad 50 pads per carton 10 cartons per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ScotchPad</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hanging</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_ScotchPad</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP DOC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736548745260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.05</s:price>
+      <s:sku>OP DOC 1076-2X2</s:sku>
+      <s:grams>344</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122363605036</id>
+    <published>2018-08-03T20:04:41-04:00</published>
+    <updated>2018-08-03T20:04:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1074-1x2"/>
+    <title>3M ScotchPad 1074-1X2  - Scotchpad Hang Tab 1074 Clear 1 in x 2 in 10 Tabs Per Pad 100 Pads Per Carton 10 Carto 7000051823</title>
+    <s:type>Hanging</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hanging-3m-scotchpad-1074-1x2-scotchpad-hang-tab-1074-clear-1-in-x-2-in-10-tabs-per-pad-100-pads-per-carton-10-carto-7000051823-13809805721644.jpg?v=1628002173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hanging<br>
+        <strong>Price: </strong>
+            48.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) ScotchPad(TM) Hang Tab 1074 Clear, 1 in x 2 in, 10 tabs per pad 100 pads per carton 10 cartons per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ScotchPad</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hanging</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_ScotchPad</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP DOC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122363605036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.83</s:price>
+      <s:sku>OP DOC 1074-1X2</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122360066092</id>
+    <published>2018-08-03T20:02:03-04:00</published>
+    <updated>2018-08-03T20:02:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-1072-7-8x1-3-8"/>
+    <title>3M ScotchPad 1072-7/8X1-3/8  - Scotchpad Hang Tab 1072 Clear 7/8 in x 1 3/8 in 500 Hang Tabs Per Carton 10 Carto 7000052030</title>
+    <s:type>Hanging</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hanging-3m-scotchpad-1072-7-8x1-3-8-scotchpad-hang-tab-1072-clear-7-8-in-x-1-3-8-in-500-hang-tabs-per-carton-10-carto-7000052030-13809796349996.jpg?v=1628002017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hanging<br>
+        <strong>Price: </strong>
+            443.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) ScotchPad(TM) Hang Tab 1072 Clear, 7/8 in x 1 3/8 in, 500 hang tabs per carton 10 cartons per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ScotchPad</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hanging</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_ScotchPad</s:tag>
+    <s:tag>OP</s:tag>
+    <s:tag>OP DOC</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122360066092</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">443.90</s:price>
+      <s:sku>OP DOC 1072-7/8X1-3/8</s:sku>
+      <s:grams>2812</s:grams>
+    </s:variant>
+  </entry>
+</feed>

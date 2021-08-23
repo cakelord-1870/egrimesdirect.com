@@ -1,0 +1,1622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/spray-adhesive-glue.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-03T12:08:37-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293678399532</id>
+    <published>2019-12-03T12:08:37-05:00</published>
+    <updated>2019-12-03T12:08:37-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94ca-26-2-lrg-red"/>
+    <title>3M Scotch-Weld 94CA-26.2-LRG-RED  - Red Hi-Strength Postforming Spray Adhesive 94 Low VOC - Large (26.2 lb) Cylinder 7000121446</title>
+    <s:type>Postforming Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/postforming-adhesives-3m-scotch-weld-94ca-26-2-lrg-red-red-hi-strength-postforming-spray-adhesive-94-low-voc-large-26-2-lb-cylinder-7000121446-13224155054124.jpg?v=1580382489"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Postforming Adhesives<br>
+        <strong>Price: </strong>
+            669.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hi-Strength Postforming 94 CA Cylinder Spray Adhesive Red Low VOC, Large Cylinder (Net Wt. 26.2 lbs), 1 per case</h4> <li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA is a low Volatile Organic Compound (VOC), high performance, postformable grade spray adhesive</li><li class="extra-info">It features a low telegraphing pebble spray pattern</li><li class="extra-info">Not for consumer/retail sale or use.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Postforming Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 26.2 lb</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concern.</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info">Non-telegraphing spray pattern with postformable strength</li><li class="extra-info">Low VOC, SCAQMD 1168 and LEED® Compliant*</li><li class="extra-info">Packaged in pre-pressurized canister for an easy to use, maintenance free delivery system</li><li class="extra-info">Not for consumer/retail sale or use</li><li class="extra-info">Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, postforming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li><li class="extra-info">Gluing, spraying, sti</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Large26.2 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293678399532</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">669.84</s:price>
+      <s:sku>AD SPR 94CA-26.2-LRG-RED</s:sku>
+      <s:grams>17404</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254954618924</id>
+    <published>2019-10-15T23:02:42-04:00</published>
+    <updated>2019-10-15T23:02:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-cyl-hoseswivel"/>
+    <title>3M Scotch-Weld CYL-HOSESWIVEL  - Scotch-Weld Cylinder Adhesive Hose Swivel 7000121610</title>
+    <s:type>Spray Tips</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/spray-tips-3m-scotch-weld-cyl-hoseswivel-scotch-weld-cylinder-adhesive-hose-swivel-7000121610-13120391086124.jpg?v=1580018729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Spray Tips<br>
+        <strong>Price: </strong>
+            25.63
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Weld(TM) Cylinder Adhesive Hose Swivel, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">China</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Spray Tips</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SPR</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254954618924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.63</s:price>
+      <s:sku>AC SPR CYL-HOSESWIVEL</s:sku>
+      <s:grams>485</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254954324012</id>
+    <published>2019-10-15T23:02:09-04:00</published>
+    <updated>2019-10-15T23:02:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94ca-7-6-mini-red"/>
+    <title>3M Scotch-Weld 94CA-7.6- MINI-RED  - Red Hi-Strength Postforming Spray Adhesive 94 Low VOC  - Mini Cylinder (7.6 lb) 7100139491</title>
+    <s:type>Postforming Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/postforming-adhesives-3m-scotch-weld-94ca-7-6-mini-red-red-hi-strength-postforming-spray-adhesive-94-low-voc-mini-cylinder-7-6-lb-7100139491-13120389775404.jpg?v=1580384854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Postforming Adhesives<br>
+        <strong>Price: </strong>
+            263.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Weld(TM) Hi-Strength Postforming 94 CA Cylinder Spray Adhesive Red Low VOC, Mini Cylinder (Net Wt. 7.6 lbs), 1 per case - NOT FOR CONSUMER/RETAIL SALE OR USE</h4> <li class="extra-info">3M™ Hi-Strength Postforming Adhesive is a strong adhesive that bonds a range of large surfaces and is perfect for large-scale laminations</li><li class="extra-info">This adhesive’s formula is easy to dispense and apply directly onto surfaces, with no soak-in or yellowing over time</li><li class="extra-info">Extended tack allows for longer bonding range.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMx2UmYtvnv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Postforming Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Mini, 7.6. lb</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concern.</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info"> Non-telegraphing spray pattern with post-formable strength</li><li class="extra-info"> Ideal for applications involving large surfaces</li><li class="extra-info"> GREENGUARD™ certified</li><li class="extra-info"> Available in cylinder or bulk packaging</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, post-forming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Mini7.6. lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254954324012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">263.35</s:price>
+      <s:sku>AD SPR 94CA-7.6- MINI-RED</s:sku>
+      <s:grams>5365</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254954258476</id>
+    <published>2019-10-15T23:02:06-04:00</published>
+    <updated>2019-10-15T23:02:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94-cl-cyl"/>
+    <title>3M 94-CL-CYL  - Clear Hi-Strength 94 ET Spray Adhesive Cylinder 7000144615</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-94-cl-cyl-clear-hi-strength-94-et-spray-adhesive-cylinder-7000144615-13120389873708.jpg?v=1580139899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            553.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">94 CL HI STRENGTH ET CYLINDER SPRAY ADH</h4> <li class="extra-info">3M™ Hi-Strength Postforming Adhesive is a strong adhesive that bonds a range of large surfaces and is perfect for large-scale laminations</li><li class="extra-info">This adhesive’s formula is easy to dispense and apply directly onto surfaces, with no soak-in or yellowing over time</li><li class="extra-info">Extended tack allows for longer bonding range.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMY_ZlY_SOv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concern.</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info"> Non-telegraphing spray pattern with post-formable strength</li><li class="extra-info"> Ideal for applications involving large surfaces</li><li class="extra-info"> GREENGUARD™ certified</li><li class="extra-info"> Available in cylinder or bulk packaging</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, post-forming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254954258476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">553.44</s:price>
+      <s:sku>AD SPR 94-CL-CYL</s:sku>
+      <s:grams>17404</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254954094636</id>
+    <published>2019-10-15T23:01:59-04:00</published>
+    <updated>2019-10-15T23:01:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-vtg100-lg-clr"/>
+    <title>3M VTG100-LG-CLR  - Spray Adhesive VTG100 - Large 40 Lb (18.1 kg) Cylinder 7100044661</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-vtg100-lg-clr-spray-adhesive-vtg100-large-40-lb-18-1-kg-cylinder-7100044661-13120388923436.jpg?v=1578876145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            290.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">VTG100-MW103 Lg Can Clr 1/cs</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xmxtGNx2S5v70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 40 lb</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Size_Large40 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254954094636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">290.93</s:price>
+      <s:sku>AD SPR VTG100-LG-CLR</s:sku>
+      <s:grams>22906</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254953734188</id>
+    <published>2019-10-15T23:01:30-04:00</published>
+    <updated>2019-10-15T23:01:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8374"/>
+    <title>3M 8374  - MSP Sprayable Seam Sealer in Grey - 10.5 fl. Oz (310 ml) 7000142623</title>
+    <s:type>Seam Sealers</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/seam-sealers-3m-8374-msp-sprayable-seam-sealer-in-grey-10-5-fl-oz-310-ml-7000142623-13120387383340.jpg?v=1580232091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Seam Sealers<br>
+        <strong>Price: </strong>
+            33.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M MSP Sprayable Seam Sealer, 08374, grey, 10.5 fl. oz. (310 ml)</h4> <li class="extra-info">3M™ MSP Sprayable Seam Sealer, 08374, is a high-solids, moisture-curing seam sealer that can be caulked or sprayed as a sealer or a sound deadening coating</li><li class="extra-info">The sealer provides a fast method of sealing trunk and floor pan seams, quarter panel seams, and any other seam where a sprayed or coated appearance is necessary</li><li class="extra-info">Bead can be used for general purpose automotive seams, including door skins, rocker panels, rear body panels, trunk seams, floor pans, etc</li><li class="extra-info">Sprayed seam can be used for trunk seams, quarter panels, any other OEM sprayed seam replacement</li><li class="extra-info">Sprayed coating can be used inside door skins, inside body panels, or any area where a sound deadening coating is needed.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUl82ZoY_BOv7bMDVFNvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Seam Sealers</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">10.5 fl. Oz, 310 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">High performance, general-purpose seam sealer</li><li class="extra-info"> Able to produce a bead, sprayed seam, or sprayed coating appearance</li><li class="extra-info"> Excellent adhesion to primed metal and aluminum</li><li class="extra-info"> Fast curing and immediately paintable</li><li class="extra-info"> Very low solvent percentage</li><li class="extra-info"> Non-shrinking</li><li class="extra-info"> Non-cracking</li><h2>Suggested Application</h2><li class="extra-info">For use on door skins, hemming flanges, quarter panel seams, and floor and trunk pans</li><li class="extra-info">Adheres well to all primed surfaces except acrylic lacquer</li><li class="extra-info">Applying over bare metal will not provide enough corrosion protection.</li><li class="extra-info">Acid etching primer is not recommended</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Size_10.5 fl. Oz310 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254953734188</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.60</s:price>
+      <s:sku>AD SPR 8374</s:sku>
+      <s:grams>557</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253776674860</id>
+    <published>2019-10-15T14:02:26-04:00</published>
+    <updated>2019-10-15T14:02:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4550-5gal"/>
+    <title>3M Scotch-Weld 4550-5GAL  - Clear Industrial Adhesive 4550 - 5 Gallon (19 L) 7000000924</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-scotch-weld-4550-5gal-clear-industrial-adhesive-4550-5-gallon-19-l-7000000924-13119646892076.jpg?v=1580381525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            99.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Industrial Adhesive, 4550-5GAL, translucent, 5 gallon</h4> <li class="extra-info">3M™ Scotch-Weld™ Industrial Adhesive 4550 is a sprayable adhesive designed to bond lightweight materials.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xl82BPxmBOv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5 Gallon, 19 L</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Scotch-Weld™ Industrial Adhesive 4550 sprays easily with low-pressure spray equipment and exhibits no misting or cobwebbing</li><li class="extra-info">It is ideally suited for bonding lightweight materials and palletizing plastic shipping bags by holding in place during shippi</li><h2>Product Information</h2><li class="extra-info">Translucent</li><li class="extra-info"> Long bonding range</li><li class="extra-info"> High solids for increased coverage</li><h2>Suggested Application</h2><li class="extra-info">General industrial, shipping, furniture, insulation</li><li class="extra-info">Tacking, shipping, palletizing, insulating, adhering, sticking and bonding</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_5 Gallon19 L</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253776674860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.43</s:price>
+      <s:sku>AD SPR 4550-5GAL</s:sku>
+      <s:grams>3342</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253745446956</id>
+    <published>2019-10-15T12:54:06-04:00</published>
+    <updated>2019-10-15T12:54:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-90-277-2lb"/>
+    <title>3M Scotch-Weld 90-277.2LB  - Clear Hi-Strength Spray Adhesive 90 - Jumbo (283.2 lb) Cylinder 7100139490</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-scotch-weld-90-277-2lb-clear-hi-strength-spray-adhesive-90-jumbo-283-2-lb-cylinder-7100139490-13119588597804.jpg?v=1578806755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            4544.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Hi-Strength 90 Cylinder Spray Adhesive Clear, Jumbo Cylinder (Net Wt. 283.2 lbs), 1 per case</h4> <li class="extra-info">3M™ Hi-Strength Adhesive 90 is an extremely versatile, fast-drying spray adhesive that bonds strongly to a wide range of materials</li><li class="extra-info">Our permanent bond provides fast results to keep projects moving ahead</li><li class="extra-info">The spray formula is easy to dispense, offering a variable-width spray pattern, and applies directly onto surfaces and materials where needed.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMxmxlxtSPv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Jumbo, 283.2 lb</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Provides professional, industrial strength for demanding applications</li><li class="extra-info"> Comes with a variable-width web spray pattern</li><li class="extra-info"> High-strength, fast, contact type adhesive</li><li class="extra-info"> Bonds laminate, wood, concrete, metal, plastic and more</li><li class="extra-info"> High temperature and moisture resistance</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Ideal for work with furniture, woodworking, marine, acoustics and construction</li><li class="extra-info">Can also be used in laminating, spraying, metal bonding, melamine bonding, edge banding, adhering, attaching to concrete, gluing and sticking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Jumbo283.2 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253745446956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4544.60</s:price>
+      <s:sku>AD SPR 90-277.2LBS-IND</s:sku>
+      <s:grams>193765</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812462108716</id>
+    <published>2019-05-11T05:51:24-04:00</published>
+    <updated>2019-05-11T05:51:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94caff-128-int-clr"/>
+    <title>3M Scotch-Weld 94CAFF-128-INT-CLR  - Clear Hi-Strength Postforming Fragrance Free Spray Adhesive 94 - Intermediate (128 lb) Cylinder 7000121426</title>
+    <s:type>Postforming Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/postforming-adhesives-3m-scotch-weld-94caff-128-int-clr-clear-hi-strength-postforming-fragrance-free-spray-adhesive-94-intermediate-128-lb-cylinder-7000121426-12747113332780.jpg?v=1580384824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Postforming Adhesives<br>
+        <strong>Price: </strong>
+            2289.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hi-Strength Postforming 94 CA Fragrance Free Cylinder Spray Adhesive Clear, Intermediate Cylinder (Net Wt. 128 lbs), 1 per case</h4> <li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Fragrance Free Cylinder Spray Adhesive 94 CA features a low telegraphing pebble spray pattern</li><li class="extra-info">The scent masking fragrance has been removed from this product</li><li class="extra-info">Not for consumer/retail sale or use.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Postforming Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Intermediate, 128 lb</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concern.</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info">Non-telegraphing spray pattern with postformable strength</li><li class="extra-info">Low VOC, SCAQMD 1168 and LEED® Compliant*</li><li class="extra-info">Packaged in pre-pressurized canister for an easy to use, maintenance free delivery system</li><li class="extra-info">Not for consumer/retail sale or use</li><li class="extra-info">Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, postforming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li><li class="extra-info">Typically used in woo</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Intermediate128 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812462108716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2289.14</s:price>
+      <s:sku>AD SPR 94CAFF-128-INT-CLR</s:sku>
+      <s:grams>89810</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812393820204</id>
+    <published>2019-05-11T04:44:14-04:00</published>
+    <updated>2019-05-11T04:44:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94caff-26-2-lg-clr"/>
+    <title>3M Scotch-Weld 94CAFF-26.2-LG-CLR  - Clear Hi-Strength Postforming Fragrance Free Spray Adhesive 94 - Large (26.2 lb) Cylinder 7000028599</title>
+    <s:type>Postforming Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/postforming-adhesives-3m-scotch-weld-94caff-26-2-lg-clr-clear-hi-strength-postforming-fragrance-free-spray-adhesive-94-large-26-2-lb-cylinder-7000028599-12746909712428.jpg?v=1580384890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Postforming Adhesives<br>
+        <strong>Price: </strong>
+            537.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld High-Strength Postforming Fragrance Free Cylinder Spray Adhesive, 94 CA, clear, 26.2 lb</h4> <li class="extra-info">3M Scotch-Weld High-Strength Postforming Fragrance Free Cylinder Spray Adhesive is a low volatile organic compound (VOC), high performance, postformable grade spray adhesive with a low telegraphing pebble spray pattern</li><li class="extra-info">Scent masking fragrance removed.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Postforming Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 26.2 lb</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concern.</li><h2>Product Information</h2><li class="extra-info">Scent masking fragrance removed</li><li class="extra-info">Bonds to a variety of demanding substrates</li><li class="extra-info">Low VOC</li><li class="extra-info">Designed with a maintenance-free delivery system</li><li class="extra-info">Available in cylinder or bulk packaging</li><li class="extra-info">Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Intended to bond to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications</li><li class="extra-info">Gluing, spraying, sticking, post-forming, carpet bonding, metal bonding, melamine bond</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Large26.2 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812393820204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">537.99</s:price>
+      <s:sku>AD SPR 94CAFF-26.2-LG-CLR</s:sku>
+      <s:grams>17420</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737177923628</id>
+    <published>2019-03-16T02:20:32-04:00</published>
+    <updated>2019-03-16T02:20:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-74-28-8lb"/>
+    <title>3M 74 28.8LB  - Non-Flammable Foam 74 Spray Adhesive - Large (28.8 lb) Cylinder 7000046582</title>
+    <s:type>Foam Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/foam-adhesives-3m-74-28-8lb-non-flammable-foam-74-spray-adhesive-large-28-8-lb-cylinder-7000046582-12749207076908.jpg?v=1580229538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Foam Adhesives<br>
+        <strong>Price: </strong>
+            501.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">74 OR FOAM FAST CYL SPRAY LG NT 28.8LB</h4> <li class="extra-info">3M™ Non-Flammable Foam Spray Adhesive 74 is a fast-drying spray adhesive that bonds foam and fabric to a wide range of substrates</li><li class="extra-info">Its permanent bond provides fast results to keep projects moving ahead</li><li class="extra-info">The non-yellowing formula dispenses easily in a lace-spray pattern and applies directly onto surfaces and materials where needed</li><li class="extra-info">Our 3M™ Non-Flammable Foam Spray Adhesive has an aggressive tack that offers a high initial grab with foam-tearing strength, yet allows sufficient open time to position materials properly</li><li class="extra-info">High-solids content supports its low soak-in property, giving you time to position parts for best fit.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82S48m9nv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Foam Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 28.8 lb</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Designed specifically for foams and fabrics</li><li class="extra-info"> Dispenses with a lace-spray pattern optimized for foam bonding</li><li class="extra-info"> Provides professional, industrial strength for demanding applications</li><li class="extra-info"> Offers a fast, aggressive tack for a quick assembly of high-stress bonds</li><li class="extra-info"> Allows for a bond time of 15 seconds to 30 minutes</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Furniture, upholstery, marine, automotive, seat and chair manufacturing, acoustics, specialty vehicles and bedding</li><li class="extra-info">Bonding, attaching, adhering, fastening, securing, gluing, tacking, sticking, gripping and hanging</li><li class="extra-info">Not recommended for bonding vinyl</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Size_Large28.8 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737177923628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">501.14</s:price>
+      <s:sku>AD SPR 74 28.8LB</s:sku>
+      <s:grams>18583</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737177530412</id>
+    <published>2019-03-16T02:20:21-04:00</published>
+    <updated>2019-03-16T02:20:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94et-54gal-clr"/>
+    <title>3M 94ET-54GAL-CLR  - Clear Hi-Strength 94 ET Spray Adhesive - 54 Gallon Drum 7100019793</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-94et-54gal-clr-clear-hi-strength-94-et-spray-adhesive-54-gallon-drum-7100019793-12749206716460.jpg?v=1580234163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            3002.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Hi-Strength 94 ET Adh Clear 54Gal Drum</h4> <li class="extra-info">3M™ Hi-Strength Postforming Adhesive is a strong adhesive that bonds a range of large surfaces and is perfect for large-scale laminations</li><li class="extra-info">This adhesive’s formula is easy to dispense and apply directly onto surfaces, with no soak-in or yellowing over time</li><li class="extra-info">Extended tack allows for longer bonding range.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMY_xPYtUov70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">54 Gallon</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concern.</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info"> Non-telegraphing spray pattern with post-formable strength</li><li class="extra-info"> Ideal for applications involving large surfaces</li><li class="extra-info"> GREENGUARD™ certified</li><li class="extra-info"> Available in cylinder or bulk packaging</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, post-forming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Size_54 Gallon</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737177530412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3002.50</s:price>
+      <s:sku>AD SPR 94ET-54GAL-CLR</s:sku>
+      <s:grams>208239</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737177366572</id>
+    <published>2019-03-16T02:20:18-04:00</published>
+    <updated>2019-03-16T02:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94-et-cyl-red"/>
+    <title>3M 94-ET-CYL-RED  - Red Hi-Strength 94 ET Spray Adhesive Cylinder 7100018953</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-94-et-cyl-red-red-hi-strength-94-et-spray-adhesive-cylinder-7100018953-12795172552748.jpg?v=1580139814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            553.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">94 ET CYLINDER SPRAY ADH, RED</h4> <li class="extra-info">3M™ Hi-Strength Postforming Adhesive is a strong adhesive that bonds a range of large surfaces and is perfect for large-scale laminations</li><li class="extra-info">This adhesive’s formula is easy to dispense and apply directly onto surfaces, with no soak-in or yellowing over time</li><li class="extra-info">Extended tack allows for longer bonding range.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMY_ZlY_vMv7bM17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concern.</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info"> Non-telegraphing spray pattern with post-formable strength</li><li class="extra-info"> Ideal for applications involving large surfaces</li><li class="extra-info"> GREENGUARD™ certified</li><li class="extra-info"> Available in cylinder or bulk packaging</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, post-forming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737177366572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">553.44</s:price>
+      <s:sku>AD SPR 94-ET-CYL-RED</s:sku>
+      <s:grams>17404</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737177333804</id>
+    <published>2019-03-16T02:20:18-04:00</published>
+    <updated>2019-03-16T02:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-98nf-5gal"/>
+    <title>3M 98NF 5GAL  - Red Hi-Strength Non-Flamable Spray Adhesive 98NF - 5 Gallon (19 L) Pail 7100138929</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-98nf-5gal-red-hi-strength-non-flamable-spray-adhesive-98nf-5-gallon-19-l-pail-7100138929-12795202142252.jpg?v=1580246976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            261.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Hi-Strength Non-Flammable Adhesive, 98 NF, Red, 5 gal (23 L)</h4> <li class="extra-info">3M™ Scotch-Weld™ High-Strength Non-Flammable Cylinder Spray Adhesive is a non-flammable, high performance, high temperature-resistant, tacky industrial grade spray adhesive.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xM82SNY_Bnv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Red</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5 Gallon, 19 L</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Scotch-Weld™ High-Strength Non-Flammable Cylinder Spray Adhesive bonds to a variety of substrates including decorative laminate, headliners, and soft foams</li><li class="extra-info">Typically used in construction, woodworking, specialty vehicle, RV, and manufactured housing.</li><h2>Product Information</h2><li class="extra-info">Helps to bond a variety of substrates</li><li class="extra-info"> High performance</li><li class="extra-info"> High temperature-resistant</li><li class="extra-info"> Bonding range of up to 60 minutes allows time to adjust substrate, reducing rework and increasing flexibility</li><li class="extra-info"> Effectively bond metals, wood, rubber, carpet and flooring</li><li class="extra-info"> Helps contribute to LEED® credits</li><li class="extra-info"> Colour: Red</li><h2>Suggested Application</h2><li class="extra-info">Intended to bond to a variety of substrates including decorative laminate, headliners, and soft foams</li><li class="extra-info">Typically used in construction, woodworking, specialty vehicle, RV, and manufactured housing</li><li class="extra-info">Specialty vehicle flooring</li><li class="extra-info">Wood furniture</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Red</s:tag>
+    <s:tag>Size_5 Gallon19 L</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737177333804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">261.78</s:price>
+      <s:sku>AD SPR 98NF 5GAL</s:sku>
+      <s:grams>25378</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737177268268</id>
+    <published>2019-03-16T02:20:18-04:00</published>
+    <updated>2019-03-16T02:20:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-98nf-37-large-clr"/>
+    <title>3M 98NF-37-LARGE-CLR  - Hi-Strength Non-Flamable Spray Adhesive 98NF (Large) Cylinder 7100138923</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-98nf-37-large-clr-hi-strength-non-flamable-spray-adhesive-98nf-large-cylinder-7100138923-12749206388780.jpg?v=1580247180"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            551.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">98NF CYLINDER SPRAY ADHESIVE</h4> <li class="extra-info">3M™ Hi-Strength Non-Flammable Adhesive 98NF creates a strong bond for attaching decorative laminate, headliners and soft foams</li><li class="extra-info">Our high-strength adhesive is typically used in construction, woodworking, RV, manufactured housing and specialty vehicle applications</li><li class="extra-info">Available in cylinder and in bulk, the adhesive can be sprayed, rolled or brushed onto surfaces to reduce overspray and adhesive waste.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0eMxmZ48mGlv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Non-flammable, high temperature resistant</li><li class="extra-info"> Features longer open time and more aggressive tack than comparable adhesives</li><li class="extra-info"> Ideal for woodworking and large surface laminations</li><li class="extra-info"> Bonding range of up to 60 minutes allows time to adjust substrate, reducing rework and increasing flexibility</li><li class="extra-info"> Effectively bond metals, wood, rubber, carpet and flooring</li><li class="extra-info"> Helps contribute to LEED® credits</li><li class="extra-info"> Colour: Red</li><h2>Suggested Application</h2><li class="extra-info">High pressure laminate (HPL) for countertops, furniture, displays and more</li><li class="extra-info">Edge banding</li><li class="extra-info">Specialty vehicle flooring</li><li class="extra-info">Wood furniture</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737177268268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">551.80</s:price>
+      <s:sku>AD SPR 98NF-37-LARGE-CLR</s:sku>
+      <s:grams>22303</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736647540780</id>
+    <published>2019-03-15T20:13:31-04:00</published>
+    <updated>2019-03-15T20:13:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-cyl-hose-50foot"/>
+    <title>3M Scotch-Weld CYL-HOSE-50FOOT  - Scotch-Weld Cylinder Adhesive 50 Foot Hose 7000121609</title>
+    <s:type>Hoses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoses-3m-scotch-weld-cyl-hose-50foot-scotch-weld-cylinder-adhesive-50-foot-hose-7000121609-12747372265516.jpg?v=1580378127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hoses<br>
+        <strong>Price: </strong>
+            514.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M(TM) Scotch-Weld(TM) Cylinder Adhesive Hose, 50 ft, 1 per case</h4> <li class="extra-info">3M™ Cylinder Adhesive Hoses provide the length and portability needed to accomplish small-, medium- and large-area coverage applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoses</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Very flexible, inert nylon/synthetic rubber hose</li><li class="extra-info"> For use with 3M™ Cylinder Spray Adhesive products</li><li class="extra-info"> Quick assembly with an adjustable wrench</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SPR</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736647540780</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">514.06</s:price>
+      <s:sku>AC SPR CYL-HOSE-50FOOT</s:sku>
+      <s:grams>2286</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736548581420</id>
+    <published>2019-03-15T19:10:27-04:00</published>
+    <updated>2019-03-15T19:10:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-cyl-hose-12foot"/>
+    <title>3M Scotch-Weld CYL-HOSE-12FOOT  - Scotch-Weld Cylinder Adhesive 12 Foot Hose 7000028624</title>
+    <s:type>Hoses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoses-3m-scotch-weld-cyl-hose-12foot-scotch-weld-cylinder-adhesive-12-foot-hose-7000028624-12794816888876.jpg?v=1580019329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hoses<br>
+        <strong>Price: </strong>
+            146.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Cylinder Adhesive Hose, 12 ft. (3.7 m)</h4> <li class="extra-info">3M™ Scotch-Weld™ Cylinder Adhesive Hose, 12 foot, for use with any 3M™ Cylinder Spray Adhesive products</li><li class="extra-info">It is very flexible and can be used in a variety of industries.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoses</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Scotch-Weld™ Cylinder Adhesive Hose is intended for use with any 3M™ Cylinder Spray Adhesive products</li><li class="extra-info">It is very flexible and can be used in a variety of industries including solar energy, sporting goods, wind energy, composites, electronics, militar</li><h2>Product Information</h2><li class="extra-info">General industrial, sporting goods, solar energy, wind energy, composites, electronics, military, transportation and aerospace</li><li class="extra-info"> Very flexible</li><li class="extra-info"> For use with 3M™ Cylinder Spray Adhesive products</li><h2>Suggested Application</h2><li class="extra-info">Used in a variety of industries including solar energy, sporting goods, wind energy, composites, electronics, military, transportation and aerospace</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SPR</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736548581420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">146.99</s:price>
+      <s:sku>AC SPR CYL-HOSE-12FOOT</s:sku>
+      <s:grams>730</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145378177068</id>
+    <published>2018-08-14T01:02:23-04:00</published>
+    <updated>2018-08-14T01:02:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-70-jumbo-288lb"/>
+    <title>3M HoldFast 70-JUMBO-288LB  - Spray Adhesive 70 (Jumbo) Cylinder 7100064044</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-holdfast-70-jumbo-288lb-spray-adhesive-70-jumbo-cylinder-7100064044-12795216855084.jpg?v=1580070899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            3643.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M HoldFast 70 Spray Adhesive, jumbo cylinder</h4> <li class="extra-info">With a wide-web spray pattern, 3M™ HoldFast Spray Adhesive 70 is an extremely versatile, fast-tacking industrial-grade adhesive, ideal for bonding a variety of substrates, including polystyrene</li><li class="extra-info">It is also suitable as a primer for 3M™ Air and Vapour Barrier 3015 and 3M™ Through Wall Flashing 3015TWF.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMx2UN82Glv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">HoldFast</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Jumbo</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M Scotch-Weld HoldFast Cylinder Spray Adhesive 70 creates quick permanent bonds on many substrates, including polystyrene, drainboard, Fibre Reinforced Plastic (FRP) pales, insulation, foams and fabrics</li><li class="extra-info">It is typically used in construction</li><h2>Product Information</h2><li class="extra-info">Versatile adhesive for construction sites</li><li class="extra-info"> Creates quick bonds for both temporary and permanent needs</li><li class="extra-info"> Bonds almost immediately with a long bonding range</li><li class="extra-info"> Pressurized, maintenance-free delivery system</li><li class="extra-info"> Bonds polystyrene without damaging the surface</li><h2>Suggested Application</h2><li class="extra-info">Intended to create a quick, permanent bond on many substrates, including polystyrene, drainboard, insulation, foams and fabrics</li><li class="extra-info">One- and two-surface bonding</li><li class="extra-info">Membrane bonding to concrete</li><li class="extra-info">Insulation attachment</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Line_HoldFast</s:tag>
+    <s:tag>Size_Jumbo</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145378177068</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3643.16</s:price>
+      <s:sku>AD SPR 70-JUMBO-288LB</s:sku>
+      <s:grams>220445</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145141559340</id>
+    <published>2018-08-13T23:10:22-04:00</published>
+    <updated>2018-08-13T23:10:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-90-28-8-large-clr"/>
+    <title>3M Scotch-Weld 90-28.8-LARGE-CLR  - Clear Hi-Strength Spray Adhesive 90 - Large (28.8 lb) Cylinder 7000028603</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-scotch-weld-90-28-8-large-clr-clear-hi-strength-spray-adhesive-90-large-28-8-lb-cylinder-7000028603-12746911449132.jpg?v=1580382456"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            583.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Hi-Strength 90 Cylinder Spray Adhesive Clear, Large Cylinder (Net Weight 28.8 Pounds) - NOT FOR CONSUMER/RETAIL SALE OR USE</h4> <li class="extra-info">3M™ Hi-Strength Adhesive 90 is an extremely versatile, fast-drying spray adhesive that bonds strongly to a wide range of materials</li><li class="extra-info">Our permanent bond provides fast results to keep projects moving ahead</li><li class="extra-info">The spray formula is easy to dispense, offering a variable-width spray pattern, and applies directly onto surfaces and materials where needed.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZNUMxmxlxtSPv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 28.8 lb</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Provides professional, industrial strength for demanding applications</li><li class="extra-info"> Comes with a variable-width web spray pattern</li><li class="extra-info"> High-strength, fast, contact type adhesive</li><li class="extra-info"> Bonds laminate, wood, concrete, metal, plastic and more</li><li class="extra-info"> High temperature and moisture resistance</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Ideal for work with furniture, woodworking, marine, acoustics and construction</li><li class="extra-info">Can also be used in laminating, spraying, metal bonding, melamine bonding, edge banding, adhering, attaching to concrete, gluing and sticking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Large28.8 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145141559340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">583.83</s:price>
+      <s:sku>AD SPR 90-28.8-LARGE-CLR</s:sku>
+      <s:grams>18583</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1139508281388</id>
+    <published>2018-08-10T22:21:57-04:00</published>
+    <updated>2018-08-10T22:21:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-78et-29-3-lrg-grn"/>
+    <title>3M Scotch-Weld 78ET-29.3-LRG-GRN  - Green Polystyrene Foam insulation 78 ET Spray Adhesive - Large Cylinder (29.3 lb) 7000046605</title>
+    <s:type>Insulation Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/insulation-adhesives-3m-scotch-weld-78et-29-3-lrg-grn-green-polystyrene-foam-insulation-78-et-spray-adhesive-large-cylinder-29-3-lb-7000046605-12747110350892.jpg?v=1580382420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Insulation Adhesives<br>
+        <strong>Price: </strong>
+            540.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Polystyrene Foam Insulation 78 ET Cylinder Spray Adhesive Green, Large Cylinder (Net Wt. 29.3 lbs) - NOT FOR CONSUMER/RETAIL SALE OR USE</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMx2UOxmvmv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Green</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Insulation Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 29.3 lb</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Green</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Large29.3 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1139508281388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">540.68</s:price>
+      <s:sku>AD SPR 78ET-29.3-LRG-GRN</s:sku>
+      <s:grams>18810</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1139508215852</id>
+    <published>2018-08-10T22:21:51-04:00</published>
+    <updated>2018-08-10T22:21:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-77-large-clear"/>
+    <title>3M Scotch-Weld 77-LARGE-CLEAR  - Clear Super 77 Spray Adhesive (29.3 lb) Cylinder 7000144617</title>
+    <s:type>Industrial Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/industrial-adhesives-3m-scotch-weld-77-large-clear-clear-super-77-spray-adhesive-29-3-lb-cylinder-7000144617-12747109269548.jpg?v=1580382216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Industrial Adhesives<br>
+        <strong>Price: </strong>
+            472.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Super 77 Cylinder Spray Adhesive Clear, Large Cylinder (Net Wt. 29.3 lbs), 1 per case - NOT FOR CONSUMER/RETAIL SALE OR USE</h4> <li class="extra-info">3M™ Scotch-Weld™ Super 77™ Cylinder Spray Adhesive is a high-tack, high-coverage and fast drying adhesive.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMxmvPY_Ulv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Industrial Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 29.3 lb</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">3M™ Scotch-Weld™ Super 77 ™ Cylinder Spray Adhesive bonds quickly in 15 seconds</li><li class="extra-info">It is versatile and helps to securely bond many lightweight materials</li><li class="extra-info">It offers a low soak-in which helps to create a long-lasting bond</li><li class="extra-info">It is intended for permanently attac</li><h2>Product Information</h2><li class="extra-info">Bonds quickly</li><li class="extra-info"> High-coverage and fast drying</li><li class="extra-info"> Versatile</li><li class="extra-info"> Bonds paper, cardboard, fabric, insulation, plastic, metal, wood and more</li><li class="extra-info"> Allows for a bond time of 15 seconds to 15 minutes</li><li class="extra-info"> Repositionable while providing long-lasting strength</li><h2>Suggested Application</h2><li class="extra-info">Intended for permanently attaching foils, carpeting, lightweight foams, paper, cardboard, felt and cloth to painted or unpainted metals, wood and hardboard</li><li class="extra-info">Attaching fibreglass insulation and drywall corner beads</li><li class="extra-info">Bonding thin films, foils and fabrics</li><li class="extra-info">Pict</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Large29.3 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1139508215852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">472.02</s:price>
+      <s:sku>AD SPR 77-LARGE-CLEAR</s:sku>
+      <s:grams>18810</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1139268255788</id>
+    <published>2018-08-10T19:38:49-04:00</published>
+    <updated>2018-08-10T19:38:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-cyl-hose-25foot"/>
+    <title>3M Scotch-Weld CYL-HOSE-25FOOT  - Scotch-Weld Cylinder Adhesive 25 Foot Hose 7000046657</title>
+    <s:type>Hoses</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/hoses-3m-scotch-weld-cyl-hose-25foot-scotch-weld-cylinder-adhesive-25-foot-hose-7000046657-12794805190700.jpg?v=1580019571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Hoses<br>
+        <strong>Price: </strong>
+            273.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Cylinder Adhesive, 25 foot hose</h4> <li class="extra-info">3M™ Scotch-Weld™ Cylinder Adhesive Hose, 25 foot, for use with any 3M™ Cylinder Spray Adhesive products.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Hoses</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">General industrial, sporting goods, solar energy, wind energy, composites, electronics, military, transportation and aerospace</li><li class="extra-info"> Very flexible</li><li class="extra-info"> Quick assembly with an adjustable wrench</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC SPR</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1139268255788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">273.49</s:price>
+      <s:sku>AC SPR CYL-HOSE-25FOOT</s:sku>
+      <s:grams>1451</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124525834284</id>
+    <published>2018-08-04T19:21:52-04:00</published>
+    <updated>2018-08-04T19:21:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-4799-tube"/>
+    <title>3M Scotch-Weld 4799-TUBE  - Industrial Adhesive 4799 in Black - 5 fl. Oz (147.87 ml) Bottle 7000000926</title>
+    <s:type></s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/3m-scotch-weld-4799-tube-industrial-adhesive-4799-in-black-5-fl-oz-147-87-ml-bottle-7000000926-31523712172181.jpg?v=1627268679"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            21.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Industrial Adhesive, 4799, black, 5 oz (147.87 ml) bottle</h4> <li class="extra-info">3M™ Scotch-Weld™ Industrial Adhesive 4799 is a brushable, heat-resistant adhesive that rapidly develops strength and provides good creep resistance</li><li class="extra-info">It has good adhesion to rubber (including EPDM) and many other materials like canvas and linoleum when bonding to metal, wood, and concrete</li><li class="extra-info">It dries to a flexible, heat and water resistant bond.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8lZnI4xtvo8_ZPv78m17zHvu9lx_D7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5 fl. Oz, 147.87 ml</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Quick drying adhesive with fast strength buildup</li><li class="extra-info"> Water and heat resistant</li><li class="extra-info"> Dries rapidly</li><li class="extra-info"> EPDM bonder</li><li class="extra-info"> Quick drying adhesive with fast strength buildup</li><h2>Suggested Application</h2><li class="extra-info">Ideal for EPDM bonding, as well as a variety of other substrates</li><li class="extra-info"> gasketing, gluing, bonding, adhering and sticking</li><li class="extra-info">Gasketing, gluing, bonding, adhering and sticking</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_5 fl. Oz147.87 ml</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124525834284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.17</s:price>
+      <s:sku>AD SPR 4799-TUBE</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122280538156</id>
+    <published>2018-08-03T19:05:14-04:00</published>
+    <updated>2018-08-03T19:05:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94ca-clr-jumbo"/>
+    <title>3M Scotch-Weld 94CA-CLR-JUMBO  - Clear Hi-Strength Postforming Spray Adhesive 94 Low VOC - Jumbo (266 lb) Cylinder 7000121444</title>
+    <s:type>Postforming Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/postforming-adhesives-3m-scotch-weld-94ca-clr-jumbo-clear-hi-strength-postforming-spray-adhesive-94-low-voc-jumbo-266-lb-cylinder-7000121444-13995119312940.jpg?v=1627907665"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Postforming Adhesives<br>
+        <strong>Price: </strong>
+            4130.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Hi-Strength Postforming Cylinder Spray Adhesive, 94 CA, clear, low VOC, jumbo cylinder, 266 lbs</h4> <li class="extra-info">The 3M™ Scotch-Weld™ Hi-Strength Postforming Adhesive 94 CA is a low Volatile Organic Compound (VOC), high performance, postformable grade spray adhesive</li><li class="extra-info">It features a low telegraphing pebble spray pattern</li><li class="extra-info">Not for consumer/retail sale or use.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l00xMx2UmYtvnv70k17zHvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Postforming Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Jumbo, 266 lb</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Scotch-Weld™ Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concer</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info"> Non-telegraphing spray pattern with postformable strength</li><li class="extra-info"> Low VOC, SCAQMD 1168 and LEED® Compliant*</li><li class="extra-info"> Packaged in pre-pressurized canister for an easy to use, maintenance free delivery system</li><li class="extra-info"> Not for consumer/retail sale or use</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, postforming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li><li class="extra-info">Gluing, spraying, sti</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Jumbo266 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122280538156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4130.34</s:price>
+      <s:sku>AD SPR 94CA-CLR-JUMBO</s:sku>
+      <s:grams>120655</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1122121482284</id>
+    <published>2018-08-03T17:29:34-04:00</published>
+    <updated>2018-08-03T17:29:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-94ca-26-2-lrg-clr"/>
+    <title>3M Scotch-Weld 94CA-26.2-LRG-CLR  - Clear Hi-Strength Postforming Spray Adhesive 94 Low VOC - Large (26.2 lb) Cylinder 7100139132</title>
+    <s:type>Postforming Adhesives</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/postforming-adhesives-3m-scotch-weld-94ca-26-2-lrg-clr-clear-hi-strength-postforming-spray-adhesive-94-low-voc-large-26-2-lb-cylinder-7100139132-12795153678380.jpg?v=1580021457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Postforming Adhesives<br>
+        <strong>Price: </strong>
+            553.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Scotch-Weld Hi-Strength Postforming Cylinder Spray Adhesive, 94 CA, clear, low VOC, large cylinder, 26.2 lbs</h4> <li class="extra-info">The 3M™ Scotch-Weld™ Hi-Strength Postforming Adhesive 94 CA is a low Volatile Organic Compound (VOC), high performance, postformable grade spray adhesive</li><li class="extra-info">It features a low telegraphing pebble spray pattern</li><li class="extra-info">Not for consumer/retail sale or use.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_GGMx2UmYtvnv70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch-Weld</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Postforming Adhesives</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large, 26.2 lb</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The 3M™ Scotch-Weld™ Hi-Strength Postforming Adhesive 94 CA bonds to a variety of demanding substrates like decorative laminate, metal, and some rubbers</li><li class="extra-info">Typically used in woodworking and specialty vehicle applications, especially where VOC's are a concer</li><h2>Product Information</h2><li class="extra-info">High solids for increased coverage</li><li class="extra-info"> Non-telegraphing spray pattern with postformable strength</li><li class="extra-info"> Low VOC, SCAQMD 1168 and LEED® Compliant*</li><li class="extra-info"> Packaged in pre-pressurized canister for an easy to use, maintenance free delivery system</li><li class="extra-info"> Not for consumer/retail sale or use</li><li class="extra-info"> Colour: Clear</li><h2>Suggested Application</h2><li class="extra-info">Woodworking, furniture, specialty vehicles, general industrial and marine</li><li class="extra-info">Gluing, spraying, sticking, postforming, carpet bonding, metal bonding, melamine bonding, edge banding, wood working, adhering, laminating and attaching rubber</li><li class="extra-info">Gluing, spraying, sti</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AD</s:tag>
+    <s:tag>AD SPR</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Line_Scotch-Weld</s:tag>
+    <s:tag>Size_Large26.2 lb</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1122121482284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">553.44</s:price>
+      <s:sku>AD SPR 94CA-26.2-LRG-CLR</s:sku>
+      <s:grams>17404</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/vests.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T15:04:02-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813412380716</id>
+    <published>2019-05-11T15:04:02-04:00</published>
+    <updated>2019-05-11T15:04:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6115g"/>
+    <title>Open Road 6115G  - 5 Point Tear Away Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6115g-5-point-tear-away-vest-12749374521388.png?v=1575426041"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            12.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road 5 Point Tear Away Safety Vest</h4> <li class="extra-info">5-point hook-and-loop tear away design- fluorescent mesh fabric with 4 front pockets</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Polyester mesh tape configuration meets WCB requirements 2 Inch Vi-brance® reflective safety material in 4 Inch contrasting tape meets WCB/Worksafe/DOT configuration Safety D-ring slot access 5-point hook-and-loop tear away design and 4 front pockets Dual</li><h2>Suggested Application</h2><li class="extra-info">Traffic Safety Working Outdoors Truck Drivers Warehouse Workers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813412380716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.05</s:price>
+      <s:sku>SA VST 6115G</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813412315180</id>
+    <published>2019-05-11T15:04:01-04:00</published>
+    <updated>2019-05-11T15:04:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6115o"/>
+    <title>Open Road 6115O  - 5 Point Tear Away Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6115o-5-point-tear-away-vest-12749374357548.png?v=1575425904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            12.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road 5 Point Tear Away Safety Vest</h4> <li class="extra-info">5-point hook-and-loop tear away design- fluorescent mesh fabric with 4 front pockets</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Polyester mesh tape configuration meets WCB requirements 2 Inch Vi-brance® reflective safety material in 4 Inch contrasting tape meets WCB/Worksafe/DOT configuration Safety D-ring slot access 5-point hook-and-loop tear away design and 4 front pockets Dual</li><h2>Suggested Application</h2><li class="extra-info">Traffic Safety Working Outdoors Truck Drivers Warehouse Workers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_One size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813412315180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.05</s:price>
+      <s:sku>SA VST 6115O</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813401829420</id>
+    <published>2019-05-11T14:49:45-04:00</published>
+    <updated>2019-05-11T14:49:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/compact-mesh-6109bk-s-m"/>
+    <title>Compact Mesh Open Road 6109BK-S/M  - Solid Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Compact Mesh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-compact-mesh-open-road-6109bk-s-m-solid-safety-vest-12749333725228.png?v=1578913343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Compact Mesh<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            5.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Solid Safety Vest</h4> <li class="extra-info">Solid Polyester Safety Vest for added coverage-Black</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Compact Mesh</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small/Medium</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Solid polyester material for added coverage Front zipper closure 2 Pockets (1 inside, 1 outside) Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Open Road</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Small/Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813401829420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.34</s:price>
+      <s:sku>SA VST 6109BK-S/M</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813401600044</id>
+    <published>2019-05-11T14:49:42-04:00</published>
+    <updated>2019-05-11T14:49:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/compact-mesh-6109bk-l-xl"/>
+    <title>Compact Mesh Open Road 6109BK-L/XL  - Solid Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Compact Mesh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-compact-mesh-open-road-6109bk-l-xl-solid-safety-vest-13820875309100.png?v=1629196648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Compact Mesh<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            5.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Solid Safety Vest</h4> <li class="extra-info">Solid Polyester Safety Vest for added coverage-Black</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Compact Mesh</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large/ X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Solid polyester material for added coverage Front zipper closure 2 Pockets (1 inside, 1 outside) Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Open Road</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Large/ X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813401600044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.34</s:price>
+      <s:sku>SA VST 6109BK-L/XL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813401403436</id>
+    <published>2019-05-11T14:49:38-04:00</published>
+    <updated>2019-05-11T14:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6109bk-4xl-5xl"/>
+    <title>Open Road 6109BK-4XL/5XL  - Solid Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6109bk-4xl-5xl-solid-safety-vest-12749333594156.png?v=1575426881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            5.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Solid Safety Vest</h4> <li class="extra-info">Solid Polyester Safety Vest for added coverage-Black</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large/5X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Solid polyester material for added coverage Front zipper closure 2 Pockets (1 inside, 1 outside) Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_4X-Large/5X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813401403436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.34</s:price>
+      <s:sku>SA VST 6109BK-4XL/5XL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813401337900</id>
+    <published>2019-05-11T14:49:38-04:00</published>
+    <updated>2019-05-11T14:49:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/compact-mesh-6109bk-2xl-3xl"/>
+    <title>Compact Mesh Open Road 6109BK-2XL/3XL  - Solid Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Compact Mesh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-compact-mesh-open-road-6109bk-2xl-3xl-solid-safety-vest-12749333626924.png?v=1578913277"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Compact Mesh<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            5.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Solid Safety Vest</h4> <li class="extra-info">Solid Polyester Safety Vest for added coverage-Black</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Compact Mesh</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large/3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Solid polyester material for added coverage Front zipper closure 2 Pockets (1 inside, 1 outside) Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Open Road</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_2X-Large/3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813401337900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.34</s:price>
+      <s:sku>SA VST 6109BK-2XL/3XL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813401108524</id>
+    <published>2019-05-11T14:49:33-04:00</published>
+    <updated>2019-05-11T14:49:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/compact-mesh-6109g-4xl-5xl"/>
+    <title>Compact Mesh Open Road 6109G-4XL/5XL  - Solid Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Compact Mesh</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-compact-mesh-open-road-6109g-4xl-5xl-solid-safety-vest-12749333430316.png?v=1578913311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Compact Mesh<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            5.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Solid Safety Vest</h4> <li class="extra-info">Fluorescent Green solid Polyester material for added coverage</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Compact Mesh</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large/5X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Solid polyester material for added coverage Front zipper closure 2 Pockets (1 inside, 1 outside) Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Open Road</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_4X-Large/5X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813401108524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.34</s:price>
+      <s:sku>SA VST 6109G-4XL/5XL</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400879148</id>
+    <published>2019-05-11T14:49:28-04:00</published>
+    <updated>2019-05-11T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6110g-l-xl"/>
+    <title>Open Road 6110G-L/XL  - InchBTE Inch Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6110g-l-xl-inchbte-inch-vest-12749333233708.png?v=1575426863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            9.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road InchBTE Inch Safety Vest</h4> <li class="extra-info">Fluorescent mesh fabric vest with front hook-and-loop closure and a dual reflective chest straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large/ X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Front hook-and-loop closure Dual reflective chest straps Machine washable-Fully compliant with CSA Z96-15 Class 2, Level 2, and becomes Class 3 when combined with the right model arm and leg bands Fully compliant with ANSI/ISEA 107</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guardsM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Large/ X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400879148</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.43</s:price>
+      <s:sku>SA VST 6110G-L/XL</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400846380</id>
+    <published>2019-05-11T14:49:28-04:00</published>
+    <updated>2019-05-11T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6110g-s-m"/>
+    <title>Open Road 6110G-S/M  - InchBTE Inch Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6110g-s-m-inchbte-inch-vest-12749333266476.png?v=1575426762"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            9.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road InchBTE Inch Safety Vest</h4> <li class="extra-info">Fluorescent mesh fabric vest with front hook-and-loop closure and a dual reflective chest straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small/Medium</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Front hook-and-loop closure Dual reflective chest straps Machine washable-Fully compliant with CSA Z96-15 Class 2, Level 2, and becomes Class 3 when combined with the right model arm and leg bands Fully compliant with ANSI/ISEA 107</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guardsM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Small/Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400846380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.43</s:price>
+      <s:sku>SA VST 6110G-S/M</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400813612</id>
+    <published>2019-05-11T14:49:28-04:00</published>
+    <updated>2019-05-11T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6110g-4xl-5xl"/>
+    <title>Open Road 6110G-4XL/5XL  - InchBTE Inch Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6110g-4xl-5xl-inchbte-inch-vest-12749333102636.png?v=1575426897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            9.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road InchBTE Inch Safety Vest</h4> <li class="extra-info">Fluorescent mesh fabric vest with front hook-and-loop closure and a dual reflective chest straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large/5X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Front hook-and-loop closure Dual reflective chest straps Machine washable-Fully compliant with CSA Z96-15 Class 2, Level 2, and becomes Class 3 when combined with the right model arm and leg bands Fully compliant with ANSI/ISEA 107</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guardsM</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_4X-Large/5X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400813612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.43</s:price>
+      <s:sku>SA VST 6110G-4XL/5XL</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400748076</id>
+    <published>2019-05-11T14:49:28-04:00</published>
+    <updated>2019-05-11T14:49:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6110o-s-m"/>
+    <title>Open Road 6110O-S/M  - InchBTE Inch Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6110o-s-m-inchbte-inch-vest-12749333168172.png?v=1575426636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            9.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road InchBTE Inch Safety Vest</h4> <li class="extra-info">Fluorescent mesh fabric vest with front hook-and-loop closure and a dual reflective chest straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small/Medium</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Front hook-and-loop closure Dual reflective chest straps Machine washable-Fully compliant with CSA Z96-15 Class 2, Level 2, and becomes Class 3 when combined with the right model arm and leg bands Fully compliant with ANSI/ISEA 107</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Small/Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400748076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.43</s:price>
+      <s:sku>SA VST 6110O-S/M</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400584236</id>
+    <published>2019-05-11T14:49:24-04:00</published>
+    <updated>2019-05-11T14:49:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6110o-l-xl"/>
+    <title>Open Road 6110O-L/XL  - InchBTE Inch Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6110o-l-xl-inchbte-inch-vest-12749333135404.png?v=1575426621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            9.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road InchBTE Inch Safety Vest</h4> <li class="extra-info">Fluorescent mesh fabric vest with front hook-and-loop closure and a dual reflective chest straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large/ X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Front hook-and-loop closure Dual reflective chest straps Machine washable-Fully compliant with CSA Z96-15 Class 2, Level 2, and becomes Class 3 when combined with the right model arm and leg bands Fully compliant with ANSI/ISEA 107</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Large/ X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400584236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.43</s:price>
+      <s:sku>SA VST 6110O-L/XL</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400551468</id>
+    <published>2019-05-11T14:49:24-04:00</published>
+    <updated>2019-05-11T14:49:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6110o-2xl-3xl"/>
+    <title>Open Road 6110O-2XL/3XL  - InchBTE Inch Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6110o-2xl-3xl-inchbte-inch-vest-12749333200940.png?v=1575426744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            9.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road InchBTE Inch Safety Vest</h4> <li class="extra-info">Fluorescent mesh fabric vest with front hook-and-loop closure and a dual reflective chest straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large/3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Front hook-and-loop closure Dual reflective chest straps Machine washable-Fully compliant with CSA Z96-15 Class 2, Level 2, and becomes Class 3 when combined with the right model arm and leg bands Fully compliant with ANSI/ISEA 107</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_2X-Large/3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400551468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.43</s:price>
+      <s:sku>SA VST 6110O-2XL/3XL</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400518700</id>
+    <published>2019-05-11T14:49:24-04:00</published>
+    <updated>2019-05-11T14:49:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6110o-4xl-5xl"/>
+    <title>Open Road 6110O-4XL/5XL  - InchBTE Inch Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6110o-4xl-5xl-inchbte-inch-vest-12749333069868.png?v=1575426777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            9.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road InchBTE Inch Safety Vest</h4> <li class="extra-info">Fluorescent mesh fabric vest with front hook-and-loop closure and a dual reflective chest straps</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large/5X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Front hook-and-loop closure Dual reflective chest straps Machine washable-Fully compliant with CSA Z96-15 Class 2, Level 2, and becomes Class 3 when combined with the right model arm and leg bands Fully compliant with ANSI/ISEA 107</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers School crossing guards</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_4X-Large/5X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400518700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.43</s:price>
+      <s:sku>SA VST 6110O-4XL/5XL</s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400453164</id>
+    <published>2019-05-11T14:49:24-04:00</published>
+    <updated>2019-05-11T14:49:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-s"/>
+    <title>Open Road 6112G-S  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-s-zipper-safety-vest-12749332938796.png?v=1575426501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400453164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-S</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400420396</id>
+    <published>2019-05-11T14:49:24-04:00</published>
+    <updated>2019-05-11T14:49:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-m"/>
+    <title>Open Road 6112G-M  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-m-zipper-safety-vest-12749332873260.png?v=1575426516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Medium</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400420396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-M</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400256556</id>
+    <published>2019-05-11T14:49:20-04:00</published>
+    <updated>2019-05-11T14:49:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-l"/>
+    <title>Open Road 6112G-L  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-l-zipper-safety-vest-12749332906028.png?v=1575426654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400256556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-L</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400223788</id>
+    <published>2019-05-11T14:49:20-04:00</published>
+    <updated>2019-05-11T14:49:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-xl"/>
+    <title>Open Road 6112G-XL  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-xl-zipper-safety-vest-12749332971564.png?v=1575426532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400223788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-XL</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400191020</id>
+    <published>2019-05-11T14:49:20-04:00</published>
+    <updated>2019-05-11T14:49:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-xxl"/>
+    <title>Open Road 6112G-XXL  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-xxl-zipper-safety-vest-12749332742188.png?v=1575426387"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400191020</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-XXL</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400158252</id>
+    <published>2019-05-11T14:49:19-04:00</published>
+    <updated>2019-05-11T14:49:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-xxxl"/>
+    <title>Open Road 6112G-XXXL  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-xxxl-zipper-safety-vest-12749332774956.png?v=1575426420"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400158252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-XXXL</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813400027180</id>
+    <published>2019-05-11T14:49:16-04:00</published>
+    <updated>2019-05-11T14:49:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-xxxxxl"/>
+    <title>Open Road 6112G-XXXXXL  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-xxxxxl-zipper-safety-vest-12749332578348.png?v=1575426263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813400027180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-XXXXXL</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813399994412</id>
+    <published>2019-05-11T14:49:16-04:00</published>
+    <updated>2019-05-11T14:49:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112g-xxxxl"/>
+    <title>Open Road 6112G-XXXXL  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112g-xxxxl-zipper-safety-vest-12749332545580.png?v=1575426403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Green mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813399994412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112G-XXXXL</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813399961644</id>
+    <published>2019-05-11T14:49:16-04:00</published>
+    <updated>2019-05-11T14:49:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112o-m"/>
+    <title>Open Road 6112O-M  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112o-m-zipper-safety-vest-12749332643884.png?v=1575426296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Orange mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Medium</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813399961644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112O-M</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813399863340</id>
+    <published>2019-05-11T14:49:13-04:00</published>
+    <updated>2019-05-11T14:49:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112o-xl"/>
+    <title>Open Road 6112O-XL  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112o-xl-zipper-safety-vest-12749332512812.png?v=1575426140"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Orange mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813399863340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112O-XL</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813399830572</id>
+    <published>2019-05-11T14:49:12-04:00</published>
+    <updated>2019-05-11T14:49:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6112o-xxl"/>
+    <title>Open Road 6112O-XXL  - Zipper Safety Vest</title>
+    <s:type>Vests</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/vests-open-road-6112o-xxl-zipper-safety-vest-12749332086828.png?v=1575426157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Vests<br>
+        <strong>Price: </strong>
+            13.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Zipper Survey Vest</h4> <li class="extra-info">Fluorescent Orange mesh fabric</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Vests</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Fluorescent mesh fabric Zippered front for a shirt-like feel 4 pockets with hook-and-loop closure Dual chest straps Machine washable</li><h2>Suggested Application</h2><li class="extra-info">Emergency response personnel Traffic Flaggers Building and road construction Tow truck and truck drivers School crossing guards Airport baggage handlers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA VST</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813399830572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.29</s:price>
+      <s:sku>SA VST 6112O-XXL</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+</feed>

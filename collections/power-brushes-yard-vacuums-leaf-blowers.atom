@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/power-brushes-yard-vacuums-leaf-blowers.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T01:45:47-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812167655468</id>
+    <published>2019-05-11T01:45:47-04:00</published>
+    <updated>2019-05-11T01:45:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8500bvm"/>
+    <title>King Canada 8500BVM  - Blower Vacuum Mulcher Variable Speed 3-In-1</title>
+    <s:type>Lawn Care Products</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/lawn-care-products-king-canada-8500bvm-blower-vacuum-mulcher-variable-speed-3-in-1-12746644881452.jpg?v=1579585538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Lawn Care Products<br>
+        <strong>Price: </strong>
+            94.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Variable speed blower/vacuum/mulcher (3 in 1)</h4> <li class="extra-info">Simplify your yard work with this high performance 3-in-1 blower, vacuum and mulcher Variable speed dial adjusts the air flow Blower function provides 180 to 320 km/h of air speed Vacuum function provides 110 to 350 CFM of air volume to collect leaves and yard waste Lightweight alternative to the heavy gas-powered leaf blowers 16 to 1 mulch ratio mulches 16 bags of leaves into 1 bag of mulched leaves Extension cord lock system holds cord in place Converts from a blower to a vacuum without tools using the quick connect latch system 5” vacuum and mulcher collection tubes Comes with blower attachment, vacuum and mulching attachments, washable leaf collection bag and adjustable shoulder strap Double insulation</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Lawn Care Products</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE LAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812167655468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.06</s:price>
+      <s:sku>OE LAW 8500BVM</s:sku>
+      <s:grams>5450</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812157104172</id>
+    <published>2019-05-11T01:41:08-04:00</published>
+    <updated>2019-05-11T01:41:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8317"/>
+    <title>King Canada 8317  - Blower Vacuum Hand-Held Variable Speed</title>
+    <s:type>Lawn Care Products</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/lawn-care-products-king-canada-8317-blower-vacuum-hand-held-variable-speed-12746629972012.jpg?v=1579605211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Lawn Care Products<br>
+        <strong>Price: </strong>
+            37.06
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Variable speed hand-held blower/vacuum</h4> <li class="extra-info">116 CFM, Max air speed 195 km/h (121 mph) Can be used as an air blower or a dust vacuum Variable speed (6,000-14,000 RPM) Trigger lock-on button for continuous operation Compact, lightweight and easy to use Comes complete with soft flexible rubber blower nozzle and a vacuum dust bag Double insulation</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Lawn Care Products</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>OE</s:tag>
+    <s:tag>OE LAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812157104172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.06</s:price>
+      <s:sku>OE LAW 8317</s:sku>
+      <s:grams>1587</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/pants-1.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T14:53:53-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813405532204</id>
+    <published>2019-05-11T14:53:53-04:00</published>
+    <updated>2019-05-11T14:53:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-4110p-xs"/>
+    <title>Open Road Journeyman 4110P-XS  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-4110p-xs-journeyman-bib-pants-12749341982764.jpg?v=1575421159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            37.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Green</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Small</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_X-Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813405532204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.96</s:price>
+      <s:sku>SA PNT 4110P-XS</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813405499436</id>
+    <published>2019-05-11T14:53:49-04:00</published>
+    <updated>2019-05-11T14:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-4110p-m"/>
+    <title>Open Road Journeyman 4110P-M  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-4110p-m-journeyman-bib-pants-12749342081068.jpg?v=1575421283"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            37.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Green</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Medium</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813405499436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.96</s:price>
+      <s:sku>SA PNT 4110P-M</s:sku>
+      <s:grams>975</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813405466668</id>
+    <published>2019-05-11T14:53:49-04:00</published>
+    <updated>2019-05-11T14:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-4110p-l"/>
+    <title>Open Road Journeyman 4110P-L  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-4110p-l-journeyman-bib-pants-12749342113836.jpg?v=1575421399"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            37.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Green</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813405466668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.96</s:price>
+      <s:sku>SA PNT 4110P-L</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813405433900</id>
+    <published>2019-05-11T14:53:49-04:00</published>
+    <updated>2019-05-11T14:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-4110p-2xl"/>
+    <title>Open Road Journeyman 4110P-2XL  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-4110p-2xl-journeyman-bib-pants-12749341851692.jpg?v=1575421435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            38.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Green</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813405433900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.69</s:price>
+      <s:sku>SA PNT 4110P-2XL</s:sku>
+      <s:grams>1179</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813405401132</id>
+    <published>2019-05-11T14:53:49-04:00</published>
+    <updated>2019-05-11T14:53:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-4110p-xl"/>
+    <title>Open Road Journeyman 4110P-XL  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-4110p-xl-journeyman-bib-pants-12749341917228.jpg?v=1575421313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            37.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Green</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Large</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813405401132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.96</s:price>
+      <s:sku>SA PNT 4110P-XL</s:sku>
+      <s:grams>1111</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813405368364</id>
+    <published>2019-05-11T14:53:48-04:00</published>
+    <updated>2019-05-11T14:53:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-4110p-s"/>
+    <title>Open Road Journeyman 4110P-S  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-4110p-s-journeyman-bib-pants-12749341949996.jpg?v=1575421297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            37.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Green</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813405368364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.96</s:price>
+      <s:sku>SA PNT 4110P-S</s:sku>
+      <s:grams>1133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813405335596</id>
+    <published>2019-05-11T14:53:45-04:00</published>
+    <updated>2019-05-11T14:53:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-4110p-3xl"/>
+    <title>Open Road Journeyman 4110P-3XL  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-4110p-3xl-journeyman-bib-pants-12749341818924.jpg?v=1575421416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            38.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Green</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813405335596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.69</s:price>
+      <s:sku>SA PNT 4110P-3XL</s:sku>
+      <s:grams>1247</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813404713004</id>
+    <published>2019-05-11T14:53:24-04:00</published>
+    <updated>2019-05-11T14:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-5110p-s"/>
+    <title>Open Road Journeyman 5110P-S  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-5110p-s-journeyman-bib-pants-12749341261868.jpg?v=1575420830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            37.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Yellow</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813404713004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.96</s:price>
+      <s:sku>SA PNT 5110P-S</s:sku>
+      <s:grams>1133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813404680236</id>
+    <published>2019-05-11T14:53:24-04:00</published>
+    <updated>2019-05-11T14:53:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-5110p-l"/>
+    <title>Open Road Journeyman 5110P-L  - Journeyman Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-journeyman-5110p-l-journeyman-bib-pants-12749341229100.jpg?v=1575420952"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            37.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">InchViking Journeyman Inch 0.45 mm Industrial Oil Resistant Bib Pant</h4> <li class="extra-info">Reversible Bib Pant, Zip Pocket &amp; Pen Holder Behind Bib - Yellow</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Journeyman</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large</td>
+</tr>
+</table>   <h2>Technical Specifications</h2><table class="egrimes">
+<tr class="egrimes"><td class="egrimes">Premium 0.45mm PVC/polyester material</td></tr>
+<tr class="egrimes"><td class="egrimes">None</td></tr>
+</table><h2>Extra Product Information</h2><li class="extra-info">Medium to heavy risk chemical splash protection Excellent chemical protection against acids, animal fats, and motor oils Solid construction provides maximum wind and water protection-Premium 0.45mm PVC/polyester material Welded and stitched seams for dura</li><h2>Suggested Application</h2><li class="extra-info">Commercial fishing Sport fishing Yard work Construction Chemical processing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Line_Journeyman</s:tag>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813404680236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.96</s:price>
+      <s:sku>SA PNT 5110P-L</s:sku>
+      <s:grams>1043</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396684844</id>
+    <published>2019-05-11T14:46:56-04:00</published>
+    <updated>2019-05-11T14:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pb-m"/>
+    <title>Open Road 6323PB-M  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pb-m-150d-bib-pants-12749325500460.png?v=1575423351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Medium</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396684844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PB-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396652076</id>
+    <published>2019-05-11T14:46:56-04:00</published>
+    <updated>2019-05-11T14:46:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pb-l"/>
+    <title>Open Road 6323PB-L  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pb-l-150d-bib-pants-12749325369388.png?v=1575423335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396652076</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PB-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396619308</id>
+    <published>2019-05-11T14:46:55-04:00</published>
+    <updated>2019-05-11T14:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pb-xxl"/>
+    <title>Open Road 6323PB-XXL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pb-xxl-150d-bib-pants-12749325467692.png?v=1575423232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            30.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396619308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.66</s:price>
+      <s:sku>SA PNT 6323PB-XXL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396586540</id>
+    <published>2019-05-11T14:46:55-04:00</published>
+    <updated>2019-05-11T14:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pb-xl"/>
+    <title>Open Road 6323PB-XL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pb-xl-150d-bib-pants-12749325434924.png?v=1575423215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396586540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PB-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396553772</id>
+    <published>2019-05-11T14:46:55-04:00</published>
+    <updated>2019-05-11T14:46:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pb-s"/>
+    <title>Open Road 6323PB-S  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pb-s-150d-bib-pants-12749325565996.png?v=1575423319"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396553772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PB-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396521004</id>
+    <published>2019-05-11T14:46:51-04:00</published>
+    <updated>2019-05-11T14:46:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pb-xxxl"/>
+    <title>Open Road 6323PB-XXXL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pb-xxxl-150d-bib-pants-12749325336620.png?v=1575423198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            30.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396521004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.66</s:price>
+      <s:sku>SA PNT 6323PB-XXXL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396488236</id>
+    <published>2019-05-11T14:46:51-04:00</published>
+    <updated>2019-05-11T14:46:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pb-xxxxl"/>
+    <title>Open Road 6323PB-XXXXL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pb-xxxxl-150d-bib-pants-12749325107244.png?v=1575423083"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            30.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">4X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_4X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396488236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.66</s:price>
+      <s:sku>SA PNT 6323PB-XXXXL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396455468</id>
+    <published>2019-05-11T14:46:48-04:00</published>
+    <updated>2019-05-11T14:46:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pg-m"/>
+    <title>Open Road 6323PG-M  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pg-m-150d-bib-pants-12749325074476.png?v=1575423117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Medium</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Medium</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396455468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PG-M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396422700</id>
+    <published>2019-05-11T14:46:48-04:00</published>
+    <updated>2019-05-11T14:46:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pg-xl"/>
+    <title>Open Road 6323PG-XL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pg-xl-150d-bib-pants-12749324845100.png?v=1575422978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396422700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PG-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396389932</id>
+    <published>2019-05-11T14:46:48-04:00</published>
+    <updated>2019-05-11T14:46:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pg-l"/>
+    <title>Open Road 6323PG-L  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pg-l-150d-bib-pants-12749325041708.png?v=1575423099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396389932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PG-L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396357164</id>
+    <published>2019-05-11T14:46:48-04:00</published>
+    <updated>2019-05-11T14:46:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pg-s"/>
+    <title>Open Road 6323PG-S  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pg-s-150d-bib-pants-12749325008940.png?v=1575422996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396357164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PG-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396324396</id>
+    <published>2019-05-11T14:46:44-04:00</published>
+    <updated>2019-05-11T14:46:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323po-s"/>
+    <title>Open Road 6323PO-S  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323po-s-150d-bib-pants-12749324746796.png?v=1575422719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">Small</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_Small</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396324396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PO-S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396291628</id>
+    <published>2019-05-11T14:46:44-04:00</published>
+    <updated>2019-05-11T14:46:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pg-xxxxxl"/>
+    <title>Open Road 6323PG-XXXXXL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pg-xxxxxl-150d-bib-pants-12749324812332.png?v=1575422872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            30.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Waist Pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">5X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_5X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396291628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.66</s:price>
+      <s:sku>SA PNT 6323PG-XXXXXL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396258860</id>
+    <published>2019-05-11T14:46:44-04:00</published>
+    <updated>2019-05-11T14:46:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pg-xxxl"/>
+    <title>Open Road 6323PG-XXXL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pg-xxxl-150d-bib-pants-12749324779564.png?v=1575422839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            30.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_3X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396258860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.66</s:price>
+      <s:sku>SA PNT 6323PG-XXXL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396193324</id>
+    <published>2019-05-11T14:46:43-04:00</published>
+    <updated>2019-05-11T14:46:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323pg-xxl"/>
+    <title>Open Road 6323PG-XXL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323pg-xxl-150d-bib-pants-12749324877868.png?v=1575422963"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            30.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">2X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_2X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396193324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.66</s:price>
+      <s:sku>SA PNT 6323PG-XXL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813396160556</id>
+    <published>2019-05-11T14:46:41-04:00</published>
+    <updated>2019-05-11T14:46:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/open-road-6323po-xl"/>
+    <title>Open Road 6323PO-XL  - 150D Bib Pants</title>
+    <s:type>Bib Pants</s:type>
+    <s:vendor>Open Road</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/bib-pants-open-road-6323po-xl-150d-bib-pants-12749324517420.png?v=1575422734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Open Road<br>
+        <strong>Type: </strong>Bib Pants<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Open Road Hi-Vis 150D Light Bib pants</h4> <li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight Pib Pants and flexible even in cold conditions</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Open Road</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Bib Pants</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">X-Large</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">150 Denier Trilobal rip-stop polyester/PU material light weight and flexible even in cold conditions Double sewn, taped and heat-sealed seams Waterproof and windproof Generous sizing for working comfort and ventilation-Adjustable wrists cuffs Detachable s</li><h2>Suggested Application</h2><li class="extra-info">Traffic Flaggers Construction Truckers</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SA</s:tag>
+    <s:tag>SA PNT</s:tag>
+    <s:tag>Size_X-Large</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813396160556</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>SA PNT 6323PO-XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+</feed>

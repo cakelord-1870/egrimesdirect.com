@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/gas-torches.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T11:34:57-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813092827180</id>
+    <published>2019-05-11T11:34:57-04:00</published>
+    <updated>2019-05-11T11:34:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jbt-1330"/>
+    <title>JET JBT-1330  - Turbo Butane Torch 380022</title>
+    <s:type>Torches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/torches-jet-jbt-1330-turbo-butane-torch-380022-12748576784428.jpg?v=1579522592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Torches<br>
+        <strong>Price: </strong>
+            71.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Turbo Butane Torch</h4> <li class="extra-info">Industrial quality hand held torches for a variety of applications</li><li class="extra-info"> Meets Consumer Products Safety Commission child safety standards</li><li class="extra-info"> Every torch factory tested for performance and safety</li><li class="extra-info"> Specially designed to prevent liquid gas from entering nozzle, preventing flame outs and allowing use in any orientation</li><li class="extra-info"> Piezo ignition requires no batteries or flints</li><li class="extra-info"> Larger turbo flame for heating wider areas such as frozen pipes</li><li class="extra-info"> Gas adjustment valve controls flame volume</li><li class="extra-info"> Anodized aluminum barrel is tough and corrosion resistant</li><li class="extra-info"> Can be locked in on position for production work</li><li class="extra-info"> Includes stand for hands-free use</li><li class="extra-info"> Uses standard butane lighter fuel (not included)</li><li class="extra-info"> Perfect for:</li><li class="extra-info"> electrical and mechanical repair</li><li class="extra-info"> jewelry making and repair</li><li class="extra-info"> paint removal</li><li class="extra-info"> soldering</li><li class="extra-info"> brazing</li><li class="extra-info"> bending plastics</li><li class="extra-info"> thawing pipes</li><li class="extra-info"> starting campfires</li><li class="extra-info"> culinary use</li><li class="extra-info"> A must-have for any tool box</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Torches</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">1,300°C Flame</li><h2>Product Information</h2><li class="extra-info">Fuel Capacity : 30 ml</li><li class="extra-info"> Burn Time in Minutes (High/Low) : 60/90 min</li><li class="extra-info"> Type: Turbo flame</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP TOR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813092827180</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">71.22</s:price>
+      <s:sku>GP TOR 380022</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813092794412</id>
+    <published>2019-05-11T11:34:57-04:00</published>
+    <updated>2019-05-11T11:34:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-jbt-1322"/>
+    <title>JET JBT-1322  - Mini Butane Torch 380021</title>
+    <s:type>Torches</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/torches-jet-jbt-1322-mini-butane-torch-380021-12748576817196.jpg?v=1579522558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Torches<br>
+        <strong>Price: </strong>
+            62.77
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Mini Butane Torch Industrial quality hand held torches for a variety of applications </li><li class="extra-info">Meets Consumer Products Safety Commission child safety standards </li><li class="extra-info">Every torch factory tested for performance and safety </li><li class="extra-info">Specially designed to prevent liquid gas from entering nozzle, preventing flame outs and allowing use in any orientation </li><li class="extra-info">Piezo ignition requires no batteries or flints </li><li class="extra-info">Micro flame heats a very small, precise area </li><li class="extra-info">Air adjustment ring and gas adjustment valve allow precise adjustment of flame </li><li class="extra-info">Anodized aluminum barrel is tough and corrosion resistant </li><li class="extra-info">Can be locked in on position for production work </li><li class="extra-info">Includes stand for hands-free use </li><li class="extra-info">Uses standard butane lighter fuel (not included) </li><li class="extra-info">Perfect for: </li><li class="extra-info">electrical and mechanical repair </li><li class="extra-info">jewelry making and repair </li><li class="extra-info">paint removal </li><li class="extra-info">soldering </li><li class="extra-info">brazing </li><li class="extra-info">bending plastics </li><li class="extra-info">thawing pipes </li><li class="extra-info">starting campfires </li><li class="extra-info">culinary use </li><li class="extra-info">A must-have for any tool box</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Torches</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP TOR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813092794412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">62.77</s:price>
+      <s:sku>GP TOR 380021</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812327628844</id>
+    <published>2019-05-11T03:36:41-04:00</published>
+    <updated>2019-05-11T03:36:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/dynabrade-96340"/>
+    <title>Dynabrade 96340  - Porpane Torch</title>
+    <s:type>Torches</s:type>
+    <s:vendor>Dynabrade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/torches-dynabrade-96340-porpane-torch-12746793517100.jpg?v=1579132436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dynabrade<br>
+        <strong>Type: </strong>Torches<br>
+        <strong>Price: </strong>
+            182.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Propane Torch</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Dynabrade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Torches</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GP</s:tag>
+    <s:tag>GP TOR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812327628844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">182.08</s:price>
+      <s:sku>GP TOR 96340</s:sku>
+      <s:grams>480</s:grams>
+    </s:variant>
+  </entry>
+</feed>

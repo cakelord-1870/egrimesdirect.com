@@ -1,0 +1,1913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/filament-tapes.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-10-15T22:18:27-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254926372908</id>
+    <published>2019-10-15T22:18:27-04:00</published>
+    <updated>2019-10-15T22:18:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8915-12x55"/>
+    <title>3M Scotch 8915-12X55  - Filament Tape 8915 Clear 12mm x 55m 7000048604</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-8915-12x55-scotch-filament-tape-8915-clear-12mm-x-55m-7000048604-13120330825772.jpg?v=1580046777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            5.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 8915 Clear, 12 mm x 55 m, 72 per case Bulk</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0Gl82ZO8tBmv70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">12mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254926372908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.47</s:price>
+      <s:sku>TA FLA 8915-12X55</s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254920769580</id>
+    <published>2019-10-15T22:09:06-04:00</published>
+    <updated>2019-10-15T22:09:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-893-12x55"/>
+    <title>3M Scotch 893-12X55  - Filament Tape 893 in Clear (12 mm x 55 m) 7100008074</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-893-12x55-scotch-filament-tape-893-clear-12mm-x-55m-7100008074-13120317521964.jpg?v=1580046450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            6.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 893 Clear, 12 mm x 55 m</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">12mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Used for general industrial, government, food and beverage or automotive parts</li><li class="extra-info">Designed for box closing, palletizing, box reinforcing or general bundling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254920769580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.88</s:price>
+      <s:sku>TA FLA 893-12X55</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4254920704044</id>
+    <published>2019-10-15T22:09:04-04:00</published>
+    <updated>2019-10-15T22:09:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-893-24x55"/>
+    <title>3M Scotch 893-24X55  - Filament Tape 893 in Clear (24 mm x 55 m) 7000048809</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-893-24x55-scotch-filament-tape-893-p6939-clear-24mm-x-55m-7000048809-13120317489196.jpg?v=1580046417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            12.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 893 PN6939 Clear, 24 mm x 55 m</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">24mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Used for general industrial, government, food and beverage or automotive parts</li><li class="extra-info">Designed for box closing, palletizing, box reinforcing or general bundling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_24mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4254920704044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.44</s:price>
+      <s:sku>TA FLA 893-24X55</s:sku>
+      <s:grams>8627</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253745807404</id>
+    <published>2019-10-15T12:54:47-04:00</published>
+    <updated>2019-10-15T12:54:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8915-18x55"/>
+    <title>3M Scotch 8915-18X55  - Filament Tape 8915 Clear 18mm x 55m 7000048605</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-8915-18x55-scotch-filament-tape-8915-clear-18mm-x-55m-7000048605-13119589089324.jpg?v=1580353858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            6.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 8915 Clear, 18 mm x 55 m, 48 per case Bulk</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l9uZl82ZO8tBmvVsNDVFNvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">18mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_18mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253745807404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.81</s:price>
+      <s:sku>TA FLA 8915-18X55</s:sku>
+      <s:grams>163</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253745545260</id>
+    <published>2019-10-15T12:54:33-04:00</published>
+    <updated>2019-10-15T12:54:33-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-897-48x55"/>
+    <title>3M Scotch 897-48X55  - Scotch Filament Tape 897 Clear 48mm x 55m 7000143602</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-897-48x55-scotch-filament-tape-897-clear-48mm-x-55m-7000143602-13119589023788.jpg?v=1580046177"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            10.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Filament Tape, 897, clear, 48 mm x 55 m, bulk</h4> <li class="extra-info">Scotch Filament Tape 897 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">It has a tensile strength 170 pounds per inch width</li><li class="extra-info">Scotch Filament Tape is ideal for strapping, bundling and reinforcing applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Offers excellent resistance to nicks and abrasion</li><li class="extra-info">Good shear strength to fibreboard surfaces</li><li class="extra-info">Polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">Tensile strength 170 pounds per inch width</li><h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Used for general industrial, food and beverage or automotive parts</li><li class="extra-info">Designed for box closing, palletizing, box reinforcing or general bundling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253745545260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.66</s:price>
+      <s:sku>TA FLA 897-48X55</s:sku>
+      <s:grams>376</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253745479724</id>
+    <published>2019-10-15T12:54:11-04:00</published>
+    <updated>2019-10-15T12:54:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-898-36x55"/>
+    <title>3M Scotch 898-36X55  - Filament Tape 898 in Clear (36 mm x 55 m) 7000144703</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-898-36x55-scotch-filament-tape-898-clear-36mm-x-55m-7000144703-13119588630572.jpg?v=1580355094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            25.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 898 Clear, 36 mm x 55 m, 24 per case Bulk</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">36mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_36mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253745479724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.56</s:price>
+      <s:sku>TA FLA 898-36X55</s:sku>
+      <s:grams>421</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4253697441836</id>
+    <published>2019-10-15T11:07:32-04:00</published>
+    <updated>2019-10-15T11:07:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8934-36x55"/>
+    <title>3M Tartan 8934-36X55  - Filament Tape 8934 36mm x 55m 7000126227</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-tartan-8934-36x55-filament-tape-8934-36mm-x-55m-7000126227-13119509692460.jpg?v=1578802794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            3.83
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Tartan(TM) Filament Tape 8934 Clear, 36 mm x 55 m</h4> <li class="extra-info">3M™ Filament Tape 8934 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, for strapping, bundling and reinforcing applications</li><li class="extra-info">It has a tensile strength of 100 pounds per inch (18 kg per cm) width and a pressure-sensitive synthetic rubber adhesive offers good shear strength to fibreboard, plastics and most metals surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tartan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">36mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polypropylene backing reinforced with glass yarn filaments</li><li class="extra-info"> Tensile strength of 100 pounds per inch (18 kg per cm) width</li><li class="extra-info"> Good shear strength to fibreboard, plastics and most metal surfaces</li><h2>Suggested Application</h2><li class="extra-info">Reinforced filament tape for general purpose applications</li><li class="extra-info">Strapping, bundling, surface protection, reinforcement, splicing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Tartan</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_36mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4253697441836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.83</s:price>
+      <s:sku>TA FLA 8934 36MM</s:sku>
+      <s:grams>267</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812106706988</id>
+    <published>2019-05-11T00:54:45-04:00</published>
+    <updated>2019-05-11T00:54:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/cantech-179-48mm"/>
+    <title>Cantech 179 48MM  - Filament Tape 179 48mm</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>Cantech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-cantech-179-48mm-filament-tape-179-48mm-12749589807148.jpg?v=1578890118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cantech<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            6.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Cantech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Cantech</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812106706988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.71</s:price>
+      <s:sku>TA FLA 179 48MM</s:sku>
+      <s:grams>340</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112977452</id>
+    <published>2019-03-16T01:48:13-04:00</published>
+    <updated>2019-03-16T01:48:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000136830"/>
+    <title>3M Scotch 7000136830  - Filament Tape 898 Clear 48 Inch x 60yds 7000136830</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-7000136830-scotch-filament-tape-898-clear-48-inch-x-60yds-7000136830-12749071974444.jpg?v=1580358002"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            937.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 898 Clear, 48 in x 60 yd, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">60yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_60yds</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_48 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112977452</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">937.15</s:price>
+      <s:sku>TA FLA 7000136830</s:sku>
+      <s:grams>15728</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112911916</id>
+    <published>2019-03-16T01:48:13-04:00</published>
+    <updated>2019-03-16T01:48:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000136843"/>
+    <title>3M Scotch 7000136843  - Filament Tape 898 Clear 305mm x 55m 7000136843</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-7000136843-scotch-filament-tape-898-clear-305mm-x-55m-7000136843-12749072007212.jpg?v=1580036882"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            247.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 898 Clear, 305 mm x 55 m, 1 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">305mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_305mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112911916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">247.93</s:price>
+      <s:sku>TA FLA 7000136843</s:sku>
+      <s:grams>1156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112846380</id>
+    <published>2019-03-16T01:48:12-04:00</published>
+    <updated>2019-03-16T01:48:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-7000059905"/>
+    <title>3M Scotch 7000059905  - High Strength Filament Tape 890SR Transparent 4 Inch x 2898yds 7000059905</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-7000059905-scotch-high-strength-filament-tape-890sr-transparent-4-inch-x-2898yds-7000059905-12749071908908.jpg?v=1580036851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            1500.08
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) High Strength Filament Tape 890SR Transparent, 4 in x 2898 yd, 1 roll per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">2898yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_2898yds</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112846380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1500.08</s:price>
+      <s:sku>TA FLA 7000059905</s:sku>
+      <s:grams>629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112682540</id>
+    <published>2019-03-16T01:48:07-04:00</published>
+    <updated>2019-03-16T01:48:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-890msrb-18x55"/>
+    <title>3M Scotch 890MSRB-18X55  - High Strength Filament Tape 890MSR Black 18mm x 55m 7000124631</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-890msrb-18x55-scotch-high-strength-filament-tape-890msr-black-18mm-x-55m-7000124631-12749070794796.jpg?v=1580353892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            19.36
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) High Strength Filament Tape 890MSR Black, 18 mm x 55 m, 48 per case Bulk</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">18mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_18mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112682540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.36</s:price>
+      <s:sku>TA FLA 890MSRB-18X55</s:sku>
+      <s:grams>12637</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112453164</id>
+    <published>2019-03-16T01:47:50-04:00</published>
+    <updated>2019-03-16T01:47:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-894-12x55-blk"/>
+    <title>3M Scotch 894-12X55-BLK  - Filament Tape 894 in Black (12 mm x 55 m) 7000136946</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-894-12x55-blk-scotch-filament-tape-894-black-kut-12mm-x-55m-7000136946-12749069582380.jpg?v=1580354527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            19.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 894 Black Kut, 12 mm x 55 m</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">12mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112453164</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.80</s:price>
+      <s:sku>TA FLA 894-12X55-BLK</s:sku>
+      <s:grams>127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112354860</id>
+    <published>2019-03-16T01:47:41-04:00</published>
+    <updated>2019-03-16T01:47:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8981-12x330"/>
+    <title>3M Scotch 8981-12X330  - Filament Tape 8981 Clear 12mm x 330m 7000123840</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-8981-12x330-scotch-filament-tape-8981-clear-12mm-x-330m-7000123840-12749068894252.jpg?v=1580045942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            48.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 8981 Clear, 12 mm x 330 m, 12 per case</h4> [/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">330m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">12mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_330m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112354860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.32</s:price>
+      <s:sku>TA FLA 8981-12X330</s:sku>
+      <s:grams>790</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112289324</id>
+    <published>2019-03-16T01:47:38-04:00</published>
+    <updated>2019-03-16T01:47:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-898-15x55"/>
+    <title>3M Scotch 898-15X55  - Filament Tape 898 in Clear (15 mm x 55 m) 7000123793</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-898-15x55-scotch-filament-tape-898-clear-15mm-x-55m-7000123793-12749068730412.jpg?v=1580354851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            11.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 898 Clear, 15 mm x 55 m, 60 per case Bulk</h4> <li class="extra-info">Scotch Filament Tape 8981 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">It has a tensile strength of 380 pounds per inch width</li><li class="extra-info">Scotch Filament Tape is ideal for strapping, bundling and reinforcing applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">15mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Scotch Filament Tape 898 provides 380 lbs./in</li><li class="extra-info">width tensile strength ideal for strapping, bundling and reinforcing applications.</li><h2>Product Information</h2><li class="extra-info">Synthetic rubber adhesive has good shear strength to fibre board surfaces for bundling, strapping or reinforcing applications</li><li class="extra-info">High strength filament reinforced tape for heavy duty applications.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_15mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112289324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.51</s:price>
+      <s:sku>TA FLA 898-15X55</s:sku>
+      <s:grams>178</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1737112223788</id>
+    <published>2019-03-16T01:47:35-04:00</published>
+    <updated>2019-03-16T01:47:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-898-24x55"/>
+    <title>3M Scotch 898-24X55  - Filament Tape 898 in Clear (24 mm x 55 m) 7000001229</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-898-24x55-scotch-filament-tape-898-clear-24mm-x-55m-7000001229-12749068599340.jpg?v=1580355058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            17.02
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Filament Tape, 898, clear, 24 mm x 55 m</h4> <li class="extra-info">Scotch® Filament Tape 898 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">It has a tensile strength of 380 pounds per inch width</li><li class="extra-info">Scotch filament tape is ideal for strapping, bundling and reinforcing applications.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0eM8_GOx_B4v70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">24mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info"> Tensile strength 380 pounds per inch width</li><h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Designed for L-clip box closing applications, reinforcement of five panel folder, full overlap, full telescoping or clamshell corrugated boxes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_24mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1737112223788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.02</s:price>
+      <s:sku>TA FLA 898-24X55</s:sku>
+      <s:grams>271</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736577548332</id>
+    <published>2019-03-15T19:18:16-04:00</published>
+    <updated>2019-03-15T19:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8932-24x55"/>
+    <title>3M Tartan 8932-24X55  - Tartan Filament Tape 8932 Clear 0.95 Inch x 60 Yards (2.4cm x 55m) 7000124818</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-tartan-8932-24x55-tartan-filament-tape-8932-clear-0-95-inch-x-60yds-2-4cm-x-55m-7000124818-12747145248812.jpg?v=1578802434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            1.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Tartan Filament Tape, 8932, clear, 0.95 in x 60 yd (2.4 cm x 55 m)</h4> <li class="extra-info">3M™ Filament Tape 8932 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments for light duty bundling, reinforcing and pallet unitizing applications where nick and abrasion resistance is needed.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tartan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">General Facility Maintenance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Polypropylene Film</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">3 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Industry </td>
+<td class="egrimes">Food and Beverage, General Industrial</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">60yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">0.95 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">95 lb/in</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">General purpose, light duty filament reinforced strapping tape</li><li class="extra-info"> Abrasion and moisture resistant</li><li class="extra-info"> Good shear strength to fibreboard, plastics and most metal surfaces for bundling, strapping and reinforcing applications</li><li class="extra-info"> Allows printing and illustrations to be seen through the tape</li><li class="extra-info"> Holds with minimum rub-down</li><h2>Suggested Application</h2><li class="extra-info">Ideal for light-duty bundling, reinforcing and pallet unitizing applications where nick and abrasion resistance are needed</li><li class="extra-info">General purpose applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Backing_Polypropylene Film</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Elongation_3 Percent</s:tag>
+    <s:tag>Length_60yds</s:tag>
+    <s:tag>Line_Tartan</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Tensile Strength_95 lb/in</s:tag>
+    <s:tag>Width_0.95 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736577548332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.87</s:price>
+      <s:sku>TA FLA 8932-24X55</s:sku>
+      <s:grams>132</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736577515564</id>
+    <published>2019-03-15T19:18:16-04:00</published>
+    <updated>2019-03-15T19:18:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8932-18x55"/>
+    <title>3M Tartan 8932-18X55  - Tartan Filament Tape 8932 Clear 0.7 Inch x 60 Yards (1.8 cm x 55m) 7000124817</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-tartan-8932-18x55-tartan-filament-tape-8932-clear-0-7-inch-x-60yds-1-8-cm-x-55m-7000124817-12747145543724.jpg?v=1578802522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            1.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Tartan Filament Tape, 8932, clear, 0.7 in x 60 yd (1.8 cm x 55 m)</h4> <li class="extra-info">3M™ Filament Tape 8932 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments for light duty bundling, reinforcing and pallet unitizing applications where nick and abrasion resistance is needed.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tartan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">General Facility Maintenance</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Backing Material </td>
+<td class="egrimes">Polypropylene Film</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Elongation </td>
+<td class="egrimes">3 Percent</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Industry </td>
+<td class="egrimes">Food and Beverage, General Industrial</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">60yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">0.7 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Tensile Strength </td>
+<td class="egrimes">95 lb/in</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">General purpose, light duty filament reinforced strapping tape</li><li class="extra-info"> Abrasion and moisture resistant</li><li class="extra-info"> Good shear strength to fibreboard, plastics and most metal surfaces for bundling, strapping and reinforcing applications</li><li class="extra-info"> Allows printing and illustrations to be seen through the tape</li><li class="extra-info"> Holds with minimum rub-down</li><h2>Suggested Application</h2><li class="extra-info">Ideal for light-duty bundling, reinforcing and pallet unitizing applications where nick and abrasion resistance are needed</li><li class="extra-info">General purpose applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Backing_Polypropylene Film</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Elongation_3 Percent</s:tag>
+    <s:tag>Length_60yds</s:tag>
+    <s:tag>Line_Tartan</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Tensile Strength_95 lb/in</s:tag>
+    <s:tag>Width_0.7 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736577515564</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.24</s:price>
+      <s:sku>TA FLA 8932-18X55</s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736468627500</id>
+    <published>2019-03-15T18:25:03-04:00</published>
+    <updated>2019-03-15T18:25:03-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-898-18x55"/>
+    <title>3M Scotch 898-18X55  - Filament Tape 898 in Clear (18 mm x 55 m) 7000028930</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-898-18x55-scotch-filament-tape-898-clear-18mm-x-55m-7000028930-12794726088748.jpg?v=1580354976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            13.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Filament Tape, 898, clear, 18 mm x 55 m, bulk</h4> <li class="extra-info">Scotch® Filament Tape 898 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">It has a tensile strength of 380 pounds per inch width</li><li class="extra-info">Scotch® Filament Tape is ideal for strapping, bundling and reinforcing applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">18mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Synthetic rubber adhesive has good shear strength to fibre board surfaces for bundling, strapping or reinforcing applications</li><li class="extra-info"> High strength filament reinforced tape for heavy duty applications.</li><h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Designed for L-clip box closing applications, reinforcement of five panel folder, full overlap, full telescoping or clamshell corrugated boxes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_18mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736468627500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.14</s:price>
+      <s:sku>TA FLA 898-18X55</s:sku>
+      <s:grams>213</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1736141340716</id>
+    <published>2019-03-15T14:46:12-04:00</published>
+    <updated>2019-03-15T14:46:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-897-18x55"/>
+    <title>3M Scotch 897-18X55  - Filament Tape 897 in Clear (18 mm x 55 m) 7000123441</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-897-18x55-filament-tape-897-18mm-x-55m-7000123441-12746583670828.jpg?v=1580141377"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            3.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Filament Tape, 897, clear, 18 mm x 55 m</h4> <li class="extra-info">Scotch® Filament Tape 897 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">It has a tensile strength 170 pounds per inch width</li><li class="extra-info">Scotch® Filament Tape is ideal for strapping, bundling and reinforcing applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">18mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Offers excellent resistance to nicks and abrasion</li><li class="extra-info"> Good shear strength to fibreboard surfaces</li><li class="extra-info"> Polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info"> Tensile strength 170 pounds per inch width</li><h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Used for general industrial, food and beverage or automotive parts</li><li class="extra-info">Designed for box closing, palletizing, box reinforcing or general bundling</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_18mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1736141340716</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.97</s:price>
+      <s:sku>TA FLA 897 18MM</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1146386055212</id>
+    <published>2018-08-14T10:37:04-04:00</published>
+    <updated>2018-08-14T10:37:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8934-72x55"/>
+    <title>3M 8934-72X55  - Filament Tape 8934 Clear 72mm x 55m 7000123734</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-8934-72x55-filament-tape-8934-clear-72mm-x-55m-7000123734-12746912792620.jpg?v=1580235662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            7.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Filament Tape, 8934, clear, 72 mm x 55 m</h4> <li class="extra-info">3M™ Filament Tape 8934 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, for strapping, bundling and reinforcing applications</li><li class="extra-info">It has a tensile strength of 100 pounds per inch width and the synthetic rubber resin adhesive offers good shear strength to fibreboard, plastics and most metals surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">72mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polypropylene backing reinforced with glass yarn filaments</li><li class="extra-info"> Tensile strength of 100 pounds per inch width</li><li class="extra-info"> Good shear strength to fibreboard, plastics and most metal surfaces</li><h2>Suggested Application</h2><li class="extra-info">Ideal for light-duty bundling, reinforcing and pallet unitizing applications where nick and abrasion resistance are needed</li><li class="extra-info">Reinforced filament tape for general purpose applications</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_72mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1146386055212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.64</s:price>
+      <s:sku>TA FLA 8934-72X55</s:sku>
+      <s:grams>468</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145139527724</id>
+    <published>2018-08-13T23:09:36-04:00</published>
+    <updated>2018-08-13T23:09:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-898-12x55"/>
+    <title>3M Scotch 898-12X55  - Filament Tape 898 in Clear (12 mm x 55 m) 7000028929</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-898-12x55-scotch-filament-tape-898-clear-12mm-x-55m-7000028929-12794724810796.jpg?v=1580046334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            9.42
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Filament Tape, 898, clear, 12 mm x 55 m, bulk</h4> <li class="extra-info">Scotch® Filament Tape 898 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">It has a tensile strength of 380 pounds per inch width</li><li class="extra-info">Scotch® Filament Tape is ideal for strapping, bundling and reinforcing applications.</li>[/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0eM8_GOx_B4v70m17zHvu9lxUb7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">12mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Synthetic rubber adhesive has good shear strength to fibre board surfaces for bundling, strapping or reinforcing applications</li><li class="extra-info"> High strength filament reinforced tape for heavy duty applications.</li><h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Designed for L-clip box closing applications, reinforcement of five panel folder, full overlap, full telescoping or clamshell corrugated boxes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_12mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145139527724</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.42</s:price>
+      <s:sku>TA FLA 898-12X55</s:sku>
+      <s:grams>136</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145139396652</id>
+    <published>2018-08-13T23:09:31-04:00</published>
+    <updated>2018-08-13T23:09:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8934-18x55-bulk"/>
+    <title>3M Tartan 8934-18X55-BULK  - Filament Tape 8934 18mm x 55m 7000028886</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-tartan-8934-18x55-bulk-filament-tape-8934-18mm-x-55m-7000028886-31605018296469.jpg?v=1628244854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            1.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Filament Tape, 8934, clear, 18 mm x 55 m, bulk</h4> <li class="extra-info">3M™ Filament Tape 8934 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, for strapping, bundling and reinforcing applications</li><li class="extra-info">It has a tensile strength of 100 pounds per inch width and the synthetic rubber resin adhesive offers good shear strength to fibreboard, plastics and most metals surfaces.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Tartan</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">18mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polypropylene backing reinforced with glass yarn filaments</li><li class="extra-info"> Tensile strength of 100 pounds per inch width</li><li class="extra-info"> Good shear strength to fibreboard, plastics and most metal surfaces</li><h2>Suggested Application</h2><li class="extra-info">Reinforced filament tape for general purpose applications</li><li class="extra-info">Strapping, bundling, surface protection, reinforcement, splicing</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Tartan</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_18mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145139396652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.70</s:price>
+      <s:sku>TA FLA 8934 18MM</s:sku>
+      <s:grams>1322</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145045352492</id>
+    <published>2018-08-13T22:24:31-04:00</published>
+    <updated>2018-08-13T22:24:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8915-48x55"/>
+    <title>3M Scotch 8915-48X55  - Filament Tape 8915 Clear 48mm x 55m 7000048608</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-8915-48x55-scotch-filament-tape-8915-clear-48mm-x-55m-7000048608-12794813251628.jpg?v=1580046811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            17.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch(R) Filament Tape 8915 Clear, 48 mm x 55 m</h4> [/shortdesc][additional]<a style="font-size: 1.4em; color: #197bbd; font-weight: bold; " href="https://multimedia.3m.com/mws/mediawebserver?mwsId=SSSSSuUn_zu8l_0Gl82ZO8tBmv70kDVFNvu9lxtD7SSSSSS--"> <i class="icon-doc-inv"> </i>  DOWNLOAD SPEC SHEET </a>[/additional]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145045352492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.62</s:price>
+      <s:sku>TA FLA 8915-48X55</s:sku>
+      <s:grams>412</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1145025658924</id>
+    <published>2018-08-13T22:16:08-04:00</published>
+    <updated>2018-08-13T22:16:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-8981-48x55"/>
+    <title>3M Scotch 8981-48X55  - Filament Tape 898 in Clear (48 mm x 55 m) 7000123469</title>
+    <s:type>Filament Tapes</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/filament-tapes-3m-scotch-8981-48x55-scotch-filament-tape-898-clear-48mm-x-55m-7000123469-12746911481900.jpg?v=1580046124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Filament Tapes<br>
+        <strong>Price: </strong>
+            27.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Scotch Filament Tape, 8981, clear, 48 mm x 55 m, bulk</h4> <li class="extra-info">Scotch® Filament Tape 8981 is constructed on a clear polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info">It has a tensile strength of 380 pounds per inch width</li><li class="extra-info">Scotch® Filament Tape is ideal for strapping, bundling and reinforcing applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Scotch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Adhesive Type </td>
+<td class="egrimes">Rubber</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Clear</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">55m</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">48mm</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Filament Tapes</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Polypropylene backing, reinforced with glass yarn filaments, with a synthetic rubber resin adhesive</li><li class="extra-info"> Tensile strength 380 pounds per inch width</li><h2>Suggested Application</h2><li class="extra-info">Ideal for strapping, bundling and reinforcing applications</li><li class="extra-info">Designed for L-clip box closing applications, reinforcement of five panel folder, full overlap, full telescoping or clamshell corrugated boxes</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adhesive Type_Rubber</s:tag>
+    <s:tag>Color_Clear</s:tag>
+    <s:tag>Length_55m</s:tag>
+    <s:tag>Line_Scotch</s:tag>
+    <s:tag>TA</s:tag>
+    <s:tag>TA FLA</s:tag>
+    <s:tag>Width_48mm</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1145025658924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.09</s:price>
+      <s:sku>TA FLA 8981-48X55</s:sku>
+      <s:grams>550</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/wiper-bars-rolls.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2018-08-04T18:58:31-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124457021484</id>
+    <published>2018-08-04T18:58:31-04:00</published>
+    <updated>2018-08-04T18:58:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5518"/>
+    <title>3M Wetordry 5518  - Wet / Dry Rubber Squeegee 05518 2 in x 3 in (5.08 cm x 7.62 cm) 7000028349</title>
+    <s:type>Squeegee</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/squeegee-3m-wetordry-5518-wet-dry-rubber-squeegee-05518-2-in-x-3-in-5-08-cm-x-7-62-cm-7000028349-13813147598892.jpg?v=1627306799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Squeegee<br>
+        <strong>Price: </strong>
+            2.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Wetordry Rubber Squeegee, 05518, 2 in x 3 in (5.08 cm x 7.62 cm)</h4> <li class="extra-info">Made from flexible, sturdy rubber, 3M™ Wetordry™ Rubber Squeegee is ideal for removing slush created when sanding with water</li><li class="extra-info">This product is also available in 2 3/4 inch x 4 1/4 inch (6.9 cm x 10.79 cm) for applying glazing putty.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Wetordry</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Surface Preparation</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">3 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Squeegee</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Flexible, sturdy rubber squeegee</li><li class="extra-info"> 3 Inch x 2 Inch (7.62 cm x 5.1 cm) for removing sanding slush from wet sanding</li><li class="extra-info"> 2-3/4 in</li><li class="extra-info">x 4-1/2 in</li><li class="extra-info">for applying 2K body filler and glazing putty.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_3 Inch</s:tag>
+    <s:tag>Line_Wetordry</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SWI</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124457021484</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.88</s:price>
+      <s:sku>SP SWI 5518</s:sku>
+      <s:grams>22</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124456693804</id>
+    <published>2018-08-04T18:58:26-04:00</published>
+    <updated>2018-08-04T18:58:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/3m-5517"/>
+    <title>3M Wetordry 5517  - Wet / Dry Rubber Squeegee 05517 2 3/4 in x 4 1/4 in (7 cm x 10.8 cm) 7000028348</title>
+    <s:type>Squeegee</s:type>
+    <s:vendor>3M</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/squeegee-3m-wetordry-5517-wet-dry-rubber-squeegee-05517-2-3-4-in-x-4-1-4-in-7-cm-x-10-8-cm-7000028348-31529449291925.jpg?v=1627310624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>3M<br>
+        <strong>Type: </strong>Squeegee<br>
+        <strong>Price: </strong>
+            182.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3M Wetordry Rubber Squeegee, 05517, 2 3/4 in x 4 1/4 in (7 cm x 10.8 cm)</h4> <li class="extra-info">Made from flexible, sturdy rubber, 3M™ Wetordry™ Rubber Squeegee ideal for applying glazing putty</li><li class="extra-info">This product is also available in 3 inch x 2 inch (7.62 cm x 5.08 cm) for removing slush created when sanding with water.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">3M</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Wetordry</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Application </td>
+<td class="egrimes">Surface Preparation</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">4 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">2 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">United States</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Squeegee</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Flexible, sturdy rubber squeegee</li><li class="extra-info"> 2-3/4 Inch x 4-1/2 Inch (7 cm x 11.43 cm) for applying 2K body filler and glazing putty.</li><li class="extra-info"> 2-3/4 in</li><li class="extra-info">x 4-1/2 in</li><li class="extra-info">for applying 2K body filler and glazing putty.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Black</s:tag>
+    <s:tag>Length_4 Inch</s:tag>
+    <s:tag>Line_Wetordry</s:tag>
+    <s:tag>SP</s:tag>
+    <s:tag>SP SWI</s:tag>
+    <s:tag>Width_2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124456693804</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">182.75</s:price>
+      <s:sku>SP SWI 5517</s:sku>
+      <s:grams>2653</s:grams>
+    </s:variant>
+  </entry>
+</feed>

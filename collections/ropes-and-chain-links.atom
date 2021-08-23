@@ -1,0 +1,784 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/ropes-and-chain-links.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T05:39:53-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812452409388</id>
+    <published>2019-05-11T05:39:53-04:00</published>
+    <updated>2019-05-11T05:39:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-cgh-1-2"/>
+    <title>Tuff Grade CGH-1/2  - 1/2 Clevis Grab Hook Alloy Steel Grd70</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-cgh-1-2-1-2-clevis-grab-hook-alloy-steel-grd70-12747074469932.jpg?v=1575067865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            8.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 1/2″ Material Grade 70 Working Load Limit (lbs) 11,300</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812452409388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.24</s:price>
+      <s:sku>AC ROP CGH-1/2</s:sku>
+      <s:grams>1034</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812452376620</id>
+    <published>2019-05-11T05:39:52-04:00</published>
+    <updated>2019-05-11T05:39:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-cgh-1-4"/>
+    <title>Tuff Grade CGH-1/4  - 1/4 Clevis Grab Hook Alloy Steel Grd70</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-cgh-1-4-1-4-clevis-grab-hook-alloy-steel-grd70-12747074535468.jpg?v=1575067880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            1.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 1/4″ Material Grade 70 Working Load Limit (lbs) 3,150</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812452376620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.86</s:price>
+      <s:sku>AC ROP CGH-1/4</s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812452343852</id>
+    <published>2019-05-11T05:39:52-04:00</published>
+    <updated>2019-05-11T05:39:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-cgh-3-8"/>
+    <title>Tuff Grade CGH-3/8  - 3/8 Clevis Grab Hook Alloy Steel Grd70</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-cgh-3-8-3-8-clevis-grab-hook-alloy-steel-grd70-12747074437164.jpg?v=1575067896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            3.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 3/8″ Material Grade 70 Working Load Limit (lbs) 6,660</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812452343852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.67</s:price>
+      <s:sku>AC ROP CGH-3/8</s:sku>
+      <s:grams>467</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812452278316</id>
+    <published>2019-05-11T05:39:48-04:00</published>
+    <updated>2019-05-11T05:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-csh-1-2"/>
+    <title>Tuff Grade CSH-1/2  - 1/2 Clevis Slip Hook Alloy Steel Gr70 With Latch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-csh-1-2-1-2-clevis-slip-hook-alloy-steel-gr70-with-latch-13395176718380.jpg?v=1629195382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            10.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 1/2″ Material Grade 70 Working Load Limit 9,000 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812452278316</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.47</s:price>
+      <s:sku>AC ROP CSH-1/2</s:sku>
+      <s:grams>1383</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812452245548</id>
+    <published>2019-05-11T05:39:48-04:00</published>
+    <updated>2019-05-11T05:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-csh-1-4"/>
+    <title>Tuff Grade CSH-1/4  - 1/4 Clevis Slip Hook Alloy Steel Gr70 With Latch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-csh-1-4-1-4-clevis-slip-hook-alloy-steel-gr70-with-latch-12747074306092.jpg?v=1575067773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 1/4″ Material Grade 70 Working Load Limit 2,750 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812452245548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.81</s:price>
+      <s:sku>AC ROP CSH-1/4</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812452180012</id>
+    <published>2019-05-11T05:39:48-04:00</published>
+    <updated>2019-05-11T05:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-csh-5-16"/>
+    <title>Tuff Grade CSH-5/16  - 5/16 Clevis Slp Hook Alloy Steel Gr70 With Latch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-csh-5-16-5-16-clevis-slp-hook-alloy-steel-gr70-with-latch-12747073814572.jpg?v=1575067658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            3.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 5/16″ Material Grade 70 Working Load Limit 4,300 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812452180012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.52</s:price>
+      <s:sku>AC ROP CSH-5/16</s:sku>
+      <s:grams>154</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812452147244</id>
+    <published>2019-05-11T05:39:48-04:00</published>
+    <updated>2019-05-11T05:39:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-csh-3-8"/>
+    <title>Tuff Grade CSH-3/8  - 3/8 Clevis Slip Hook Alloy Steel Gr70 With Latch</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-csh-3-8-3-8-clevis-slip-hook-alloy-steel-gr70-with-latch-12747074338860.jpg?v=1575067641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            6.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 3/8″ Material Grade 70 Working Load Limit 5,250 lbs.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812452147244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.09</s:price>
+      <s:sku>AC ROP CSH-3/8</s:sku>
+      <s:grams>263</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124799283244</id>
+    <published>2018-08-04T21:14:26-04:00</published>
+    <updated>2018-08-04T21:14:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-164341"/>
+    <title>Tuff Grade 164341  - Poly Reel Yellow 3/8 Inch X 630&apos; Rope</title>
+    <s:type>Ropes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ropes-tuff-grade-164341-poly-reel-yellow-3-8-inch-x-630-rope-31548619980949.jpg?v=1628371526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ropes<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Diameter 3/8″ Length 630′ Break Strength 1944 lbs Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ropes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124799283244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SH ROP TGR-3/8-B</s:sku>
+      <s:grams>7756</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124766318636</id>
+    <published>2018-08-04T21:01:01-04:00</published>
+    <updated>2018-08-04T21:01:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-cgh-5-16"/>
+    <title>Tuff Grade CGH-5/16  - 5/16 Clevis Grab Hook Alloy Steel Grd70</title>
+    <s:type>Accessories</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/accessories-tuff-grade-cgh-5-16-5-16-clevis-grab-hook-alloy-steel-grd70-12747074371628.jpg?v=1575067739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Accessories<br>
+        <strong>Price: </strong>
+            2.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Size 5/16″ Material Grade 70 Working Load Limit (lbs) 4,700</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Accessories</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AC</s:tag>
+    <s:tag>AC ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124766318636</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2.85</s:price>
+      <s:sku>AC ROP CGH-5/16</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124692099116</id>
+    <published>2018-08-04T20:31:20-04:00</published>
+    <updated>2018-08-04T20:31:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-164338"/>
+    <title>Tuff Grade 164338  - Poly Reel Yellow 3/16 InchX2125&apos; Rope</title>
+    <s:type>Ropes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ropes-tuff-grade-164338-poly-reel-yellow-3-16-inchx2125-rope-12747033378860.jpg?v=1575069333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ropes<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Diameter 3/ 16″ Length 2125′ Break Strength 520 lbs Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ropes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124692099116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SH ROP TGR-3/16-B</s:sku>
+      <s:grams>4127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124683972652</id>
+    <published>2018-08-04T20:27:37-04:00</published>
+    <updated>2018-08-04T20:27:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-164339"/>
+    <title>Tuff Grade 164339  - Poly Reel Yellow 1/4 Inch X 1300&apos; Rope</title>
+    <s:type>Ropes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ropes-tuff-grade-164339-poly-reel-yellow-1-4-inch-x-1300-rope-13395216236588.jpg?v=1627355080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ropes<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Diameter 1/ 4″ Length 1300′ Break Strength 900 lbs Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ropes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124683972652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SH ROP TGR-1/4-B</s:sku>
+      <s:grams>6259</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030152748</id>
+    <published>2018-08-04T14:39:59-04:00</published>
+    <updated>2018-08-04T14:39:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-164343"/>
+    <title>Tuff Grade 164343  - Poly Reel Yellow 5/8 Inch X 200&apos; Rope</title>
+    <s:type>Ropes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ropes-tuff-grade-164343-poly-reel-yellow-5-8-inch-x-200-rope-31501183156373.jpg?v=1627051445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ropes<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Diameter 5/8″ Length 200′ Break Strength 4464 lbs Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ropes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030152748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SH ROP TGR-5/8-B</s:sku>
+      <s:grams>6413</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030119980</id>
+    <published>2018-08-04T14:39:58-04:00</published>
+    <updated>2018-08-04T14:39:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-164340"/>
+    <title>Tuff Grade 164340  - Poly Reel Yellow 5/16 X 975&apos; Rope</title>
+    <s:type>Ropes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ropes-tuff-grade-164340-poly-reel-yellow-5-16-x-975-rope-12747033182252.jpg?v=1575069195"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ropes<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Diameter 5/16″ Length 975′ Break Strength 1368 lbs Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ropes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030119980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SH ROP TGR-5/16-B</s:sku>
+      <s:grams>8264</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030087212</id>
+    <published>2018-08-04T14:39:57-04:00</published>
+    <updated>2018-08-04T14:39:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-tgr-3-4-b"/>
+    <title>Tuff Grade TGR-3/4-B  - Poly Reel Yellow 3/4 Inch X 125&apos; Rope</title>
+    <s:type>Ropes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ropes-tuff-grade-tgr-3-4-b-poly-reel-yellow-3-4-inch-x-125-rope-13390489026604.jpg?v=1627028285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ropes<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Diameter 3/4″ Length 125′ Break Strength 6120 lbs Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ropes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030087212</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SH ROP 164344</s:sku>
+      <s:grams>4127</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124030054444</id>
+    <published>2018-08-04T14:39:57-04:00</published>
+    <updated>2018-08-04T14:39:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/tuff-grade-164342"/>
+    <title>Tuff Grade 164342  - Poly Reel Yellow 1/2 Inch X 335&apos; Rope</title>
+    <s:type>Ropes</s:type>
+    <s:vendor>Tuff Grade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/ropes-tuff-grade-164342-poly-reel-yellow-1-2-inch-x-335-rope-12747033346092.jpg?v=1575069060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tuff Grade<br>
+        <strong>Type: </strong>Ropes<br>
+        <strong>Price: </strong>
+            47.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Diameter 1/ 2″ Length 335′ Break Strength 3024 lbs Product Specs</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Tuff Grade</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Ropes</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>SH</s:tag>
+    <s:tag>SH ROP</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124030054444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.71</s:price>
+      <s:sku>SH ROP TGR-1/2-B</s:sku>
+      <s:grams>7810</s:grams>
+    </s:variant>
+  </entry>
+</feed>

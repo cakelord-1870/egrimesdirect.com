@@ -1,0 +1,1326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/automotive-hoists.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-12-03T12:08:25-05:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293852397612</id>
+    <published>2019-12-03T12:08:25-05:00</published>
+    <updated>2019-12-03T12:08:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa-5s-5-ton-lift"/>
+    <title>JET FA-5S  - 5 Ton 15&apos; Lift 230/460V 3Ph Electric Chain Hoist Heavy Duty 107216</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa-5s-5-ton-15-lift-230-460v-3ph-electric-chain-hoist-heavy-duty-107216-13225309044780.jpg?v=1579525767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            8098.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Ton 15' Lift 230/460V 3PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 11,000 lb</li><li class="extra-info"> Standard Lift : 15'</li><li class="extra-info"> Standard Chain Bucket : #5</li><li class="extra-info"> Hoisting Speed : 4.8 FPM</li><li class="extra-info"> Voltage : 230/460 V</li><li class="extra-info"> Power Source : 3 ph</li><li class="extra-info"> Head Room : 35.43 Inch</li><li class="extra-info"> Motor Power : 2.1 HP</li><li class="extra-info"> Duty Rating : 30 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 5</li><li class="extra-info"> Amperes : 5.8 / 3.2</li><li class="extra-info"> A: 7.20 Inch</li><li class="extra-info"> B: 10.75 Inch</li><li class="extra-info"> C: 9.41 Inch</li><li class="extra-info"> D: 19.21 Inch</li><li class="extra-info"> H: 35.43 Inch</li><li class="extra-info"> K: 2.76 Inch</li><li class="extra-info"> L: 1.02 Inch</li><li class="extra-info"> M: 7.44 Inch</li><li class="extra-info"> N: 2.24 Inch</li><li class="extra-info"> O: 1.65 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293852397612</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8098.43</s:price>
+      <s:sku>FM HST 107216</s:sku>
+      <s:grams>126098</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293852430380</id>
+    <published>2019-12-03T12:08:24-05:00</published>
+    <updated>2019-12-03T12:08:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa-2s-heavy-duty"/>
+    <title>JET FA-2S  - 2 Ton 15&apos; Lift 230/460V 3Ph Electric Chain Hoist Heavy Duty 107214</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa-2s-2-ton-15-lift-230-460v-3ph-electric-chain-hoist-heavy-duty-107214-13225309110316.jpg?v=1579525414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            4773.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Ton 15' Lift 230/460V 3PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 4,400 lb</li><li class="extra-info"> Standard Chain Bucket : #3</li><li class="extra-info"> Hoisting Speed : 12.1 FPM</li><li class="extra-info"> Voltage : 230/460 V</li><li class="extra-info"> Power Source : 3 ph</li><li class="extra-info"> Head Room : 27.95 Inch</li><li class="extra-info"> Motor Power : 2.1 HP</li><li class="extra-info"> Duty Rating : 30 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 2</li><li class="extra-info"> Amperes : 5.8 / 3.2</li><li class="extra-info"> A: 5.24 Inch</li><li class="extra-info"> B: 6.50 Inch</li><li class="extra-info"> C: 9.41 Inch</li><li class="extra-info"> D: 14.65 Inch</li><li class="extra-info"> H: 27.95 Inch</li><li class="extra-info"> K: 2.09 Inch</li><li class="extra-info"> L: 1.97 Inch</li><li class="extra-info"> M: 5.67 Inch</li><li class="extra-info"> N: 1.73 Inch</li><li class="extra-info"> O: 1.18 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293852430380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4773.93</s:price>
+      <s:sku>FM HST 107214</s:sku>
+      <s:grams>75015</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293854101548</id>
+    <published>2019-12-03T12:08:23-05:00</published>
+    <updated>2019-12-03T12:08:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-10-2-6-ton-lift"/>
+    <title>JET #10-2  - 6 Ton 5&apos; Lift #10 Series Cast Lever Chain Hoist Super Heavy Duty 110244</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-10-2-6-ton-5-lift-10-series-cast-lever-chain-hoist-super-heavy-duty-110244-13225322283052.jpg?v=1579378524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            3458.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6 Ton 5' Lift #10 Series Cast Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">The toughest lever chain hoist made!</li><li class="extra-info"> High tensile strength cast steel housing protects gears from impact damage</li><li class="extra-info"> Cast steel handle provides maximum strength and leverage</li><li class="extra-info"> Simple design makes routine inspection or maintenance fast and easy</li><li class="extra-info"> Non-asbestos brake discs use a high quality low abrasion aramid fibre material for a safer and healthier environment</li><li class="extra-info"> Easy free wheeling system automatically returns to hoisting mode when load is applied</li><li class="extra-info"> High grade low-wear chain is strong and smooth finished to prevent snagging or jamming</li><li class="extra-info"> Gauge included to check for chain elongation and hook stretch</li><li class="extra-info"> Top and bottom safety hooks are standard, and are designed to bend slowly to warn of overloads</li><li class="extra-info"> Each unit is tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 Standards (Certificate included)</li><li class="extra-info"> Made in Japan</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cast steel construction for maximum durability</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 2</li><li class="extra-info"> Load Chain Diameter : 9.0mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 23-7/8 Inch</li><li class="extra-info"> Distance per Handle Pull : 3/8 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 84 lb</li><li class="extra-info"> Lever Length : 16-1/16 Inch</li><li class="extra-info"> A: 23-7/8 Inch</li><li class="extra-info"> B: 15-3/32 Inch</li><li class="extra-info"> C: 3-11/16 Inch</li><li class="extra-info"> D: 6-15/32 Inch</li><li class="extra-info"> E: 4-15/16 Inch</li><li class="extra-info"> F: 10-21/32 Inch</li><li class="extra-info"> G: 1-27/32 Inch</li><li class="extra-info"> H: 2-17/32 Inch</li><li class="extra-info"> I: 3-17/32 Inch</li><li class="extra-info"> J: 4-1/2 Inch</li><li class="extra-info"> K: 8-1/32 Inch</li><li class="extra-info"> L: 1-3/8 Inch</li><li class="extra-info"> M: 16-1/16 Inch</li><li class="extra-info"> N: 1-3/8 Inch</li><li class="extra-info"> O: 10-21/32 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293854101548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3458.27</s:price>
+      <s:sku>FM HST 110244</s:sku>
+      <s:grams>34019</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293853347884</id>
+    <published>2019-12-03T12:08:23-05:00</published>
+    <updated>2019-12-03T12:08:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-10-2-5-foot-lift"/>
+    <title>JET #10-2  - 3/4 Ton 5&apos; Lift #10 Series Cast Lever Chain Hoist Super Heavy Duty 110241</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-10-2-3-4-ton-5-lift-10-series-cast-lever-chain-hoist-super-heavy-duty-110241-13225318055980.jpg?v=1579378436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            1099.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/4 Ton 5' Lift #10 Series Cast Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">The toughest lever chain hoist made!</li><li class="extra-info"> High tensile strength cast steel housing protects gears from impact damage</li><li class="extra-info"> Cast steel handle provides maximum strength and leverage</li><li class="extra-info"> Simple design makes routine inspection or maintenance fast and easy</li><li class="extra-info"> Non-asbestos brake discs use a high quality low abrasion aramid fibre material for a safer and healthier environment</li><li class="extra-info"> Easy free wheeling system automatically returns to hoisting mode when load is applied</li><li class="extra-info"> High grade low-wear chain is strong and smooth finished to prevent snagging or jamming</li><li class="extra-info"> Gauge included to check for chain elongation and hook stretch</li><li class="extra-info"> Top and bottom safety hooks are standard, and are designed to bend slowly to warn of overloads</li><li class="extra-info"> Each unit is tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 Standards (Certificate included)</li><li class="extra-info"> Made in Japan</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/8 – 1/2 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cast steel construction for maximum durability</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 5.6mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 12-3/8 Inch</li><li class="extra-info"> Distance per Handle Pull : 1-1/16 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 66 lb</li><li class="extra-info"> Lever Length : 10-1/2 Inch</li><li class="extra-info"> A: 12-3/8 Inch</li><li class="extra-info"> B: 8-9/16 Inch</li><li class="extra-info"> C: 2-15/32 Inch</li><li class="extra-info"> D: 3-1/2 Inch</li><li class="extra-info"> E: 2-19/32 Inch</li><li class="extra-info"> F: 3-63/64 Inch</li><li class="extra-info"> G: 61/64 Inch</li><li class="extra-info"> H: 1-3/8 Inch</li><li class="extra-info"> I: 2-3/16 Inch</li><li class="extra-info"> J: 4-15/64 Inch</li><li class="extra-info"> K: 6-27/64 Inch</li><li class="extra-info"> L: 1-3/16 Inch</li><li class="extra-info"> M: 10-1/2 Inch</li><li class="extra-info"> N: 37/64 Inch</li><li class="extra-info"> O: 4-59/64 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_1/8 ? 1/2 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293853347884</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1099.37</s:price>
+      <s:sku>FM HST 110241</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293854494764</id>
+    <published>2019-12-03T12:08:21-05:00</published>
+    <updated>2019-12-03T12:08:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-10-2-3-ton-lift"/>
+    <title>JET #10-2  - 3 Ton 5&apos; Lift #10 Series Cast Lever Chain Hoist Super Heavy Duty 110243</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-10-2-3-ton-5-lift-10-series-cast-lever-chain-hoist-super-heavy-duty-110243-13225326903340.jpg?v=1579378402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            2242.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton 5' Lift #10 Series Cast Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">The toughest lever chain hoist made!</li><li class="extra-info"> High tensile strength cast steel housing protects gears from impact damage</li><li class="extra-info"> Cast steel handle provides maximum strength and leverage</li><li class="extra-info"> Simple design makes routine inspection or maintenance fast and easy</li><li class="extra-info"> Non-asbestos brake discs use a high quality low abrasion aramid fibre material for a safer and healthier environment</li><li class="extra-info"> Easy free wheeling system automatically returns to hoisting mode when load is applied</li><li class="extra-info"> High grade low-wear chain is strong and smooth finished to prevent snagging or jamming</li><li class="extra-info"> Gauge included to check for chain elongation and hook stretch</li><li class="extra-info"> Top and bottom safety hooks are standard, and are designed to bend slowly to warn of overloads</li><li class="extra-info"> Each unit is tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 Standards (Certificate included)</li><li class="extra-info"> Made in Japan</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cast steel construction for maximum durability</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 9.0mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 18-7/8 Inch</li><li class="extra-info"> Distance per Handle Pull : 3/4 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 84 lb</li><li class="extra-info"> Lever Length : 16-1/16 Inch</li><li class="extra-info"> A: 18-7/8 Inch</li><li class="extra-info"> B: 12-3/4 Inch</li><li class="extra-info"> C: 3-11/16 Inch</li><li class="extra-info"> D: 5-3/16 Inch</li><li class="extra-info"> E: 3-7/8 Inch</li><li class="extra-info"> F: 6-5/16 Inch</li><li class="extra-info"> G: 1-19/32 Inch</li><li class="extra-info"> H: 1-31/32 Inch</li><li class="extra-info"> I: 3-17/32 Inch</li><li class="extra-info"> J: 4-1/2 Inch</li><li class="extra-info"> K: 8-1/32 Inch</li><li class="extra-info"> L: 1-3/8 Inch</li><li class="extra-info"> M: 16-1/16 Inch</li><li class="extra-info"> N: 1 Inch</li><li class="extra-info"> O: 7-3/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293854494764</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2242.59</s:price>
+      <s:sku>FM HST 110243</s:sku>
+      <s:grams>19958</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293854461996</id>
+    <published>2019-12-03T12:08:21-05:00</published>
+    <updated>2019-12-03T12:08:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-10-2-1-1-2-ton-lift"/>
+    <title>JET #10-2  - 1-1/2 Ton 5&apos; Lift #10 Series Cast Lever Chain Hoist Super Heavy Duty 110242</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-10-2-1-1-2-ton-5-lift-10-series-cast-lever-chain-hoist-super-heavy-duty-110242-13225326575660.jpg?v=1579378282"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            1359.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 Ton 5' Lift #10 Series Cast Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">The toughest lever chain hoist made!</li><li class="extra-info"> High tensile strength cast steel housing protects gears from impact damage</li><li class="extra-info"> Cast steel handle provides maximum strength and leverage</li><li class="extra-info"> Simple design makes routine inspection or maintenance fast and easy</li><li class="extra-info"> Non-asbestos brake discs use a high quality low abrasion aramid fibre material for a safer and healthier environment</li><li class="extra-info"> Easy free wheeling system automatically returns to hoisting mode when load is applied</li><li class="extra-info"> High grade low-wear chain is strong and smooth finished to prevent snagging or jamming</li><li class="extra-info"> Gauge included to check for chain elongation and hook stretch</li><li class="extra-info"> Top and bottom safety hooks are standard, and are designed to bend slowly to warn of overloads</li><li class="extra-info"> Each unit is tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 Standards (Certificate included)</li><li class="extra-info"> Made in Japan</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">3/16 – 7/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Cast steel construction for maximum durability</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Tested to 150% of rated capacity</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 7.1mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 14-15/16 Inch</li><li class="extra-info"> Distance per Handle Pull : 1-1/8 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 66 lb</li><li class="extra-info"> Lever Length : 16-1/16 Inch</li><li class="extra-info"> A: 14-15/16 Inch</li><li class="extra-info"> B: 10-21/64 Inch</li><li class="extra-info"> C: 2-61/64 Inch</li><li class="extra-info"> D: 4-3/32 Inch</li><li class="extra-info"> E: 3-17/64 Inch</li><li class="extra-info"> F: 5-3/64 Inch</li><li class="extra-info"> G: 1-19/64 Inch</li><li class="extra-info"> H: 1-21/32 Inch</li><li class="extra-info"> I: 2-41/64 Inch</li><li class="extra-info"> J: 4-7/32 Inch</li><li class="extra-info"> K: 6-27/32 Inch</li><li class="extra-info"> L: 1-3/8 Inch</li><li class="extra-info"> M: 16-1/16 Inch</li><li class="extra-info"> N: 25/32 Inch</li><li class="extra-info"> O: 5-29/32 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_3/16 ? 7/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293854461996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1359.09</s:price>
+      <s:sku>FM HST 110242</s:sku>
+      <s:grams>12700</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293855281196</id>
+    <published>2019-12-03T12:08:19-05:00</published>
+    <updated>2019-12-03T12:08:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-mm80-5-foot-lift"/>
+    <title>JET MM80  - 3/4 Ton 5&apos; Lift Mini-Mite Ii Lever Chain Hoist Super Heavy Duty 110506</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-mm80-3-4-ton-5-lift-mini-mite-ii-lever-chain-hoist-super-heavy-duty-110506-13225332408364.jpg?v=1579563095"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            634.21
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3/4 Ton 5' Lift Mini-Mite II Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">New improved design is smaller and lighter than the original Mini Mite</li><li class="extra-info"> Class V+ Chain is world's strongest and is exclusive to JET</li><li class="extra-info"> Allows use of smaller load chain without compromising safety</li><li class="extra-info"> Zinc coated load chain and coated brake hub minimize corrosion</li><li class="extra-info"> One simple lever changes direction and disengages gear train for fast chain adjustments</li><li class="extra-info"> New larger hooks with extra heavy duty latches</li><li class="extra-info"> Riveted rubber handle for comfort and safety</li><li class="extra-info"> Electrostatic powder painted before assembly to protect against rust</li><li class="extra-info"> Capacity unaffected at temperatures up to -40°C with suitable winter lubrication</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 specifications (Certificate included)</li><li class="extra-info"> Made in Japan</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">7/32 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 5.6mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 11-7/16 Inch</li><li class="extra-info"> Distance per Handle Pull : 1-3/16 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 66 lb</li><li class="extra-info"> Lever Length : 10-1/2 Inch</li><li class="extra-info"> A: 11-7/16 Inch</li><li class="extra-info"> B: 5-5/8 Inch</li><li class="extra-info"> C: 4-13/16 Inch</li><li class="extra-info"> D: 2-1/16 Inch</li><li class="extra-info"> E: 3-9/16 Inch</li><li class="extra-info"> F: 4-11/32 Inch</li><li class="extra-info"> G: 10-1/2 Inch</li><li class="extra-info"> H: 29/32 Inch</li><li class="extra-info"> J: 1-13/32 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_7/32 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293855281196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">634.21</s:price>
+      <s:sku>FM HST 110506</s:sku>
+      <s:grams>6803</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293855150124</id>
+    <published>2019-12-03T12:08:19-05:00</published>
+    <updated>2019-12-03T12:08:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-mm160-5-ton-lift"/>
+    <title>JET MM160  - 1-1/2 Ton 5&apos; Lift Mini-Mite Ii Lever Chain Hoist Super Heavy Duty 110509</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-mm160-1-1-2-ton-5-lift-mini-mite-ii-lever-chain-hoist-super-heavy-duty-110509-13225330901036.jpg?v=1579562822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            762.58
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 Ton 5' Lift Mini-Mite II Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">New improved design is smaller and lighter than the original Mini Mite</li><li class="extra-info"> Class V+ Chain is world's strongest and is exclusive to JET</li><li class="extra-info"> Allows use of smaller load chain without compromising safety</li><li class="extra-info"> Zinc coated load chain and coated brake hub minimize corrosion</li><li class="extra-info"> One simple lever changes direction and disengages gear train for fast chain adjustments</li><li class="extra-info"> New larger hooks with extra heavy duty latches</li><li class="extra-info"> Riveted rubber handle for comfort and safety</li><li class="extra-info"> Electrostatic powder painted before assembly to protect against rust</li><li class="extra-info"> Capacity unaffected at temperatures up to -40°C with suitable winter lubrication</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 specifications (Certificate included)</li><li class="extra-info"> Made in Japan</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">7/16 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 7.1mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 13-7/8 Inch</li><li class="extra-info"> Distance per Handle Pull : 1 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 66 lb</li><li class="extra-info"> Lever Length : 14-3/16 Inch</li><li class="extra-info"> A: 13-7/8 Inch</li><li class="extra-info"> B: 6-3/8 Inch</li><li class="extra-info"> C: 5-5/16 Inch</li><li class="extra-info"> D: 2-1/2 Inch</li><li class="extra-info"> E: 3-7/8 Inch</li><li class="extra-info"> F: 4-1/2 Inch</li><li class="extra-info"> G: 14-1/4 Inch</li><li class="extra-info"> H: 1-9/64 Inch</li><li class="extra-info"> J: 1-11/16 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_7/16 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293855150124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">762.58</s:price>
+      <s:sku>FM HST 110509</s:sku>
+      <s:grams>9979</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293857935404</id>
+    <published>2019-12-03T12:08:18-05:00</published>
+    <updated>2019-12-03T12:08:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa-1s-heavy-duty"/>
+    <title>JET FA-1S  - 1 Ton 15&apos; Lift 230/460V 3Ph Electric Chain Hoist Heavy Duty 107213</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa-1s-1-ton-15-lift-230-460v-3ph-electric-chain-hoist-heavy-duty-107213-13225352495148.jpg?v=1579525235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            3730.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1 Ton 15' Lift 230/460V 3PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 15'</li><li class="extra-info"> Standard Chain Bucket : #2</li><li class="extra-info"> Hoisting Speed : 24.2 FPM</li><li class="extra-info"> Voltage : 230/460 V</li><li class="extra-info"> Power Source : 3 ph</li><li class="extra-info"> Head Room : 22.44 Inch</li><li class="extra-info"> Motor Power : 2.1 HP</li><li class="extra-info"> Duty Rating : 30 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Amperes : 5.8 / 3.2</li><li class="extra-info"> A: 6.69 Inch</li><li class="extra-info"> B: 5.04 Inch</li><li class="extra-info"> C: 9.41 Inch</li><li class="extra-info"> D: 13.72 Inch</li><li class="extra-info"> H: 22.44 Inch</li><li class="extra-info"> K: 1.69 Inch</li><li class="extra-info"> L: 1.65 Inch</li><li class="extra-info"> M: 4.21 Inch</li><li class="extra-info"> N: 1.22 Inch</li><li class="extra-info"> O: 0.91 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293857935404</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3730.20</s:price>
+      <s:sku>FM HST 107213</s:sku>
+      <s:grams>65011</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293893718060</id>
+    <published>2019-12-03T12:08:14-05:00</published>
+    <updated>2019-12-03T12:08:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-mm320-super-heavy-duty"/>
+    <title>JET MM320  - 3 Ton 5&apos; Lift Mini-Mite Ii Lever Chain Hoist Super Heavy Duty 110512</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-mm320-3-ton-5-lift-mini-mite-ii-lever-chain-hoist-super-heavy-duty-110512-13225575612460.jpg?v=1579563003"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            1253.39
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton 5' Lift Mini-Mite II Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">New improved design is smaller and lighter than the original Mini Mite</li><li class="extra-info"> Class V+ Chain is world's strongest and is exclusive to JET</li><li class="extra-info"> Allows use of smaller load chain without compromising safety</li><li class="extra-info"> Zinc coated load chain and coated brake hub minimize corrosion</li><li class="extra-info"> One simple lever changes direction and disengages gear train for fast chain adjustments</li><li class="extra-info"> New larger hooks with extra heavy duty latches</li><li class="extra-info"> Riveted rubber handle for comfort and safety</li><li class="extra-info"> Electrostatic powder painted before assembly to protect against rust</li><li class="extra-info"> Capacity unaffected at temperatures up to -40°C with suitable winter lubrication</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 specifications (Certificate included)</li><li class="extra-info"> Made in Japan</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 9.0mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 16-3/16 Inch</li><li class="extra-info"> Distance per Handle Pull : 1/2 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 82 lb</li><li class="extra-info"> Lever Length : 14-1/8 Inch</li><li class="extra-info"> A: 16-3/16 Inch</li><li class="extra-info"> B: 7-11/32 Inch</li><li class="extra-info"> C: 7-3/32 Inch</li><li class="extra-info"> D: 3-1/4 Inch</li><li class="extra-info"> E: 4-3/32 Inch</li><li class="extra-info"> F: 6-5/8 Inch</li><li class="extra-info"> G: 14-1/8 Inch</li><li class="extra-info"> H: 1-13/32 Inch</li><li class="extra-info"> J: 2-5/64 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293893718060</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1253.39</s:price>
+      <s:sku>FM HST 110512</s:sku>
+      <s:grams>16495</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293894209580</id>
+    <published>2019-12-03T12:08:13-05:00</published>
+    <updated>2019-12-03T12:08:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa-0-5s-lift"/>
+    <title>JET FA-0.5S  - 1/2 Ton 15&apos; Lift 230/460V 3Ph Electric Chain Hoist Heavy Duty 107212</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa-0-5s-1-2-ton-15-lift-230-460v-3ph-electric-chain-hoist-heavy-duty-107212-13225579708460.jpg?v=1579525200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            3393.43
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton 15' Lift 230/460V 3PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 1,100 lb</li><li class="extra-info"> Standard Lift : 15'</li><li class="extra-info"> Standard Chain Bucket : #2</li><li class="extra-info"> Hoisting Speed : 28 FPM</li><li class="extra-info"> Voltage : 230/460 V</li><li class="extra-info"> Power Source : 3 ph</li><li class="extra-info"> Head Room : 18.9 Inch</li><li class="extra-info"> Motor Power : 1.2 HP</li><li class="extra-info"> Duty Rating : 30 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Amperes : 2.9 / 1.7</li><li class="extra-info"> A: 6.34 Inch</li><li class="extra-info"> B: 4.88 Inch</li><li class="extra-info"> C: 8.82 Inch</li><li class="extra-info"> D: 12.24 Inch</li><li class="extra-info"> H: 18.90 Inch</li><li class="extra-info"> K: 1.42 Inch</li><li class="extra-info"> L: 1.30 Inch</li><li class="extra-info"> M: 3.39 Inch</li><li class="extra-info"> N: 0.94 Inch</li><li class="extra-info"> O: 0.75 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293894209580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3393.43</s:price>
+      <s:sku>FM HST 107212</s:sku>
+      <s:grams>47986</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/4293894111276</id>
+    <published>2019-12-03T12:08:13-05:00</published>
+    <updated>2019-12-03T12:08:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa-3s-heavy-duty"/>
+    <title>JET FA-3S  - 3 Ton 15&apos; Lift 575V 3Ph Electric Chain Hoist Heavy Duty 107265</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa-3s-3-ton-15-lift-575v-3ph-electric-chain-hoist-heavy-duty-107265-13225579446316.jpg?v=1579525573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            6296.70
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton 15' Lift 575V 3PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 6,600 lb</li><li class="extra-info"> Standard Lift : 15'</li><li class="extra-info"> Standard Chain Bucket : #4</li><li class="extra-info"> Hoisting Speed : 8 FPM</li><li class="extra-info"> Voltage : 575 V</li><li class="extra-info"> Power Source : 3 ph</li><li class="extra-info"> Head Room : 31.89 Inch</li><li class="extra-info"> Motor Power : 2.1 HP</li><li class="extra-info"> Duty Rating : 30 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 3</li><li class="extra-info"> Amperes : 2.6</li><li class="extra-info"> A: 5.83 Inch</li><li class="extra-info"> B: 8.19 Inch</li><li class="extra-info"> C: 9.41 Inch</li><li class="extra-info"> D: 16.81 Inch</li><li class="extra-info"> H: 31.89 Inch</li><li class="extra-info"> K: 2.36 Inch</li><li class="extra-info"> L: 2.36 Inch</li><li class="extra-info"> M: 6.50 Inch</li><li class="extra-info"> N: 1.93 Inch</li><li class="extra-info"> O: 1.38 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4293894111276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6296.70</s:price>
+      <s:sku>FM HST 107265</s:sku>
+      <s:grams>93973</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813184479276</id>
+    <published>2019-05-11T12:09:47-04:00</published>
+    <updated>2019-05-11T12:09:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa1-5s"/>
+    <title>JET FA1-5S  - 5 Ton 15&apos; Lift 115/230V 1Ph Electric Chain Hoist Heavy Duty 107206</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa1-5s-5-ton-15-lift-115-230v-1ph-electric-chain-hoist-heavy-duty-107206-12748825460780.jpg?v=1579525897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            8024.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">5 Ton 15' Lift 115/230V 1PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 11,000 lb</li><li class="extra-info"> Standard Lift : 15'</li><li class="extra-info"> Standard Chain Bucket : #5</li><li class="extra-info"> Hoisting Speed : 2 FPM</li><li class="extra-info"> Voltage : 115/230 V</li><li class="extra-info"> Power Source : 1 ph</li><li class="extra-info"> Head Room : 35.43 Inch</li><li class="extra-info"> Motor Power : 1.2 HP</li><li class="extra-info"> Duty Rating : 25 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 5</li><li class="extra-info"> Amperes : 13 / 10.5</li><li class="extra-info"> A: 7.20 Inch</li><li class="extra-info"> B: 10.75 Inch</li><li class="extra-info"> C: 9.41 Inch</li><li class="extra-info"> D: 19.21 Inch</li><li class="extra-info"> H: 35.43 Inch</li><li class="extra-info"> K: 2.76 Inch</li><li class="extra-info"> L: 1.02 Inch</li><li class="extra-info"> M: 7.44 Inch</li><li class="extra-info"> N: 2.24 Inch</li><li class="extra-info"> O: 1.65 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813184479276</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8024.00</s:price>
+      <s:sku>FM HST 107206</s:sku>
+      <s:grams>130962</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813184512044</id>
+    <published>2019-05-11T12:09:46-04:00</published>
+    <updated>2019-05-11T12:09:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa1-3s"/>
+    <title>JET FA1-3S  - 3 Ton 15&apos; Lift 115/230V 1Ph Electric Chain Hoist Heavy Duty 107205</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa1-3s-3-ton-15-lift-115-230v-1ph-electric-chain-hoist-heavy-duty-107205-12748825624620.jpg?v=1579525801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            6218.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton 15' Lift 115/230V 1PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 6,600 lb</li><li class="extra-info"> Standard Lift : 15'</li><li class="extra-info"> Standard Chain Bucket : #4</li><li class="extra-info"> Hoisting Speed : 3.3 FPM</li><li class="extra-info"> Voltage : 115/230 V</li><li class="extra-info"> Power Source : 1 ph</li><li class="extra-info"> Head Room : 31.89 Inch</li><li class="extra-info"> Motor Power : 1.2 HP</li><li class="extra-info"> Duty Rating : 25 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 3</li><li class="extra-info"> Amperes : 13 / 10.5</li><li class="extra-info"> A: 5.83 Inch</li><li class="extra-info"> B: 8.19 Inch</li><li class="extra-info"> C: 9.41 Inch</li><li class="extra-info"> D: 16.81 Inch</li><li class="extra-info"> H: 31.89 Inch</li><li class="extra-info"> K: 2.36 Inch</li><li class="extra-info"> L: 2.36 Inch</li><li class="extra-info"> M: 6.50 Inch</li><li class="extra-info"> N: 1.93 Inch</li><li class="extra-info"> O: 1.38 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813184512044</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6218.89</s:price>
+      <s:sku>FM HST 107205</s:sku>
+      <s:grams>100971</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813184380972</id>
+    <published>2019-05-11T12:09:40-04:00</published>
+    <updated>2019-05-11T12:09:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-fa-3s"/>
+    <title>JET FA-3S  - 3 Ton 15&apos; Lift 230/460V 3Ph Electric Chain Hoist Heavy Duty 107215</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-fa-3s-3-ton-15-lift-230-460v-3ph-electric-chain-hoist-heavy-duty-107215-12748825231404.jpg?v=1579525539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            6224.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton 15' Lift 230/460V 3PH Electric Chain Hoist - Heavy Duty</h4> <li class="extra-info">Available in single phase or three phase models and various voltages (specify when ordering)</li><li class="extra-info"> 1/2 ton - 5 ton capacities</li><li class="extra-info"> Chain is heat treated, case hardened low wear chain surpassing ISO Class T</li><li class="extra-info"> All models complete with chain collector bucket</li><li class="extra-info"> Reliable electro-magnetic DC brake engages automatically when power is cut off</li><li class="extra-info"> Two button pendant control automatically returns to OFF mode when either button is released</li><li class="extra-info"> 24 volt pendant control for operator safety in damp or humid conditions</li><li class="extra-info"> Strain relief cable protects electrical connections</li><li class="extra-info"> Top and bottom safety hooks designed to bend slowly to warn of overloads</li><li class="extra-info"> Upper and lower limit switches protect hoist from damage if load or chain stop contacts body</li><li class="extra-info"> Gear train and electrical components completely sealed for use outdoors (cover recommended)</li><li class="extra-info"> Modular construction of motor, gear train, and brake assembly allows for quick and easy maintenance</li><li class="extra-info"> Single phase hoists equipped with automatic overload protection preset to 110% of rated capacity</li><li class="extra-info"> Three phase hoists feature reverse phase protection</li><li class="extra-info"> Meets ASME B30.16, CSA, and OSHA standards</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Tested to 125% of rated capacity</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Chain container included</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 6,600 lb</li><li class="extra-info"> Standard Lift : 15'</li><li class="extra-info"> Standard Chain Bucket : #4</li><li class="extra-info"> Hoisting Speed : 8 FPM</li><li class="extra-info"> Voltage : 230/460 V</li><li class="extra-info"> Head Room : 31.89 Inch</li><li class="extra-info"> Motor Power : 2.1 HP</li><li class="extra-info"> Duty Rating : 30 min</li><li class="extra-info"> Power Cable Length : 16'</li><li class="extra-info"> Number of Falls : 3</li><li class="extra-info"> Amperes : 5.8 / 3.2</li><li class="extra-info"> A: 5.83 Inch</li><li class="extra-info"> B: 8.19 Inch</li><li class="extra-info"> C: 9.41 Inch</li><li class="extra-info"> D: 16.81 Inch</li><li class="extra-info"> H: 31.89 Inch</li><li class="extra-info"> K: 2.36 Inch</li><li class="extra-info"> L: 2.36 Inch</li><li class="extra-info"> M: 6.50 Inch</li><li class="extra-info"> N: 1.93 Inch</li><li class="extra-info"> O: 1.38 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813184380972</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6224.45</s:price>
+      <s:sku>FM HST 107215</s:sku>
+      <s:grams>99971</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813183496236</id>
+    <published>2019-05-11T12:09:15-04:00</published>
+    <updated>2019-05-11T12:09:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-mm320"/>
+    <title>JET MM320  - 3 Ton 10&apos; Lift Mini-Mite Ii Lever Chain Hoist Super Heavy Duty 110513</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-mm320-3-ton-10-lift-mini-mite-ii-lever-chain-hoist-super-heavy-duty-110513-12748825100332.jpg?v=1579562936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            1502.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">3 Ton 10' Lift Mini-Mite II Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">New improved design is smaller and lighter than the original Mini Mite</li><li class="extra-info"> Class V+ Chain is world's strongest and is exclusive to JET</li><li class="extra-info"> Allows use of smaller load chain without compromising safety</li><li class="extra-info"> Zinc coated load chain and coated brake hub minimize corrosion</li><li class="extra-info"> One simple lever changes direction and disengages gear train for fast chain adjustments</li><li class="extra-info"> New larger hooks with extra heavy duty latches</li><li class="extra-info"> Riveted rubber handle for comfort and safety</li><li class="extra-info"> Electrostatic powder painted before assembly to protect against rust</li><li class="extra-info"> Capacity unaffected at temperatures up to -40°C with suitable winter lubrication</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 specifications (Certificate included)</li><li class="extra-info"> Made in Japan</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 10'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 9.0mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 16-3/16 Inch</li><li class="extra-info"> Distance per Handle Pull : 1/2 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 82 lb</li><li class="extra-info"> Lever Length : 14-1/8 Inch</li><li class="extra-info"> A: 16-3/16 Inch</li><li class="extra-info"> B: 7-11/32 Inch</li><li class="extra-info"> C: 7-3/32 Inch</li><li class="extra-info"> D: 3-1/4 Inch</li><li class="extra-info"> E: 4-3/32 Inch</li><li class="extra-info"> F: 6-5/8 Inch</li><li class="extra-info"> G: 14-1/8 Inch</li><li class="extra-info"> H: 1-13/32 Inch</li><li class="extra-info"> J: 2-5/64 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813183496236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1502.56</s:price>
+      <s:sku>FM HST 110513</s:sku>
+      <s:grams>18994</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813181497388</id>
+    <published>2019-05-11T12:08:20-04:00</published>
+    <updated>2019-05-11T12:08:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-klp-150-5"/>
+    <title>JET KLP-150-5  - 1-1/2 Ton 5&apos; Lift Klp Series Lever Chain Hoist Heavy Duty 110403</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-klp-150-5-1-1-2-ton-5-lift-klp-series-lever-chain-hoist-heavy-duty-110403-12748816515116.jpg?v=1579539821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            604.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1-1/2 Ton 5' Lift KLP Series Lever Chain Hoist - Heavy Duty</h4> <li class="extra-info">High impact gear case and brake cover for heavy duty service</li><li class="extra-info"> Grade 100 load chain for greater strength</li><li class="extra-info"> Caged ball bearings on load sprocket for the ultimate in smooth, easy operation</li><li class="extra-info"> Dual pawl Weston style brake features extra heavy pawl springs for reliable and safe operation</li><li class="extra-info"> Exclusive premium grade, non-asbestos brake discs for longest life</li><li class="extra-info"> Top and bottom safety hooks bend to warn of overloads</li><li class="extra-info"> Cast steel safety latches exceed industry standards</li><li class="extra-info"> Deformation indicators on hooks allow accurate measurement for easy maintenance</li><li class="extra-info"> Load tested to 150% of rated capacity (with certificate)</li><li class="extra-info"> Meets ASME B30.21 standards</li><li class="extra-info"> ISO 9001-2008 certified factory</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1-3/4 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Industrial grade</li><li class="extra-info"> Grade 100 load chain</li><li class="extra-info"> Cast steel safety latches exceed industry standards</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 5'</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 7.1mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 13-3/4 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 46 lb</li><li class="extra-info"> Lever Length : 16-1/4 Inch</li><li class="extra-info"> A: 6-1/2 Inch</li><li class="extra-info"> B: 4-1/4 Inch</li><li class="extra-info"> C: 47mm</li><li class="extra-info"> D: 16-1/4 Inch</li><li class="extra-info"> G: 33.5mm</li><li class="extra-info"> H: 13-3/4 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_1-3/4 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813181497388</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">604.03</s:price>
+      <s:sku>FM HST 110403</s:sku>
+      <s:grams>9997</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813181431852</id>
+    <published>2019-05-11T12:08:20-04:00</published>
+    <updated>2019-05-11T12:08:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-l90-0502"/>
+    <title>JET L90-0502  - 1/2 Ton 10&apos; Lift L-90 Series Chain Hoist Super Heavy Duty 101202</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-l90-0502-1-2-ton-10-lift-l-90-series-chain-hoist-super-heavy-duty-101202-12748816547884.jpg?v=1579540067"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            561.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton 10' Lift L-90X Series Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">The strongest chain hoist available!</li><li class="extra-info"> Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Provides unparalleled safety for the most demanding applications</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Load sheave is designed for long wear with uniform pockets for correct chain contact</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Rolled edge on hand wheel cover acts as a chain guide and allows smooth operation even when pulling the hand chain at an angle</li><li class="extra-info"> Positive ratchet, screw and disc are completely enclosed to protect the brake mechanism</li><li class="extra-info"> Non-asbestos wet friction brake discs will not slip even when oil is present</li><li class="extra-info"> Electrostatic powder coated before assembly to protect against rust and corrosion</li><li class="extra-info"> Capacity unaffected by temperatures up to -40ºC with suitable winter lubrication</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><li class="extra-info"> Made in Japan</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/4 – 1-3/8 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Meets OSHA and A</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 1,100 lb</li><li class="extra-info"> Standard Lift : 10'</li><li class="extra-info"> Head Room : 10-3/4 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 5.0mm</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 59 lb</li><li class="extra-info"> Length of Hand Chain Pulled to Lift Load 1' : 29'</li><li class="extra-info"> A: 10-3/4 Inch</li><li class="extra-info"> B: 6-1/8 Inch</li><li class="extra-info"> C: 2-9/16 Inch</li><li class="extra-info"> D: 3-9/16 Inch</li><li class="extra-info"> E: 5-1/2 Inch</li><li class="extra-info"> F: 1-1/8 Inch</li><li class="extra-info"> G: 1-7/16 Inch</li><li class="extra-info"> H: 21/32 Inch</li><li class="extra-info"> I: 1/2 Inch</li><li class="extra-info"> N: 1-1/32 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_1/4 ? 1-3/8 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813181431852</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">561.20</s:price>
+      <s:sku>FM HST 101202</s:sku>
+      <s:grams>9997</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813181399084</id>
+    <published>2019-05-11T12:08:20-04:00</published>
+    <updated>2019-05-11T12:08:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-l95-0502"/>
+    <title>JET L95-0502  - 1/2 Ton 10&apos; Lift Chain Hoist Super Heavy Duty (Overload Protection) 101402</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-l95-0502-1-2-ton-10-lift-chain-hoist-super-heavy-duty-overload-protection-101402-12748816580652.jpg?v=1579554781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            983.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton 10' Lift Chain Hoist - Super Heavy Duty (Overload Protection)</h4> <li class="extra-info">Series L-95 is equipped with an automatic overload protection device as standard equipment</li><li class="extra-info"> Overload protection is pre-set at 120% of rated capacity</li><li class="extra-info"> Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Provides unparalleled safety for the most demanding applications</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Load sheave is designed for long wear with uniform pockets for correct chain contact</li><li class="extra-info"> Sealed bearings support load and reduce operator effort</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Rolled edge on hand wheel cover acts as a chain guide and allows smooth operation even when pulling the hand chain at an angle</li><li class="extra-info"> Dual pawl brake is completely enclosed to protect the brake mechanism</li><li class="extra-info"> Non-asbestos wet friction brake discs will not slip even when oil is present</li><li class="extra-info"> Electrostatic powder coated before assembly to protect against rust and corrosion</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><li class="extra-info"> Made in Japan INSERT HAND DRAWN DIAGRAM</li><li class="extra-info"> safety hooks icon</li><li class="extra-info"> super heavy duty icon</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Equipped with Overload Protection</li><li class="extra-info"> Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to </li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 1,100 lb</li><li class="extra-info"> Standard Lift : 10'</li><li class="extra-info"> Head Room : 10-3/4 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 5.0mm</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 49 lb</li><li class="extra-info"> Length of Hand Chain Pulled to Lift Load 1' : 29'</li><li class="extra-info"> A: 10-3/4 Inch</li><li class="extra-info"> B: 6-1/8 Inch</li><li class="extra-info"> C: 2-9/16 Inch</li><li class="extra-info"> D: 3-9/16 Inch</li><li class="extra-info"> E: 5-1/2 Inch</li><li class="extra-info"> F: 1-1/8 Inch</li><li class="extra-info"> G: 1-7/16 Inch</li><li class="extra-info"> H: 21/32 Inch</li><li class="extra-info"> I: 1/2 Inch</li><li class="extra-info"> N: 1-1/32 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813181399084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">983.68</s:price>
+      <s:sku>FM HST 101402</s:sku>
+      <s:grams>9997</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813057667116</id>
+    <published>2019-05-11T11:21:14-04:00</published>
+    <updated>2019-05-11T11:21:14-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-mm25"/>
+    <title>JET MM25  - 1/4 Ton 3&apos;3 Inch Lift Mini-Mite Ii Lever Chain Hoist Super Heavy Duty 110903</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-mm25-1-4-ton-3-3-inch-lift-mini-mite-ii-lever-chain-hoist-super-heavy-duty-110903-12748478349356.jpg?v=1579562969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            536.03
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/4 Ton 3'3 Inch Lift Mini-Mite II Lever Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">New improved design is smaller and lighter than the original Mini Mite</li><li class="extra-info"> Class V+ Chain is world's strongest and is exclusive to JET</li><li class="extra-info"> Allows use of smaller load chain without compromising safety</li><li class="extra-info"> Zinc coated load chain and coated brake hub minimize corrosion</li><li class="extra-info"> One simple lever changes direction and disengages gear train for fast chain adjustments</li><li class="extra-info"> New larger hooks with extra heavy duty latches</li><li class="extra-info"> Riveted rubber handle for comfort and safety</li><li class="extra-info"> Electrostatic powder painted before assembly to protect against rust</li><li class="extra-info"> Capacity unaffected at temperatures up to -40°C with suitable winter lubrication</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets ANSI B30.21 specifications (Certificate included)</li><li class="extra-info"> Made in Japan</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">9/64 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><h2>Product Information</h2><li class="extra-info">Standard Lift : 3'3 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 4.2mm</li><li class="extra-info"> Min</li><li class="extra-info">Distance Between Hooks : 9-1/4 Inch</li><li class="extra-info"> Distance per Handle Pull : 2 Inch</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 61 lb</li><li class="extra-info"> Lever Length : 6-1/8 Inch</li><li class="extra-info"> A: 9-1/4 Inch</li><li class="extra-info"> B: 3-5/8 Inch</li><li class="extra-info"> C: 2-1/4 Inch</li><li class="extra-info"> D: 7/8 Inch</li><li class="extra-info"> E: 2-3/4 Inch</li><li class="extra-info"> F: 3-1/4 Inch</li><li class="extra-info"> G: 6-1/8 Inch</li><li class="extra-info"> H: 15/16 Inch</li><li class="extra-info"> J: 3/4 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_9/64 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813057667116</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">536.03</s:price>
+      <s:sku>FM HST 110903</s:sku>
+      <s:grams>2100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813043413036</id>
+    <published>2019-05-11T11:15:42-04:00</published>
+    <updated>2019-05-11T11:15:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-kch-0510"/>
+    <title>JET KCH-0510  - 1/2 Ton 10&apos; Lift Kch Series Chain Hoist Heavy Duty 101102</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-kch-0510-1-2-ton-10-lift-kch-series-chain-hoist-heavy-duty-101102-12748432605228.jpg?v=1579538849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            386.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton 10' Lift KCH Series Chain Hoist - Heavy Duty</h4> <li class="extra-info">Triple spur geared for efficient operation</li><li class="extra-info"> Maintenance free sealed bearings reduce operator effort</li><li class="extra-info"> Dual pawl Weston style brake with extra heavy pawl springs for safe reliable operation</li><li class="extra-info"> Extra thick ratchet gear protects brake disc from contamination</li><li class="extra-info"> Exclusive premium grade, non-asbestos brake discs for longest life</li><li class="extra-info"> Grade 100 load chain for greater strength</li><li class="extra-info"> Top and bottom safety hooks bend slowly to warn of overloads</li><li class="extra-info"> Cast safety latches exceed industry standards</li><li class="extra-info"> Specialized finish on key internal parts for superior corrosion resistance</li><li class="extra-info"> Load tested to 150% of rated capacity with certificate</li><li class="extra-info"> Meets ASME B30.16 standards</li><li class="extra-info"> ISO 9001-2000 certified factory</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Industrial duty</li><li class="extra-info"> Grade 100 load chain</li><li class="extra-info"> Top and bottom safety hooks bend slowly to warn of overloads</li><li class="extra-info"> Cast safety latches exceed industry standards</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 1,100 lb</li><li class="extra-info"> Standard Lift : 10'</li><li class="extra-info"> Head Room : 11-1/4 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 5.0mm</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 51 lb</li><li class="extra-info"> Length of Hand Chain Pulled to Lift Load 1' : 25'</li><li class="extra-info"> A: 5-1/8 Inch</li><li class="extra-info"> B: 5-1/2 Inch</li><li class="extra-info"> C: 1-5/8 Inch</li><li class="extra-info"> D: 1 Inch</li><li class="extra-info"> E: 27mm</li><li class="extra-info"> F: 32mm</li><li class="extra-info"> G: 35mm</li><li class="extra-info"> H: 11-1/4 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813043413036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">386.52</s:price>
+      <s:sku>FM HST 101102</s:sku>
+      <s:grams>8701</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813041872940</id>
+    <published>2019-05-11T11:15:09-04:00</published>
+    <updated>2019-05-11T11:15:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-kch-1010"/>
+    <title>JET KCH-1010  - 1 Ton 10&apos; Lift Kch Series Chain Hoist Heavy Duty 101112</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-kch-1010-1-ton-10-lift-kch-series-chain-hoist-heavy-duty-101112-12748428050476.jpg?v=1579538996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            463.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1 Ton 10' Lift KCH Series Chain Hoist - Heavy Duty</h4> <li class="extra-info">Triple spur geared for efficient operation</li><li class="extra-info"> Maintenance free sealed bearings reduce operator effort</li><li class="extra-info"> Dual pawl Weston style brake with extra heavy pawl springs for safe reliable operation</li><li class="extra-info"> Extra thick ratchet gear protects brake disc from contamination</li><li class="extra-info"> Exclusive premium grade, non-asbestos brake discs for longest life</li><li class="extra-info"> Grade 100 load chain for greater strength</li><li class="extra-info"> Top and bottom safety hooks bend slowly to warn of overloads</li><li class="extra-info"> Cast safety latches exceed industry standards</li><li class="extra-info"> Specialized finish on key internal parts for superior corrosion resistance</li><li class="extra-info"> Load tested to 150% of rated capacity with certificate</li><li class="extra-info"> Meets ASME B30.16 standards</li><li class="extra-info"> ISO 9001-2000 certified factory</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Industrial duty</li><li class="extra-info"> Grade 100 load chain</li><li class="extra-info"> Top and bottom safety hooks bend slowly to warn of overloads</li><li class="extra-info"> Cast safety latches exceed industry standards</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 2,200 lb</li><li class="extra-info"> Standard Lift : 10'</li><li class="extra-info"> Head Room : 11-5/8 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 6.3mm</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 64 lb</li><li class="extra-info"> Length of Hand Chain Pulled to Lift Load 1' : 43'</li><li class="extra-info"> A: 6-5/16 Inch</li><li class="extra-info"> B: 6-5/16 Inch</li><li class="extra-info"> C: 2 Inch</li><li class="extra-info"> D: 1-1/8 Inch</li><li class="extra-info"> E: 33mm</li><li class="extra-info"> F: 40mm</li><li class="extra-info"> G: 45mm</li><li class="extra-info"> H: 11-5/8 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813041872940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">463.56</s:price>
+      <s:sku>FM HST 101112</s:sku>
+      <s:grams>12682</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813040922668</id>
+    <published>2019-05-11T11:14:53-04:00</published>
+    <updated>2019-05-11T11:14:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-l95-0506"/>
+    <title>JET L95-0506  - 1/2 Ton 20&apos; Lift Chain Hoist Super Heavy Duty (Overload Protection) 101406</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-l95-0506-1-2-ton-20-lift-chain-hoist-super-heavy-duty-overload-protection-101406-12748426805292.jpg?v=1579554846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            1155.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton 20' Lift Chain Hoist - Super Heavy Duty (Overload Protection)</h4> <li class="extra-info">Series L-95 is equipped with an automatic overload protection device as standard equipment</li><li class="extra-info"> Overload protection is pre-set at 120% of rated capacity</li><li class="extra-info"> Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Provides unparalleled safety for the most demanding applications</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Load sheave is designed for long wear with uniform pockets for correct chain contact</li><li class="extra-info"> Sealed bearings support load and reduce operator effort</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Rolled edge on hand wheel cover acts as a chain guide and allows smooth operation even when pulling the hand chain at an angle</li><li class="extra-info"> Dual pawl brake is completely enclosed to protect the brake mechanism</li><li class="extra-info"> Non-asbestos wet friction brake discs will not slip even when oil is present</li><li class="extra-info"> Electrostatic powder coated before assembly to protect against rust and corrosion</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><li class="extra-info"> Made in Japan INSERT HAND DRAWN DIAGRAM</li><li class="extra-info"> safety hooks icon</li><li class="extra-info"> super heavy duty icon</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Equipped with Overload Protection</li><li class="extra-info"> Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to </li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 1,100 lb</li><li class="extra-info"> Standard Lift : 20'</li><li class="extra-info"> Head Room : 10-3/4 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 5.0mm</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 49 lb</li><li class="extra-info"> Length of Hand Chain Pulled to Lift Load 1' : 29'</li><li class="extra-info"> A: 10-3/4 Inch</li><li class="extra-info"> B: 6-1/8 Inch</li><li class="extra-info"> C: 2-9/16 Inch</li><li class="extra-info"> D: 3-9/16 Inch</li><li class="extra-info"> E: 5-1/2 Inch</li><li class="extra-info"> F: 1-1/8 Inch</li><li class="extra-info"> G: 1-7/16 Inch</li><li class="extra-info"> H: 21/32 Inch</li><li class="extra-info"> I: 1/2 Inch</li><li class="extra-info"> N: 1-1/32 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813040922668</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1155.97</s:price>
+      <s:sku>FM HST 101406</s:sku>
+      <s:grams>15002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813040791596</id>
+    <published>2019-05-11T11:14:53-04:00</published>
+    <updated>2019-05-11T11:14:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-l90-0506"/>
+    <title>JET L90-0506  - 1/2 Ton 20&apos; Lift L-90 Series Chain Hoist Super Heavy Duty 101206</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-l90-0506-1-2-ton-20-lift-l-90-series-chain-hoist-super-heavy-duty-101206-12748426838060.jpg?v=1579540098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            784.59
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">1/2 Ton 20' Lift L-90X Series Chain Hoist - Super Heavy Duty</h4> <li class="extra-info">The strongest chain hoist available!</li><li class="extra-info"> Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Provides unparalleled safety for the most demanding applications</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Load sheave is designed for long wear with uniform pockets for correct chain contact</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Rolled edge on hand wheel cover acts as a chain guide and allows smooth operation even when pulling the hand chain at an angle</li><li class="extra-info"> Positive ratchet, screw and disc are completely enclosed to protect the brake mechanism</li><li class="extra-info"> Non-asbestos wet friction brake discs will not slip even when oil is present</li><li class="extra-info"> Electrostatic powder coated before assembly to protect against rust and corrosion</li><li class="extra-info"> Capacity unaffected by temperatures up to -40ºC with suitable winter lubrication</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Meets OSHA and ANSI B30.16 standards (certificate included)</li><li class="extra-info"> Made in Japan</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">1/4 – 1 Inch</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Exclusive Class V+ load chain is the world's strongest grade</li><li class="extra-info"> Tested to 150% of rated capacity</li><li class="extra-info"> Chrome Molybdenum load gears for maximum strength and resistance to shock</li><li class="extra-info"> Drop forged hooks are designed to bend slowly to warn of overloads</li><li class="extra-info"> Meets OSHA and A</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 1,100 lb</li><li class="extra-info"> Standard Lift : 20'</li><li class="extra-info"> Head Room : 10-3/4 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 5.0mm</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 59 lb</li><li class="extra-info"> Length of Hand Chain Pulled to Lift Load 1' : 29'</li><li class="extra-info"> A: 10-3/4 Inch</li><li class="extra-info"> B: 6-1/8 Inch</li><li class="extra-info"> C: 2-9/16 Inch</li><li class="extra-info"> D: 3-9/16 Inch</li><li class="extra-info"> E: 5-1/2 Inch</li><li class="extra-info"> F: 1-1/8 Inch</li><li class="extra-info"> G: 1-7/16 Inch</li><li class="extra-info"> H: 21/32 Inch</li><li class="extra-info"> I: 1/2 Inch</li><li class="extra-info"> N: 1-1/32 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>Size_1/4 ? 1 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813040791596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">784.59</s:price>
+      <s:sku>FM HST 101206</s:sku>
+      <s:grams>15002</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813040201772</id>
+    <published>2019-05-11T11:14:43-04:00</published>
+    <updated>2019-05-11T11:14:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/jet-vch-2010"/>
+    <title>JET VCH-2010  - 2 Ton 10&apos; Lift Vch Series Chain Hoist 101032</title>
+    <s:type>Chain Hoists</s:type>
+    <s:vendor>JET</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/chain-hoists-jet-vch-2010-2-ton-10-lift-vch-series-chain-hoist-101032-12748425560108.jpg?v=1579580822"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>JET<br>
+        <strong>Type: </strong>Chain Hoists<br>
+        <strong>Price: </strong>
+            386.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">2 Ton 10' Lift VCH Series Chain Hoist</h4> <li class="extra-info">Triple spur geared for efficient operation</li><li class="extra-info"> Hardened steel roller bearings support load sheave for easy operation</li><li class="extra-info"> Dual pawl Weston style brake for safe reliable operation</li><li class="extra-info"> Exclusive premium grade, non-asbestos brake discs for longest life</li><li class="extra-info"> Grade 80 load chain</li><li class="extra-info"> Top and bottom safety hooks bend slowly to warn of overloads</li><li class="extra-info"> Load tested to 150% of rated capacity with certificate</li><li class="extra-info"> Meets ASME B30.16 standards</li><li class="extra-info"> ISO 9001-2000 certified factory</li><li class="extra-info"> NOTE: Custom Lifts are available in any length desired</li><li class="extra-info">Ask your local JET distributor for details!</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">JET</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Chain Hoists</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Triple spur geared for efficient operation</li><li class="extra-info"> Top and bottom safety hooks</li><li class="extra-info"> Grade 80 load chain</li><h2>Product Information</h2><li class="extra-info">Rated Lifting Capacity : 4,400 lb</li><li class="extra-info"> Standard Lift : 10'</li><li class="extra-info"> Head Room : 17-1/2 Inch</li><li class="extra-info"> Number of Falls : 1</li><li class="extra-info"> Load Chain Diameter : 8.0mm</li><li class="extra-info"> Force Req</li><li class="extra-info">to Lift Capacity : 102 lb</li><li class="extra-info"> Length of Hand Chain Pulled to Lift Load 1' : 70'</li><li class="extra-info"> A: 7-1/4 Inch</li><li class="extra-info"> B: 6-1/4 Inch</li><li class="extra-info"> C: 52mm</li><li class="extra-info"> G: 33.5mm</li><li class="extra-info"> H: 17-1/2 Inch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FM</s:tag>
+    <s:tag>FM HST</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813040201772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">386.52</s:price>
+      <s:sku>FM HST 101032</s:sku>
+      <s:grams>17562</s:grams>
+    </s:variant>
+  </entry>
+</feed>

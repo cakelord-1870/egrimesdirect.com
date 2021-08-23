@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/graphite-products.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-08-26T09:08:18-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/4002720972844</id>
+    <published>2019-08-26T09:08:18-04:00</published>
+    <updated>2019-08-26T09:08:18-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/process-hd-6-inch"/>
+    <title>Process HD-6 Inch  - Graphite Roll Heavy Duty 6 Inch X 10 Yards Egd Hd 6</title>
+    <s:type>Graphite Rolls</s:type>
+    <s:vendor>Process</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/graphite-rolls-process-hd-6-inch-graphite-roll-heavy-duty-6-inch-x-10-yards-egd-hd-6-13399463460908.jpg?v=1629197549"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Process<br>
+        <strong>Type: </strong>Graphite Rolls<br>
+        <strong>Price: </strong>
+            169.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Process</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Graphite Rolls</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GR</s:tag>
+    <s:tag>GR GRO</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/4002720972844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.16</s:price>
+      <s:sku>GR GRO HD 6</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812205961260</id>
+    <published>2019-05-11T02:03:19-04:00</published>
+    <updated>2019-05-11T02:03:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/klingspor-300153"/>
+    <title>Klingspor 300153  - Graphite Roll CS395 6 Inch x 10 Yards</title>
+    <s:type>Graphite Rolls</s:type>
+    <s:vendor>Klingspor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/graphite-rolls-klingspor-300153-graphite-roll-cs395-6-inch-x-10-yards-12746701799468.jpg?v=1579646223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Klingspor<br>
+        <strong>Type: </strong>Graphite Rolls<br>
+        <strong>Price: </strong>
+            243.68
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Accessory</h4> <li class="extra-info">Pad cover for sanding machines with flat contact elements</li><li class="extra-info">For surface sanding machines in wood and derived timber product industry as well as wood working trade, but also in metal working applications.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Klingspor</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Length </td>
+<td class="egrimes">10Yds</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Width </td>
+<td class="egrimes">6 Inch</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Germany</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Graphite Rolls</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">reduces friction between the back side of the belt and the contact element and reduces the heat generation during the grinding process</li><li class="extra-info"> enables a smooth and constant grinding</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>GR</s:tag>
+    <s:tag>GR GRO</s:tag>
+    <s:tag>Length_10Yds</s:tag>
+    <s:tag>Width_6 Inch</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812205961260</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">243.68</s:price>
+      <s:sku>GR GRO CS395 6X10</s:sku>
+      <s:grams>1893</s:grams>
+    </s:variant>
+  </entry>
+</feed>

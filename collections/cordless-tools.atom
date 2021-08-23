@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/cordless-tools.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T15:13:25-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813439283244</id>
+    <published>2019-05-11T15:13:25-04:00</published>
+    <updated>2019-05-11T15:13:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8035l"/>
+    <title>King Canada 8035L  - Angle Grinder, 4-1/2&quot;, Cordless, 20V Max Li-ion 8035L</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-8035l-angle-grinder-4-1-2-cordless-20v-max-li-ion-8035l-12749464993836.jpg?v=1579594383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">4-1/2 Inch cordless angle grinder 20V max</h4> <li class="extra-info">Powered by 20V MAX Lithium-ion battery (Battery and Charger sold separately)</li><li class="extra-info"> Aluminum die cast gear housing</li><li class="extra-info"> Spindle lock</li><li class="extra-info"> Multiple position handle with convenient grinding wheel spanner storage incorporated 8,000 RPM no load speed M14 threaded spindle shaft</li><li class="extra-info"> Comes with 1/4 Inch x 4-1/2 Inch grinding wheel, handle, spanner and safety guard</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL GRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813439283244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.51</s:price>
+      <s:sku>CL GRI 8035L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813439250476</id>
+    <published>2019-05-11T15:13:25-04:00</published>
+    <updated>2019-05-11T15:13:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8030l"/>
+    <title>King Canada 8030L  - Reciprocating Saw, Cordless, 20V Max Li-ion 8030L</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-8030l-reciprocating-saw-cordless-20v-max-li-ion-8030l-12749465321516.jpg?v=1579594209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20V max lithium-ion cordless variable speed reciprocating saw</h4> <li class="extra-info">Powered by 20V MAX Lithium-ion battery (Battery and Charger sold separately)</li><li class="extra-info"> Tool-less blade clamp system for quick and easy blade changing</li><li class="extra-info"> Variable speed trigger 0-3,000 strokes/min 1” stroke</li><li class="extra-info"> Adjustable pivot shoe</li><li class="extra-info"> Safety push button prevents accidental starts</li><li class="extra-info"> Accepts standard 1/2” shank blades</li><li class="extra-info"> Comes with one wood cutting blade and one metal cutting blade</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813439250476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.51</s:price>
+      <s:sku>CL SAW 8030L</s:sku>
+      <s:grams>1632</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813439217708</id>
+    <published>2019-05-11T15:13:25-04:00</published>
+    <updated>2019-05-11T15:13:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8045l"/>
+    <title>King Canada 8045L  - Hammer Drill, Cordless, 20V Max Li-ion 8045L</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-8045l-hammer-drill-cordless-20v-max-li-ion-8045l-12749464961068.jpg?v=1579594294"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20V max lithium-ion cordless hammer drill kit</h4> <li class="extra-info">Powered by 20V MAX Lithium-ion battery (Battery and Charger sold separately)</li><li class="extra-info"> SDS+ chuck for use with SDS+ drill bits and SDS+ 3/8 Inch keyless chuck for use with standard drill bits</li><li class="extra-info"> Drilling and percussion modes</li><li class="extra-info"> Variable speed trigger with high/low speed selector</li><li class="extra-info"> Forward/reverse switch with locking feature</li><li class="extra-info"> Battery level indicator which also indicates the direction of rotation during use</li><li class="extra-info"> Comes with SDS+ 3/8 Inch keyless chuck, 4 SDS+ drill bits (5/32 Inch, 1/4 Inch, 5/16 Inch and 3/8 Inch) and depth stop rod</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813439217708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.51</s:price>
+      <s:sku>CL DRI 8045L</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813439184940</id>
+    <published>2019-05-11T15:13:25-04:00</published>
+    <updated>2019-05-11T15:13:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8050l"/>
+    <title>King Canada 8050L  - Circular saw, 6-1/2&quot;,Cordless, 20V Max Li-ion 8050L</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-8050l-circular-saw-6-1-2-cordless-20v-max-li-ion-8050l-12749465026604.jpg?v=1579594262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">6-1/2 Inch cordless circular saw (20V max lithium-ion battery)</h4> <li class="extra-info">Powered by 20V MAX Lithium-ion battery (Battery and Charger sold separately)</li><li class="extra-info"> All ball bearing construction</li><li class="extra-info"> Ergonomic handle grip with safety button trigger switch</li><li class="extra-info"> Durable aluminum shoe with depth adjustment and adjustable bevel stops for angled cuts at 0° and 45°</li><li class="extra-info"> Lower blade guard lifting lever for safe and easy access to the blade</li><li class="extra-info"> Comes with 24 tooth carbide blade, arbor hex</li><li class="extra-info">key and adjustable edge guide for precise rip cuts</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL SAW</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813439184940</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.51</s:price>
+      <s:sku>CL SAW 8050L</s:sku>
+      <s:grams>2721</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813439053868</id>
+    <published>2019-05-11T15:13:21-04:00</published>
+    <updated>2019-05-11T15:13:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8055l"/>
+    <title>King Canada 8055L  - Impact driver, Cordless, 20V Max Li-ion 8055L</title>
+    <s:type></s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/king-canada-8055l-impact-driver-cordless-20v-max-li-ion-8055l-12749465059372.jpg?v=1579594448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            85.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20V max lithium-ion cordless impact drill</h4> <li class="extra-info">Powered by 20V MAX Lithium-ion battery (Battery and Charger sold separately)</li><li class="extra-info"> Heavy-duty high torque gear box, 1,350 in/lbs of driving force</li><li class="extra-info"> Variable speed trigger with forward/reverse switch</li><li class="extra-info"> Universal 1/4 Inch female hex</li><li class="extra-info">drive quick release chuck</li><li class="extra-info"> Non-slip soft grip</li><li class="extra-info"> Comes with bit extension, 6 screwdrivers bits and 4 nut drivers with 1/4 Inch hex</li><li class="extra-info">shank</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes"><tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr></table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813439053868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.51</s:price>
+      <s:sku>CL DRI 8055L</s:sku>
+      <s:grams>1133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812691386412</id>
+    <published>2019-05-11T08:47:12-04:00</published>
+    <updated>2019-05-11T08:47:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87384"/>
+    <title>Gray 87384  - Infrared Thermometer With Laser</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87384-infrared-thermometer-with-laser-12747704369196.png?v=1579255761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            253.82
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812691386412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">253.82</s:price>
+      <s:sku>CL DIG 87384</s:sku>
+      <s:grams>317</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812691353644</id>
+    <published>2019-05-11T08:47:12-04:00</published>
+    <updated>2019-05-11T08:47:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87380"/>
+    <title>Gray 87380  - Infrared Thermometer No Laser</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87380-infrared-thermometer-no-laser-12747704139820.png?v=1579255676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            182.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812691353644</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">182.74</s:price>
+      <s:sku>CL DIG 87380</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812691320876</id>
+    <published>2019-05-11T08:47:11-04:00</published>
+    <updated>2019-05-11T08:47:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87381"/>
+    <title>Gray 87381  - Infrared Thermometer With Case &amp;</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87381-infrared-thermometer-with-case-12747704500268.png?v=1579255643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            225.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812691320876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.86</s:price>
+      <s:sku>CL DIG 87381</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812670251052</id>
+    <published>2019-05-11T08:39:11-04:00</published>
+    <updated>2019-05-11T08:39:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87364"/>
+    <title>Gray 87364  - Thermometer Heavy Duty</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87364-thermometer-heavy-duty-12747672125484.png?v=1579255554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            302.09
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812670251052</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">302.09</s:price>
+      <s:sku>CL DIG 87364</s:sku>
+      <s:grams>521</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812670119980</id>
+    <published>2019-05-11T08:39:07-04:00</published>
+    <updated>2019-05-11T08:39:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87310"/>
+    <title>Gray 87310  - Thermometer Pocket Digital</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87310-thermometer-pocket-digital-12747671961644.png?v=1579255520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            41.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812670119980</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.32</s:price>
+      <s:sku>CL DIG 87310</s:sku>
+      <s:grams>45</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812659830828</id>
+    <published>2019-05-11T08:35:06-04:00</published>
+    <updated>2019-05-11T08:35:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-87315c"/>
+    <title>Gray 87315C  - Thermometer Pocket Digital</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-87315c-thermometer-pocket-digital-12747653611564.png?v=1579255469"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            42.56
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812659830828</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.56</s:price>
+      <s:sku>CL DIG 87315C</s:sku>
+      <s:grams>226</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812645117996</id>
+    <published>2019-05-11T08:29:31-04:00</published>
+    <updated>2019-05-11T08:29:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-a301"/>
+    <title>Gray A301  - Temperature Adaptor</title>
+    <s:type>Adapters</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/adapters-gray-a301-temperature-adaptor-12747623235628.png?v=1579261201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Adapters<br>
+        <strong>Price: </strong>
+            129.55
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Adapters</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812645117996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.55</s:price>
+      <s:sku>CL DIG A301</s:sku>
+      <s:grams>158</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812613267500</id>
+    <published>2019-05-11T08:17:21-04:00</published>
+    <updated>2019-05-11T08:17:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/gray-rayst80xb"/>
+    <title>Gray RAYST80XB  - Infrared Thermometer -32 To 7</title>
+    <s:type>Thermometers</s:type>
+    <s:vendor>Gray</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/thermometers-gray-rayst80xb-infrared-thermometer-32-to-7-12747557339180.png?v=1579359320"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gray<br>
+        <strong>Type: </strong>Thermometers<br>
+        <strong>Price: </strong>
+            1213.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Gray</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Thermometers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DIG</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812613267500</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1213.16</s:price>
+      <s:sku>CL DIG RAYST80XB</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812157890604</id>
+    <published>2019-05-11T01:41:25-04:00</published>
+    <updated>2019-05-11T01:41:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8010l-8012lk"/>
+    <title>King Canada 8010L/8012LK  - Combo Kit Drill &amp; Impact Driver Cordless 12V Li-Ion</title>
+    <s:type>Drivers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drivers-king-canada-8010l-8012lk-combo-kit-drill-impact-driver-cordless-12v-li-ion-12746630889516.jpg?v=1579582446"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Drivers<br>
+        <strong>Price: </strong>
+            142.52
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">12V Cordless drill / impact driver kit</h4> <li class="extra-info">1 hour quick Li-ion battery charger 12V, 1,300m-Ah</li><li class="extra-info"> Li-ion battery provides longer run time</li><li class="extra-info"> Heavy-duty high torque gear box</li><li class="extra-info"> Variable speed trigger with forward/reverse switch</li><li class="extra-info"> Universal 1/4” female hex</li><li class="extra-info">drive quick release chuck (8012L only) Powerful 710 in/lbs of driving force (8012L only) Built-in high output LED light illuminates work surface for increased visibility Kit comes with 1 hour charger, 1 Li-ion battery and sturdy carrying case</li><li class="extra-info">Drill kit comes with 6 drill bits, 6 screwdriver bits and bit extension</li><li class="extra-info">Impact kit comes with 4 nut drivers with 1/4” hex</li><li class="extra-info">shank (6, 8, 10 and 12mm), 2 screwdriver bits (Robertson #1, #2) and 1/4” socket adapter</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812157890604</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">142.52</s:price>
+      <s:sku>CL DRI 8010L/8012LK</s:sku>
+      <s:grams>997</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812157857836</id>
+    <published>2019-05-11T01:41:25-04:00</published>
+    <updated>2019-05-11T01:41:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8012l"/>
+    <title>King Canada 8012L  - Cordless Impact Driver 12V Lithium-Ion Kit 1 Battery 1/4 Inch</title>
+    <s:type>Drivers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drivers-king-canada-8012l-cordless-impact-driver-12v-lithium-ion-kit-1-battery-1-4-inch-12746631020588.jpg?v=1579582413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Drivers<br>
+        <strong>Price: </strong>
+            85.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">12V lithium-ion cordless impact driver kit</h4> <li class="extra-info">1 hour quick Li-ion battery charger 12V, 1,300 m-Ah</li><li class="extra-info"> Li-ion battery provides longer run time</li><li class="extra-info"> Heavy-duty high torque gear box</li><li class="extra-info"> Variable speed trigger with forward/reverse switch Universal 1/4” female hex</li><li class="extra-info">drive quick release chuck</li><li class="extra-info"> Powerful 710 in/lbs of driving force</li><li class="extra-info"> Built-in high output LED light illuminates work surface for increased visibility</li><li class="extra-info"> Each kit comes with 1 hour charger, 1 Li-ion battery and sturdy carrying case</li><li class="extra-info">Drill comes with 6 drill bits, 6 screwdriver bits and bit extension.</li><li class="extra-info"> Impact kit comes with 4 nut drivers with 1/4 Inch hex</li><li class="extra-info">shank (6, 8, 10 and 12mm.), 2 screwdriver bits (Robertson #1, #2), 1/4 Inch socket adapter</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL SCR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812157857836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.51</s:price>
+      <s:sku>CL SCR 8012L</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812157693996</id>
+    <published>2019-05-11T01:41:22-04:00</published>
+    <updated>2019-05-11T01:41:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8020l"/>
+    <title>King Canada 8020L  - Cordless Drill 20V Max Lithium-Ion Kit 2 Battery 1/2 Inch Keyless</title>
+    <s:type>Drills</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drills-king-canada-8020l-cordless-drill-20v-max-lithium-ion-kit-2-battery-1-2-inch-keyless-12746630791212.jpg?v=1579594144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Drills<br>
+        <strong>Price: </strong>
+            142.54
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20V max lithium-ion cordless drill kit</h4> <li class="extra-info">Two 20V MAX, 1,300 m-Ah Lithium-ion batteries provide longer run time 45 minute quick battery charger Heavy-duty high torque gear box Variable speed trigger with forward/reverse switch 1/2” keyless metal chuck Non-slip soft grip Built-in high output LED light illuminates work surface for increased visibility LED battery level indicator built-in to each battery Kit comes with two 20V MAX lithium-ion batteries, 45 minutes quick charger, 6 drill bits, bit extension, 6 screwdriver bits and a sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drills</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812157693996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">142.54</s:price>
+      <s:sku>CL DRI 8020L</s:sku>
+      <s:grams>326</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1812157661228</id>
+    <published>2019-05-11T01:41:22-04:00</published>
+    <updated>2019-05-11T01:41:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/king-canada-8020l-8022lk"/>
+    <title>King Canada 8020L/8022LK  - Combo Kit Drill &amp; Impact Driver Cordless 20V Max Li-Ion</title>
+    <s:type>Drivers</s:type>
+    <s:vendor>King Canada</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/drivers-king-canada-8020l-8022lk-combo-kit-drill-impact-driver-cordless-20v-max-li-ion-12746630856748.jpg?v=1579594176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>King Canada<br>
+        <strong>Type: </strong>Drivers<br>
+        <strong>Price: </strong>
+            220.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">20V Cordless drill / impact driver kit</h4> <li class="extra-info">Two 20V MAX, 1,500m-Ah Lithium-ion batteries provide longer run time 45 minute quick battery charger Heavy-duty high torque gear box Variable speed trigger with forward/reverse switch 1/2” keyless metal chuck (8020L only) Non-slip soft grip Built-in high output LED light illuminates work surface for increased visibility LED battery level indicator built-in to each battery Kit comes with two 20V MAX Lithium-ion batteries, 45 minutes quick charger, 6 drill bits, bit extension, 6 screwdriver bits, 4 nut drivers with 1/4” hex</li><li class="extra-info">shank ans a sturdy carrying case</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">King Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Drivers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL DRI</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1812157661228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">220.93</s:price>
+      <s:sku>CL DRI 8020L/8022LK</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124746821676</id>
+    <published>2018-08-04T20:53:16-04:00</published>
+    <updated>2018-08-04T20:53:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-34a949"/>
+    <title>Walter ZipCutter 34A949  - Zip Cutter 4-1/2 Inch Grinder</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-walter-zipcutter-34a949-zip-cutter-4-1-2-inch-grinder-13937530994732.jpg?v=1579954651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            793.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc][/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ZipCutter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL GRI</s:tag>
+    <s:tag>Line_ZipCutter</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124746821676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">793.40</s:price>
+      <s:sku>CL GRI 34A949</s:sku>
+      <s:grams>12156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121960624172</id>
+    <published>2018-08-03T16:39:57-04:00</published>
+    <updated>2018-08-03T16:39:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-34a150"/>
+    <title>Walter ZipCutter 34A150  - Zipcutter 4-1/2 / 5 Inch</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-walter-zipcutter-34a150-zipcutter-4-1-2-5-inch-13937530765356.jpg?v=1579954684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            391.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ZIPCUTTER 4.5 Inch / 5 Inch</h4> <li class="extra-info">The ZIPCUTTER cordless angle cutter delivers the highest performance where a power supply is not available and is the only tool on the market able to power a 6" cutting wheel</li><li class="extra-info">It is paired with a 18V/ 5.2 Ah battery pack, the only one on the market with a Ventilated Charging System, allowing you to charge faster without damaging the battery</li><li class="extra-info">Similar to other state-of-the-art Walter grinders, this cordless cutter leverages the DYNAMAX electronic RPM control which protects the unit from overloading and overheating, 270° rotating battery pack and easy access to the internal carbon brushes</li><li class="extra-info">This cordless cutter features an electronic single cell protection, which prevents the cutter from short-circuiting and ruining the battery</li><li class="extra-info">Its special design prevents misalignment and vibration, allowing for more precise cutting with further stability</li><li class="extra-info">This cutter is available in two versions, 4-1/2", 5" and a 6" version.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ZipCutter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The most powerful cordless cutter on the market</li><h2>Product Information</h2><li class="extra-info">Ventilated Charging System 270° rotating rear housing</li><li class="extra-info"> Lightweight DYNAMAX electronics</li><li class="extra-info"> LED overload protection indicator</li><li class="extra-info"> Electronic clutch</li><li class="extra-info"> Detachable dust filter</li><li class="extra-info"> Anti-vibration handle</li><li class="extra-info"> Electronic single cell protection on battery</li><li class="extra-info"> LED charge indicator on battery</li><li class="extra-info"> Bevelled gears</li><li class="extra-info"> Front retaining plate</li><li class="extra-info"> Rear bushing</li><li class="extra-info"> Spindle lock button</li><li class="extra-info"> Power switch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL GRI</s:tag>
+    <s:tag>Line_ZipCutter</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121960624172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">391.11</s:price>
+      <s:sku>CL GRI 34A150</s:sku>
+      <s:grams>1061</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121561247788</id>
+    <published>2018-08-03T13:38:13-04:00</published>
+    <updated>2018-08-03T13:38:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-34a160"/>
+    <title>Walter ZipCutter 34A160  - Zipcutter 6 Inch</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-walter-zipcutter-34a160-zipcutter-6-inch-31589171789973.jpg?v=1628349937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            413.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ZIPCUTTER 6 Inch</h4> <li class="extra-info">The ZIPCUTTER cordless angle cutter delivers the highest performance where a power supply is not available and is the only tool on the market able to power a 6" cutting wheel</li><li class="extra-info">It is paired with a 18V/ 5.2 Ah battery pack, the only one on the market with a Ventilated Charging System, allowing you to charge faster without damaging the battery</li><li class="extra-info">Similar to other state-of-the-art Walter grinders, this cordless cutter leverages the DYNAMAX electronic RPM control which protects the unit from overloading and overheating, 270° rotating battery pack and easy access to the internal carbon brushes</li><li class="extra-info">This cordless cutter features an electronic single cell protection, which prevents the cutter from short-circuiting and ruining the battery</li><li class="extra-info">Its special design prevents misalignment and vibration, allowing for more precise cutting with further stability</li><li class="extra-info">This cutter is available in two versions, 4-1/2", 5" and a 6" version.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ZipCutter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The most powerful cordless cutter on the market</li><h2>Product Information</h2><li class="extra-info">Ventilated Charging System 270° rotating rear housing</li><li class="extra-info"> Lightweight DYNAMAX electronics</li><li class="extra-info"> LED overload protection indicator</li><li class="extra-info"> Electronic clutch</li><li class="extra-info"> Detachable dust filter</li><li class="extra-info"> Anti-vibration handle</li><li class="extra-info"> Electronic single cell protection on battery</li><li class="extra-info"> LED charge indicator on battery</li><li class="extra-info"> Bevelled gears</li><li class="extra-info"> Front retaining plate</li><li class="extra-info"> Rear bushing</li><li class="extra-info"> Spindle lock button</li><li class="extra-info"> Power switch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL GRI</s:tag>
+    <s:tag>Line_ZipCutter</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121561247788</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">413.49</s:price>
+      <s:sku>CL GRI 34A160</s:sku>
+      <s:grams>1088</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121544568876</id>
+    <published>2018-08-03T13:32:32-04:00</published>
+    <updated>2018-08-03T13:32:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-34a950"/>
+    <title>Walter ZipCutter 34A950  - Zip Cutter 5 Inch Grinder</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-walter-zipcutter-34a950-zip-cutter-5-inch-grinder-31593654550677.jpg?v=1628299527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            821.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ZIPCUTTER KIT 5 Inch</h4> <li class="extra-info">The ZIPCUTTER kit is a cordless angle cutter delivers the highest performance where a power supply is not available and is the only tool on the market able to power a 6" cutting wheel</li><li class="extra-info">It is paired with a 18V/ 5.2 Ah battery pack, the only one on the market with a Ventilated Charging System, allowing you to charge faster without damaging the battery</li><li class="extra-info">Similar to other state-of-the-art Walter grinders, this cordless cutter leverages the DYNAMAX electronic RPM control which protects the unit from overloading and overheating, 270° rotating battery pack and easy access to the internal carbon brushes</li><li class="extra-info">This cordless cutter features an electronic single cell protection, which prevents the cutter from short-circuiting and ruining the battery</li><li class="extra-info">Its special design prevents misalignment and vibration, allowing for more precise cutting with further stability</li><li class="extra-info">This cutter is available in two versions, 4-1/2"/5" and a 6" version.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ZipCutter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The most powerful cordless cutter on the market</li><h2>Product Information</h2><li class="extra-info">Ventilated Charging System 270° rotating rear housing</li><li class="extra-info"> Lightweight DYNAMAX electronics</li><li class="extra-info"> LED overload protection indicator</li><li class="extra-info"> Electronic clutch</li><li class="extra-info"> Detachable dust filter</li><li class="extra-info"> Anti-vibration handle</li><li class="extra-info"> Electronic single cell protection on battery</li><li class="extra-info"> LED charge indicator on battery</li><li class="extra-info"> Bevelled gears</li><li class="extra-info"> Front retaining plate</li><li class="extra-info"> Rear bushing</li><li class="extra-info"> Spindle lock button</li><li class="extra-info"> Power switch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL GRI</s:tag>
+    <s:tag>Line_ZipCutter</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121544568876</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">821.98</s:price>
+      <s:sku>CL GRI 34A950</s:sku>
+      <s:grams>12156</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1121544536108</id>
+    <published>2018-08-03T13:32:31-04:00</published>
+    <updated>2018-08-03T13:32:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/walter-34a951"/>
+    <title>Walter ZipCutter 34A951  - Zip Cutter 6 Inch Grinder</title>
+    <s:type>Grinders</s:type>
+    <s:vendor>Walter</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/grinders-walter-zipcutter-34a951-zip-cutter-6-inch-grinder-31593666510997.jpg?v=1628299526"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walter<br>
+        <strong>Type: </strong>Grinders<br>
+        <strong>Price: </strong>
+            879.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">ZIPCUTTER KIT 6 Inch</h4> <li class="extra-info">The ZIPCUTTER kit is a cordless angle cutter delivers the highest performance where a power supply is not available and is the only tool on the market able to power a 6" cutting wheel</li><li class="extra-info">It is paired with a 18V/ 5.2 Ah battery pack, the only one on the market with a Ventilated Charging System, allowing you to charge faster without damaging the battery</li><li class="extra-info">Similar to other state-of-the-art Walter grinders, this cordless cutter leverages the DYNAMAX electronic RPM control which protects the unit from overloading and overheating, 270° rotating battery pack and easy access to the internal carbon brushes</li><li class="extra-info">This cordless cutter features an electronic single cell protection, which prevents the cutter from short-circuiting and ruining the battery</li><li class="extra-info">Its special design prevents misalignment and vibration, allowing for more precise cutting with further stability</li><li class="extra-info">This cutter is available in two versions, 4-1/2", /5" and a 6" version.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Walter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">ZipCutter</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Grinders</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">The most powerful cordless cutter on the market</li><h2>Product Information</h2><li class="extra-info">Ventilated Charging System 270° rotating rear housing</li><li class="extra-info"> Lightweight DYNAMAX electronics</li><li class="extra-info"> LED overload protection indicator</li><li class="extra-info"> Electronic clutch</li><li class="extra-info"> Detachable dust filter</li><li class="extra-info"> Anti-vibration handle</li><li class="extra-info"> Electronic single cell protection on battery</li><li class="extra-info"> LED charge indicator on battery</li><li class="extra-info"> Bevelled gears</li><li class="extra-info"> Front retaining plate</li><li class="extra-info"> Rear bushing</li><li class="extra-info"> Spindle lock button</li><li class="extra-info"> Power switch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CL</s:tag>
+    <s:tag>CL GRI</s:tag>
+    <s:tag>Line_ZipCutter</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1121544536108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">879.35</s:price>
+      <s:sku>CL GRI 34A951</s:sku>
+      <s:grams>12156</s:grams>
+    </s:variant>
+  </entry>
+</feed>

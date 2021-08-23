@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://egrimesdirect.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://egrimesdirect.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://egrimesdirect.com/collections/barricades-gates-warning-systems.atom"/>
+  <title>eGrimesDirect</title>
+  <updated>2019-05-11T14:23:17-04:00</updated>
+  <author>
+    <name>eGrimesDirect</name>
+  </author>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813376663596</id>
+    <published>2019-05-11T14:23:17-04:00</published>
+    <updated>2019-05-11T14:23:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-60-3000-a"/>
+    <title>Ideal Innovations 60-3000-A  - Dockgate</title>
+    <s:type>Safety Barriers</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/safety-barriers-ideal-innovations-60-3000-a-dockgate-12749258358828.jpg?v=1579327051"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Safety Barriers<br>
+        <strong>Price: </strong>
+            1507.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Ideal Innovations DockGate helps to reduce dock accidents by providing a visual barrier at the dock door</li><li class="extra-info">Its sturdy construction makes it warehouse tough and its bright safety yellow makes it impossible to miss</li><li class="extra-info">The DockGate offers simple installation and three convenient door width options</li><li class="extra-info"> 8’, 9’ and 10’ and features an easy-to-use tagout/logout system that clearly shows when a dock or door is out of service.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Safety Barriers</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>FS</s:tag>
+    <s:tag>FS BRR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813376663596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1507.32</s:price>
+      <s:sku>FS BRR 60-3000-A</s:sku>
+      <s:grams>93893</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813367881772</id>
+    <published>2019-05-11T14:19:59-04:00</published>
+    <updated>2019-05-11T14:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-70-7050"/>
+    <title>Ideal Innovations 70-7050  - Rapidroll - Outdoor Portable Barrier System - 50&apos; Wheeled System</title>
+    <s:type>Rapid Roll</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rapid-roll-ideal-innovations-70-7050-rapidroll-outdoor-portable-barrier-system-50-wheeled-system-12749242138668.jpg?v=1579378316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Rapid Roll<br>
+        <strong>Price: </strong>
+            1500.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Rapid Roll is an outdoor portable barrier system that creates a visual barrier in just minutes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange, Black</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rapid Roll</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Secures an outdoor worksite, hazard zone or maintenance area in minutes.</li><li class="extra-info"> Ultra portable and can be set up and taken down quickly and safely by just one worker.</li><li class="extra-info"> Easier site securement means means less set up time and more efficient work time.</li><li class="extra-info"> Quickly creates a clearly defined protective zone that keeps workers and civilians protected.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_OrangeBlack</s:tag>
+    <s:tag>FS</s:tag>
+    <s:tag>FS BRR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813367881772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1500.69</s:price>
+      <s:sku>FS BRR 70-7050</s:sku>
+      <s:grams>99790</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813367849004</id>
+    <published>2019-05-11T14:19:59-04:00</published>
+    <updated>2019-05-11T14:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-70-7000"/>
+    <title>Ideal Innovations 70-7000  - Rapidroll - Outdoor Portable Barrier System - 50&apos; 3-Legged System</title>
+    <s:type>Rapid Roll</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/rapid-roll-ideal-innovations-70-7000-rapidroll-outdoor-portable-barrier-system-50-3-legged-system-12749242269740.jpg?v=1579378199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Rapid Roll<br>
+        <strong>Price: </strong>
+            1329.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">Rapid Roll is an outdoor portable barrier system that creates a visual barrier in just minutes.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Rapid Roll</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Secures an outdoor worksite, hazard zone or maintenance area in minutes.</li><li class="extra-info"> Ultra portable and can be set up and taken down quickly and safely by just one worker.</li><li class="extra-info"> Easier site securement means means less set up time and more efficient work time.</li><li class="extra-info"> Quickly creates a clearly defined protective zone that keeps workers and civilians protected.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>FS</s:tag>
+    <s:tag>FS BRR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813367849004</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1329.66</s:price>
+      <s:sku>FS BRR 70-7000</s:sku>
+      <s:grams>87996</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813367783468</id>
+    <published>2019-05-11T14:19:59-04:00</published>
+    <updated>2019-05-11T14:19:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/ideal-innovations-70-6030"/>
+    <title>Ideal Innovations 70-6030  - Portable Safety Zone - Psz-Slm</title>
+    <s:type>Portable Safety Zone</s:type>
+    <s:vendor>Ideal Innovations</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/portable-safety-zone-ideal-innovations-70-6030-portable-safety-zone-psz-slm-12749242204204.jpg?v=1579378231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ideal Innovations<br>
+        <strong>Type: </strong>Portable Safety Zone<br>
+        <strong>Price: </strong>
+            1516.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<li class="extra-info">The Portable Safety Zone design utilizes features representing the breakthrough in ‘ease of use’ barrier systems</li><li class="extra-info">The unique fence locking system ensures a sturdy fence assembly and it easily fits through 30” doorways</li><li class="extra-info">The PSZ is suitable for both indoor &amp; outdoor applications on smooth surfaces and has optional LED beacons to create a clear awareness of the Portable Safety Zone.</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Ideal Innovations</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Orange</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Origin Country </td>
+<td class="egrimes">Canada</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Portable Safety Zone</td>
+</tr>
+</table>   <h2>Product Information</h2><li class="extra-info">Light weight and balanced for easy transportation by one operator.</li><li class="extra-info"> Robust construction in ‘safety orange’ powder coated steel.</li><li class="extra-info"> The Portable Safety Zone comes complete with 100’ safety orange fencing, 4 posts, 4 rubber base pads and 4 magnetic fence clips.</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Orange</s:tag>
+    <s:tag>FS</s:tag>
+    <s:tag>FS BRR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813367783468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1516.74</s:price>
+      <s:sku>FS BRR 70-6030</s:sku>
+      <s:grams>116573</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813209448492</id>
+    <published>2019-05-11T12:24:11-04:00</published>
+    <updated>2019-05-11T12:24:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v6020900-o-s"/>
+    <title>Pioneer V6020900-O/S  - Extra-Long 4.5 Inch (114 mm) Bolt V6020900-O/S</title>
+    <s:type>Barricades &amp; Delineators</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/barricades-delineators-pioneer-v6020900-o-s-extra-long-4-5-inch-114-mm-bolt-v6020900-o-s-12748885033004.jpg?v=1575334758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Barricades &amp; Delineators<br>
+        <strong>Price: </strong>
+            1.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Extra-Long 4.5" (114 mm) Bolt</h4> <li class="extra-info">For attaching barricade lights to delineator posts and barricades</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Barricades &amp; Delineators</td>
+</tr>
+</table>   </td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>FS</s:tag>
+    <s:tag>FS BRR</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:tag>ws_group:resale</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813209448492</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.67</s:price>
+      <s:sku>FS BRR V6020900-O/S</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1813206138924</id>
+    <published>2019-05-11T12:21:51-04:00</published>
+    <updated>2019-05-11T12:21:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v6020260-o-s"/>
+    <title>Pioneer V6020260-O/S  - Barricade Light V6020260-O/S</title>
+    <s:type>Barricades &amp; Delineators</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/barricades-delineators-pioneer-v6020260-o-s-barricade-light-v6020260-o-s-12748880150572.jpg?v=1575346416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Barricades &amp; Delineators<br>
+        <strong>Price: </strong>
+            27.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Barricade Light</h4> <li class="extra-info">Can be used with delineator post, traffic drum or A-frame barricade using 175B bolt in middle of battery holder</li><li class="extra-info"> Rugged polycarbonate lens with advanced optics for increased visibility and durability</li><li class="extra-info"> Tamper-proof switch</li><li class="extra-info"> On at dusk, off at dawn photo sensor</li><li class="extra-info"> Two settings, steady on or flashing</li><li class="extra-info"> LED flashing rate of 65 times per minute</li><li class="extra-info"> 360° swivel head</li><li class="extra-info"> Uses 2 4R25 6V lantern batteries (not included)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Barricades &amp; Delineators</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Can be used with delineator post, traffic drum or A-frame barricade using 175B bolt in middle of battery holder </li><li class="extra-info"> Rugged polycarbonate lens with advanced optics for increased visibility and durability </li><li class="extra-info"> Tamper-proof switch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>FS</s:tag>
+    <s:tag>FS BRR</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1813206138924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.32</s:price>
+      <s:sku>FS BRR V6020260-O/S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://egrimesdirect.com/products/1124606181420</id>
+    <published>2018-08-04T19:57:36-04:00</published>
+    <updated>2018-08-04T19:57:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://egrimesdirect.com/products/pioneer-v6020360-o-s"/>
+    <title>Pioneer V6020360-O/S  - Barricade Light V6020360-O/S</title>
+    <s:type>Barricades &amp; Delineators</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/2737/7978/products/barricades-delineators-pioneer-v6020360-o-s-barricade-light-v6020360-o-s-12748880248876.jpg?v=1575334774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Barricades &amp; Delineators<br>
+        <strong>Price: </strong>
+            27.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">[shortdesc]<h4 style="color: black;">Barricade Light</h4> <li class="extra-info">Can be used with delineator post, traffic drum or A-frame barricade using 175B bolt in middle of battery holder</li><li class="extra-info"> Rugged polycarbonate lens with advanced optics for increased visibility and durability</li><li class="extra-info"> Tamper-proof switch</li><li class="extra-info"> On at dusk, off at dawn photo sensor</li><li class="extra-info"> Two settings, steady on or flashing</li><li class="extra-info"> LED flashing rate of 65 times per minute</li><li class="extra-info"> 360° swivel head</li><li class="extra-info"> Uses 4 D-cell batteries (not included)</li>[/shortdesc]<h2> Product Information </h2><table class="egrimes">
+<tr class="egrimes">
+<td class="egrimes" style="width:35%;"> Brand </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Line </td>
+<td class="egrimes">Pioneer</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Color </td>
+<td class="egrimes">Yellow</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Product Type </td>
+<td class="egrimes">Barricades &amp; Delineators</td>
+</tr>
+<tr class="egrimes">
+<td class="egrimes"> Size </td>
+<td class="egrimes">One-Size</td>
+</tr>
+</table>   <h2>Extra Product Information</h2><li class="extra-info">Can be used with delineator post, traffic drum or A-frame barricade using 175B bolt in middle of battery holder </li><li class="extra-info"> Rugged polycarbonate lens with advanced optics for increased visibility and durability </li><li class="extra-info"> Tamper-proof switch</li></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color_Yellow</s:tag>
+    <s:tag>FS</s:tag>
+    <s:tag>FS BRR</s:tag>
+    <s:tag>Size_One-Size</s:tag>
+    <s:tag>ws_group</s:tag>
+    <s:tag>ws_group:ad_pricing</s:tag>
+    <s:tag>ws_group:bracket_3</s:tag>
+    <s:tag>ws_group:bracket_4</s:tag>
+    <s:variant>
+      <id>https://egrimesdirect.com/products/1124606181420</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.32</s:price>
+      <s:sku>FS BRR V6020360-O/S</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+  </entry>
+</feed>
